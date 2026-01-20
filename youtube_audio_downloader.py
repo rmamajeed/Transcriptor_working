@@ -122,10 +122,17 @@ class YouTubeAudioDownloader:
             dict: Video information or None if error
         """
         try:
+            # Check for cookie file from environment variable
+            cookiefile = os.getenv('YOUTUBE_COOKIES_FILE')
+            
             ydl_opts = {
                 'quiet': True,
                 'no_warnings': True,
             }
+            
+            # Add cookies if available
+            if cookiefile and os.path.exists(cookiefile):
+                ydl_opts['cookiefile'] = cookiefile
 
             with self.yt_dlp.YoutubeDL(ydl_opts) as ydl:
                 info = ydl.extract_info(url, download=False)
@@ -217,6 +224,83 @@ class YouTubeAudioDownloader:
             }
 
     def get_playlist_info(self, playlist_url, max_downloads=None):
+        """
+        Extract playlist information and individual video URLs
+        
+        Args:
+            playlist_url (str): YouTube playlist URL
+            max_downloads (int): Maximum number of videos to process
+            
+        Returns:
+            dict: Playlist info with video list or error
+        """
+        try:
+            # Check for cookie file from environment variable
+            cookiefile = os.getenv('YOUTUBE_COOKIES_FILE')
+            
+            # Clean the playlist URL - extract just the list parameter
+            import re
+            list_match = re.search(r'[?\&]list=([a-zA-Z0-9_-]+)', playlist_url)
+            if list_match:
+                clean_playlist_url = f"https://www.youtube.com/playlist?list={list_match.group(1)}"
+                print(f"   🔧 Cleaned URL: {clean_playlist_url}")
+            else:
+                clean_playlist_url = playlist_url
+            
+            ydl_opts = {
+                'quiet': True,
+                'no_warnings': True,
+                'extract_flat': True,  # Only get basic info, don't download
+                'noplaylist': False
+            }
+            
+            # Add cookies if available
+            if cookiefile and os.path.exists(cookiefile):
+                ydl_opts['cookiefile'] = cookiefile
+            
+            if max_downloads:
+                ydl_opts['playlistend'] = max_downloads
+            
+            with self.yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                playlist_info = ydl.extract_info(clean_playlist_url, download=False)
+                
+                if not playlist_info:
+                    return {
+                        'success': False,
+                        'error': 'Could not extract playlist information'
+                    }
+                
+                # Extract video entries
+                entries = playlist_info.get('entries', [])
+                videos = []
+                
+                for entry in entries:
+                    if entry:  # Some entries might be None for private/deleted videos
+                        video_url = f"https://www.youtube.com/watch?v={entry.get('id', '')}"
+                        videos.append({
+                            'id': entry.get('id', ''),
+                            'title': entry.get('title', 'Unknown Title'),
+                            'url': video_url,
+                            'duration': entry.get('duration', 0),
+                            'uploader': entry.get('uploader', 'Unknown Channel')
+                        })
+                
+                return {
+                    'success': True,
+                    'playlist_title': playlist_info.get('title', 'Unknown Playlist'),
+                    'playlist_url': playlist_url,
+                    'total_videos': len(videos),
+                    'videos': videos
+                }
+                
+        except Exception as e:
+            error_msg = f"Playlist info extraction error: {str(e)}"
+            self.logger.error(error_msg)
+            return {
+                'success': False,
+                'error': error_msg,
+                'playlist_url': playlist_url
+            }
         """
         Extract playlist information and individual video URLs
         
