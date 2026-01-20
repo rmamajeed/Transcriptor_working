@@ -54,9 +54,9 @@ jobs:
         run: |
           if [ -n "${{ secrets.YOUTUBE_COOKIES }}" ]; then
             echo "🍪 Setting up YouTube cookies for authentication..."
-            echo "${{ secrets.YOUTUBE_COOKIES }}" > youtube_cookies.txt
+            printf '%s\n' "${{ secrets.YOUTUBE_COOKIES }}" > youtube_cookies.txt
             echo "YOUTUBE_COOKIES_FILE=youtube_cookies.txt" >> $GITHUB_ENV
-            echo "✅ Cookie file created"
+            echo "✅ Cookie file created ($(wc -c < youtube_cookies.txt) bytes)"
           else
             echo "⚠️  No YouTube cookies provided - may encounter bot detection"
           fi
