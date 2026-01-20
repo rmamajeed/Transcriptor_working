@@ -125,6 +125,13 @@ class YouTubeAudioDownloader:
             # Check for cookie file from environment variable
             cookiefile = os.getenv('YOUTUBE_COOKIES_FILE')
             
+            # DEBUG: Print cookie status
+            print(f"   🔍 DEBUG: YOUTUBE_COOKIES_FILE env var: {cookiefile}")
+            if cookiefile:
+                print(f"   🔍 DEBUG: Cookie file exists: {os.path.exists(cookiefile)}")
+                if os.path.exists(cookiefile):
+                    print(f"   🔍 DEBUG: Cookie file size: {os.path.getsize(cookiefile)} bytes")
+            
             ydl_opts = {
                 'quiet': True,
                 'no_warnings': True,
@@ -133,6 +140,7 @@ class YouTubeAudioDownloader:
             # Add cookies if available
             if cookiefile and os.path.exists(cookiefile):
                 ydl_opts['cookiefile'] = cookiefile
+                print(f"   ✅ Using cookies from: {cookiefile}")
 
             with self.yt_dlp.YoutubeDL(ydl_opts) as ydl:
                 info = ydl.extract_info(url, download=False)
