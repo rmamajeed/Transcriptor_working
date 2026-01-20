@@ -74,7 +74,7 @@ class YouTubeAudioDownloader:
 
         # Configure yt-dlp options
         ydl_opts = {
-            'format': 'bestaudio/best',  # Download best audio quality available
+            'format': 'bestaudio*',  # More flexible - accepts any audio format
             'outtmpl': str(self.output_dir / filename_template),
             'postprocessors': [{
                 'key': 'FFmpegExtractAudio',
