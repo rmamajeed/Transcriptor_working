@@ -48,13 +48,14 @@ class YouTubeAudioDownloader:
             self.logger.error("yt-dlp not found. Please install it using: pip install yt-dlp")
             sys.exit(1)
 
-    def configure_ydl_options(self, custom_filename=None, include_date=True):
+    def configure_ydl_options(self, custom_filename=None, include_date=True, cookiefile=None):
         """
         Configure yt-dlp options for audio extraction
 
         Args:
             custom_filename (str): Custom filename template
             include_date (bool): Whether to include upload date in filename
+            cookiefile (str): Path to YouTube cookies file (for authentication)
 
         Returns:
             dict: yt-dlp options dictionary
@@ -86,6 +87,11 @@ class YouTubeAudioDownloader:
             'ignoreerrors': False,
             'noplaylist': True,  # Download single video only by default
         }
+        
+        # Add cookies if provided (for YouTube bot detection bypass)
+        if cookiefile and os.path.exists(cookiefile):
+            ydl_opts['cookiefile'] = cookiefile
+            print(f"   🍪 Using cookie file for authentication: {cookiefile}")
 
         return ydl_opts
 
@@ -171,8 +177,11 @@ class YouTubeAudioDownloader:
 
             self.logger.info(f"Starting download for: {video_info['title']}")
 
+            # Check for cookie file from environment variable
+            cookiefile = os.getenv('YOUTUBE_COOKIES_FILE')
+            
             # Configure download options
-            ydl_opts = self.configure_ydl_options(custom_filename)
+            ydl_opts = self.configure_ydl_options(custom_filename, cookiefile=cookiefile)
             ydl_opts['writethumbnail'] = include_thumbnail
 
             # Download the audio

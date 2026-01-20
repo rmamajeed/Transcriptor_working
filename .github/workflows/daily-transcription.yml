@@ -50,6 +50,14 @@ jobs:
           echo "yt-dlp version:"
           yt-dlp --version
       
+      - name: Setup YouTube cookies
+        if: ${{ secrets.YOUTUBE_COOKIES != '' }}
+        run: |
+          echo "🍪 Setting up YouTube cookies for authentication..."
+          echo "${{ secrets.YOUTUBE_COOKIES }}" > youtube_cookies.txt
+          echo "YOUTUBE_COOKIES_FILE=youtube_cookies.txt" >> $GITHUB_ENV
+          echo "✅ Cookie file created"
+      
       - name: Run transcription pipeline
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
