@@ -51,12 +51,15 @@ jobs:
           yt-dlp --version
       
       - name: Setup YouTube cookies
-        if: ${{ secrets.YOUTUBE_COOKIES }}
         run: |
-          echo "🍪 Setting up YouTube cookies for authentication..."
-          echo "${{ secrets.YOUTUBE_COOKIES }}" > youtube_cookies.txt
-          echo "YOUTUBE_COOKIES_FILE=youtube_cookies.txt" >> $GITHUB_ENV
-          echo "✅ Cookie file created"
+          if [ -n "${{ secrets.YOUTUBE_COOKIES }}" ]; then
+            echo "🍪 Setting up YouTube cookies for authentication..."
+            echo "${{ secrets.YOUTUBE_COOKIES }}" > youtube_cookies.txt
+            echo "YOUTUBE_COOKIES_FILE=youtube_cookies.txt" >> $GITHUB_ENV
+            echo "✅ Cookie file created"
+          else
+            echo "⚠️  No YouTube cookies provided - may encounter bot detection"
+          fi
       
       - name: Run transcription pipeline
         env:
