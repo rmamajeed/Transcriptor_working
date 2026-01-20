@@ -54,9 +54,16 @@ jobs:
         run: |
           if [ -n "${{ secrets.YOUTUBE_COOKIES }}" ]; then
             echo "🍪 Setting up YouTube cookies for authentication..."
+            SECRET_SIZE=$(echo -n "${{ secrets.YOUTUBE_COOKIES }}" | wc -c)
+            echo "📊 Secret contains: $SECRET_SIZE bytes"
             printf '%s\n' "${{ secrets.YOUTUBE_COOKIES }}" > youtube_cookies.txt
             echo "YOUTUBE_COOKIES_FILE=youtube_cookies.txt" >> $GITHUB_ENV
-            echo "✅ Cookie file created ($(wc -c < youtube_cookies.txt) bytes)"
+            FILE_SIZE=$(wc -c < youtube_cookies.txt)
+            echo "✅ Cookie file created: $FILE_SIZE bytes"
+            if [ $FILE_SIZE -lt 3000 ]; then
+              echo "⚠️  WARNING: Cookie file seems small (expected ~3700 bytes)"
+              echo "⚠️  Please verify the YOUTUBE_COOKIES secret contains the FULL cookie file"
+            fi
           else
             echo "⚠️  No YouTube cookies provided - may encounter bot detection"
           fi
