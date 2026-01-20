@@ -1,0 +1,97 @@
+name: Daily YouTube Transcription
+
+on:
+  schedule:
+    # Runs at 6:00 AM UTC = 11:30 AM IST
+    # Note: GitHub Actions uses UTC time
+    - cron: '0 6 * * *'
+  
+  # Allow manual triggering for testing
+  workflow_dispatch:
+
+env:
+  PYTHON_VERSION: '3.10'
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120  # 2 hour maximum
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # Full history for proper commits
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'  # Cache pip packages
+      
+      - name: Install FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          ffmpeg -version
+      
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Verify environment
+        run: |
+          echo "Python version:"
+          python --version
+          echo "FFmpeg installed:"
+          which ffmpeg
+          echo "yt-dlp version:"
+          yt-dlp --version
+      
+      - name: Run transcription pipeline
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          METADATA_PROVIDER: ${{ secrets.METADATA_PROVIDER }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
+        run: |
+          echo "🚀 Starting transcription pipeline..."
+          python run_full_audio_pipeline.py
+          echo "✅ Pipeline completed"
+      
+      - name: Commit transcripts and memory
+        run: |
+          git config --global user.name "Transcriptinator Bot"
+          git config --global user.email "transcriptinator-bot@users.noreply.github.com"
+          
+          # Add new transcripts and memory file
+          git add Transcripts/
+          git add youtube_memory.json
+          
+          # Create commit with timestamp
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          git diff --staged --quiet || git commit -m "📝 Daily transcripts: $TIMESTAMP" || echo "No changes to commit"
+          
+          # Push to repository
+          git push || echo "Nothing to push"
+      
+      - name: Upload execution logs
+        if: always()  # Run even if previous steps fail
+        uses: actions/upload-artifact@v4
+        with:
+          name: transcription-logs-${{ github.run_number }}
+          path: |
+            *.log
+            downloads/*.info.json
+          retention-days: 7
+          if-no-files-found: ignore
+      
+      - name: Notify on failure
+        if: failure()
+        run: |
+          echo "⚠️ Workflow failed! Check logs for details."
+          echo "Run number: ${{ github.run_number }}"
+          echo "Run ID: ${{ github.run_id }}"

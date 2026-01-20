@@ -1,0 +1,509 @@
+---
+title: Varun Mayya_Why We Unfairly Scapegoat People (Mimetic Theory Explained)_20250124_part1
+audio_file: Varun Mayya_Why We Unfairly Scapegoat People (Mimetic Theory Explained)_20250124_part1.mp3
+note_id: 9bf78bf2-8ada-460f-bda8-2795eb5173b6
+date_processed: '2026-01-17'
+classification:
+  primary_domain: Philosophy
+  sub_domains:
+  - Psychology
+  - Sociology
+  - Philosophy of Human Behavior
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: René Girard
+    role: Philosopher
+    contribution: Developed the concept of memetic desire
+  - name: Varun Mayya
+    role: Speaker
+    contribution: Explained Girard's theory in the context of human behavior
+  works_cited: []
+  concepts_mentioned:
+  - Memetic Desire
+  - Mimetic Theory
+  - Social Influence
+  - Desire
+  - Human Behavior
+  laws_theories_cited:
+  - Mimetic Theory
+concepts:
+- name: Memetic Desire
+  definition: The idea that human desires are copied from others, rather than being
+    inherent
+  parent_concepts:
+  - Social Influence
+  related_concepts:
+  - Mimetic Theory
+  - Desire
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Mimetic Theory
+  definition: A philosophical framework that explains how human behavior is influenced
+    by imitation and rivalry
+  parent_concepts:
+  - Philosophy of Human Behavior
+  related_concepts:
+  - Memetic Desire
+  - Social Influence
+  abstraction_level: Theoretical
+  confidence: 0.9
+relationships:
+- source_concept: Memetic Desire
+  target_concept: Mimetic Theory
+  relationship_type: derives_from
+  strength: 0.9
+  evidence: Girard's theory of memetic desire is a key component of mimetic theory
+  reasoning: The concept of memetic desire is a fundamental aspect of mimetic theory,
+    which explains how human behavior is influenced by imitation and rivalry
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Philosophy
+  source_concept: Mimetic Theory
+  target_domain: Biology
+  target_concept: Epidemiology of Viral Diseases
+  insight: Mimetic desire can spread similarly to how diseases spread in epidemiology
+  explanation: Both mimetic theory and epidemiology deal with the spread of something
+    (desires vs. diseases) through a population, influenced by factors like social
+    interaction and susceptibility. This structural analogy can help in understanding
+    how ideas or behaviors can spread rapidly. The mathematical models used in epidemiology
+    can be applied to study the spread of mimetic desires, providing insights into
+    how social phenomena can be predicted and managed.
+  potential_applications:
+  - Social influence marketing
+  - Public health policy
+  confidence: 0.9
+  historical_example: The spread of ideas during the Renaissance can be compared to
+    the spread of diseases during the same period, both following similar patterns
+    of contagion and diffusion.
+- connection_type: principle_application
+  source_domain: Philosophy
+  source_concept: Memetic Desire
+  target_domain: Economics
+  target_concept: Consumer Behavior
+  insight: Memetic desire influences consumer choice, similar to how economic incentives
+    do
+  explanation: Memetic desire, as a driver of human behavior, can be seen as a non-monetary
+    incentive that influences consumer decisions, parallel to economic incentives
+    like prices and discounts. Understanding memetic desire can provide economists
+    with additional tools to predict and influence consumer behavior, enhancing models
+    of consumer choice. This connection highlights the complex interplay between cultural,
+    social, and economic factors in shaping consumer preferences.
+  potential_applications:
+  - Marketing strategy
+  - Behavioral economics
+  confidence: 0.8
+  historical_example: The success of Apple products can be attributed to both their
+    economic value and the cultural, memetic desire associated with owning them.
+- connection_type: metaphor
+  source_domain: Philosophy
+  source_concept: Mimetic Theory
+  target_domain: Computer Science
+  target_concept: Artificial Intelligence Learning
+  insight: Mimetic theory can be seen as a metaphor for how AI learns from examples
+    and mimics human behavior
+  explanation: The process of mimetic desire, where individuals learn and adopt behaviors
+    by observing others, can be metaphorically applied to how AI systems learn from
+    datasets and mimic certain patterns or behaviors. This metaphor can help in designing
+    more human-like AI systems and understanding the potential biases and limitations
+    of AI learning processes. By recognizing the mimetic aspect of AI learning, developers
+    can better address issues of data quality and ethical considerations in AI development.
+  potential_applications:
+  - Ethical AI development
+  - Human-computer interaction
+  confidence: 0.7
+  historical_example: The development of AI systems that can learn from human behavior,
+    such as chatbots and virtual assistants, reflects a mimetic process where machines
+    mimic human interaction patterns.
+bridge_concepts:
+- concept: Social Learning
+  appears_in_domains:
+  - Philosophy
+  - Psychology
+  - Sociology
+  role: Bridge between individual behavior and societal trends
+  examples:
+  - Mimetic desire in philosophy
+  - Bandura's social learning theory in psychology
+  - Social learning in sociology to understand cultural norms
+mental_models:
+- name: Systems Thinking
+  description: Analyzing complex systems by understanding the relationships and interactions
+    within the system
+  applied_to:
+  - Understanding how memetic desire spreads and influences societal trends
+  transferable_to:
+  - Economics to understand market dynamics
+  - Biology to study ecosystems
+  - Computer Science for designing complex software systems
+analogies_used:
+- source_domain: Biology
+  source_concept: Viral Epidemics
+  target_domain: Philosophy
+  target_concept: Mimetic Desire
+  mapping:
+    Viral Spread: Mimetic Spread
+    Immunity: Critical Thinking
+  pedagogical_value: Helps in understanding the rapid and often uncontrollable spread
+    of ideas and behaviors, similar to how diseases spread, emphasizing the importance
+    of 'immunity' through critical thinking.
+tags:
+  hierarchical:
+  - '#Philosophy → #Philosophy of Human Behavior → #Mimetic Theory'
+  topical:
+  - '#HumanBehavior'
+  - '#SocialInfluence'
+  - '#Desire'
+  methodological:
+  - '#ConceptualAnalysis'
+  people:
+  - '#RenéGirard'
+  - '#VarunMayya'
+  concepts:
+  - '#MemeticDesire'
+  - '#MimeticTheory'
+  temporal: []
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  The speaker discusses how human desires are often driven by mimetic desire, where
+  people copy the desires of others, leading to feelings of inadequacy and competition.
+  This can create a cycle of violence and conflict, as individuals become fixated
+  on obtaining the same objects or status as others, and social media has exacerbated
+  this problem by bringing people closer together and fostering comparison and envy.
+  According to philosopher René Girard, society has developed mechanisms to combat
+  this, including the concept of scapegoating and the use of religion to promote morals
+  and reduce community conflict.'
+key_ideas:
+- idea: Here are the 3-5 key ideas discussed in the transcription text with a short
+    description of each
+  description: ''
+- idea: Memetic Desire**
+  description: The concept that human desires are often copied from others, rather
+    than being authentic individual desires, and that this can lead to conflict and
+    violence as people compete for the same things.
+- idea: The Role of Social Media**
+  description: Social media platforms can amplify and accelerate the spread of memetic
+    desires, allowing people to compare themselves to others and feel inferior, leading
+    to feelings of resentment and anger.
+- idea: The Mechanism of Scapegoating**
+  description: When societies experience conflict and violence due to memetic desires,
+    they often turn to scapegoating, where a person or group is blamed for the problems
+    and punished, allowing the community to feel united and peaceful again, at least
+    temporarily.
+- idea: The Function of Religion**
+  description: Religion can serve as a mechanism to reduce community conflict by providing
+    a higher power that people can aspire to without feeling envious or competitive,
+    and by teaching morals and stories that promote detachment from material desires
+    and discourage envy.
+- idea: The Importance of Hierarchy and Distance**
+  description: Societies have also used hierarchy and distance to mitigate the effects
+    of memetic desire, by creating social structures where people are less likely
+    to compare themselves to others, and by promoting respect for authority and tradition.
+---
+## Key Concepts
+
+**Memetic Desire**  
+The idea that human desires are copied from others, rather than being inherent
+
+**Mimetic Theory**  
+A philosophical framework that explains how human behavior is influenced by imitation and rivalry
+
+## Cross-Domain Connections
+
+**Philosophy → Biology**
+
+*Mimetic desire can spread similarly to how diseases spread in epidemiology*
+
+Both mimetic theory and epidemiology deal with the spread of something (desires vs. diseases) through a population, influenced by factors like social interaction and susceptibility. This structural analogy can help in understanding how ideas or behaviors can spread rapidly. The mathematical models used in epidemiology can be applied to study the spread of mimetic desires, providing insights into how social phenomena can be predicted and managed.
+
+**Philosophy → Economics**
+
+*Memetic desire influences consumer choice, similar to how economic incentives do*
+
+Memetic desire, as a driver of human behavior, can be seen as a non-monetary incentive that influences consumer decisions, parallel to economic incentives like prices and discounts. Understanding memetic desire can provide economists with additional tools to predict and influence consumer behavior, enhancing models of consumer choice. This connection highlights the complex interplay between cultural, social, and economic factors in shaping consumer preferences.
+
+**Philosophy → Computer Science**
+
+*Mimetic theory can be seen as a metaphor for how AI learns from examples and mimics human behavior*
+
+The process of mimetic desire, where individuals learn and adopt behaviors by observing others, can be metaphorically applied to how AI systems learn from datasets and mimic certain patterns or behaviors. This metaphor can help in designing more human-like AI systems and understanding the potential biases and limitations of AI learning processes. By recognizing the mimetic aspect of AI learning, developers can better address issues of data quality and ethical considerations in AI development.
+
+## Discussion Topics
+
+- **Here are the 3-5 key ideas discussed in the transcription text with a short description of each:** 
+- **Memetic Desire**:** The concept that human desires are often copied from others, rather than being authentic individual desires, and that this can lead to conflict and violence as people compete for the same things.
+- **The Role of Social Media**:** Social media platforms can amplify and accelerate the spread of memetic desires, allowing people to compare themselves to others and feel inferior, leading to feelings of resentment and anger.
+- **The Mechanism of Scapegoating**:** When societies experience conflict and violence due to memetic desires, they often turn to scapegoating, where a person or group is blamed for the problems and punished, allowing the community to feel united and peaceful again, at least temporarily.
+- **The Function of Religion**:** Religion can serve as a mechanism to reduce community conflict by providing a higher power that people can aspire to without feeling envious or competitive, and by teaching morals and stories that promote detachment from material desires and discourage envy.
+- **The Importance of Hierarchy and Distance**:** Societies have also used hierarchy and distance to mitigate the effects of memetic desire, by creating social structures where people are less likely to compare themselves to others, and by promoting respect for authority and tradition.
+
+## Full Transcription
+
+
+
+[ 0m0s052ms - 0m3s392ms ] Let me take a guess as to what you want in life.
+[ 0m3s492ms - 0m6s442ms ] You want a stable yet risky job.
+[ 0m7s22ms - 0m11s682ms ] Ideally, you want to start your own business and run a team of people, but you want it to be risk-free.
+[ 0m12s242ms - 0m17s602ms ] You want a happy marriage with a good-looking person and a smart person that loves you back.
+[ 0m18s242ms - 0m21s322ms ] Yes, marriage, you don't actually want that situationship.
+[ 0m21s322ms - 0m26s702ms ] You also want the ability and freedom to travel, see the world, eat luxurious foods from all over.
+[ 0m28s192ms - 0m33s712ms ] And if you're a boy like me, you want that Lamborghini or that Ferrari, some cool car.
+[ 0m34s362ms - 0m42s212ms ] And finally, you want a bunch of friends, a group of people, a community to share these life experiences with and to belong.
+[ 0m43s872ms - 0m46s782ms ] Now, that's the broad general goals for some of you.
+[ 0m46s782ms - 0m53s512ms ] But if you go micro, some of you might want a specific degree, maybe you want to get into a specific college like the IITs.
+[ 0m54s252ms - 0m57s772ms ] You want to go to a specific destination, maybe New York.
+[ 0m58s972ms - 1m3s232ms ] You want to run a specific type of YouTube channel, maybe like Mr. Beast.
+[ 1m3s362ms - 1m5s702ms ] Sorry, but I'm going to burst your bubble right now.
+[ 1m8s822ms - 1m15s872ms ] Out of all the desires that we spoke about, only one is a real desire, the rest are fake.
+[ 1m15s872ms - 1m18s642ms ] The real desire is you want to belong.
+[ 1m18s992ms - 1m32s372ms ] To understand why, I need to explain to you a very deep philosophy on how humans behave by a philosopher called René Girard, Girard's main contribution to philosophy was the psychology of desire.
+[ 1m32s372ms - 1m34s542ms ] Why do you desire the things you desire?
+[ 1m34s672ms - 1m40s72ms ] And in this video, join me, we'll go on a very deep study of Girard's work to find out where your desires come from.
+[ 1m40s482ms - 1m43s502ms ] How desires can actually destroy society?
+[ 1m44s112ms - 1m51s342ms ] And what mechanisms ancient society and modern society has in place to make sure these desires are kept in check.
+[ 1m51s582ms - 2m3s42ms ] In all of this, we'll also learn why there are so many negative tweets about Ambani's son's wedding, why fame is a bad thing to go after, and why many of us are becoming unhappy after being successful.
+[ 2m3s392ms - 2m6s82ms ] Without much further ado, let's get started.
+[ 2m11s122ms - 2m14s372ms ] Girard starts by saying that all desire is memetic desire.
+[ 2m15s322ms - 2m15s952ms ] What does that mean?
+[ 2m16s712ms - 2m24s422ms ] It means no desire you or I have ever had is ours, apart from food, water, shelter, and sex.
+[ 2m25s112ms - 2m28s622ms ] The word memetic comes from the word mimicry or imitation or copying.
+[ 2m29s132ms - 2m33s92ms ] Every desire you have ever had has been copied from somebody else.
+[ 2m33s692ms - 2m35s662ms ] Now, instinctively, we know this, we learn from others.
+[ 2m36s282ms - 2m45s32ms ] We have mirror neurons in the brain that fire both when an animal acts, and then when the animal observes the same action being performed by another.
+[ 2m45s322ms - 2m51s792ms ] We copy trends, we copy fashion, we copy how film stars smoke cigarettes or their walking style.
+[ 2m52s172ms - 2m58s312ms ] But Girard says that not only do we copy behaviors, we also copy our desire from other people.
+[ 2m58s802ms - 3m4s932ms ] He says that the objects of desire don't even matter, instead it's more about the people who influence our wants.
+[ 3m5s462ms - 3m8s732ms ] Girard terms these influential figures models of desire.
+[ 3m9s732ms - 3m12s382ms ] A model is someone who you want to copy.
+[ 3m12s832ms - 3m18s962ms ] You copying somebody else's need for a supercar is the same as you copying some film actor's walking style.
+[ 3m19s182ms - 3m21s902ms ] Girard dubbed this the concept memetic desire.
+[ 3m22s752ms - 3m25s162ms ] You don't want something, you want to be someone.
+[ 3m26s162ms - 3m28s192ms ] And there's a very important distinction there.
+[ 3m28s852ms - 3m31s472ms ] You don't want a Ferrari because of the car itself.
+[ 3m32s62ms - 3m36s272ms ] I personally find people who buy a supercar and then talk about the features or whatever very cringe.
+[ 3m36s272ms - 3m38s942ms ] You're buying a supercar for the status for the club.
+[ 3m38s942ms - 3m42s712ms ] The Teslas today are faster, you're not really buying a supercar for the speed per se.
+[ 3m43s222ms - 3m45s412ms ] But what these people really bought is a membership into a club.
+[ 3m45s842ms - 3m49s722ms ] A club where you can go tell people, I am a Ferrari owner.
+[ 3m50s272ms - 3m52s572ms ] The objects don't matter, they're temporary.
+[ 3m52s572ms - 3m54s502ms ] It's the people that's key.
+[ 3m54s812ms - 4m2s572ms ] Most of psychology says a lot about individuality, who you are, this thing like live your dreams, but Girard says that's all bullshit, it's all a scam.
+[ 4m3s22ms - 4m9s502ms ] You and I only think we are authentic individuals because we think others feel like they are authentic individuals.
+[ 4m10s522ms - 4m14s332ms ] Everybody is wholesale copying other people, we're all copying each other's desires too.
+[ 4m14s682ms - 4m17s122ms ] This thing is particularly evident in teenagers.
+[ 4m17s592ms - 4m21s632ms ] Consider a young person who desperately wants to be part of the popular crowd at school.
+[ 4m22s22ms - 4m23s862ms ] They've always enjoyed Marvel movies, let's say.
+[ 4m24s372ms - 4m30s122ms ] But one day they overhear the cool kids mocking Marvel movies, they start calling it nerdy and childish.
+[ 4m30s442ms - 4m31s882ms ] What do you think happens next?
+[ 4m32s412ms - 4m41s12ms ] Not only will this teenager stop mentioning their love for Marvel, they may also rapidly convince themselves that they don't actually care about Marvel and never actually cared.
+[ 4m41s352ms - 4m47s912ms ] Even the things you like, even the things you really enjoy are driven by other people and trying to fit into some group.
+[ 4m48s172ms - 4m58s302ms ] Even if you care about some niche thing, like some very specific band or robotics, you still only care about it, so do I, because some very specific people or group does and we want to be like them.
+[ 4m58s732ms - 5m0s962ms ] The base emotion working here is shame.
+[ 5m0s962ms - 5m4s492ms ] You feel shame for not having the same desires as other people.
+[ 5m4s492ms - 5m8s732ms ] You feel shame for not wanting to crack JEE when so many people are attempting.
+[ 5m8s972ms - 5m15s932ms ] You start lying to yourself and convince yourself that no, actually you are the kind of person that likes JEE and can crack it.
+[ 5m16s382ms - 5m19s132ms ] Now, that's phase one, memetic desire.
+[ 5m19s392ms - 5m28s152ms ] Girard says that the problem with memetic desire is that in every human interaction, it sets the stage for violence, either verbal or physical.
+[ 5m28s152ms - 5m29s622ms ] Now, that's where it gets dangerous.
+[ 5m30s122ms - 5m35s822ms ] Because memetic desire can be transferred, it can go from one person to another, it also creates rivalries.
+[ 5m36s262ms - 5m42s222ms ] You think you want a Lamborghini, and you think there are just two things in this equation, you and the object, the Lamborghini.
+[ 5m42s622ms - 5m50s482ms ] But what ends up happening is your brain starts thinking that the person who's desire I'm imitating to buy this car is also the person in my way.
+[ 5m51s102ms - 5m52s892ms ] That person is my obstacle.
+[ 5m53s222ms - 5m55s852ms ] If someone is imitating you, as you all know, it can get annoying.
+[ 5m56s362ms - 6m2s912ms ] Artists will come out and say, "Hey, this guy is copying me," even though nine out of 10 times that other person is just admiring that artist's work.
+[ 6m3s242ms - 6m8s62ms ] So, this is a problem, all of us want to be seen as different, yet all our desires are copies.
+[ 6m8s622ms - 6m19s642ms ] When you are not able to afford a supercar, but the person you admire can, it creates emotions in you that doesn't hate the supercar, it hates the person you admire, you feel like they are the blocker.
+[ 6m19s952ms - 6m21s872ms ] This is your mind coping with losing.
+[ 6m22s222ms - 6m27s662ms ] And now you might wonder, how the hell can you hate someone that you admire or used to admire?
+[ 6m28s132ms - 6m31s392ms ] But I've seen this behavior a lot and we'll come to this in a bit.
+[ 6m31s392ms - 6m37s892ms ] But Girard says that human conflict is not about you fighting with someone else about the object, the object does not matter.
+[ 6m38s132ms - 6m43s462ms ] The fact is that the other person wants the object or has got it is what pushes you to fight.
+[ 6m43s702ms - 6m52s702ms ] Whenever this memetic rivalry started taking place in ancient times, it almost always led to violence, which is verbal or physical violence, and ideally both.
+[ 6m53s212ms - 6m59s472ms ] Very few wars in the past were fought by two starving nations who really wanted some resource like gold.
+[ 6m59s792ms - 7m6s552ms ] It was mostly fought on egos, the ego of why should the other person have the gold, why should the other person have this resource?
+[ 7m6s912ms - 7m14s352ms ] Right? So, somebody wanted an object, the object didn't matter so much, but then it became about the other party, and that other party has the object, why should they have it?
+[ 7m18s22ms - 7m21s382ms ] The best example of this is in college academics or research.
+[ 7m21s632ms - 7m26s162ms ] Now, I'm not a researcher, but have you ever met academics or researchers, especially in Indian colleges?
+[ 7m26s492ms - 7m28s772ms ] I've met a few, and they are so petty.
+[ 7m29s152ms - 7m38s842ms ] They will cut each other's funding, write long letters about how this other professor doesn't deserve the funding, they will write letters to remove one chair from the other professor's room just to screw around.
+[ 7m38s932ms - 7m39s892ms ] You know why?
+[ 7m40s272ms - 7m48s712ms ] Because in college academics or research, the stakes are so low, the object they are desiring, the name on a paper or the chance to work on something, it just doesn't matter.
+[ 7m49s182ms - 7m56s822ms ] It's about the fact that the other guy wants it, it's petty ego, and the source of the petty ego is some object that they both mutually want.
+[ 7m57s252ms - 7m59s432ms ] Even if the object itself doesn't matter much.
+[ 8m2s672ms - 8m4s602ms ] There's a problem here with memetic desire.
+[ 8m4s862ms - 8m10s222ms ] You have to stop this quick, because when two people want the same thing, no, they start copying each other's desires.
+[ 8m10s572ms - 8m13s832ms ] This can spread quickly through a group like a fast-moving disease.
+[ 8m14s432ms - 8m18s242ms ] If nothing stops it, soon everyone in the group wants the same thing.
+[ 8m18s672ms - 8m24s482ms ] As this happens, people in the group become more alike, they all focus on getting or being this one thing.
+[ 8m24s762ms - 8m27s832ms ] This makes them less differentiated, less different from each other.
+[ 8m27s832ms - 8m36s122ms ] When everyone wants the same thing, but not everyone can have it, people get angry, it creates tension, and this often leads to fighting or violence in the group.
+[ 8m36s542ms - 8m42s652ms ] This idea helps explain why groups sometimes turn against each other, like the entire coup that happened at OpenAI.
+[ 8m42s652ms - 8m50s662ms ] It also explains why the overcrowded software engineering industry in India has turned cutthroat and with frustrated people fighting and turning on each other in the same industry.
+[ 8m51s92ms - 8m55s142ms ] In the ancient past, it explains betrayals by families and allies.
+[ 8m55s532ms - 8m58s752ms ] After people start fighting, the copying does not stop.
+[ 8m58s992ms - 9m3s152ms ] Instead of copying the things that people want, people start copying the violence itself.
+[ 9m3s432ms - 9m5s332ms ] They forget about what they wanted in the first place.
+[ 9m5s482ms - 9m16s712ms ] There's a very interesting quote I remember listening to in House of Dragons where two people are talking and they're talking about the fighting, why two families are fighting, where somebody says, "They forgot why they're fighting, but they've been fighting for generations, so it's just about revenge now."
+[ 9m16s882ms - 9m25s212ms ] Like I said, now it's no longer about what the object of desire is, now it's just about hurting those who hurt them back, it becomes about revenge.
+[ 9m25s862ms - 9m29s892ms ] Now, unlike animals, who usually figure out who's in charge and then just stop fighting,
+[ 9m30s92ms - 9m32s322ms ] humans can keep fighting forever.
+[ 9m32s762ms - 9m37s182ms ] Animals quickly create alpha-beta systems and it's clear who the dominant animal is.
+[ 9m37s382ms - 9m42s122ms ] People think humans have a clear alpha-beta structure, but we don't actually have a very clear structure.
+[ 9m42s502ms - 9m47s442ms ] We have thoughts and cannot stay submissive to another set of people or another person for too long.
+[ 9m48s12ms - 9m52s792ms ] Unlike animals, humans won't stop, they even pass on their fights to their children and grandchildren.
+[ 9m53s152ms - 9m55s682ms ] The fight enters the bloodline.
+[ 9m55s852ms - 10m2s912ms ] This destroys communities, families, groups, and even whole countries keep getting back at each other, everything gets turned upside down.
+[ 10m3s182ms - 10m8s622ms ] If nothing stops this cycle of everyone copying each other's violence, the whole community can fall apart.
+[ 10m9s122ms - 10m10s902ms ] Let me remind you of the root of this again.
+[ 10m11s242ms - 10m12s872ms ] It was desire for some meaningless object.
+[ 10m13s232ms - 10m17s352ms ] Now, both the memetic desire and the violence in the past was spread slowly.
+[ 10m17s742ms - 10m20s772ms ] If someone wanted something, they didn't put up an Instagram post about it.
+[ 10m21s112ms - 10m22s222ms ] Today, it spreads fast.
+[ 10m22s542ms - 10m28s852ms ] If one influential person wants something or has something, they put up a post about it, now everybody wants it.
+[ 10m29s382ms - 10m37s232ms ] Social media is like dry forest grass, if you have a desire and you are influential, you can light the entire forest on fire quickly.
+[ 10m37s672ms - 10m40s582ms ] And what also spreads is the violence in the hate.
+[ 10m40s582ms - 10m46s842ms ] All of us have become more alike on social media and therefore competing for the same stuff, the same imaginary stuff, and fighting.
+[ 10m47s72ms - 10m51s102ms ] We're now copying verbal violence too, somebody else said something, so I'm going to attack him back.
+[ 10m51s532ms - 10m57s322ms ] Instagram and Twitter allows this resentment and irritation with other people accomplishing things to grow.
+[ 10m57s562ms - 11m2s932ms ] We're all irritated with another person, why is that person doing so well? I wanted that thing, I wanted that degree, I wanted that job, I wanted that girl.
+[ 11m3s322ms - 11m8s82ms ] Just look at the number of posts of people shitting on famous celebrities or of the Ambani weddings.
+[ 11m8s302ms - 11m13s942ms ] It's none of your business, you probably don't even care about the objects like the watch that's being given away or the dancing.
+[ 11m14s352ms - 11m21s32ms ] It's just that in the past, you wouldn't see photos of rich people's weddings, so you wouldn't envy it, it wouldn't create memetic desire in you.
+[ 11m21s322ms - 11m23s262ms ] This is a social media problem.
+[ 11m23s502ms - 11m27s382ms ] Most memetic desire in the past was related to families or neighbors.
+[ 11m27s702ms - 11m36s282ms ] Memetic desires between brothers or father and son was the worst because they are in close proximity, you can constantly see how well your brother is doing or how well your father is doing.
+[ 11m36s572ms - 11m39s202ms ] You were not in close proximity to society's richest.
+[ 11m39s592ms - 11m45s952ms ] But because of social media, it's brought the world closer, it now bothers you that the Ambanis are making so much money or they have 10% of India's GDP.
+[ 11m46s432ms - 11m50s992ms ] You are suffering because of it and it is slowly starting to turn into verbal violence.
+[ 11m51s482ms - 11m54s552ms ] Cuz when you see this, there are only two things you can do.
+[ 11m54s552ms - 11m58s902ms ] First is you go become an Ambani, very hard, you can go after the things you think will make you like them.
+[ 11m59s202ms - 12m5s632ms ] But you know it's hard, and when you fail, because there's a lot of luck involved in that, you get angry at the role model, seeing them as the enemy.
+[ 12m6s222ms - 12m13s52ms ] You think I can't be like them or have what they have because they're in my way or the government is in the way or capitalism is in the way, everything is rigged against me.
+[ 12m13s962ms - 12m16s712ms ] The second option is that you internalize it, and you blame yourself.
+[ 12m17s182ms - 12m21s382ms ] You say the reason I'm not an Ambani is because something is wrong with me, I am the problem.
+[ 12m21s712ms - 12m23s612ms ] The reality is neither of these is actually true.
+[ 12m23s902ms - 12m27s532ms ] The way the world is structured, some people win, some people lose.
+[ 12m27s922ms - 12m31s522ms ] If not Ambani, it would be somebody else who would win and be in his place.
+[ 12m31s762ms - 12m35s752ms ] But the question you should be asking is, win what? Is that prize even something you wanted in the first place?
+[ 12m36s182ms - 12m40s772ms ] Celebrities coming and dancing at your wedding or watches being given to each other, you don't really want it.
+[ 12m41s12ms - 12m48s892ms ] It just feels like the cool thing because these desires, like Girard says, these memetic desires are granted to you, you're observed by you from looking at somebody else.
+[ 12m49s312ms - 12m52s892ms ] The real question is, is this prize something that you want because others want it?
+[ 12m53s512ms - 12m55s532ms ] Is it a memetic desire in the first place?
+[ 12m56s292ms - 13m9s202ms ] No matter what happens, you, me, and millions of others are feeling an attack on our egos and our self-worth because someone else is achieving some desires that you and I think we have but are not actually yours.
+[ 13m9s582ms - 13m13s832ms ] In the past, when the role model was far away, we praised them or we admired them.
+[ 13m14s172ms - 13m16s142ms ] Once they're too close, problems take place.
+[ 13m16s142ms - 13m26s582ms ] And that's the problem with social media, it brings all these people closer together where we shouldn't have been so close together, our thoughts, our ideas, our good moments, our bad moments, they shouldn't have been so close in the first place.
+[ 13m26s852ms - 13m29s132ms ] When we experience these emotions, we start to act strangely.
+[ 13m29s462ms - 13m32s392ms ] We might say bad things about the person we admire.
+[ 13m32s832ms - 13m35s142ms ] We might try to cause problems for them or irritate them.
+[ 13m35s442ms - 13m41s542ms ] These actions seem weird because they don't match how we really feel inside, but the human brain needs to cope with losing status.
+[ 13m42s262ms - 13m46s702ms ] And status is always relative, someone will always be bigger than you in the world.
+[ 13m47s162ms - 13m55s922ms ] Now, this has happened for centuries, and Girard says that society has evolved mechanisms to combat this, it's evolved mechanisms to soothe people's egos.
+[ 13m56s952ms - 14m6s72ms ] It's crazy, he says that the one mechanism that can arrest these cycles of desire, competition, and finally violence is called a scapegoat.
+[ 14m7s922ms - 14m10s402ms ] That's right, you need a bakra.
+[ 14m14s42ms - 14m19s992ms ] So, hear Girard out, when society is burning because of this repeated cycle of desire and violence,
+[ 14m20s222ms - 14m23s562ms ] you can stop it by sacrificing one person.
+[ 14m24s422ms - 14m26s492ms ] It's just crazy how this works.
+[ 14m27s212ms - 14m34s52ms ] The community has to basically pick one person to blame everything on, all of society's problems, and then destroy them live.
+[ 14m35s192ms - 14m38s502ms ] Everyone, all sides have to turn against this person.
+[ 14m39s152ms - 14m43s462ms ] The group then hurts or kills or publicly humiliates this person together.
+[ 14m43s762ms - 14m46s232ms ] This makes the group feel united and peaceful again.
+[ 14m46s562ms - 14m48s202ms ] We killed the bigger evil together.
+[ 14m48s772ms - 14m52s842ms ] If the fighting stops after this, the group thinks they were right to blame that person.
+[ 14m53s202ms - 14m54s622ms ] But then something strange happens.
+[ 14m55s132ms - 15m5s612ms ] They start to think that this person was special or magical because, see, in order to claim that sacrificing or canceling one person is sufficient to create peace, then you have to give that person certain powers, no?
+[ 15m5s612ms - 15m9s622ms ] You have to tell the story of how this person is first a God or a devil.
+[ 15m9s622ms - 15m13s492ms ] Otherwise, everyone knows sacrificing a common man is not going to do anything.
+[ 15m14s322ms - 15m17s352ms ] This mechanism is there in every culture, every religion.
+[ 15m17s592ms - 15m21s392ms ] Like Christ being sacrificed for the sins of the people and being reborn a God.
+[ 15m21s592ms - 15m27s362ms ] Or in Norse mythology, the gods killing the giant Ymir and using his body to create the world.
+[ 15m27s832ms - 15m32s832ms ] You need to first make a villain and then sacrifice the villain for the peace of the community.
+[ 15m33s272ms - 15m39s882ms ] But here's the thing, the sad thing, for this to work, the person being sacrificed should ideally not be a villain.
+[ 15m40s272ms - 15m47s572ms ] All you have to do is say, "This is the person responsible for all of us fighting, let's publicly humiliate and destroy them."
+[ 15m47s572ms - 15m54s552ms ] But if that person who you are trying to scapegoat is an insider and can build support for themselves or can fight back, then it doesn't work.
+[ 15m54s812ms - 15m56s722ms ] They necessarily need to not have a voice.
+[ 15m57s112ms - 16m2s532ms ] Because scapegoats need to be an easy solution to the hard problem, they're not supposed to be able to fight back.
+[ 16m2s912ms - 16m6s442ms ] Girard says that ideally the victim should be neutral to the conflict.
+[ 16m6s722ms - 16m8s882ms ] If the victim is from one side, then you have made a martyr.
+[ 16m9s322ms - 16m12s652ms ] It will be interpreted by the community as violence to one of the two sides.
+[ 16m13s262ms - 16m16s962ms ] If you kill someone from Team Blue, then Team Blue will come after you.
+[ 16m17s412ms - 16m19s242ms ] It has to be some random person.
+[ 16m19s522ms - 16m22s222ms ] One example is Trump, as you and me know, Trump can clearly fight back.
+[ 16m22s702ms - 16m27s382ms ] But he was kicked off Twitter, after which, good or bad, he couldn't fight back.
+[ 16m27s602ms - 16m36s572ms ] You shut his voice, and therefore he was blamed for everything, and in my personal opinion, even though he's pretty toxic, he wasn't responsible for all the bad stuff in America.
+[ 16m36s572ms - 16m38s502ms ] But scapegoats need to be blamed for everything.
+[ 16m39s202ms - 16m42s692ms ] See, in the past, we hung these people, but today we legally can't hang them.
+[ 16m43s342ms - 16m44s382ms ] We cancel them instead.
+[ 16m44s702ms - 16m48s962ms ] We write some long article about how they're evil or whatever to make videos about them.
+[ 16m49s222ms - 16m52s542ms ] We take it to the court of public opinion, to social media.
+[ 16m53s122ms - 16m56s362ms ] And by design, people say all sorts of crap and treat it like the truth.
+[ 16m56s652ms - 17m7s122ms ] For example, Achina, my wife, she made a video about America, and on Reddit someone was saying, "Hey, this woman, she's a US citizen, and she's American, and she's gatekeeping," and that had a lot of likes.
+[ 17m7s332ms - 17m10s902ms ] Achina is very much Indian, she lives in India, she lives in Bangalore with me.
+[ 17m11s272ms - 17m15s12ms ] But when finding a scapegoat, for a temporary period, you can suspend the truth.
+[ 17m15s472ms - 17m18s772ms ] Usually, when anybody lies about something else, society is aggressive about it.
+[ 17m18s772ms - 17m24s232ms ] But when you lie or make up things about a scapegoat during the period where they're being scapegoated, anything goes.
+[ 17m24s642ms - 17m31s392ms ] Temporarily, society allows us to talk nonsense as long as we're talking nonsense about that particular scapegoated person.
+[ 17m31s842ms - 17m41s512ms ] Reddit, in fact, has actually become this platform where everyone is facing memetic desires all the time, they're all defeated or in a partial state of defeat and scapegoating basically everyone else to feel better.
+[ 17m42s52ms - 17m48s172ms ] Why? Because in ancient history, finding a scapegoat and blaming them for all your problems makes you feel better.
+[ 17m48s572ms - 17m53s382ms ] If you successfully scapegoat someone, you actually get community points and upvotes.
+[ 17m53s822ms - 18m2s492ms ] Your standing in the community for identifying the scapegoat goes up, and because of mimicry, others will scapegoat the person too because everything is memetic.
+[ 18m2s822ms - 18m15s642ms ] This is why on social media when that Humans of Bombay girl was being canceled, even random people who I know have done much worse things than her (what she had done was she copied her idea from some American company, which to be honest, every Indian startup does).
+[ 18m16s242ms - 18m22s222ms ] But I saw so many people piling on her when they had no business talking about her, but they were taking out their unrelated pent-up frustration.
+[ 18m22s222ms - 18m34s742ms ] And like I said, during the scapegoating process, temporarily you can say any bad thing about the person because the mob as a whole decides that it is okay to say bad things, even untrue things about who we think is a bad person.
+[ 18m35s362ms - 18m41s842ms ] Now, as you can imagine, society had to build an immune system against this because this constantly finding scapegoats is bad.
+[ 18m42s182ms - 18m46s842ms ] It's random and basically cuts down someone randomly at scale without any warning.
+[ 18m47s422ms - 18m48s362ms ] It's a witch hunt.
+[ 18m48s702ms - 19m15s52ms ] And society started recognizing it early, and they said, instead of allowing memetic desires to grow (all this is because of this thing of why is this other person doing so well or why does this person have this object that I do not have), and for us to keep letting these memetic desires grow and randomly keep scapegoating people creating violence because I told you the cycles of violence start with desire, let us prevent it, and society invented the most powerful mechanism against memetic desire, that tool is called religion.
+[ 19m15s692ms - 19m37s872ms ] Before we move on to the next chapter, if you are interested in learning how to edit like the video you are just seeing and want to learn to tell compelling stories, folks at AV are hosting a video editing masterclass, they will cover fundamentals of editing, storytelling, generative AI workflows, and an introduction to video editing as a career if you are interested in taking that up, the link to register is in the description.
+[ 19m40s482ms - 19m45s302ms ] See, not so smart people think religion is about a specific God or a specific story.
+[ 19m45s302ms - 19m49s592ms ] People who think they are intellectuals on the other side think, "Oh, religion is bad, it's scamming people."
+[ 19m49s872ms - 19m51s532ms ] It's some of this, but not all of this.
+[ 19m52s252ms - 2m3s242ms ] By inventing a higher power, a God who you will not compare yourself to, therefore you will not have memetic desire against, you are creating a tool to stop societal violence and conflict at all given points of time, most of society is feeling bad and jealous about other people.
+[ 2m3s662ms - 2m13s392ms ] Religion is a tool humans invented independently in many different civilizations, the Sumerians developed a complex religion with multiple gods around 3,500 BCE, they worshipped natural gods and believed in divine kings.
+[ 2m22s22ms - 2m30s372ms ] Egyptian religion emerged independently around 3,100 BCE, with its own unique sets of gods and rules around the afterlife.
+[ 2m30s672ms - 2m36s272ms ] Greek religion, with its group of gods on Mount Olympus, developed independently from around 1,200 BCE.
+[ 2m36s492ms - 2m39s872ms ] All known religions started as a way to reduce community conflict.
+[ 2m40s242ms - 2m44s872ms ] By creating an afterlife, the stories, the gods, sorry, but they don't matter as much.
+[ 2m45s382ms - 2m51s912ms ] But concepts like the concept of the afterlife or the morals of the story, you remember when we were young, each story had a moral?
+[ 2m52s382ms - 3m0s42ms ] They were more important than the characters, they were more important than the story itself because the morals reduced memetic desire and community conflict.
+[ 3m0s452ms - 3m2s972ms ] The stories are the delivery vehicle for these morals.
+[ 3m3s152ms - 3m7s242ms ] They are the vaccine given to young kids to avoid conflict in the future.
+[ 3m7s602ms - 3m12s652ms ] Just like kids don't like eating medicine and you put medicine inside some chocolate to give kids for it to taste better.
+[ 3m13s92ms - 3m15s472ms ] The kids don't like listening to just morals.
+[ 3m16s2ms - 3m17s92ms ] Be good to your neighbors, do this, they don't like listening to all that.
+[ 3m18s292ms - 3m22s122ms ] They need the sugarcoating of the story or they don't take in the moral.
+[ 3m22s752ms - 3m33s742ms ] In the past, there was religious and cultural prohibition of memetic desire, if you had a desire for something, people said, "Don't exhibit it, don't talk about it," if you had a lot of things, don't show it off.
+[ 3m33s742ms - 3m42s852ms ] And this applies to many types of resources, for example, marrying multiple people isn't allowed in most cultures because it creates too much conflict around desire for partners.
+[ 3m43s362ms - 3m50s462ms ] Not showing off and hiding your wealth, helping others, not bullying people, these were all morals given to us packaged as stories.
+[ 3m51s102ms - 3m56s142ms ] A lot of cultures like Buddhism created pride in using a begging bowl and simple monk clothes.
+[ 3m56s602ms - 4m5s602ms ] One of the ten commandments in Christianity said, "Thou shalt not covet thy neighbor's house, wife, servants, ox, or anything that belongs to thy neighbor."
+[ 4m5s762ms - 4m10s472ms ] This directly addresses memetic desire by forbidding envy of other people's possessions.
+[ 4m10s672ms - 4m18s242ms ] The Buddha leaving his palace and wealth behind to seek enlightenment promotes detachment from material desires, that these material desires, these objects, they don't matter as much.
+[ 4m18s572ms - 4m24s812ms ] Many Hindu stories illustrate Maya, the illusion, teaching that the worldly desires are ultimately unimportant, this is all an illusion anyway.
+[ 4m25s292ms - 4m32s872ms ] "Do not envy one another" is a direct teaching attributed to Muhammad, discouraging memetic desire.
+[ 4m33s272ms - 4m42s42ms ] The problem with prohibiting things like showing off wealth might seem arbitrary, like if you just made wealth because you were skilled but don't understand philosophy of people, you might not know why it's a bad idea.
+[ 4m42s42ms - 4m48s62ms ] And you probably seen this a lot, right? You'll see people, these YouTubers making a video called, "I made 1 crore this year," showing off their lifestyle.
+[ 4m48s482ms - 4m52s112ms ] This is inexperience and a lack of respect for philosophy.
+[ 4m52s462ms - 4m58s762ms ] But stories that were once heard in religion can transfer the required philosophical knowledge in early childhood through the medium of stories.
+[ 5m1s2ms - 5m7s22ms ] Unfortunately, some people get misled by the story itself, the story itself is not that meaningful, and people take it too literally.
+[ 5m7s22ms - 5m9s902ms ] But it's a vaccine against memetic desire.
+[ 5m10s302ms - 5m13s372ms ] This is the main reason that hiding wealth in India was a big thing.
+[ 5m14s22ms - 5m17s642ms ] Even today, when people see businessmen, they think, "Oh, businessman is a bad person."
+[ 5m18s212ms - 5m22s752ms ] For example, I'm a businessman and I'm creating this video, am I a bad person?
+[ 5m23s142ms - 5m26s932ms ] The truth is you don't know enough about me to decide and you will never know from social media.
+[ 5m27s352ms - 5m44s362ms ] But if I looked different, if I had a gold chain and ran some real estate business and I was eating some meat, your opinion of me would change and you would automatically think I'm an evil person because years of movies, stories, your aunties talking about some corrupt real estate person, that would be sitting in your head.
+[ 5m44s862ms - 5m48s862ms ] Another way society solved memetic desire is through distance, through hierarchy.
+[ 5m49s312ms - 5m59s292ms ] When I was 21 years old and running a company, I found it very tough to run it because everyone was my age or older and we'd constantly get into ego conflict, I was also a noob, I didn't know what I was doing.
+[ 5m59s692ms - 6m6s662ms ] But now that I'm 30, that rarely happens because everyone is either younger than me or they know I have a lot of experience doing things that they don't have.
+[ 6m7s332ms - 6m13s872ms ] Now I understand why world leaders should be reasonably old so that the average youngster doesn't keep comparing themselves to them.
+[ 6m14s332ms - 6m16s862ms ] And the roles and hierarchies are very important.
+[ 6m17s222ms - 6m23s822ms ] There's a reason flat organizations don't work, it creates too much memetic desire amongst supposed equals.
+[ 6m27s592ms - 6m31s432ms ] In the past, you would envy your friend but you would not envy a king.
+[ 6m32s82ms - 6m36s542ms ] That's why in the past, in order to be a king, you needed to be a descendant of royalty.
+[ 6m37s22ms - 6m37s922ms ] There was a reason for this.
+[ 6m38s362ms - 6m44s302ms ] If the common man found out that royal blood was a scam and that anyone could be king, they'd all fight for it.
+[ 6m44s702ms - 6m51s922ms ] With royal blood being the condition, only the royal family would fight for it, thus limiting communal damage, limiting revenge, etc.
+[ 6m52s412ms - 6m55s792ms ] Desire was kept limited to just the sons of the king.
+[ 6m56s182ms - 6m59s142ms ] The granting of power needed to feel divine, it needs to feel divine.

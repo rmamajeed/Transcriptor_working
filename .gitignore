@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+downloads/
+*.log
+*.backup
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables (IMPORTANT: Never commit API keys!)
+.env
+
+# YouTube downloader temporary files
+downloads/*.info.json
+downloads/*.webp
+downloads/*.jpg
+
+# Keep the folders but ignore contents
+downloads/*
+!downloads/.gitkeep

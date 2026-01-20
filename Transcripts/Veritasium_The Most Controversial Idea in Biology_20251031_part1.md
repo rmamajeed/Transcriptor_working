@@ -1,0 +1,308 @@
+---
+title: Veritasium_The Most Controversial Idea in Biology_20251031_part1
+audio_file: Veritasium_The Most Controversial Idea in Biology_20251031_part1.mp3
+note_id: 81591745-4dab-432b-b0db-eb09bc2d86cb
+date_processed: '2026-01-11'
+classification:
+  primary_domain: Biology
+  sub_domains:
+  - Evolutionary Biology
+  - Molecular Biology
+  - Ecology
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: Speaker 11
+    role: Host
+    contribution: Explaining evolutionary concepts
+  - name: Speaker 15
+    role: Co-host
+    contribution: Providing additional explanations
+  works_cited: []
+  concepts_mentioned:
+  - Evolution
+  - Natural Selection
+  - Replicators
+  - Mutation
+  - Altruism
+  laws_theories_cited:
+  - Survival of the Fittest
+  - Law of Stability
+concepts:
+- name: Evolution
+  definition: The process by which species change over time through genetic variation
+    and natural selection
+  parent_concepts:
+  - Biology
+  related_concepts:
+  - Natural Selection
+  - Genetics
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Natural Selection
+  definition: The process by which individuals with favorable traits are more likely
+    to survive and reproduce
+  parent_concepts:
+  - Evolution
+  related_concepts:
+  - Survival of the Fittest
+  - Adaptation
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Replicators
+  definition: Molecules or entities that can replicate themselves
+  parent_concepts:
+  - Molecular Biology
+  related_concepts:
+  - Evolution
+  - Mutation
+  abstraction_level: Theoretical
+  confidence: 0.8
+relationships:
+- source_concept: Evolution
+  target_concept: Natural Selection
+  relationship_type: derives_from
+  strength: 0.9
+  evidence: Natural selection is a key mechanism of evolution
+  reasoning: Evolution is driven by the process of natural selection
+- source_concept: Replicators
+  target_concept: Evolution
+  relationship_type: causes
+  strength: 0.8
+  evidence: Replicators can drive evolutionary change
+  reasoning: Replicators can replicate and mutate, leading to evolutionary change
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Biology
+  source_concept: Evolution through Natural Selection
+  target_domain: Economics
+  target_concept: Market Competition
+  insight: Both evolution and market competition favor the survival of the fittest,
+    where 'fitness' is defined by the ability to adapt and reproduce in biology, and
+    by profitability and efficiency in economics.
+  explanation: The process of natural selection in biology mirrors the competitive
+    market forces in economics, where entities (organisms or companies) that are better
+    adapted to their environment are more likely to survive and propagate. This structural
+    analogy highlights the universal principle of competition driving innovation and
+    efficiency. Both domains see the emergence of dominant traits or strategies over
+    time due to this competitive process.
+  potential_applications:
+  - Understanding the dynamics of market evolution
+  - Applying evolutionary principles to economic policy
+  confidence: 0.9
+  historical_example: The concept of 'survival of the fittest' was first introduced
+    by Herbert Spencer in 1864, predating its widespread use in biology, showing an
+    early cross-domain application.
+- connection_type: principle_application
+  source_domain: Biology
+  source_concept: Replicators
+  target_domain: Computer Science
+  target_concept: Self-replicating Code
+  insight: The concept of replicators in biology, which are entities that can make
+    copies of themselves, has a direct application in computer science in the form
+    of self-replicating code or viruses.
+  explanation: In biology, replicators are fundamental to the theory of evolution,
+    as they are the units of selection and variation. Similarly, in computer science,
+    self-replicating code operates on the principle of making exact copies of itself,
+    often with the potential to evolve or mutate. This principle application demonstrates
+    how a concept from biology can inform our understanding of analogous phenomena
+    in technology.
+  potential_applications:
+  - Designing more secure systems against self-replicating malware
+  - Developing artificial life simulations
+  confidence: 0.8
+  historical_example: The first computer virus, the 'Creeper System,' was an experimental
+    self-replicating program released in 1971, illustrating an early application of
+    biological principles in computing.
+- connection_type: metaphor
+  source_domain: Biology
+  source_concept: Ecosystems
+  target_domain: Sociology
+  target_concept: Social Networks
+  insight: Ecosystems in biology can serve as a metaphor for understanding social
+    networks in sociology, where different species or individuals interact within
+    a shared environment, influencing each other's survival and prosperity.
+  explanation: Just as ecosystems consist of diverse species interacting in complex
+    ways, social networks are comprised of individuals with various roles and influences.
+    This metaphor helps in understanding how social structures evolve, how information
+    spreads, and how different 'species' (or groups) within a network can coexist
+    or compete. It highlights the importance of diversity, resilience, and balance
+    within social ecosystems.
+  potential_applications:
+  - Modeling the spread of information or behaviors in social networks
+  - Designing more resilient community structures
+  confidence: 0.7
+  historical_example: The concept of 'social ecology' has been used to study how social
+    networks and environmental factors interact to influence individual and community
+    health, demonstrating a historical precedent for this cross-domain insight.
+bridge_concepts:
+- concept: Complex Systems
+  appears_in_domains:
+  - Biology
+  - Economics
+  - Computer Science
+  role: Complex systems, characterized by numerous interacting components, bridge
+    domains by providing a common framework for understanding emergent behavior and
+    resilience.
+  examples:
+  - Ecosystems in biology
+  - Markets in economics
+  - Networks in computer science
+mental_models:
+- name: Systems Thinking
+  description: A holistic approach to understanding complex systems, focusing on the
+    interactions and interdependencies among components rather than the components
+    themselves.
+  applied_to:
+  - Analyzing evolutionary dynamics
+  - Understanding market competition
+  transferable_to:
+  - Economics
+  - Computer Science
+  - Environmental Science
+analogies_used:
+- source_domain: Engineering
+  source_concept: Filter Systems
+  target_domain: Biology
+  target_concept: Immune System
+  mapping:
+    Filter: Immune cells
+    Contaminants: Pathogens
+  pedagogical_value: This analogy helps in understanding how the immune system acts
+    as a filter for harmful pathogens, similar to how filter systems in engineering
+    remove contaminants from water or air.
+tags:
+  hierarchical:
+  - '#Biology → #EvolutionaryBiology → #NaturalSelection'
+  - '#MolecularBiology → #Replicators'
+  topical:
+  - '#Evolution'
+  - '#NaturalSelection'
+  - '#Replicators'
+  methodological:
+  - '#ThoughtExperiment'
+  people:
+  - '#Speaker11'
+  - '#Speaker15'
+  concepts:
+  - '#Evolution'
+  - '#NaturalSelection'
+  - '#Replicators'
+  temporal: []
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  The concept of evolution is often misunderstood as being about the survival of the
+  fittest individual or group, but it''s actually about the survival of the fittest
+  genes. Genes that replicate well and produce traits that help them survive and reproduce
+  are the ones that propagate, even if it''s at the expense of others. This gene-centric
+  view of evolution, popularized by Richard Dawkins, suggests that traits and behaviors,
+  including altruism, can be explained by the selfish desire of genes to replicate
+  and survive.'
+key_ideas: []
+---
+## Key Concepts
+
+**Evolution**  
+The process by which species change over time through genetic variation and natural selection
+
+**Natural Selection**  
+The process by which individuals with favorable traits are more likely to survive and reproduce
+
+**Replicators**  
+Molecules or entities that can replicate themselves
+
+## Cross-Domain Connections
+
+**Biology → Economics**
+
+*Both evolution and market competition favor the survival of the fittest, where 'fitness' is defined by the ability to adapt and reproduce in biology, and by profitability and efficiency in economics.*
+
+The process of natural selection in biology mirrors the competitive market forces in economics, where entities (organisms or companies) that are better adapted to their environment are more likely to survive and propagate. This structural analogy highlights the universal principle of competition driving innovation and efficiency. Both domains see the emergence of dominant traits or strategies over time due to this competitive process.
+
+**Biology → Computer Science**
+
+*The concept of replicators in biology, which are entities that can make copies of themselves, has a direct application in computer science in the form of self-replicating code or viruses.*
+
+In biology, replicators are fundamental to the theory of evolution, as they are the units of selection and variation. Similarly, in computer science, self-replicating code operates on the principle of making exact copies of itself, often with the potential to evolve or mutate. This principle application demonstrates how a concept from biology can inform our understanding of analogous phenomena in technology.
+
+**Biology → Sociology**
+
+*Ecosystems in biology can serve as a metaphor for understanding social networks in sociology, where different species or individuals interact within a shared environment, influencing each other's survival and prosperity.*
+
+Just as ecosystems consist of diverse species interacting in complex ways, social networks are comprised of individuals with various roles and influences. This metaphor helps in understanding how social structures evolve, how information spreads, and how different 'species' (or groups) within a network can coexist or compete. It highlights the importance of diversity, resilience, and balance within social ecosystems.
+
+## Full Transcription
+
+
+
+[ 0m0s428ms ] Speaker 1: If you want to know if someone really understands evolution, just ask them this one weird question. Why does poop smell bad?
+[ 0m6s918ms ] Speaker 2: Oh gosh.
+[ 0m9s138ms ] Speaker 3: Because there's bacteria in it, I guess.
+[ 0m10s528ms ] Speaker 4: Microbiome, probably.
+[ 0m12s688ms ] Speaker 5: Trash?
+[ 0m13s388ms ] Speaker 6: Yeah, trash.
+[ 0m14s38ms ] Speaker 7: Of the body.
+[ 0m14s868ms ] Speaker 8: The food we eat.
+[ 0m16s218ms ] Speaker 9: The chemicals.
+[ 0m18s28ms ] Speaker 10: Farts don't always smell bad. Yeah, well, that's that's a different question entirely.
+[ 0m22s548ms ] Speaker 11: Do you think it objectively smells bad?
+[ 0m24s28ms ] Speaker 12: Mm, yes, I think so. Yes.
+[ 0m27s28ms ] Speaker 11: How do you think it smells to flies?
+[ 0m28s998ms ] Speaker 12: Like the
+[ 0m30s628ms ] Speaker 13: Yeah. They like it. Yeah, they like it. Yeah. Animals love stinky things.
+[ 0m34s148ms ] Speaker 14: Yeah, they're attracted to it.
+[ 0m35s308ms ] Speaker 11: Poop smells good to flies because poop is full of nutrients. They use it as food. But it's also full of bacteria that can be life threatening to humans. So the real reason poop smells bad to us is because if anyone ever thought it smelled good, they would probably get really sick, die, and not pass on their genes. After all, it's about survival of the fittest. But survival of the fittest what?
+[ 1m1s48ms ] Speaker 15: I mean, most people think of natural selection as being about the survival of the fittest individual animal.
+[ 1m5s248ms ] Speaker 16: individual. Individual.
+[ 1m6s698ms ] Speaker 17: Individual.
+[ 1m7s268ms ] Speaker 18: Individual.
+[ 1m7s578ms ] Speaker 19: Animal.
+[ 1m8s78ms ] Speaker 20: Animal. Okay, so it's like an individual. Yeah, which makes sense. I mean, individuals best adapted to their environment have increased odds of survival and therefore a higher likelihood of passing on their genes. So, it follows that each individual should do everything it can to survive and reproduce. That is, it should be selfish. But if that's true, then how do you explain this?
+[ 1m30s38ms ] Speaker 15: I mean, worker bees will sting predators to protect the hive. Even though it might kill them in the process. Female worker ants are sterile, so they can't reproduce. But regardless, they work for the colony for their entire lives until they die. Monkeys adopt orphans, wolves bring meat to non-hunting members of the pack, and squirrels can let out alarm calls to warn others about nearby predators.
+[ 1m58s438ms ] Speaker 11: So, if natural selection is all about selfish individuals, why do we observe so much altruism in nature?
+[ 2m5s318ms ] Speaker 21: The survival is of the species that can adapt.
+[ 2m8s128ms ] Speaker 22: I think generally the species.
+[ 2m9s458ms ] Speaker 23: For the survival of the species.
+[ 2m10s528ms ] Speaker 24: So, it's the survival of the species. Okay, right, right.
+[ 2m12s878ms ] Speaker 11: But survival of the fittest species or the fittest group also doesn't work. I mean, think about what you need for natural selection to occur.
+[ 2m21s638ms ] Speaker 15: You need something that replicates itself many times over, creating copies, and then you need a pruning process whereby some of those copies get eliminated and some thrive to go on and create more copies. The problem with groups or species as a whole is that they don't typically make copies of themselves. So, you almost never get copies of groups fighting other copies of groups to see which groups win out.
+[ 2m45s418ms ] Speaker 11: So, if it's not survival of the fittest individual and it's not survival of the fittest group, then what is it? Well, to explain that, I want to take you on a little journey, all the way back to the beginnings of the Earth.
+[ 3m6s728ms ] Speaker 15: Where we are now, there is nothing. Well, not really nothing, but nothing interesting. There are only simple things like these blobs. This one might be a carbon dioxide molecule or it might be cyanide. We don't know for sure what they are, but we do know that these compounds are very simple. So, for now, they'll just be blobs floating around our void. In fact, much of what we'll encounter along our journey here are just hypotheses. A lot of Earth's early history is still a mystery, so keep that in mind. Now, every so often, our blobs get a surplus of energy, maybe from a ray of UV light or a nearby hot source. This is the first major upgrade to our void, excess energy, as it allows our blobs to interact with each other. Most of the time, this interaction leads to nothing. But sometimes these blobs can combine into more complicated compounds. Here's a simple simulated example where we only have four red blobs. Right now, they are all individual particles. But each time step we move forward, let's say there's a 10% chance that all four combine into one red megablob. Now, imagine this megablob isn't very stable. For every time step it's alive, it has a 95% chance of falling apart back into the four smaller blobs. If we add more of these red blobs into the mix, you'll notice that they rarely ever come together. On average, a megablob only exists around 10% of the time. But, if we were to reduce the chances of the megablobs dissolving to only 1%, the void would suddenly be filled with them. This fact hints at an important law that governs our void: the law of stability. Unstable blobs fall apart and vanish. Stable ones endure.
+[ 4m51s908ms ] Speaker 15: Now, watch what happens if we speed this up dramatically. Maybe a couple of years per second, maybe even a couple million. You can see our blobs keep getting random jolts of energy, so they combine with others to form more complex compounds. Most attempts fail and fall apart, but every so often, by pure chance, you get a compound that is more stable than the blobs it's made of. This doesn't happen because the blobs want to build more complex structures, it's just because these new configurations happen to be more favorable in the environment. And now, when these complicated compounds become abundant enough, they too get a chance to combine, making our void increasingly complex. And one day, by accident, this causes an extremely unique shape to form, one with a special property. See, the blobs it's made of just happened to attract similar blobs from the surrounding environment. This red blob always attracts green blobs, and this purple blob always attracts yellow ones. Piece by piece, all these blobs attract their opposites until their counterparts suddenly snap into position next to the original shape. Now, this shape goes on to do the same thing. Its green blobs attract red ones, and yellow ones attract the purple, until another shape yet again snaps into position. This new shape looks exactly like the original. What just happened fully spontaneously is replication. One shape became two. This marks the birth of the first replicator.
+[ 6m24s818ms ] Speaker 15: We don't know exactly what this replicator looked like. It might have been a single standalone molecule, or a group of molecules that worked together to replicate. There's a lot of debate on this today, so instead let's represent the replicator as a character. How about this one here? Perfect. Keep in mind it's still just a lifeless molecule, one without any intent or purpose.
+[ 6m47s818ms ] Speaker 15: Now, you might think that the chances for the replicator to form were extremely unlikely. But in our void, where we have hundreds of millions of years to play with, what might seem impossible to us becomes virtually inevitable. And the thing is, the replicator only has to arrive once. Once it's here, it can take the simpler compounds available in the environment to copy itself at a much faster pace. And so it does that, until it entirely fills our void. At least that's what you'd expect. But there is a flaw in the process. See, during the replicator's conquest of the void, one of its copies makes a mistake. Perhaps a stray ray of UV light hits it during the replication process, or the replicator uses a building block it wasn't supposed to. As a result, what we're left with is a new shape which is slightly different from its parent, and so its properties might be slightly different too. This error might be harmful. For example, it might make the copy less stable. It could be beneficial, making the copy better at replicating, or it could be neutral, not changing the replicator in any meaningful way. This marks the final milestone in our void, mutation. Many species of replicators now occupy the void. And what they do is they replicate themselves. The problem is they all need the same limited resources. And so our void turns into a battleground. So, which replicator will win? What kind of properties will the void favor?
+[ 8m18s248ms ] Speaker 15: Well, let's try to simulate what happens.
+[ 8m22s348ms ] Speaker 11: Now, if you're looking to run your own simulations or need a place to run your own code, look no further than today's sponsor, Hostinger. Say you wanted to keep track of everyday science news. Manually filtering through thousands of articles for the most important or interesting stories would be almost impossible, but Hostinger lets you easily automate this process. You can use N8N, a platform that lets you automate tasks, but you need a place to host it, and the easiest, most cost-effective, and secure place to host N8N workflows is on a virtual private server or VPS from Hostinger. It's like a powerful computer you rent on the cloud. So, here's how you can create an article scrubber. The workflow can grab every new science article from a list of portals. Then, it can send the articles to Chat GPT to summarize their content. And finally, you can add these quick summaries to a board in Notion. Using Hostinger's pre-installed N8N template, the setup only takes one click, and you're good to start creating workflows. By hosting N8N on a Hostinger VPS, you get all the resources needed to run your workflow smoothly 24/7. Plus, you can have unlimited workflows running simultaneously. Imagine the things you could do and the time you could save with automations on Hostinger. They're having a Black Friday sale right now, so don't miss out. Scan this QR code or visit hostinger.com/veritasiumN8N and use code VERITASIUM to get an extra discount on top of this sale. I want to thank Hostinger for sponsoring this part of the video, and now back to our simulation.
+[ 9m54s668ms ] Speaker 15: To simulate what a replicator battle might look like, let's assign simplified traits to each of the replicators, starting with the first one. This replicator is special, since it's the only one that can form spontaneously from smaller building blocks. So, we'll give it a spawn rate. This should be quite rare, so let's set the chance of formation to 1% per time step. Just keep in mind, we're just making these numbers up. The simulation is purely illustrative. Now, once the replicator spawns, let's say it's governed by three key traits. First, a death rate, the chance of it falling apart or being destroyed with each time step. Let's set that to be, say, 2%. Second, a replication rate, the chance to copy itself with each time step. Let's say 4%. And finally, a mutation rate, the chance a copy comes out mutated. If it's 4%, roughly one in 25 copies will be a mutation. So, every time a new mutation spawns, it will inherit the replication, death, and mutation stats from its parent, but slightly randomized. Notice that we won't give any of these secondary replicators a spawn rate. They'll only be able to form as mutations from previous generations. So, if all of their copies die out, they'll be gone for good.
+[ 11m6s448ms ] Speaker 15: Now, before we run the simulation, I want to quickly shout out the YouTube channel Primer. Our setup was inspired by his amazing in-depth simulations on evolutionary biology. You should really check him out. Okay, let's run it. The graph on the right will show how the populations grow, and this box on the left will show a slice of the void with all the winning replicators in the correct ratios. You can see how the first replicator appears and then immediately disappears, because it just happened to die before it got the chance to replicate. But that's okay. The original replicator can be created from smaller blobs, so it'll come back at some point. This time, it's starting to take off. You can also see that it's spawned some mutations, but they're struggling to keep up. Eventually, though, superior mutations pop up and start to replicate faster than the original. But you can see almost all of them are growing exponentially, which is unrealistic. That's because we're missing the final piece of our simulation, limited resources. The building blocks should eventually run out. We can simulate this effect by introducing a sort of resource factor to each species' replication rate. This factor should depend on the total number of replicators in the void, N, which will also divide with an arbitrary crowding factor, C. C lets us define the maximum number of replicators we'll allow into the void. Say C is 10,000. Then, once there are 10,000 replicators, the two terms cancel out and drive the replication rate down to zero, meaning none of the replicators will be able to make copies until the population drops again. So, let's see how this changes our simulation.
+[ 12m40s778ms ] Speaker 15: Okay, like the last time, the original replicator starts to grow, after which it's quickly taken over by its mutations. But this time, most of these mutation populations start to decline. Because of the scarce resources, the new best population, the lime one, actually starts stealing resources from the others. After that, a few more mutations pop up, even more powerful than the lime. Ultimately, the purple replicator takes over, occupying around 9,000 of the 10,000 available spaces. It completely curbs all the other populations. It goes without saying that the environment plays a massive role in which replicator wins. If you change the environment, you likely change the outcome. But let's look at the stats of the replicator that came out on top this time.
+[ 13m29s138ms ] Speaker 15: That winning species has a replication rate of 20%, compared to the 17% average across all populations. Obviously, being able to replicate quickly pays off here. Its death rate is below average. Replicators that fall apart less quickly can make more copies. And finally, it has a 1% mutation rate, compared to the average of 3.73%. Although mutations help by injecting diversity, for any single species, fewer mutations mean more faithful copies.
+[ 13m58s938ms ] Speaker 15: If we rerun the simulation, you'll notice the outcomes are always slightly different. But the winning species consistently have high replication and low death and mutation rates.
+[ 14m10s48ms ] Speaker 15: Now, in the real void, things wouldn't have been as simple. Instead of just tweaking these three stats, the replicators would have to mutate all sorts of different ways to gain an advantage. For example, one replicator might mutate a trait that lets it destroy other individuals, and then use their building blocks to make more copies of itself. This looks like strategy, but it's really just chemistry that gets copied over and over because it helps the replicator survive. Naturally, a risk of offense would likely favor mutations that result in defense. So, an opposing replicator might stumble upon a mutation that helps it form protective barriers from nearby materials, letting it endure those attacks. These barriers would also help protect the fragile replicators from environmental damage like UV light. This marks an important threshold. The replicator's traits aren't limited to just determining the properties of the molecules themselves. They can also shape the environment. So, by chance, the replicators inevitably mutate in ways that build scaffolding around themselves to increase the chances of their survival. They stumble upon ways of making structures to propel themselves around. They develop sensors and ways of storing energy. They even mix, exchange, and steal traits from each other. Through billions of years of trial and error, this scaffolding gets more and more complex, and as a result, the replicator's interactions with the void become exceedingly indirect. They build complex survival machines for themselves, machines whose sole purpose is to protect the replicators inside. These machines became such experts at surviving, they're still around some four billion years later. They are the bacteria, plants, fungi, and animals all around you. Everything alive, including you, was built as a survival vessel for these replicators. But today, you'd barely recognize them as replicators. Now, we just call them genes. They're hidden deep within every living creature, strands of DNA made from the sequences of A, T, G, and C nucleotides. Now, one of the leading theories is that those earliest replicators were actually something closer to RNA molecules, but then over time, this must have evolved into a more stable system of storing information, the DNA and proteins we use today. They are the code that shapes our traits. We're taught that these traits are here solely to help ensure our survival, the survival of the individual or the species. But do we have this the wrong way around?
+[ 16m41s489ms ] Speaker 25: when you have a child, what do you pass on?
+[ 16m43s539ms ] Speaker 26: DNA. Yeah, yeah, yeah, the genes.
+[ 16m46s49ms ] Speaker 15: These tiny replicators are still fighting the same battle that started billions of years ago, and the logic behind them hasn't changed. The traits just become more convoluted. Replicators that produce traits poorly suited to their environment tend to become less common, while those that produce advantageous traits become more numerous in the population.
+[ 17m4s369ms ] Speaker 11: So, it's not about the fittest individual or group. It's fundamentally about the survival of the fittest genes. They are the core unit of natural selection. But why would natural selection care exactly for the gene? Why not something smaller or something bigger?
+[ 17m21s39ms ] Speaker 15: Well, for something to undergo selection, it needs to have three characteristics. First, it needs to be able to make near identical copies of itself. Second, it needs to exhibit traits that affect its interaction with the environment, which third, affect the probability of survival and reproduction of the replicator. Something small like a single nucleotide doesn't work, because, sure, it'll make identical copies of itself, but alone, it doesn't exhibit a trait that could be selected for. What about something bigger like a chromosome? Well, each chromosome affects potentially thousands of traits that could influence its survival, but when most creatures reproduce, sections of chromosomes get swapped around, so a chromosome doesn't stay together as a cohesive replicating unit, and therefore it can't be selected for. But a gene is somewhere in the middle. It's a long enough stretch of DNA that it can independently influence a trait, but it's also short and stable enough to be faithfully copied over into future generations. This is why the gene is the unit of natural selection. This perspective led to one of the most powerful and controversial ways of seeing evolution, one popularized by Richard Dawkins in his book, The Selfish Gene, based on the work of evolutionary biologists in the 1960s and 70s, and as a response against the then very popular group selection theory, Dawkins argued that just about every trait, from animals helping each other to being completely selfish, is a strategy that helps their genes survive and replicate. Genes that maximize their own survival are the genes that propagate best, even if they do so at the expense of others. Or in Dawkins' words, we are survival machines, robot vehicles blindly programmed to preserve the selfish molecules known as genes.
+[ 19m2s829ms ] Speaker 11: Now, you might think this framework isn't all that groundbreaking.
+[ 19m6s449ms ] Speaker 15: I mean, take the Emperor penguins in Antarctica, for example. They hesitate to jump into the water until they are sure there are no seals around. So, what kind of genes could help a penguin survive in this environment? Well, if the penguin's set of genes make it more likely to be timid, the penguin might stay back until someone braver tests the water. That way, the penguin is at a lower risk of being eaten and has a better chance of surviving, reproducing, and passing on its timid genes. Here, you can think about this either as the timid genes help the penguin or the penguin helps the timid genes. Either way works.
+[ 19m40s109ms ] Speaker 11: So, is there any real benefit to viewing things from the gene's perspective?
+[ 19m44s389ms ] Speaker 15: Well, look at what happens when you use these two frameworks to explain altruistic behavior, which appears in a lot of places in nature. Take California ground squirrels, for example. Females will let out alarm calls if they spot a predator, like a fox or a hawk, to warn other nearby squirrels, even though this puts her survival at risk. The genes influencing this behavior surely don't help this squirrel. But can the squirrel still help the gene?
+[ 20m11s439ms ] Speaker 27: I think this is a bit more clear if you think about the fact that most living things reproduce sexually. Right. So, a squirrel will get half its DNA from its mom and half from its dad, so it's actually sharing half its genes with each parent, but also any child that it has, it's also going to share half of its genes with the child, but also any siblings. But then if you take a step out to an uncle, or up to a grandparent, then it's sharing 1/4 and then another step out is 1/8. All to say, you share a lot of genes with your immediate family. And, uh, California ground squirrels, females in particular, they live around family.
+[ 20m48s369ms ] Speaker 15: So, if a squirrel has a set of genes that make her call out when she spots a predator, there is a very good chance that the squirrels that hear her warning call also carry those genes. Now, as a result of her alarm call, let's say the squirrel attracts a predator her way and it ends up getting eaten. This action costs the call genes the chance to pass themselves on to any future offspring in that squirrel. But, if the warning call saved at least two copies of those genes in two of the squirrel's relatives, well, then in total, these two squirrels have a better chance of passing on the genes through their offspring than that single squirrel did. From the gene's perspective, this could be a good trade-off. It doesn't matter which individual helps the gene replicate, only that as many copies as possible survive.
+[ 21m34s179ms ] Speaker 11: This principle that altruistically helping your close relatives helps preserve your own genes is known as kin selection.
+[ 21m40s979ms ] Speaker 15: And the payoff behind any altruistic gesture under kin selection depends heavily on how related you are to the individuals you're helping, because the less related you are, the smaller the chances that you will share that particular gene with another individual.
+[ 21m54s719ms ] Speaker 11: And you can see this in nature. Male squirrels that don't live near relatives almost never give out warning calls.
+[ 22m3s919ms ] Speaker 11: Now, there is a big question this gene-centric view still has to address. If selection really favors genes that replicate well, then why would sex ever evolve as a means of replication if it throws away roughly half the genes?
+[ 22m17s359ms ] Speaker 15: Most animals reproduce sexually, so why do it when some organisms, like certain plants and fungi, get to pass on all of their genes through asexual reproduction? From a gene's perspective, this seems like a much better deal.
+[ 22m30s919ms ] Speaker 28: when it comes to sexual reproduction, people like to say, okay, well, it mixes up the genes. It's like shuffling a deck of cards. And isn't that better for creating more variation, and clearly like that's advantageous.
+[ 22m43s569ms ] Speaker 27: Another way this has been explained is if the genes that regulate sexual reproduction benefit from replicating sexually, then they're going to keep pushing for these genes. Right.
+[ 22m54s599ms ] Speaker 28: Even if it's a net negative to all the other genes in the genome. Yeah.
+[ 22m59s229ms ] Speaker 27: So, if it benefits them, they'll keep pushing for it.
+[ 23m2s189ms ] Speaker 11: So, are there any problems with how the selfish gene explains natural selection? Well, yes. I mean, it turns out the framework comes with a lot of controversy.
+[ 23m14s319ms ] Speaker 15: One of the biggest criticisms against the selfish gene is that it leaves little to chance and implies that every gene present in the genome is there because it actively got selected for by natural selection over many generations. But many genes are actually invisible to natural selection because they don't really exhibit meaningful traits in the population, yet they can still evolve over time. Imagine 20 blind cave fish, 10 with green eyes and 10 with blue. Since they're blind, we'll assume that their eye color traits make no difference to their survival, so they get passed down purely by chance. Now, to form the next generation, randomly pick any fish from the first group and replicate it. If you repeat this 20 times, you get a second generation. By chance alone, one color will probably appear more often than the other. And if you repeat this process over and over, many generations, one color might eventually completely take over. That's not because it's better, but purely due to random sampling. This shift in the frequency of gene variants is called genetic drift. It's most apparent in small populations and for traits that aren't pruned by natural selection, but it doesn't only apply to silent genes.
+[ 24m21s919ms ] Speaker 11: Even when genes exhibit meaningful traits, there is a chance that genetic drift overrides natural selection and a less fit gene will spread through the population just by chance.
+[ 24m31s799ms ] Speaker 15: Look back at our replicator battle. If we run our simulation enough times, sometimes the winning gene won't be the one with traits that maximize its own survival. Here, you can see that the winning population actually has a higher than average mutation rate just by chance, and the average mutation rate is also higher than the starting value. These are simplified examples, but there is an ongoing argument about how much of evolution was actually due to natural selection and how much of it was up to chance.
+[ 24m58s979ms ] Speaker 11: Another major critic-

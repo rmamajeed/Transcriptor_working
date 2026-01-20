@@ -1,0 +1,38 @@
+---
+title: "Build Epic Startups with NotebookLM\uFF1A Complete Workflow Compilation_part1"
+audio_file: "Build Epic Startups with NotebookLM\uFF1A Complete Workflow Compilation_part1.mp3"
+date_processed: '2025-08-03'
+tags: []
+domain: Uncategorized
+summary: The transcription process encountered an error (code 429) because the user
+  exceeded their API quota for generating content. Specifically, the free-tier limit
+  of 50 daily requests for the `gemini-2.0-flash-exp` model was reached. The user
+  is advised to check their plan or retry after 44 seconds.
+key_ideas: []
+note_id: 4f441d2f-7131-403e-8c76-69198a1f0251
+---
+## Discussion Topics
+
+*(No discussion topics generated)*
+
+Error during transcription: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 44
+}
+]

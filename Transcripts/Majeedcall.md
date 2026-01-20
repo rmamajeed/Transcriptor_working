@@ -1,0 +1,156 @@
+---
+title: Majeedcall
+audio_file: Majeedcall.m4a
+date_processed: '2025-12-19'
+tags:
+- '#BookmarkValidation'
+- '#TemplateValidation'
+- '#PowerAutomate'
+- '#LetterVerification'
+- '#Majeedcall'
+domain: '**Document Processing** or **Process Automation**
+
+
+  (The conversation heavily revolves around automating the extraction, comparison,
+  and validation of data within documents like letters, PDFs, and Word files, using
+  tools like Power Automate and discussing concepts like templates, bookmarks, confidence
+  scores, and bot training.)'
+summary: The discussion centered on two proposed approaches for validating generated
+  letters against templates and database values. The first approach used an Excel-based
+  comparison for bookmarks, deemed somewhat acceptable for validating values but not
+  the template itself. The second, utilizing Power Automate for PDF validation, was
+  less favorably received due to low confidence scores, significant manual effort
+  required for training (five templates per letter), and unanswered questions regarding
+  scalability across 700 unique letters. Ultimately, the team was tasked with exploring
+  alternative solutions and providing detailed effort estimates.
+key_ideas: []
+note_id: db8b1eda-2ed5-4ca8-99ac-bd569f51aff0
+---
+## Discussion Topics
+
+- **Here are 4 key ideas from the transcription:** 
+- **Bookmark-based Letter Validation (First Approach):** ** A proposed method for validating generated letters by comparing bookmark values imported from a template with data from a database, then cross-verifying them against the actual letter content.
+- **AI/Bot-based PDF Validation (Second Approach):** ** An alternative approach demonstrated using Power Automate to extract and validate data from PDF documents, showing "confidence scores" but facing skepticism due to low accuracy and significant manual training requirements.
+- **Challenges with Scalability and Diverse Letters:** ** Significant concerns were raised about how the proposed solutions would scale to handle 700 different letters, each potentially having unique or complex bookmarks, varying content, and requiring substantial manual effort for setup and training.
+- **Overall Dissatisfaction with Proposed Solutions:** ** The audience expressed general dissatisfaction with both presented approaches, highlighting unanswered questions regarding accuracy, automation, and the fundamental validation strategy.
+
+
+
+[ 0m0s77ms - Speaker 1 ] notes, yeah.
+[ 0m1s746ms - Speaker 2 ] not. I'll take notes. Okay.
+[ 0m3s566ms - Speaker 1 ] Yeah, okay. So that's what it is sorry about that.
+[ 0m6s895ms - Speaker 2 ] Sure, sure, not a problem.
+[ 0m7s935ms - Speaker 1 ] I mean, you think the Honda laptops directly, so we are not supposed to definitely not supposed to do it. Yeah.
+[ 0m14s325ms - Speaker 1 ] And uh, okay. So here we go. So what they presented was like the first solution was like, uh, they imported the values from the bookmark like the template is there, right? So they imported the bookmarks as you can see this is the bookmark.
+[ 0m29s645ms - Speaker 2 ] Okay.
+[ 0m30s535ms - Speaker 1 ] And this is the value from the DB. Okay. If you want, I can maybe send it to Gouthami Honda network. If she has some way to, uh like she has some way to, uh send it to you and cognition. I'm okay with that. Yeah.
+[ 0m35s930ms - Speaker 2 ] Ah, okay.
+[ 0m44s945ms - Speaker 2 ] I I don't need even to have it in my system, even if Gouthami has it, that should be fine. I will refer through that.
+[ 0m50s535ms - Speaker 1 ] Yeah, I I can send it to her video. That was for me, yes.
+[ 0m55s235ms - Speaker 1 ] Yeah. Okay. So this is like say once bookmark they imported from the template, like the letter template, okay. And this is the bookmark value and they had this values from the database. Okay.
+[ 0m55s535ms - Speaker 2 ] Fine.
+[ 1m7s755ms - Speaker 1 ] And what they did was like, uh, they said like they use some bot. They said like Power Automate, and they said like they will when we get the template, they'll import it and then they'll get the values from the bookmark. This is the bookmark. If they will check like the cross verify the bookmarks like one in template is what is there in the generated letter. So this column A and C will be compared. And the column B would be like the data from the letter, okay. Data from the document and they will cross verify across the bookmark value from the database.
+[ 1m20s965ms - Speaker 2 ] Understand. Okay.
+[ 1m41s545ms - Speaker 1 ] So they they like A and C comparison and B and D comparison, they will get the values like true or false. So this is nothing to do with bot. I only point where they felt the bot. They said they they bot will run and they will pick the bookmark that's what they but they use power automate. They I don't think like they are using any open or anything. They just use power automate. They just uh did it. And this was the first approach. So what I will tell you like what all the questions and how the things went through. The second one was this is what they showed. Okay. They showed and this is how they ran this system. They said it is importing all the bookmarks. So here's what they said. Okay. So it's importing all the bookmarks. So this was the running run time, whatever it is. So this is what they showed and then they value for populated. And show me a bit more. So this is where the after the value is populated, it's like it imported the template and imported the letter. A and C validated and it's like true. And the next one was like, uh values from DB and values from the document. Okay. So in this phase, the first question they were asking, it's like a, uh they were importing the values from the word document. Okay. So the first question was like, why aren't we doing the PDF too? So he was like Kiran is a development manager. He was like, why aren't we doing like a PDF and why don't we do like a word, word, word check like he was text to text check. Why don't we do that? So that would make the process even more easier. Like why are we like having it because word is mostly the temporary file and why are we doing this? So that was the question they asked. And the second one they asked was like, they they they made, uh him like the LTA person update the bookmark value. Okay. So if you see here, they made him to update the bookmark value on spot. Like here if you see it was city and here it is like they said it was like City one, right? So they wanted to see if there is bookmark error and they made him the they made him like validate this. Okay. So they made him do it on spot like, uh, okay. From the generator letter, you update the bookmark value and in the word, they were using word document. So they made him to like update the word to like, okay, update this bookmark value, you will see like if the bookmark value is right or wrong. So they proved like it was not working as expected. So this is what they did. Okay.
+[ 3m2s18ms - Speaker 2 ] So he has.
+[ 4m8s307ms - Speaker 2 ] Fine.
+[ 4m9s15ms - Speaker 1 ] Yeah. So this was the first uh two questions like why are we doing like PDF from text to text validation. And next one is they made him update the bookmark on spot and then they validated if it is working or not. Okay. And the next question they asked like if we give a template and a letter, like will you be able to do it on spot? Like will you be able to import the bookmarks and will you be able to do it on spot, which they didn't answer very clearly for that. And, uh the next part which they showed is like they showed it like a two segments. Okay. So they were convincing us like, uh, okay. Here you can just do the bookmark. So when the question was like what if the wrong template was populated, but for that they give a convincing answer like, okay. If the bookmark is wrong, if the letter is wrong, anyway this bookmark populated will be wrong. So from that point you can know like, uh the bookmark itself, the letter itself is wrong. But for that, Aditya and Rishi responded, they responded like, uh, so what is the point of doing this is the second step, right? Why do we validate bookmark? The first step is to validate the template. So and that point itself we can, if we can figure out something and if we can stop the validation, we don't have to come to the second step, right? The first step is the template validation. The second step is the bookmark validation. So we could have stopped at the first point, right? But they were like, okay. Anyway, your point is to check the contents and this, uh, they were they were firm on that point. Okay.
+[ 5m32s835ms - Speaker 1 ] And the second one would be like they they wanted to show like uh automated something bot something. So what they did was they used Power Automate and they on spot they imported uh a PDF file. So for that the Kiran's question about PDF, right? Why aren't we doing that? So for that, what they did was like they imported this PDF file. And, uh, they had some values which is like, uh the bookmark values which are highlighted. And they showed like, okay. If you hover over this, this is going to have the confidence score of like 95%, 82% something like that. There were so many spots where the confidence score was 82 for which like Rishi was not very okay. And there were some, uh, fields that were not highlighted like the date or something. Bookmark was not like did not have this tangent or whatever it is. So for that, they were like, oh, we are going to import, we have identified certain fields like this. So it is only loading those fields. So they were telling that okay.
+[ 5m40s285ms - Speaker 2 ] Yeah.
+[ 5m44s375ms - Speaker 2 ] Ah, yeah.
+[ 5m49s535ms - Speaker 2 ] Ah, okay.
+[ 6m6s895ms - Speaker 2 ] Yeah, sense, sense, okay.
+[ 6m21s340ms - Speaker 2 ] Hello.
+[ 6m32s985ms - Speaker 1 ] But Rishi's question was this.
+[ 6m34s140ms - Speaker 2 ] Okay. Ah.
+[ 6m36s320ms - Speaker 1 ] Just one thought, okay.
+[ 6m36s610ms - Speaker 2 ] Just one, uh, thought, okay. Why if they're not using AI, uh, and they're only using AI to, uh, extract the values or populate the values, right? Uh, why is why should the confidence score be, uh, discussed over here or even shown over here? Uh, that was a that is not.
+[ 6m41s5ms - Speaker 1 ] Yeah.
+[ 6m55s615ms - Speaker 1 ] They were telling this is like a bot. Okay. They were they were portraying this we could definitely tell, but we couldn't tell that. Okay. This is just a power automate. Okay. So they were telling like, okay, we are using bot here. We are uh doing the we are extracting the values. So they were portraying this part as bot where we couldn't make any comment because they are vendors, right?
+[ 7m0s365ms - Speaker 2 ] Yeah.
+[ 7m16s887ms - Speaker 2 ] Yeah, fine.
+[ 7m19s325ms - Speaker 1 ] So this was the question from uh Rishi, okay. So, so the way I'm looking at it, it it's like a two kind of comparison. So one is like the bookmark validation which was the Excel this thing, right? So this was the Excel valuation he is mentioning. And the next one is like, uh, then we take the word document as Kiran is saying and just blindly compare the PDF text by text. And also value is validated at the CSV level. And then two letters, you know, word and PDF format. The second one is like the ones which they are importing. Right? This one the PDF. So it's he's asking is this text by text comparison or like and here what they said was the confidence score was less, right? Like 82 or something. So Rishi asked a question. So why do we have this less confidence score? And for that, they said like, okay. We need at least five templates for each letter to train the bot.
+[ 7m21s665ms - Speaker 2 ] Okay.
+[ 7m30s335ms - Speaker 2 ] Correct, correct.
+[ 7m53s555ms - Speaker 2 ] Ah.
+[ 8m2s415ms - Speaker 2 ] Okay.
+[ 8m15s665ms - Speaker 2 ] Ah.
+[ 8m16s665ms - Speaker 1 ] Okay. And okay. That's what they mentioned. And
+[ 8m17s545ms - Speaker 2 ] It's actually.
+[ 8m21s565ms - Speaker 1 ] Yes, so let me continue so that I'll do the whole conversation and maybe you can pitch in later. Yeah. So what they said was, uh, okay. We need five templates per letter, uh, to train this bot. That's what they mentioned. Which for which we were not everyone were impressed by the fact because the five letters we have to manually trigger it because they didn't show anything where the letter is automatically triggered. But what Vishal was saying, Vishal was like a bit over the LTA. So he was telling like it takes one day for us to trigger all these letters. So they were telling, okay. Once we get all the template, we can do it within it within like hours or minutes. We can train it within hours something like that. Okay. We need like one or two hours to train the bot. So as long as we get the templates, we can train it SAP and the confidence score will go up.
+[ 8m25s865ms - Speaker 2 ] Sorry.
+[ 8m46s295ms - Speaker 2 ] Okay.
+[ 9m9s705ms - Speaker 2 ] Okay.
+[ 9m10s495ms - Speaker 1 ] So, uh, but I don't think like they were very much impressed by that because they if we want,
+[ 9m27s364ms - Speaker 1 ] something like an XL output, right?
+[ 9m29s814ms - Speaker 2 ] Yeah.
+[ 9m38s314ms - Speaker 1 ] Excel, like, uh, okay. This is matching this is PDF and the CSV, it is matching, matching, matching. So this is what they showed as the output. Okay. So they were like, okay. As as long as it's like if you want to validate the bookmark, we are okay to go with this. But at the end they told like they were not like very they told like, okay, try to explore some other options and they also said like, uh, okay, uh like try to come up with an hours estimate for which you will need like how many hours you will need for to train and those things generation all those like training the bot or if you want to do this, like what would be the estimate? So we have 700 letters. What would be the estimate for this? So those were the two questions asked. Like this were the overall discussion. Okay.
+[ 9m47s484ms - Speaker 2 ] Right.
+[ 10m29s814ms - Speaker 2 ] Okay.
+[ 10m31s824ms - Speaker 1 ] Yeah. So you have any questions for me?
+[ 10m35s624ms - Speaker 2 ] Uh. No.
+[ 10m37s454ms - Speaker 1 ] Good you.
+[ 10m39s204ms - Speaker 2 ] No. Uh, actually.
+[ 10m39s894ms - Speaker 1 ] But I could feel like it was not very impressive.
+[ 10m42s624ms - Speaker 2 ] I understand. So.
+[ 10m43s544ms - Speaker 1 ] So I could dissatisfaction.
+[ 10m45s684ms - Speaker 2 ] Whatever whatever questions you, I mean, they had discussed upon the queries, what was discussed upon. We will be able to, uh, answer and balance it out. Uh, on the top of my mind, that is that is my feeling. That is one. Uh, second is, uh, can you go to that, uh, uh, that email, uh, you you had sent this email, right? Uh, the invite. In that invite you had pointed out some six, uh, line items.
+[ 10m46s704ms - Speaker 1 ] Okay.
+[ 11m15s44ms - Speaker 1 ] Yes.
+[ 11m15s524ms - Speaker 2 ] Yes. Can we just go?
+[ 11m16s864ms - Speaker 1 ] Yes, sir.
+[ 11m19s524ms - Speaker 2 ] Yeah, can we just go one, uh, uh, through those six, seven items.
+[ 11m23s614ms - Speaker 1 ] Yeah, sure, sure. We'll do that. So it was like, he was asking since the confidence, uh, score was like 82, right? So they were like how confident are you about this PDF versus template versus this database on text to text level comparison? So how accurate is it? So if we are going by the method one where they had this two import the values from the template and the values from the database. Right. So he was actually like how confident are we if we are going with that approach.
+[ 11m44s314ms - Speaker 2 ] Right.
+[ 11m52s844ms - Speaker 2 ] Okay. Okay.
+[ 11m54s254ms - Speaker 1 ] Okay. So like and how accurate is it? But they could prove it to us accurate because if you see the screenshot, they made him to do on spot, right? So I would recommend you in case if they ask you to update any word template or any bookmark, please be prepared for that. Okay.
+[ 12m9s114ms - Speaker 2 ] Understand, okay.
+[ 12m10s394ms - Speaker 1 ] They were they were they were making him do on spot. Like, okay. Do double click this, this, this, this. So they were doing making him do all those things. Okay. So yeah, please be prepared for that. I would say. And the second one is like, how is the bookmark comparison handled for different letters. So we have like 700 letters. Like how are we going to handle all those? Okay. So that was the uh the next question.
+[ 12m16s404ms - Speaker 2 ] So they were.
+[ 12m18s244ms - Speaker 2 ] Sure.
+[ 12m29s84ms - Speaker 2 ] Correct.
+[ 12m33s444ms - Speaker 2 ] Okay.
+[ 12m36s544ms - Speaker 2 ] Okay. Uh,
+[ 12m37s254ms - Speaker 1 ] So how are we going to handle it? How would be estimated? Like those were the general kind of questions. Okay.
+[ 12m42s514ms - Speaker 2 ] Okay. Uh, one question here, right? Uh, here when they say different, uh, bookmarks, it will be, uh, I think there were there were certain conditions where, uh, the bookmarks are not directly taken from CSV. Uh, it's added, uh, two bookmark being added and one value is being added into the PDF. That is a one of scenario.
+[ 12m57s714ms - Speaker 1 ] Yes.
+[ 13m3s834ms - Speaker 1 ] Calculated field. Calculated field.
+[ 13m6s44ms - Speaker 2 ] Calculated scenario, which we discussed in our discussion. I, uh, gave some idea for that. But what other, uh, what are they exactly, uh, meaning by this line? When they say, uh, how are different, uh, bookmarks being handled? Uh, do you know?
+[ 13m22s194ms - Speaker 1 ] Okay. So it's like all the 700 letters are going to have like unique bookmarks, right? So he was asking like they were showing only one letter. Okay. They were so his question was like, oh, if we have like a 700 letters, like how are you going to handle it? All these different is going to be like a different, different bookmarks and it's going to be like a different content. Like how are you going to handle it? And there is one thing, there is one thing which is like, uh, there were some lines which were removed as part of this letters. Okay. So it was there in Honda Acura, but it is not there. So they were asking like how are we going to do that? Is it going to compare the template something those kind of questions were also there. Okay. In case if the wrong mapping has happened, let's say it is populating the Honda and Acura. The template could be same, but that particular line, go to my garage or something. That was deleted for off make. Okay. So if it is going to trigger the same letter, so if the line is there, how are we going to validate that? So those kind of questions, like how are we going to tackle that? So those were the general kind of questions. Okay. So it's like they were mostly on like how bookmark and the template and the field validation. It was like focused on that and they were making him do it on spot. Like okay. Do this, try that. Let's see if it is working. And if it is not working, are we getting an error message? Why is it not working? Something like that. They were asking.
+[ 13m26s64ms - Speaker 2 ] Correct. Unique bookmarks and unique, uh, number of bookmarks is also varying, like 10 and 8, and.
+[ 13m33s254ms - Speaker 1 ] Yes, yes, it's varying. Yes, it's varying.
+[ 13m50s694ms - Speaker 2 ] Makes sense. Okay.
+[ 14m28s644ms - Speaker 2 ] Yeah.
+[ 14m48s774ms - Speaker 2 ] Okay. Okay.
+[ 14m49s734ms - Speaker 1 ] Okay. Yeah. And the next one is like when provided a new set of templates or CSV or letters, can the system extract bookmarks and cross verify them? So they didn't do that City one or something like that. Right. And next one is like, does the approach require training with multiple set of letters and what level of manual effort is involved. So this is where they mentioned like they need at least five templates for each of the letter. Okay. So they were asking like, okay. We have like 700 letters. So we were like, uh five letters for each time. So we have to manually go and trigger it because they didn't propose any solution for this manual effort. So they were under impression, okay. We will give the letters to them like we will manually trigger the letters and give it to them. So do you have any solution for that? So they like they five is quite large number like 700 into 5, it's quite a big number. So they were asking like, Vishal was supportive to that because he was like, okay. I can do it in one day. I can I need one day and I'll give it to them for training purposes. And they said like, okay. We will need like hours to train that. So we are okay with that. But Rishi was like in numbers, okay. I need estimates in numbers. Like how do you need if you go with approach one? And how do you go with approach approach two considering all this manual effort, give me a number. So that was Rishi's ask. Okay.
+[ 15m2s4ms - Speaker 2 ] Understand. Okay.
+[ 15m16s864ms - Speaker 2 ] Okay.
+[ 15m43s224ms - Speaker 2 ] Okay.
+[ 16m10s474ms - Speaker 2 ] Okay.
+[ 16m11s684ms - Speaker 2 ] Understand.
+[ 16m13s514ms - Speaker 1 ] And the next one is like if your next one is like for documents with more than two pages, does it extract all the bookmarks and verify the contents accurately. So they were showing they showed a document where it had like a four pages letter. Okay. So the letter was like four pages and they were trying to extract and they were trying to validate all those.
+[ 16m14s354ms - Speaker 2 ] Okay.
+[ 16m26s494ms - Speaker 2 ] Ah, okay. Okay.
+[ 16m33s384ms - Speaker 2 ] Okay.
+[ 16m34s744ms - Speaker 1 ] And this is about the calculated fields. Okay. So when it comes to calculated field, it is like an I would say it is like an embedded bookmark. Okay. Let's say if there is a bookmark which is like, uh a calculated field, it will be like the bookmark will have like, okay. Bookmark 3 equals bookmark one plus bookmark two.
+[ 16m50s454ms - Speaker 2 ] Correct. Correct. This is what we discussed the other day.
+[ 16m52s894ms - Speaker 1 ] Okay.
+[ 16m53s514ms - Speaker 2 ] Mathematical.
+[ 16m54s344ms - Speaker 1 ] Yes, yes. So it's going to be here. Yes, it's going to be like a calculation. So it is going to be in the system. So they were telling Vishal was like, as I said, like Vishal was a bit lenient towards LTA because he's almost involved with them. So he was like, okay. It's fine. We have only 20 to 30 letters which will have the calculated field. So we have somehow managed at least for those letters. So that was his response. But they didn't answer anything for that. Okay.
+[ 17m19s994ms - Speaker 2 ] Yeah.
+[ 17m20s444ms - Speaker 1 ] And in case of failure like,
+[ 17m22s754ms - Speaker 2 ] Yeah.
+[ 17m23s64ms - Speaker 1 ] Yeah, how can we track back? Like in case if it's failing, like how do we know like it's a template failure or it's a value failure. So they were just showing the bookmark alone. Right?
+[ 17m32s854ms - Speaker 2 ] Okay. Okay. Fine.
+[ 17m34s324ms - Speaker 1 ] So they didn't do anything with the template. They just showed the bookmark. Okay. We are doing the Excel to Excel comparison for these these fields and we show this in the Excel. So that's what. So like we couldn't see a point where how we are tracking back this was like and also for the manual thing, right? We are going to each of the field and we are hovering over it rather than like we don't have any UI which will give us the value. Okay. This field is missing something like that. Whereas we had a value which is like, okay. We hover over each of these fields and it will be showing us the confidence score. So this was practically I have to hover over this, this, this, this, this. Okay. So they I could say the second approach no one was interested. Okay. But if we can go with the first approach, they were like, okay. As long as the bookmark is validated, we are good, but the template validation is not done. But at least it can reduce some of our manual effort. We are okay with this kind of approach. But they asked anyway, they didn't give like approval or something. They were like, okay. They were okay. This is a better looking than the second one. And they were, uh they were like, okay. Let's uh try to come up with the effort and I would also recommend you to go identify some other approach like how can we do better? So those kind of suggestions were given to their team and people.
+[ 17m40s54ms - Speaker 2 ] Okay. Okay.
+[ 17m41s734ms - Speaker 2 ] Okay.
+[ 17m58s724ms - Speaker 2 ] Oh, I understand.
+[ 18m11s684ms - Speaker 2 ] Correct, correct.
+[ 18m14s764ms - Speaker 2 ] Okay.
+[ 18m18s734ms - Speaker 2 ] Okay. Okay.
+[ 18m25s864ms - Speaker 2 ] Yeah.
+[ 18m41s134ms - Speaker 2 ] makes sense.
+[ 18m55s534ms - Speaker 2 ] Okay. Okay.
+[ 18m57s324ms - Speaker 2 ] Fine.
+[ 18m58s304ms - Speaker 1 ] Yeah. So this was the overall

@@ -1,0 +1,414 @@
+---
+title: Veritasium_Why don't jet engines melt？_20251117_part1
+audio_file: Veritasium_Why don't jet engines melt？_20251117_part1.mp3
+note_id: 38c6f3c7-f795-4a42-ab13-e17596c858fa
+date_processed: '2026-01-12'
+classification:
+  primary_domain: Physics
+  sub_domains:
+  - Thermodynamics
+  - Materials Science
+  - Aerodynamics
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: Derek Muller
+    role: Host
+    contribution: Explaining jet engine mechanics
+  - name: Speaker 2
+    role: Rolls-Royce engineer/academic
+    contribution: Discussing turbine blade materials
+  - name: Speaker 4
+    role: Department of Materials Science and Metallurgy at Cambridge University
+    contribution: Testing metal samples
+  works_cited: []
+  concepts_mentioned:
+  - Jet engine
+  - Turbine blade
+  - Thermodynamics
+  - Materials Science
+  - Carnot efficiency
+  laws_theories_cited:
+  - Carnot efficiency
+concepts:
+- name: Jet engine
+  definition: A type of internal combustion engine that generates thrust by expelling
+    hot gas
+  parent_concepts:
+  - Internal combustion engine
+  related_concepts:
+  - Turbine blade
+  - Thermodynamics
+  abstraction_level: Applied
+  confidence: 1.0
+- name: Turbine blade
+  definition: A component of a jet engine that extracts energy from hot gas
+  parent_concepts:
+  - Jet engine
+  related_concepts:
+  - Materials Science
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: Carnot efficiency
+  definition: The maximum efficiency of a heat engine
+  parent_concepts:
+  - Thermodynamics
+  related_concepts:
+  - Jet engine
+  - Turbine blade
+  abstraction_level: Fundamental
+  confidence: 1.0
+relationships:
+- source_concept: Jet engine
+  target_concept: Turbine blade
+  relationship_type: applies_to
+  strength: 1.0
+  evidence: Jet engines use turbine blades to extract energy
+  reasoning: Functional relationship between components
+- source_concept: Carnot efficiency
+  target_concept: Jet engine
+  relationship_type: derives_from
+  strength: 1.0
+  evidence: Jet engine efficiency is limited by Carnot efficiency
+  reasoning: Theoretical foundation for jet engine performance
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Physics
+  source_concept: Carnot efficiency
+  target_domain: Economics
+  target_concept: Pareto efficiency
+  insight: Optimal resource allocation
+  explanation: Both Carnot efficiency in physics and Pareto efficiency in economics
+    deal with the optimal allocation of resources to achieve maximum output. In physics,
+    Carnot efficiency is about the maximum possible efficiency of a heat engine, while
+    in economics, Pareto efficiency is about the optimal allocation of resources such
+    that no individual can be made better off without making another worse off. The
+    structural analogy lies in the concept of optimizing output given certain constraints.
+  potential_applications:
+  - Resource management
+  - Optimization problems
+  confidence: 0.9
+  historical_example: The concept of Carnot efficiency was first introduced by Sadi
+    Carnot in 1824, and later influenced the development of Pareto efficiency in economics.
+- connection_type: principle_application
+  source_domain: Physics
+  source_concept: Turbine blade
+  target_domain: Aerodynamics
+  target_concept: Airfoil design
+  insight: Optimizing aerodynamic performance
+  explanation: The design of turbine blades in physics and airfoils in aerodynamics
+    share similar principles. Both involve the optimization of shape and angle to
+    maximize efficiency and minimize drag. The principle of optimizing aerodynamic
+    performance can be applied across domains to improve the design of various systems,
+    from wind turbines to aircraft wings.
+  potential_applications:
+  - Wind turbine design
+  - Aircraft wing design
+  confidence: 0.85
+  historical_example: The development of airfoil design in aerodynamics was influenced
+    by the study of bird flight and the optimization of turbine blade design in physics.
+- connection_type: metaphor
+  source_domain: Physics
+  source_concept: Jet engine
+  target_domain: Business
+  target_concept: Innovation engine
+  insight: Driving growth and innovation
+  explanation: The concept of a jet engine in physics can be used as a metaphor for
+    an innovation engine in business. Just as a jet engine propels an aircraft forward,
+    an innovation engine drives growth and innovation in a company. This metaphor
+    highlights the importance of continuous innovation and improvement in business,
+    just as a jet engine requires constant maintenance and optimization to function
+    efficiently.
+  potential_applications:
+  - Innovation management
+  - Business strategy
+  confidence: 0.8
+  historical_example: The concept of an innovation engine was popularized by business
+    leaders such as Steve Jobs, who emphasized the importance of continuous innovation
+    and improvement in driving business success.
+bridge_concepts:
+- concept: Optimization
+  appears_in_domains:
+  - Physics
+  - Economics
+  - Aerodynamics
+  role: Optimizing performance and efficiency
+  examples:
+  - Carnot efficiency in physics
+  - Pareto efficiency in economics
+  - Airfoil design in aerodynamics
+- concept: Fluid dynamics
+  appears_in_domains:
+  - Physics
+  - Aerodynamics
+  - Biology
+  role: Understanding the behavior of fluids and gases
+  examples:
+  - Turbine blade design in physics
+  - Airfoil design in aerodynamics
+  - Blood flow in biology
+mental_models:
+- name: Systems thinking
+  description: Analyzing complex systems as a whole, considering interactions and
+    interdependencies
+  applied_to:
+  - Understanding the efficiency of a jet engine
+  transferable_to:
+  - Business strategy
+  - Ecosystem conservation
+- name: First principles thinking
+  description: Breaking down complex problems into fundamental principles and rebuilding
+    from there
+  applied_to:
+  - Optimizing turbine blade design
+  transferable_to:
+  - Innovation management
+  - Problem-solving in general
+analogies_used:
+- source_domain: Biology
+  source_concept: Bird flight
+  target_domain: Aerodynamics
+  target_concept: Airfoil design
+  mapping:
+    Wing shape: Airfoil shape
+    Lift: Lift
+  pedagogical_value: Helps to understand the principles of aerodynamics by relating
+    them to a familiar biological system
+tags:
+  hierarchical:
+  - '#Physics → #Thermodynamics → #Jet Engine'
+  topical:
+  - '#JetEngine'
+  - '#TurbineBlade'
+  - '#MaterialsScience'
+  methodological:
+  - '#Explainer'
+  - '#Demonstration'
+  people:
+  - '#DerekMuller'
+  concepts:
+  - '#CarnotEfficiency'
+  temporal: []
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  Jet engines operate at extremely high temperatures, reaching up to 1,500° C, which
+  is hotter than the melting point of the materials used to make them. To withstand
+  these temperatures, turbine blades are made from specialized nickel-based superalloys
+  that contain a combination of elements, including aluminum, chromium, and rhenium,
+  which provide strength, resistance to oxidation, and other desirable properties.
+  The unique microstructure of these superalloys, featuring a combination of gamma
+  and gamma prime phases, allows them to maintain their strength and resist deformation
+  even at extremely high temperatures, making them crucial to the operation of modern
+  jet engines.'
+key_ideas:
+- idea: Here are 3-5 key ideas or concepts discussed in the transcription text
+  description: ''
+- idea: Jet engine efficiency and temperature limitations**
+  description: Jet engines operate at extremely high temperatures, and the materials
+    used to make them must be able to withstand these temperatures without melting
+    or deforming, with the goal of maximizing efficiency and minimizing energy loss.
+- idea: Turbine blade materials and their properties**
+  description: The transcription text discusses the properties of different metals,
+    such as steel, titanium, and nickel alloys, and how they are used to make turbine
+    blades, with a focus on their strength, density, and resistance to heat and corrosion.
+- idea: Nickel superalloys and their unique properties**
+  description: The text explains how nickel superalloys, which are used in modern
+    jet engines, have a unique microstructure that makes them extremely strong and
+    resistant to heat and corrosion, and how this is achieved through the careful
+    balancing of different elements and phases.
+- idea: The challenges of working with high-temperature materials**
+  description: The text highlights the difficulties of working with materials that
+    must operate at extremely high temperatures, including the need to balance strength,
+    density, and resistance to heat and corrosion, and the limitations imposed by
+    the fundamental properties of metals, such as their crystalline structure.
+- idea: The importance of materials science in jet engine design**
+  description: The transcription text emphasizes the critical role that materials
+    science plays in the design and development of jet engines, and how advances in
+    materials science have enabled the creation of more efficient and powerful engines.
+---
+## Key Concepts
+
+**Jet engine**  
+A type of internal combustion engine that generates thrust by expelling hot gas
+
+**Turbine blade**  
+A component of a jet engine that extracts energy from hot gas
+
+**Carnot efficiency**  
+The maximum efficiency of a heat engine
+
+## Cross-Domain Connections
+
+**Physics → Economics**
+
+*Optimal resource allocation*
+
+Both Carnot efficiency in physics and Pareto efficiency in economics deal with the optimal allocation of resources to achieve maximum output. In physics, Carnot efficiency is about the maximum possible efficiency of a heat engine, while in economics, Pareto efficiency is about the optimal allocation of resources such that no individual can be made better off without making another worse off. The structural analogy lies in the concept of optimizing output given certain constraints.
+
+**Physics → Aerodynamics**
+
+*Optimizing aerodynamic performance*
+
+The design of turbine blades in physics and airfoils in aerodynamics share similar principles. Both involve the optimization of shape and angle to maximize efficiency and minimize drag. The principle of optimizing aerodynamic performance can be applied across domains to improve the design of various systems, from wind turbines to aircraft wings.
+
+**Physics → Business**
+
+*Driving growth and innovation*
+
+The concept of a jet engine in physics can be used as a metaphor for an innovation engine in business. Just as a jet engine propels an aircraft forward, an innovation engine drives growth and innovation in a company. This metaphor highlights the importance of continuous innovation and improvement in business, just as a jet engine requires constant maintenance and optimization to function efficiently.
+
+## Discussion Topics
+
+- **Here are 3-5 key ideas or concepts discussed in the transcription text:** 
+- **Jet engine efficiency and temperature limitations**:** Jet engines operate at extremely high temperatures, and the materials used to make them must be able to withstand these temperatures without melting or deforming, with the goal of maximizing efficiency and minimizing energy loss.
+- **Turbine blade materials and their properties**:** The transcription text discusses the properties of different metals, such as steel, titanium, and nickel alloys, and how they are used to make turbine blades, with a focus on their strength, density, and resistance to heat and corrosion.
+- **Nickel superalloys and their unique properties**:** The text explains how nickel superalloys, which are used in modern jet engines, have a unique microstructure that makes them extremely strong and resistant to heat and corrosion, and how this is achieved through the careful balancing of different elements and phases.
+- **The challenges of working with high-temperature materials**:** The text highlights the difficulties of working with materials that must operate at extremely high temperatures, including the need to balance strength, density, and resistance to heat and corrosion, and the limitations imposed by the fundamental properties of metals, such as their crystalline structure.
+- **The importance of materials science in jet engine design**:** The transcription text emphasizes the critical role that materials science plays in the design and development of jet engines, and how advances in materials science have enabled the creation of more efficient and powerful engines.
+
+## Full Transcription
+
+
+
+**Speakers identified:**
+* Derek Muller (Veritasium host)
+* Speaker 2 (Unidentified, likely a Rolls-Royce engineer or academic)
+* Speaker 3 (Unidentified, likely a Rolls-Royce engineer or academic)
+* Speaker 4 (Unidentified, likely a Rolls-Royce engineer or academic)
+
+[ 0m0s112ms - Derek Muller ] This is one of the most powerful jet engines in the world, and it actually runs at temperatures 250° C hotter than the melting point of the materials that make it up.
+[ 0m10s89ms - Speaker 2 ] That's 1,200°.
+[ 0m11s459ms - Derek Muller ] So, the question is, why doesn't a jet engine just melt into a puddle?
+[ 0m17s329ms - Derek Muller ] We are right at the boundaries of the laws of physics.
+[ 0m21s304ms - Derek Muller ] That's wild. It's at the same temperature now as it would be inside the jet engine.
+[ 0m26s931ms - Speaker 3 ] But here, they're liquid.
+[ 0m28s761ms - Derek Muller ] Every time I get on a plane, I'm thinking this is never going to work. And yet, it does work. Right now, there are over 10,000 planes in the sky powered by engines just like these. Maybe you are on one right now. So, how do they work?
+[ 0m45s30ms - Derek Muller ] This is a jet engine, specifically a turbo fan engine. At the front is this giant fan. During takeoff, these rotating blades push 1.3 tons of air backwards every second. And around 10% of that air gets compressed. The compressors force the air into increasingly narrow chambers. They compress the air to about 50 times atmospheric pressure. And just by doing that, the air heats up to around 600° C. This compressed air is then forced into the combustion chamber, where fuel is sprayed in through a ring of nozzles and ignited. That chemical reaction gives off a lot of heat, so the temperature jumps to around 1,500° C. So now you've got this high pressure gas from the combustor that just wants to expand, and now it's got an incredible amount of thermal energy.
+[ 1m36s140ms - Derek Muller ] But between the combustion chamber and the outside air is this: rows of turbine blades. So, in order for the gas to expand and get out, it needs to push these turbine blades out of the way. And in pushing the blades, that is how it transfers its energy to the engine. This is where all the power really comes from. In modern jets, on takeoff, each high-pressure turbine blade is generating as much power as a Formula 1 car, and there are 68 of them.
+[ 2m5s440ms - Derek Muller ] As the gas rushes through the turbine and nozzle, its pressure drops from around 50 atmospheres down to one, and it expands by almost 20 times. And that spins these turbine blades up to 12,500 revolutions per minute. The fan that is pushing all that air backward and all those compressors that squeeze the air down, all of that is powered by the turbines back here. It's a kind of funny, really counterintuitive way to think about an engine. It's what's happening in the back that's actually driving everything up front.
+[ 2m35s770ms - Derek Muller ] As the hot exhaust gas is shot out the back of the engine, it pushes the engine forward. That generates thrust. But did you know that in a modern passenger jet, this accounts for less than 20% the thrust of the engine? The vast majority of the thrust, over 80% of it, just comes from that big fan at the front of the jet.
+[ 2m56s270ms - Derek Muller ] Remember how only 10% of the incoming air gets compressed? The other 90% bypasses all that. It's simply propelled backwards by the fan. It goes right around the guts of the engine and comes straight out the back. The fan pushes that air backwards, so the air pushes the fan forwards. That's how you get 80% of the thrust. It's basically a huge ducted propeller.
+[ 3m18s730ms - Derek Muller ] So, why do it this way? I mean, why not compress all the incoming air and put it all through the combustion chamber and turbines?
+[ 3m27s664ms - Derek Muller ] Well, some fighter jets do exactly this, and it makes for very powerful engines, but they're also horribly inefficient. To see why, remember that the impulse pushing the plane forward is equal to the change in the momentum of the air backwards. So, you've got options. For example, you could push twice as much air back half as fast, or you could push half as much air back twice as fast. Both will generate the exact same impulse, but the kinetic energy of the air is proportional to V squared. So, it takes four times as much energy to speed up the air in the second case, and a lot of that energy is just wasted in the exhaust. So, ideally, you want to push as much air backwards as possible with only a small change in velocity.
+[ 4m12s864ms - Derek Muller ] That's why jets have gotten bigger and bigger over the years. And the increasing fraction of bypass air has the added benefit that it surrounds the hot exhaust gases, and that reduces noise coming away from the jet. But there is another major factor when it comes to engine efficiency, and that is temperature. At cruising altitudes around 35,000 ft, the outside air is around -55° C, while inside the engine, it's over 1,500° C. The hot, high pressure gas inside the engine wants to expand into the much colder, lower pressure air outside.
+[ 4m49s314ms - Derek Muller ] It's that difference that lets the engine turn heat into useful work. But there's a fundamental limit to how much work any heat engine can get from that. It's called the Carnot efficiency. It's equal to 1 minus the temperature of the cold outside air divided by the temperature of the hot gas inside the combustion chamber.
+[ 5m7s514ms - Derek Muller ] So, looking at this, you can improve the efficiency of the engine in two ways: either fly where the air is colder, or raise the temperature in the combustion chamber. One problem with that, though, is that it turned the inside of a jet engine into one of the harshest environments we have ever built in which machinery has to survive.
+[ 5m28s196ms - Speaker 2 ] To keep a turbine blade whole and unaffected within an engine is like putting an ice cube inside your oven, turning up to max, leaving for work, coming back after an 8-hour shift, and finding it's still completely frozen in the oven. That's what we've got to try and do within that engine.
+[ 5m40s279ms - Derek Muller ] It sounds absurd.
+[ 5m42s69ms - Derek Muller ] Not only do the turbine blades sit in a stream of gas that's over 1,500° C, they're also spinning at 12,500 rpm, with the tip of each blade slicing through the air at nearly 1,900 km/h. Now, every blade wants to fly straight, but it's forced to spin in a circle, which means something has to be constantly pulling it inwards. That's the centripetal force. If you take a representative 300 g high-pressure turbine blade and run it at that speed and radius, it has to be pulled inwards with a force equal to the weight of 20 metric tons. That's roughly the weight of two London double-decker buses tugging on each blade as it spins. All while they're glowing hot.
+[ 6m26s64ms - Derek Muller ] To make matters worse, at these temperatures, oxygen wants to react with the metal of the blades itself. And on top of all that, the air rushing through the engine often carries dust, sand, and pollutants that can damage and erode the surfaces inside. And somehow, these blades have to survive this punishment for tens of thousands of flight hours without deforming, cracking, or failing. They really determine how efficient you can make the engine, because you can't make the engine so hot that the blades can't withstand that temperature. So, they determine the maximum temperature of the combustion chamber, and therefore, the maximum efficiency you can realize with a jet engine. So, what kind of metal could possibly survive these conditions?
+[ 7m10s49ms - Derek Muller ] Well, we sent Veritasium producer Emilia to the Department of Materials Science and Metallurgy at Cambridge University to put some different metals to the test.
+[ 7m19s14ms - Speaker 4 ] So, this is the steel.
+[ 7m20s59ms - Speaker 2 ] This is the steel sample. Yes.
+[ 7m21s349ms - Speaker 4 ] Okay.
+[ 7m22s19ms - Speaker 2 ] So, got about 200 megapascals to start with, which is sort of comparable to some of the stresses that's seen by these components in real applications. And we're going to put that stress on and then slowly increase the temperature.
+[ 7m34s529ms - Derek Muller ] This is a mild steel. It's relatively strong and easy to form into complex shapes. It seems like a pretty good bet for a turbine blade. And at first, under this load and at these low temperatures, it holds up pretty well. We're essentially tugging on all the atoms within the metal. We're not breaking or forming any bonds, we're just making them flex a little. And that slightly changes the spacing between the atoms, and as a result, the metal gets slightly longer. This resulting change in size, specifically the per unit change in length, is what we call strain. Critically, at this stage, the material is behaving elastically. If we remove the load right now, the material just snaps back to its original size. In an engine, some elastic deformation like this will occur. It can't be too big, or it'll cause problems. But what we really don't want is plastic deformation, if the shape changes permanently. And that's exactly what starts to happen as we keep increasing the temperature.
+[ 8m30s532ms - Speaker 2 ] It's getting hot now. That's a little bit of oxide.
+[ 8m35s362ms - Speaker 2 ] There you go. See this starting to deform.
+[ 8m38s362ms - Derek Muller ] Now, bonds are breaking and reforming as the metal lattice deforms permanently.
+[ 8m49s39ms - Derek Muller ] So, I got the mechanical engineer on our team, Henry, to build this demo.
+[ 8m53s556ms - Derek Muller ] Okay, so you can see we're getting a bunch of tiny little bubbles, and just naturally they're packing into this hexagonal arrangement. And there are actually a lot of materials that have atomic structures just like this. But you can see it's not perfect. Like right here, you can see there's an extra half plane of atoms, well, in this case, bubbles. This is called an edge dislocation.
+[ 9m17s496ms - Derek Muller ] And it becomes really interesting when I try to pull this raft apart.
+[ 9m22s146ms - Derek Muller ] You can see these little dark lines that zip back and forth. Those are dislocations, and they move through the lattice. As the dislocation moves, it'll cause one plane of bubbles to shear past the other one, which shifts the structure by exactly one spacing. But there isn't just one dislocation. There are plenty of them, and altogether, their movement produces dramatic changes in the overall shape.
+[ 9m45s310ms - Derek Muller ] That's exactly what's happening here. Everywhere that stress is high enough, billions of dislocations are moving and interacting. The steel starts to deform continuously under this constant load in a process called creep. It takes energy to break the atomic bonds as a dislocation travels through the lattice. So, as we ramp up the temperature, and all the atoms get more thermal energy, it no longer requires as much stress to break these bonds. It becomes much easier for the dislocations to move. The metal effectively gets softer. Now, the steel's strength drops so much that the slow, time-dependent creep gives way to rapid deformation. As it stretches, it rapidly decreases in cross-section, and eventually the remaining metal can no longer bear the load.
+[ 10m31s210ms - Derek Muller ] Now, you could try doing similar tests for other metals, like this titanium alloy.
+[ 10m36s530ms - Derek Muller ] Titanium is about half as dense as steel.
+[ 10m38s700ms - Speaker 4 ] should feel that's quite a bit lighter.
+[ 10m39s590ms - Speaker 2 ] Yeah, it's like loads lighter.
+[ 10m41s470ms - Derek Muller ] So, if we were to make turbine blades out of titanium, each blade would be much lighter, and that would reduce the enormous centripetal forces it would experience. So, it seems like a great choice. And at first, it performs really well.
+[ 10m53s150ms - Speaker 2 ] That's 100°.
+[ 10m54s900ms - Speaker 4 ] It's hanging in there.
+[ 10m55s920ms - Derek Muller ] But as we push the temperature higher.
+[ 10m58s400ms - Speaker 2 ] Oh, I can see some glowing.
+[ 11m1s310ms - Speaker 2 ] Oh, look at this! Oh, it's gone already!
+[ 11m4s540ms - Derek Muller ] Just like the steel, its strength drops rapidly as temperature increases. And that's true for most metals.
+[ 11m12s210ms - Derek Muller ] Yet, the first jet engine dating back all the way to 1941 actually did use steel turbine blades. It was designed by British pilot and engineer Frank Whittle. His engine powered the first flight of a British jet aircraft, the Gloster E.28/39 prototype. When a colleague excitedly told Whittle, "Frank, it flies!" he dryly quipped, "That was bloody well what it was designed to do, wasn't it?"
+[ 11m36s270ms - Derek Muller ] But Whittle's prototype had two major flaws. The first was that the gas inside the engine only reached temperatures of around 780° C, which was one of the reasons it was inefficient. And the second was that it was only allowed to fly for up to 10 hours. Any longer, and it was too likely parts inside the engine would fail. And both of these drawbacks were largely due to the steel turbine blades.
+[ 11m59s670ms - Derek Muller ] Something that occurred to me is, why aren't they made out of tungsten? I mean, because tungsten doesn't melt until 3,400° C, which is more than twice the temperature inside a modern jet engine. But tungsten is also incredibly dense. It's about 2 1/2 times denser than steel. And it's also brittle, which makes it hard to manufacture. And using a material that heavy wouldn't just make the blade a problem. The components that hold the blade in the engine would also have to carry much higher loads, well beyond what current materials can handle. So, you can optimize for one thing, like the melting point, or a different thing, like strength, or weight, but the turbine pushes every variable to its limit. So, what are these blades actually made of?
+[ 12m46s834ms - Derek Muller ] Well, to find out, we went to Rolls-Royce's precision casting facility in Derby. And it turns out, the world's most advanced metal parts begin life as something surprising.
+[ 12m59s344ms - Derek Muller ] Why is it worth the like, the pink and the green there?
+[ 13m1s944ms - Speaker 2 ] Well, well, I'll come and show you. I'll come and show you.
+[ 13m4s154ms - Derek Muller ] I'm just seeing so many cool things around here, I'm like, what is that? Why does it look like that?
+[ 13m8s884ms - Derek Muller ] You just entered this room and I smell the wax.
+[ 13m11s14ms - Speaker 2 ] Yeah, yeah.
+[ 13m11s284ms - Derek Muller ] Smells like a candle factory in here.
+[ 13m13s184ms - Speaker 2 ] Absolutely. So, investment casting is a really, really ancient technology. So, our ancestors have been doing investment casting to make jewelry, to make weapons for millennia. We've just perfected it here to make turbine blades.
+[ 13m25s404ms - Derek Muller ] It's so wacky. This is just not how I'd expect it to happen at all.
+[ 13m30s14ms - Derek Muller ] Turbine blades strike me as one of the most high-tech things in the world.
+[ 13m33s94ms - Speaker 2 ] Yeah.
+[ 13m34s534ms - Derek Muller ] And yet, this facility is using wax as a starting point.
+[ 13m39s924ms - Speaker 2 ] What you will see throughout our tour today is that actually it's a really highly technological process.
+[ 13m46s436ms - Speaker 2 ] This is our wax pattern die. This is how a turbine blade starts its life. So, this is what's going to go inside the wax pattern. A ceramic core. This is going to create the hollow inside the turbine blade. So, what's happening now is we're injecting into the die. So, that's the the very start of the life of a turbine blade.
+[ 14m6s266ms - Derek Muller ] That is really neat.
+[ 14m7s336ms - Speaker 2 ] What we'll actually see is that a lot of these features, such as the aerofoil and the annular surfaces, are not touched further. So, we will cast that and that will remain as cast as it goes into the engine.
+[ 14m17s36ms - Derek Muller ] Every surface here has to be perfect because this wax is what will become the blade.
+[ 14m23s226ms - Speaker 2 ] So, Kim is our wax pattern assembler. So, she's responsible for taking the product straight from that die, making sure that things like die lines have been removed. So, where the die box come together and leave a small amount of flash. The operative word in, in all of wax assembly is smooth.
+[ 14m40s276ms - Derek Muller ] Every tiny imperfection in the wax would become a flaw in the metal, so this takes an incredible amount of skill.
+[ 14m47s46ms - Speaker 2 ] Then it's the case of getting that wax pattern attached to the unit runner to create the assembly.
+[ 14m51s656ms - Derek Muller ] I mean, the thought that occurs to me, right, shouldn't you be doing this with a robot? Can't, you know, like...
+[ 14m57s16ms - Speaker 2 ] Yeah, yeah, yeah. So, Rolls-Royce has facilities that do this by a robot. But our facility in particular is very much focused on bringing in those new products, and it's far, far easier for us to work with human beings to develop that method of manufacture that's going to bring the next generation of product through.
+[ 15m14s356ms - Derek Muller ] I bet. I can see the skill here, like it's phenomenal. I'd just make a mess of it.
+[ 15m16s816ms - Speaker 2 ] Absolutely, so would I.
+[ 15m18s646ms - Speaker 4 ] Would you like to get a go?
+[ 15m19s186ms - Derek Muller ] No.
+[ 15m22s226ms - Derek Muller ] Once the wax assembly is perfect, it's ready for the next stage.
+[ 15m25s386ms - Speaker 2 ] Everything that is wax is going to become air. It's going to become negative space, right? It's going to become our cavity. And then we're going to fill that air with metal.
+[ 15m34s347ms - Speaker 2 ] So, we take that wax assembly and we've got to build a shell.
+[ 15m38s577ms - Speaker 2 ] Shell is made of many different layers. It's a zircon based shell system. We're going to dip into a primary slurry. It's really quite thin, like a light syrup or a thin honey.
+[ 15m48s177ms - Derek Muller ] Oh, yeah.
+[ 15m50s187ms - Speaker 2 ] And what that's designed to do is map all of those really complex geometric features.
+[ 15m54s557ms - Derek Muller ] Beautiful.
+[ 15m56s267ms - Derek Muller ] It's like making icing.
+[ 15m58s397ms - Speaker 2 ] So, that's actually the analogy we use. So, it's a bit like if you put icing on top of a bun or a cake, you need to sprinkle it with some sugar afterwards, otherwise it's all going to slop off the top. So, we've got the slurry on there, we're going to get a nice even coat, drain it, make sure that it's an even, thin layer, and then we're going to sand, and that's then going to set that layer in place.
+[ 16m17s317ms - Derek Muller ] So cool.
+[ 16m18s997ms - Derek Muller ] Wow!
+[ 16m21s337ms - Speaker 2 ] We're then going to dry it. So, it's air-dried for many, many hours. And then we can put our backup layers. So, our backup layers, it's a much thicker slurry, more like a treacle, and the sand is much coarser, more like a granulated sugar. And we're going to maybe put four, five, maybe even six layers to back up, because what we need is we need a mold that can withstand the casting parameters that we're putting it under. You know, it's, it's it's got a lot of work to do.
+[ 16m44s37ms - Derek Muller ] The wax is then melted out.
+[ 16m47s337ms - Derek Muller ] And the mold is fired.
+[ 16m48s237ms - Derek Muller ] Oh, yeah.
+[ 16m51s347ms - Derek Muller ] That is wild. Cleaned and tested to make sure there aren't any cracks. When it's done, the shell is ready to hold molten metal.
+[ 16m59s377ms - Speaker 2 ] This is a billet of alloy that's going to fill the whole of that mold. So, just that amount of metal is going to fill that whole mold there.
+[ 17m5s897ms - Derek Muller ] It doesn't look like enough.
+[ 17m7s937ms - Derek Muller ] This is a nickel alloy. The first nickel alloys used in jet engines were developed in the 1940s. By adding chromium and cobalt, engineers created alloys that could handle 800 to 900° C, around 100° hotter than the steel used before. And these alloys could keep their strength for thousands of hours, a 10-fold improvement in life. But the real breakthrough came when they added a touch of aluminum.
+[ 17m33s847ms - Derek Muller ] So, we wanted to see how it held up under the same lab conditions as the steel and titanium.
+[ 17m38s77ms - Derek Muller ] What temperature are we at now?
+[ 17m39s777ms - Speaker 2 ] Oh, that's 700°.
+[ 17m42s67ms - Speaker 4 ] 700. So the steel's long gone.
+[ 17m44s187ms - Speaker 2 ] Steel's long gone.
+[ 17m45s377ms - Speaker 2 ] That's 800°.
+[ 17m46s797ms - Speaker 4 ] 800, yes.
+[ 17m48s437ms - Derek Muller ] In fact, around this temperature, it's actually getting stronger.
+[ 17m52s827ms - Derek Muller ] So, why would heating a metal make it stronger?
+[ 17m57s287ms - Derek Muller ] Well, when these nickel alloys were first used in jet engines, no one actually knew. But about 10 years later, electron microscopes had improved enough for engineers to finally see what was happening inside.
+[ 18m8s627ms - Derek Muller ] As we zoom in on the alloy, a pattern emerges. The microstructure isn't uniform. Instead, it kind of looks like a city grid, made up of blocks with roads in between them. Only each block is so small, over 300 would line up across the width of a human hair. Now, surprisingly, both the roads and the blocks are made up of the exact same atoms, mostly nickel with a little aluminum. They even have the same crystal structure, a grid of tiny cubes with atoms sitting at the corners and at the center of each face. The only difference is that the atoms are arranged slightly differently. In the road structure, the aluminum and nickel can take any spot. There is no repeating sequence from cube to cube. And this is known as the gamma phase. But in the blocks, aluminum always takes the corner spots and nickel the faces. And you get a perfect repeating pattern cube after cube. This is the gamma prime phase. And it's this difference that is crucial when a dislocation tries to glide through the lattice. In the roads, this motion is easy. Each layer of atoms can shear smoothly past the next, leaving the structure looking unchanged behind it. But if you try to do the same thing in the blocks, well, now you're actually changing the order of the atoms. Nickel and aluminum end up sitting in the wrong places. That takes energy, so the lattice resists it.
+[ 19m29s157ms - Derek Muller ] So, when a dislocation moving through the roads hits a block, it gets stuck, and that's what makes this alloy so strong.
+[ 19m36s27ms - Speaker 3 ] But if you keep pushing and the stress gets high enough, a dislocation can finally force its way in. The catch is that this dislocation leaves the lattice in such a high energy mess that the only way that it can keep moving is if there's a second one right behind it that puts things back in order. So, in the gamma prime phase, dislocations have to travel in pairs, called superdislocations.
+[ 19m57s329ms - Speaker 3 ] I need that creation of those superdislocations, and I need that very high stress to be able to shear. So, that's why the strength is very high relative to other alloys. What happens is ultimately, because you're shearing through that gamma prime with two dislocations, as the temperature continuously increases, you're adding more and more thermal energy in the material. What happens is the atoms are going to vibrate more and more and more. So, there's a likelihood, as I'm doing this and I'm oscillating in three dimensions, that the thermal energy is going to drive me to actually slip down rather than just slip in one plane. So, now if one clip slips, they're no longer on the same plane. Think of it as as we're standing in a line, and the only way that you can move is as I push you, right? And then I keep on pushing you, and then suddenly you drop. So, if I now try to push you, I I cannot find you, right? You're not in front of me anymore. Your your shoulders are now below me.
+[ 20m46s849ms - Speaker 2 ] What, why are you touching?
+[ 20m49s869ms - Speaker 3 ] I should have used the other example, you pushing me, but anyway.
+[ 20m53s519ms - Speaker 3 ] But it's exactly that. It's the exact same analogy. There's nothing to push me anymore. There's like I am not able to do it.
+[ 21m0s369ms - Derek Muller ] So, now you've got these two dislocations that are on different planes. So, they can't travel together anymore. And as a result, they're both now locked into place. And you can see that effect on this graph. While steel and titanium's strength drops off, in the nickel superalloy, you actually get a peak. That's because the extra thermal energy lets more dislocations cross-slip and get separated. And it's that that shuts down the motion of dislocations.
+[ 21m23s809ms - Derek Muller ] But if gamma prime is so strong, why don't we just make the entire turbine blade out of it? Well, that strength comes at a cost. Gamma prime stops the dislocation so effectively that it becomes brittle. All it takes is one crack or a sudden impact and it could lead to a sudden failure. So, the real trick is in striking the right balance between enough gamma prime to trap the dislocations and prevent this creep, but also enough gamma to keep the alloy ductile so that it can bend without breaking.
+[ 21m51s539ms - Derek Muller ] And in our test, you can see exactly how that plays out.
+[ 21m55s399ms - Speaker 4 ] 1000 degrees and still nothing.
+[ 21m57s319ms - Speaker 2 ] Still nothing.
+[ 22m0s119ms - Speaker 2 ] There we go.
+[ 22m1s59ms - Speaker 4 ] Oh my gosh.
+[ 22m3s439ms - Speaker 2 ] That is
+[ 22m4s899ms - Speaker 2 ] that's 1,100° C.
+[ 22m7s499ms - Speaker 4 ] It's stretching.
+[ 22m10s229ms - Speaker 4 ] I mean, it's still holding up, like...
+[ 22m12s79ms - Speaker 2 ] It's doing a good job.
+[ 22m13s739ms - Speaker 2 ] That's 1,200° C.
+[ 22m15s649ms - Speaker 4 ] 1,200.
+[ 22m17s149ms - Speaker 2 ] That's where the temperature program has stopped. And it's still surviving.
+[ 22m21s399ms - Speaker 4 ] Still going.
+[ 22m22s229ms - Derek Muller ] But if you push the temperature too far, even this alloy reaches its limits. Cross-slip becomes easier. The paired dislocations can now hop between the planes together, and the ordered cubes of gamma prime start to dissolve, so the dislocations break free and it finally gives out.
+[ 22m38s99ms - Speaker 2 ] Oh, it might have just uh, did it right?
+[ 22m39s899ms - Speaker 4 ] Oh, yeah, yeah, it did. It broke.
+[ 22m41s739ms - Derek Muller ] But strength alone isn't what makes these alloys special. When you heat up the alloy, aluminum at the surface reacts with oxygen to form a thin continuous layer of aluminum oxide. Unlike the brittle oxides that form on other materials like steel or titanium, this layer stays intact at high temperatures, protecting the metal below.
+[ 23m1s999ms - Derek Muller ] And by adding other elements, we can tune these superalloys. Each one brings a specific property that we want. Most modern superalloys contain as many as 10 different elements, all carefully balanced in their relative abundances for the desired properties. Chromium improves resistance to oxidation and corrosion. Cobalt, titanium, niobium, tantalum, and vanadium help stabilize the gamma prime phase. Molybdenum and iron strengthen the gamma matrix. And then there's rhenium. Rhenium has one of the highest melting points of any metal, at 3,180° C. It's second only to tungsten. In the nickel superalloy, it slows the atomic scale rearrangements, enhancing the alloy's resistance to deformation even at temperatures above 1,000° C. It's one of the rarest elements in the Earth's crust, at less than one part per billion. And more than 80% of what we mine ends up right here in jet engines.
+[ 23m58s439ms - Derek Muller ] But even with these advancements in alloy chemistry, there's still one fundamental problem. And that's that metals are crystalline. Any metal you see, from the tip of this ballpoint pen to the spoon in my coffee cup, they're all actually made up of millions of little crystals stuck together. It's kind of like grains in this sugar cube. If I crush it, it's not like I've broken any individual crystal. I've just broken them apart. It's the boundaries between the grains that are the weak point. And it's the same thing in a metal.
+[ 24m31s529ms - Derek Muller ] So, if we zoom out from the gamma and gamma prime structure, it looks something like this. One crystal is basically a three-dimensional lattice of atoms all lined up in the same orientation. But the crystals themselves are all in different orientations. So, where they meet, their lattices don't line up. And that mismatch leaves more open spaces and broken bonds. And you also get defects there, like vacancies and impurities. All of which make grain boundaries the weakest point. And this also has another consequence.

@@ -1,0 +1,380 @@
+---
+title: Veritasium_You've (Likely) Been Playing The Game of Life Wrong_20251126_part2
+audio_file: Veritasium_You've (Likely) Been Playing The Game of Life Wrong_20251126_part2.mp3
+note_id: 7fa6133b-759a-4732-b963-7d5164875edf
+date_processed: '2026-01-11'
+classification:
+  primary_domain: Physics
+  sub_domains:
+  - Complex Systems
+  - Criticality
+  - Self-Organized Criticality
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: Per Bak
+    role: Physicist
+    contribution: Proposed self-organized criticality
+  - name: Speaker 1
+    role: Host
+    contribution: Explained concepts
+  - name: Speaker 2
+    role: Guest
+    contribution: Discussed concepts
+  - name: Speaker 3
+    role: Expert
+    contribution: Provided insights
+  - name: Speaker 4
+    role: Narrator
+    contribution: Introduced topics
+  works_cited: []
+  concepts_mentioned:
+  - Self-Organized Criticality
+  - Power Law
+  - Universality
+  - Critical State
+  - Earthquakes
+  - Forest Fires
+  laws_theories_cited:
+  - Newton's Laws
+concepts:
+- name: Self-Organized Criticality
+  definition: A system's tendency to organize itself to a critical state, where small
+    changes can have large effects
+  parent_concepts:
+  - Complex Systems
+  related_concepts:
+  - Critical State
+  - Power Law
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Critical State
+  definition: A state where a system is highly sensitive to small changes, and can
+    exhibit large, complex behavior
+  parent_concepts:
+  - Complex Systems
+  related_concepts:
+  - Self-Organized Criticality
+  - Power Law
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Power Law
+  definition: A distribution where the frequency of events decreases as the size of
+    the events increases, often seen in critical systems
+  parent_concepts:
+  - Statistics
+  related_concepts:
+  - Self-Organized Criticality
+  - Critical State
+  abstraction_level: Theoretical
+  confidence: 0.9
+relationships:
+- source_concept: Self-Organized Criticality
+  target_concept: Critical State
+  relationship_type: causes
+  strength: 0.9
+  evidence: Systems that exhibit self-organized criticality often reach a critical
+    state
+  reasoning: The process of self-organization leads to a critical state
+- source_concept: Power Law
+  target_concept: Critical State
+  relationship_type: equivalent_to
+  strength: 0.8
+  evidence: Power laws are often seen in critical systems
+  reasoning: The distribution of events in critical systems often follows a power
+    law
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Physics
+  source_concept: Self-Organized Criticality
+  target_domain: Economics
+  target_concept: Market Dynamics
+  insight: Self-organized criticality in physics can be analogous to market dynamics
+    in economics, where systems tend towards a critical state.
+  explanation: In physics, self-organized criticality refers to the tendency of systems
+    to evolve towards a critical state, characterized by power-law distributions.
+    Similarly, in economics, market dynamics can exhibit critical behavior, with market
+    crashes and bubbles following power-law distributions. This analogy can help economists
+    understand the underlying mechanisms driving market fluctuations.
+  potential_applications:
+  - Financial risk management
+  - Market modeling
+  confidence: 0.8
+  historical_example: The 2008 financial crisis
+- connection_type: principle_application
+  source_domain: Physics
+  source_concept: Critical State
+  target_domain: Biology
+  target_concept: Ecosystem Resilience
+  insight: The concept of critical state in physics can be applied to ecosystem resilience
+    in biology, where systems can exhibit tipping points and abrupt changes.
+  explanation: In physics, critical states are characterized by a high sensitivity
+    to perturbations, leading to abrupt changes. Similarly, in biology, ecosystems
+    can exhibit tipping points, where small changes can lead to large, irreversible
+    consequences. Understanding the principles of critical states can help biologists
+    predict and mitigate ecosystem collapses.
+  potential_applications:
+  - Ecosystem conservation
+  - Climate change modeling
+  confidence: 0.9
+  historical_example: The collapse of coral reef ecosystems
+- connection_type: metaphor
+  source_domain: Physics
+  source_concept: Power Law
+  target_domain: Social Sciences
+  target_concept: Social Network Analysis
+  insight: Power-law distributions in physics can be used as a metaphor for understanding
+    social network analysis in social sciences, where node degree distributions often
+    follow power laws.
+  explanation: In physics, power laws describe the distribution of energies in complex
+    systems. Similarly, in social network analysis, power laws can describe the distribution
+    of node degrees, where a few nodes have a disproportionate number of connections.
+    This metaphor can help social scientists understand the underlying structure of
+    social networks and predict the spread of information and diseases.
+  potential_applications:
+  - Social network analysis
+  - Epidemiology
+  confidence: 0.7
+  historical_example: The spread of diseases in social networks
+bridge_concepts:
+- concept: Complexity
+  appears_in_domains:
+  - Physics
+  - Biology
+  - Economics
+  role: Describes the behavior of complex systems
+  examples:
+  - Phase transitions in physics
+  - Ecosystem collapses in biology
+  - Market crashes in economics
+- concept: Scalability
+  appears_in_domains:
+  - Physics
+  - Engineering
+  - Computer Science
+  role: Describes the ability of systems to maintain their properties at different
+    scales
+  examples:
+  - Fractals in physics
+  - Scalable engineering designs
+  - Distributed computing systems
+mental_models:
+- name: Systems Thinking
+  description: A holistic approach to understanding complex systems
+  applied_to:
+  - Understanding self-organized criticality in physics
+  transferable_to:
+  - Ecosystem conservation
+  - Financial risk management
+  - Social network analysis
+- name: First Principles
+  description: A method for understanding complex systems by breaking them down into
+    fundamental components
+  applied_to:
+  - Understanding critical states in physics
+  transferable_to:
+  - Ecosystem modeling
+  - Climate change modeling
+  - Social network analysis
+analogies_used:
+- source_domain: Familiar domain
+  source_concept: Avalanches
+  target_domain: Physics
+  target_concept: Self-Organized Criticality
+  mapping:
+    Snowflake: Elementary event
+    Avalanche: Cascade of events
+  pedagogical_value: Helps to understand the concept of self-organized criticality
+    and its relation to complex systems
+tags:
+  hierarchical:
+  - '#Physics → #Complex Systems → #Criticality → #Self-Organized Criticality'
+  topical:
+  - '#CriticalState'
+  - '#PowerLaw'
+  - '#Universality'
+  methodological:
+  - '#ThoughtExperiment'
+  - '#Simulation'
+  people:
+  - '#PerBak'
+  concepts:
+  - '#SelfOrganizedCriticality'
+  - '#CriticalState'
+  - '#PowerLaw'
+  temporal: []
+summary: 'Here is a 2-3 sentence summary of the main points:
+
+
+  The concept of self-organized criticality explains how complex systems, such as
+  forest fires and earthquakes, can exhibit power law behavior, where small events
+  are common but rare, large events can have a disproportionate impact. This behavior
+  is also seen in human systems, such as the distribution of wealth, city populations,
+  and stock prices, where a small number of extreme events or outliers can dominate
+  the overall pattern. Understanding whether a system is governed by a power law or
+  a normal distribution can help individuals and organizations make informed decisions
+  about risk-taking and strategy.'
+key_ideas:
+- idea: Here are 3-5 key ideas discussed in the transcription text, along with a brief
+    description of each
+  description: ''
+- idea: Self-organized criticality**
+  description: This concept refers to the phenomenon where complex systems, such as
+    forests or the Earth's crust, organize themselves to a critical state, where small
+    events can trigger large and unpredictable outcomes, such as massive fires or
+    earthquakes.
+- idea: Power law distributions**
+  description: Many natural and human systems, including earthquakes, forest fires,
+    and economic systems, exhibit power law distributions, where a small number of
+    extreme events or outliers have a disproportionate impact on the overall system,
+    and the majority of events are small and insignificant.
+- idea: Universality**
+  description: Despite their complexity and differences, many systems that exhibit
+    self-organized criticality and power law distributions share a common behavior,
+    known as universality, which allows for the development of simple models that
+    can predict and understand the behavior of these systems.
+- idea: Risk and uncertainty**
+  description: The presence of power law distributions and self-organized criticality
+    in complex systems implies that risk and uncertainty are inherent and unavoidable,
+    and that traditional approaches to prediction and management may be inadequate,
+    requiring new strategies for mitigating and adapting to extreme events.
+- idea: Implications for human behavior and decision-making**
+  description: The understanding of power law distributions and self-organized criticality
+    has important implications for human behavior and decision-making, as it suggests
+    that individuals and organizations should be prepared for rare and extreme events,
+    and adopt strategies that balance risk and reward, such as diversification and
+    persistence, rather than relying on average or expected outcomes.
+---
+## Key Concepts
+
+**Self-Organized Criticality**  
+A system's tendency to organize itself to a critical state, where small changes can have large effects
+
+**Critical State**  
+A state where a system is highly sensitive to small changes, and can exhibit large, complex behavior
+
+**Power Law**  
+A distribution where the frequency of events decreases as the size of the events increases, often seen in critical systems
+
+## Cross-Domain Connections
+
+**Physics → Economics**
+
+*Self-organized criticality in physics can be analogous to market dynamics in economics, where systems tend towards a critical state.*
+
+In physics, self-organized criticality refers to the tendency of systems to evolve towards a critical state, characterized by power-law distributions. Similarly, in economics, market dynamics can exhibit critical behavior, with market crashes and bubbles following power-law distributions. This analogy can help economists understand the underlying mechanisms driving market fluctuations.
+
+**Physics → Biology**
+
+*The concept of critical state in physics can be applied to ecosystem resilience in biology, where systems can exhibit tipping points and abrupt changes.*
+
+In physics, critical states are characterized by a high sensitivity to perturbations, leading to abrupt changes. Similarly, in biology, ecosystems can exhibit tipping points, where small changes can lead to large, irreversible consequences. Understanding the principles of critical states can help biologists predict and mitigate ecosystem collapses.
+
+**Physics → Social Sciences**
+
+*Power-law distributions in physics can be used as a metaphor for understanding social network analysis in social sciences, where node degree distributions often follow power laws.*
+
+In physics, power laws describe the distribution of energies in complex systems. Similarly, in social network analysis, power laws can describe the distribution of node degrees, where a few nodes have a disproportionate number of connections. This metaphor can help social scientists understand the underlying structure of social networks and predict the spread of information and diseases.
+
+## Discussion Topics
+
+- **Here are 3-5 key ideas discussed in the transcription text, along with a brief description of each:** 
+- **Self-organized criticality**:** This concept refers to the phenomenon where complex systems, such as forests or the Earth's crust, organize themselves to a critical state, where small events can trigger large and unpredictable outcomes, such as massive fires or earthquakes.
+- **Power law distributions**:** Many natural and human systems, including earthquakes, forest fires, and economic systems, exhibit power law distributions, where a small number of extreme events or outliers have a disproportionate impact on the overall system, and the majority of events are small and insignificant.
+- **Universality**:** Despite their complexity and differences, many systems that exhibit self-organized criticality and power law distributions share a common behavior, known as universality, which allows for the development of simple models that can predict and understand the behavior of these systems.
+- **Risk and uncertainty**:** The presence of power law distributions and self-organized criticality in complex systems implies that risk and uncertainty are inherent and unavoidable, and that traditional approaches to prediction and management may be inadequate, requiring new strategies for mitigating and adapting to extreme events.
+- **Implications for human behavior and decision-making**:** The understanding of power law distributions and self-organized criticality has important implications for human behavior and decision-making, as it suggests that individuals and organizations should be prepared for rare and extreme events, and adopt strategies that balance risk and reward, such as diversification and persistence, rather than relying on average or expected outcomes.
+
+## Full Transcription
+
+
+
+[ 0m1s162ms ] [ Speaker 1 ] none can ever get out of hand, but it turns out this strategy is extremely risky.
+[ 0m8s122ms ] So, let's say we're going to bring down the lightning probability. So, it's very small, only one in a million right now. And we're also going to crank up, you know, the tree growth a little bit. Now, what do you think's going to happen?
+[ 0m24s892ms ] [ Speaker 2 ] We're going to get some big fires, I would imagine. Like a lot of not fire, and then some huge fires.
+[ 0m32s172ms ] Yes.
+[ 0m34s12ms ] [ Speaker 1 ] Yep.
+[ 0m35s362ms ] [ Speaker 2 ] Oh, boy.
+[ 0m36s12ms ] [ Speaker 1 ] So, nowadays, the fire service has a very different approach. They acknowledge that some fires are essential to make the mega fires less likely. So, they let most small fires burn and only intervene when necessary. In some cases, they even intentionally create small fires to burn through some of the buildup.
+[ 0m54s552ms ] Though, it could take years to return the forest to its natural state after a century of fire suppression.
+[ 1m1s52ms ] But it's more than just the earth's forests that are balanced in this critical state.
+[ 1m7s692ms ] Every day, the earth's crust is moving and rearranging itself. Stresses build up slowly as tectonic plates rub against each other. Most of the time, you get a few rocks crumbling. The ground might move just a fraction of a millimeter. But the stresses dissipate in many earthquakes that you wouldn't even feel.
+[ 1m27s372ms ] [ Speaker 3 ] There are really tiny earthquakes that are happening right now between beneath your feet. You just can't feel them because they're very small. But they are earthquakes. They're driven by small slipping movements in the Earth's crust.
+[ 1m43s22ms ] [ Speaker 1 ] But sometimes, those random movements can trigger a powerful chain reaction.
+[ 1m50s102ms ] [ Speaker 4 ] In Kobe, Japan, the morning of January 17th, 1995 seemed just like any other. This was a peaceful city, and although Japan as a country is no stranger to earthquakes, Kobe hadn't suffered a major quake for centuries. Generations grew up believing the ground beneath them was stable.
+[ 2m6s442ms ] But that morning, deep underground, a stress released nearby the Nojima fault line.
+[ 2m13s92ms ] The stress propagated to the next section of the fault and the next. Within seconds, the rupture cascaded along 40 km of crust, shifting the ground by up to 2 meters and releasing the energy equivalent of numerous atomic bombs. The resulting quake destroyed thousands of homes, along with most major roads and railways leading into the city. It killed over 6,000 people and forced 300,000 from their homes.
+[ 2m35s622ms ] [ Speaker 3 ] How far it goes depends a lot on chance and the organization of all that stress field in the Earth's crust. And it just seems to be organized in such a way that it is possible often times for the earthquake to trickle along and avalanche along a long way and produce a very large unusual earthquake. But if you look at the process behind that earthquake, it is exactly the same physical process. It's just that the earthquake generating process naturally produces events that range over an enormous range of scales, and we're not really used to thinking about that.
+[ 3m8s92ms ] [ Speaker 1 ] We have this ingrained assumption that we can use the past to predict the future, but when it comes to earthquakes or any system that's in a critical state, that assumption can be catastrophic because they're famously unpredictable. So, how can you even begin to model something like the behavior of earthquakes?
+[ 3m33s72ms ] [ Speaker 4 ] In 1987, Danish physicist Per Bak and his colleagues considered a simple thought experiment. Take a grain of sand and drop it on a grid. Then, keep dropping grains on top until at some point the sand pile gets so steep that the grains tumble down onto different squares.
+[ 3m52s22ms ] [ Speaker 3 ] What they looked at was the size of these, what they were calling avalanches, these reorganizations of numbers of grains of sand. They asked for how often do you see avalanches of a certain size.
+[ 4m11s432ms ] [ Speaker 1 ] This is the most simple version of a sand pile simulator that you could almost imagine. We're going to drop a little grain of sand, at first always in the center, and then it's just going to keep going up. For one grain, it'll be fine. For two grains, it'll be fine. Three grains, it'll be fine, but it's on the edge of toppling. And then when it reaches four or more, it's going to basically go.
+[ 4m43s272ms ] Feels a bit like a, I don't know, a pulsing thing, like something's trying to escape or something. Very video game-like.
+[ 4m52s382ms ] [ Speaker 2 ] That seemed pretty crazy.
+[ 4m53s382ms ] [ Speaker 1 ] And it is symmetrical.
+[ 4m55s302ms ] [ Speaker 2 ] Yeah, nice geometric features.
+[ 4m57s502ms ] [ Speaker 1 ] So, this might be interesting because right now, we paused it at a point where this middle one is going to go.
+[ 5m6s642ms ] And then you look around it and you see, essentially, you can think of these brown or, you know, these three tall grain stacks
+[ 5m20s582ms ] as being maximally unstable. They're about to go. And so, you can think of them as these fingers of instability. If anything touches them, the whole system, like, they're they're just going to go.
+[ 5m32s82ms ] [ Speaker 2 ] I see it propagating out.
+[ 5m34s132ms ] [ Speaker 1 ] It's cool seeing it slower. I feel like you can see several waves propagating at the same time.
+[ 5m42s92ms ] [ Speaker 4 ] Some people have reasoned that the earth's crust becomes riddled with similar fingers of instability, where you get stresses building up, and then when one rock crumbles, it can propagate along these fingers potentially triggering massive earthquakes.
+[ 5m55s132ms ] If you look at the data, there's some even more compelling evidence that links the sand pile simulation to earthquakes.
+[ 6m4s422ms ] [ Speaker 1 ] Let's say, instead of dropping it at the center, pretty unrealistic to have it drop in the center, we're going to drop at random.
+[ 6m19s182ms ] [ Speaker 2 ] This is crazy.
+[ 6m21s32ms ] [ Speaker 1 ] You can actually see it chew itself to that critical state.
+[ 6m26s732ms ] Like at the start, you only see these super tiny avalanches,
+[ 6m30s52ms ] [ Speaker 2 ] Yeah.
+[ 6m30s412ms ] [ Speaker 1 ] And then now it's everything.
+[ 6m32s172ms ] [ Speaker 2 ] It has to build up.
+[ 6m33s182ms ] [ Speaker 1 ] We can slow down a little.
+[ 6m36s782ms ] Oh, and that's a super clean power law.
+[ 6m40s242ms ] [ Speaker 4 ] There are events of all sizes. One grain of sand might knock over just a few others, or it could trigger an avalanche of millions of grains that cascade throughout the entire system. And if you look at the power law you get from the sand pile simulation, it closely resembles the power law of the energy released by real earthquakes.
+[ 7m7s12ms ] But if you look at the sand pile experiment more closely, it doesn't just resemble earthquakes.
+[ 7m13s2ms ] [ Speaker 1 ] What does it remind you of?
+[ 7m14s32ms ] [ Speaker 2 ] Forest fires.
+[ 7m15s42ms ] [ Speaker 1 ] Right? Feels like it's the exact same behavior.
+[ 7m18s222ms ] [ Speaker 3 ] That's the really surprising thing, and that's why this little paper with the sand pile was published in the world's top journal, because it did something that people just didn't really think was was possible.
+[ 7m30s342ms ] [ Speaker 2 ] Now, what's ironic is if you look at real sand piles, they don't behave like this.
+[ 7m36s932ms ] [ Speaker 3 ] Okay, you said sand, I'm going to do an experiment on a real sand pile. And of course, it doesn't follow a power law distribution of avalanches at all. It's totally wrong.
+[ 7m50s202ms ] Per Bak, naturally, gets a chance to reply to the criticism. And he says,
+[ 8m2s412ms ] I'm pretty close to quoting, he says self-organized criticality only applies to the systems it applies to.
+[ 8m10s982ms ] So, he doesn't care. The fact that his theory is not relevant to real sand piles, so what? Get out of my face. He's interested in bigger fish to fry than, than, you know, sand piles. It's like, you're taking me too literally. I'm talking about a universal mechanism for generating power laws, and the fact that it doesn't depend, doesn't work in real sand is uninteresting to him. I thought that took some real nerve.
+[ 8m35s302ms ] [ Speaker 1 ] You could think about the Earth and the Earth going around the Sun. That's a very complex system. You've got all the You've got the molten core, everything slashing around, and then you've got oceans, and you've even got the moon going around the Earth, which in theory, you know, all should affect the exact motion of the Earth around the Sun. But Newton ignored all of that. All he looked at was just a single parameter, essentially, the mass of the Earth. And with that, he could correctly for the most part predict how the Earth was going to go around the Sun. Similarly, here, there are people that have looked at these phenomena that go to the critical state. In this in this case, it's self-organized criticality, because it brings itself there. And what they find is that there's this universal behavior where it doesn't even really matter what the sub parts are. You just get the behavior that's the exact same.
+[ 9m30s272ms ] [ Speaker 3 ] at that critical point, when all the forces are holy, and the system is right on that delicate balance between being organized, highly organized, or being totally disorganized. It turns out that almost none of the physical details about that system matter to how it behaves. There's just a universal behavior that is irrespective of what physical system you're talking about. The term that was used is called universality. And it's kind of a miracle. It means you can make extremely powerful theories without involving any technical details, any real details of the material.
+[ 10m22s72ms ] [ Speaker 1 ] What this means is that you could have these systems that on the surface seem totally different. But when you get to the critical point, they all behave in the exact same way.
+[ 10m34s142ms ] The other thing you could do is instead of this being trees, you could imagine it being people. And the thing that's spreading is disease.
+[ 10m44s372ms ] [ Speaker 2 ] Is disease.
+[ 10m45s12ms ] [ Speaker 1 ] Yeah.
+[ 10m46s362ms ] [ Speaker 3 ] You almost get something for nothing at these at these critical points.
+[ 10m50s992ms ] [ Speaker 1 ] See, many of these systems fall into what's known as universality classes. Some of them you need to tune to get there, like magnets at their curie temperature, or fluids like water or carbon dioxide at their critical point. But some other systems seem to organize themselves to criticality, like the forest fires or sand piles or earthquakes. But what's crazy is that if you succeed in understanding just one system from a class, then you know how all the systems in that class behave. And that includes even the crudest, simplest toy models, like the simulations we've looked at. So, you can model incredibly complex systems with the most basic of models.
+[ 11m40s752ms ] [ Speaker 4 ] And some people think this critical thinking applies even further.
+[ 11m44s582ms ] When we look around the world, there are lots of systems that show the same power law behavior that we see in this critical systems. It's in everything from DNA sequencing to the distribution of species in an ecosystem to the size of mass extinctions throughout history. We even see the same behavior in human systems, like the populations of cities, fluctuations in stock prices, citations of scientific papers, and even the number of deaths in wars.
+[ 12m25s72ms ] [ Speaker 4 ] So, some people argue that these systems, and perhaps many parts of our world, also organize themselves to this critical point.
+[ 12m32s302ms ] [ Speaker 3 ] So, the fact that all these natural hazards, as they call them, floods, wildfires, and earthquakes, they all follow power law distributions means that these extreme events are much more common than you would think based on normal distribution thinking.
+[ 12m51s232ms ] [ Speaker 1 ] If you find yourself in a situation or an environment that is sort of governed by a power law, how should you change your behavior?
+[ 13m1s32ms ] [ Speaker 4 ] If you have events with one of these power law distributions, what you're seeing most of the time is small events, and uh this can lull you into a false sense of security, think you understand how things are going. You know, floods, for example, there are a lot of small floods and then every once in a while there's a huge one. One response to this is insurance, that insurance is designed precisely to protect you against the large rare events that would otherwise be very bad. But then there's the other side of that picture, which is you're the insurance company that needs to insure people and they have a particularly difficult job because they have to be able to say how much to charge so that they have enough money to pay out when the big bad thing comes along.
+[ 14m9s112ms ] [ Speaker 4 ] In 2018, a forest fire tore through Paradise, California. It became the deadliest and most destructive fire in the state's history. But the insurance company, Merced Property and Casualty, hadn't planned for something that huge. And when the claims came in, they just didn't have the reserves to pay out. So, just like that, the company went bust.
+[ 14m35s332ms ] [ Speaker 1 ] But while extreme events can cripple some companies, there are entire industries that are built on power law distributions.
+[ 14m45s32ms ] Between 1985 and 2014, private equity firm Horsley Bridge invested in 7,000 different startups. And over half of their investments actually lost money, but the top 6% more than 10X in value and generated 60% of the firm's overall profit. In fact, the best venture capital firms often have more investments that lose money. They just have a few crazy outliers that show extraordinary growth, a few outliers that carry the entire performance.
+[ 15m17s182ms ] In 2012, Y Combinator calculated that 75% of their returns came from just two out of the 280 startups they invested in. So, venture capital is a world that depends on taking risks, in the hope that you'll get a few of these extreme outliers which outperform all of the rest of the investments combined.
+[ 15m40s792ms ] [ Speaker 4 ] Book publishers operate in a similar fashion. Most titles flop, but in 1997, a small independent UK publisher called Bloomsbury took a chance on a story about a boy wizard. The boy's name, of course, was Harry Potter, and now Bloomsbury is a globally recognized brand.
+[ 16m2s32ms ] We see a similar pattern play out on streaming platforms. On Netflix, the top 6% of shows account for over half of all viewing hours on the platform. On YouTube, less than 4% of videos ever reach 10,000 views, but those videos account for over 93% of all views.
+[ 16m25s912ms ] All these domains follow the same principle that Pareto identified over 100 years ago, where the majority of the wealth goes to the richest few. The entire game is defined by the rare runaway hits.
+[ 16m41s132ms ] But not every industry can play this game.
+[ 16m44s362ms ] Like if you're running a restaurant, you need to fill tables night after night. You can't have one particularly busy summer evening that brings in millions of customers to make up for a bunch of quiet nights. Over a year, the busy nights and quiet ones balance out, and you're left with the average. Airlines are similar. An airline needs to fill seats on each flight. You can't squeeze a million passengers onto one plane. So, it's the average number of passengers over the year that defines an airline's success.
+[ 17m14s362ms ] [ Speaker 1 ] We're used to living in this world of normal distributions and you act a certain way, but as soon as you switch to this realm that is governed by a power law, you need to start acting vastly different. It really pays to know what kind of world you're or what kind of game you're playing.
+[ 17m32s322ms ] [ Speaker 3 ] That is good. That's good. Yes. You should come on camera and just say that. Just like that. You are on camera. You just did do it.
+[ 17m40s292ms ] [ Speaker 1 ] If you're in a world where random additive variations cancel out over time, then you get a normal distribution. And in this case, it's the average performance, so consistency, which is important. But if you're in a world that's governed by a power law, where your returns can multiply and they can grow over many orders of magnitude, then it might make sense to take some riskier bets, in the hope that one of them pays off huge. In other words, it becomes more important to be persistent than consistent.
+[ 18m20s372ms ] [ Speaker 4 ] Though, as we saw in the second coin game, totally random multiplicative returns give you a log-normal distribution, not a power law. To get a power law, there must be some other mechanism at play.
+[ 18m32s52ms ] In the early 2000s, Albert-László Barabási was studying the internet, and to his surprise, he found that there was no normal webpage with some average number of links. Instead, the distribution followed a power law. A few sites like Yahoo had thousands of times more connections than most of the others. Barabási wondered what could be causing this power law of the internet. So, he made a simple prediction. As new sites were added to the internet, they were more likely to link to well-known pages. To test this prediction, he and his colleague Réka Albert ran a simulation. They started with a network of just a few nodes, and gradually they added new nodes to the network, with each new node more likely to connect to those with the most links. As the network grew, a power law emerged. The power was around negative 2, which almost exactly matched the real data of the internet.
+[ 19m23s82ms ] [ Speaker 1 ] Look at that.
+[ 19m23s612ms ] [ Speaker 2 ] That's fun.
+[ 19m24s942ms ] [ Speaker 1 ] It's still so satisfying. This will basically also distribute a power law. One of the ideas here is that, you know, this could be individuals or even companies. And so, if you're more likely to become more successful or more well-known the while more or successful you already are, then you're going to get this sort of runaway effect where you you get a few that sort of dominate, you know, the distribution.
+[ 19m57s712ms ] I wonder if part of the takeaway is like if you're playing some sort of game that is dominated by a power law, then you better do the work as much of it as early as possible so you get to benefit from the snowball effect essentially.
+[ 20m17s92ms ] [ Speaker 3 ] Yeah, I guess I guess that's that's a good idea. I'm not sure whether you can control it, though. Human beings like to think of ourselves as being a bit special, and that maybe somehow because we're intelligent and have free will, um we will escape the providence of the laws of of physics, and order and organization. But I think that's probably not not the case. So, if you look at at the number of world wars, and if you make a crude measure of how big is a world war by how many people it kills, which is a bit macabre, but but still, you find that again, it follows a power law. Virtually identical to the power law you find in stock market crashes.
+[ 21m20s22ms ] [ Speaker 4 ] So, if the world is shaped by power laws, then it feels like we're poised in this kind of critical state where two identical grains of sand, two identical actions can have wildly different effects. Most things barely move the needle, but a few rare events totally dwarf the rest, and that I think is the most important lesson. If you choose to pursue areas governed by the normal distribution, you can pretty much guarantee average results, but if you select pursuits ruled by power laws, the goal isn't to avoid risk, it's to make repeated intelligent bets. Most of them will fail, but you only need one wild success to pay for all the rest.
+[ 22m12s252ms ] [ Speaker 1 ] And the thing is that beforehand, you cannot know which bet it's going to be, because the system is maximally unpredictable. It could be that your next bet does nothing, it could do a little bit, or it could change your entire life. In fact, around three years ago, I was reading this little book, and in the book, there was this little line saying something like, one idea could transform your entire life. So, right underneath that, I wrote, send an email to Veritasium. A couple days later, I wrote an email to Derek, saying, "Hey, Derek, I'm Casper, I study physics, and I can help you research videos." I didn't hear back for four weeks, so I was getting pretty sad and just wanted to forget about it and move on. But then, a couple days later, I got an email back, saying, "Hey Casper, we can't do an internship right now, but how would you like to research, write, and produce a video as a freelancer?" So, I did, and that's how I got started at Veritasium.
+[ 23m24s812ms ] Hey, just a few quick final things. All the simulations that we used in this video, we'll make available for free for you to use in the link in the description.
+[ 23m37s242ms ] And the other thing is that we just launched the official Veritasium game. It's called Elements of Truth, and it's a tabletop game with over 800 questions. It's the perfect way to challenge your friends and see who comes out on top. Now, at Veritasium, we're all quite competitive, so every time we play, things get a little bit heated, but that's honestly a big part of the fun. Now, when we launched on Kickstarter, we got a lot of questions asking if we could ship to specific countries. And originally, we didn't enable this, and this is our mistake, this is on us, and we totally hear you. But I'm glad to say that right now we have enabled worldwide shipping. So, no matter where you are in the world, you can get your very own copy. To reserve your copy and get involved, scan this QR code or click the link in the description. I want to thank you for all your support, and most of all, thank you for watching.

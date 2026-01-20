@@ -1,0 +1,220 @@
+Error: Expecting value: line 179 column 20 (char 7011)
+
+Response text:
+{
+  "classification": {
+    "primary_domain": "Physics",
+    "sub_domains": [
+      "Statistical Physics",
+      "Geophysics",
+      "Ecology",
+      "Complex Systems"
+    ],
+    "difficulty_level": "Intermediate",
+    "content_type": "Discussion"
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Per Bak",
+        "role": "Physicist",
+        "contribution": "Developed the theory of self‑organized criticality and introduced the sand‑pile model (1987)."
+      }
+    ],
+    "works_cited": [
+      {
+        "title": "Self‑Organized Criticality in a Sandpile Model",
+        "author": "Per Bak, Chao Tang, Kurt Wiesenfeld",
+        "year": 1987
+      },
+      {
+        "title": "Kobe Earthquake (1995)",
+        "author": "Various",
+        "year": 1995
+      }
+    ],
+    "concepts_mentioned": [
+      "Self‑organized criticality",
+      "Power law",
+      "Universality",
+      "Sandpile model",
+      "Avalanche",
+      "Critical point",
+      "Earthquake",
+      "Forest fire",
+      "Tectonic stress"
+    ],
+    "laws_theories_cited": [
+      "Self‑organized criticality",
+      "Power‑law distribution",
+      "Newtonian mechanics"
+    ]
+  },
+  "concepts": [
+    {
+      "name": "Self‑organized criticality",
+      "definition": "A property of dynamical systems that naturally evolve to a critical state where events of all sizes occur without external tuning.",
+      "parent_concepts": ["Statistical physics"],
+      "related_concepts": ["Power law", "Critical point", "Universality"],
+      "abstraction_level": "Theoretical",
+      "confidence": 1.0
+    },
+    {
+      "name": "Power law",
+      "definition": "A statistical relationship where the frequency of an event scales as a inverse power of its size.",
+      "parent_concepts": ["Statistical distribution"],
+      "related_concepts": ["Self‑organized criticality", "Avalanche", "Earthquake magnitude"],
+      "abstraction_level": "Fundamental",
+      "confidence": 1.0
+    },
+    {
+      "name": "Universality",
+      "definition": "The phenomenon where disparate systems exhibit identical scaling behavior near a critical point.",
+      "parent_concepts": ["Critical phenomena"],
+      "related_concepts": ["Self‑organized criticality", "Critical point"],
+      "abstraction_level": "Theoretical",
+      "confidence": 1.0
+    },
+    {
+      "name": "Sandpile model",
+      "definition": "A cellular‑automaton model where grains of sand are added until local thresholds are exceeded, causing avalanches.",
+      "parent_concepts": ["Statistical physics models"],
+      "related_concepts": ["Avalanche", "Power law"],
+      "abstraction_level": "Applied",
+      "confidence": 1.0
+    },
+    {
+      "name": "Avalanche",
+      "definition": "A cascade of activity triggered when a local instability exceeds a threshold, releasing stored stress.",
+      "parent_concepts": ["Sandpile model"],
+      "related_concepts": ["Earthquake", "Forest fire", "Power law"],
+      "abstraction_level": "Applied",
+      "confidence": 1.0
+    },
+    {
+      "name": "Critical point",
+      "definition": "A set of conditions at which a system undergoes a phase transition and exhibits scale‑invariant behavior.",
+      "parent_concepts": ["Phase transitions"],
+      "related_concepts": ["Universality", "Self‑organized criticality"],
+      "abstraction_level": "Fundamental",
+      "confidence": 1.0
+    },
+    {
+      "name": "Earthquake",
+      "definition": "A sudden release of energy in the Earth's crust caused by slip along fault lines.",
+      "parent_concepts": ["Geophysics"],
+      "related_concepts": ["Tectonic stress", "Avalanche", "Power law"],
+      "abstraction_level": "Applied",
+      "confidence": 1.0
+    },
+    {
+      "name": "Forest fire",
+      "definition": "A rapid combustion event in a forest that can spread over large areas, often modeled as a critical phenomenon.",
+      "parent_concepts": ["Ecology"],
+      "related_concepts": ["Avalanche", "Self‑organized criticality", "Power law"],
+      "abstraction_level": "Applied",
+      "confidence": 1.0
+    }
+  ],
+  "relationships": [
+    {
+      "source_concept": "Self‑organized criticality",
+      "target_concept": "Power law",
+      "relationship_type": "causes",
+      "strength": 0.95,
+      "evidence": "Sandpile simulations exhibit power‑law distributed avalanches, mirroring earthquake magnitude distributions.",
+      "reasoning": "The theory predicts scale‑free event sizes, which manifest as power‑law statistics."
+    },
+    {
+      "source_concept": "Self‑organized criticality",
+      "target_concept": "Universality",
+      "relationship_type": "supports",
+      "strength": 0.94,
+      "evidence": "The transcript states that systems at the critical point share universal behavior irrespective of details.",
+      "reasoning": "SOC drives systems to a critical state where universal scaling laws appear."
+    },
+    {
+      "source_concept": "Sandpile model",
+      "target_concept": "Avalanche",
+      "relationship_type": "produces",
+      "strength": 1.0,
+      "evidence": "Speakers describe grains toppling and creating cascades (avalanches) in the sand‑pile experiment.",
+      "reasoning": "By definition, the sandpile model generates avalanches when thresholds are exceeded."
+    },
+    {
+      "source_concept": "Avalanche",
+      "target_concept": "Earthquake",
+      "relationship_type": "analogous_to",
+      "strength": 0.9,
+      "evidence": "Discussion compares sand‑pile avalanches to earthquakes, noting similar power‑law statistics.",
+      "reasoning": "Both are cascade events triggered by local failures that can propagate system‑wide."
+    },
+    {
+      "source_concept": "Avalanche",
+      "target_concept": "Forest fire",
+      "relationship_type": "analogous_to",
+      "strength": 0.9,
+      "evidence": "Speakers note that forest fires display the same critical behavior as sand‑pile avalanches.",
+      "reasoning": "Fire spread can be modeled as a cascade similar to sand‑pile dynamics."
+    },
+    {
+      "source_concept": "Critical point",
+      "target_concept": "Universality",
+      "relationship_type": "leads_to",
+      "strength": 0.95,
+      "evidence": "Transcript mentions that at the critical point, systems exhibit universal behavior.",
+      "reasoning": "At criticality, microscopic details become irrelevant, yielding universal scaling."
+    },
+    {
+      "source_concept": "Tectonic stress",
+      "target_concept": "Earthquake",
+      "relationship_type": "causes",
+      "strength": 1.0,
+      "evidence": "Speakers describe stress accumulation in tectonic plates leading to earthquakes.",
+      "reasoning": "Accumulated stress release is the physical mechanism behind earthquakes."
+    },
+    {
+      "source_concept": "Newtonian mechanics",
+      "target_concept": "Simplified Earth orbit model",
+      "relationship_type": "contradicts",
+      "strength": 0.7,
+      "evidence": "Speaker notes Newton ignored many factors (core, oceans, moon) when modeling Earth's orbit.",
+      "reasoning": The simplified model omits relevant forces, contradicting a more complete description.
+    }
+  ],
+  "tags": {
+    "hierarchical": [
+      "#Physics → #StatisticalPhysics → #SelfOrganizedCriticality → #PowerLaw",
+      "#Geophysics → #Earthquake → #TectonicStress",
+      "#Ecology → #ForestFire → #CriticalPhenomena"
+    ],
+    "topical": [
+      "#Earthquake",
+      "#ForestFire",
+      "#Sandpile",
+      "#Criticality",
+      "#Universality"
+    ],
+    "methodological": [
+      "#ThoughtExperiment",
+      "#Simulation",
+      "#PowerLawAnalysis"
+    ],
+    "people": [
+      "#PerBak"
+    ],
+    "concepts": [
+      "#SelfOrganizedCriticality",
+      "#PowerLaw",
+      "#Universality",
+      "#SandpileModel",
+      "#Avalanche",
+      "#CriticalPoint",
+      "#Earthquake",
+      "#ForestFire"
+    ],
+    "temporal": [
+      "#1995KobeEarthquake"
+    ]
+  }
+}

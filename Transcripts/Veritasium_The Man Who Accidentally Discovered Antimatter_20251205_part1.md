@@ -1,0 +1,628 @@
+---
+title: Veritasium_The Man Who Accidentally Discovered Antimatter_20251205_part1
+audio_file: Veritasium_The Man Who Accidentally Discovered Antimatter_20251205_part1.mp3
+note_id: 8ff6b3c3-5836-4d90-a736-196206425199
+date_processed: '2026-01-06'
+classification:
+  primary_domain: Physics
+  sub_domains:
+  - Quantum Mechanics
+  - Relativity
+  - Particle Physics
+  - History of Physics
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: Eugene Wigner
+    role: Physicist
+    contribution: Described the young man's 1928 lecture as detached and recitation-like
+  - name: Werner Heisenberg
+    role: Physicist
+    contribution: Called the theory "the saddest chapter in modern physics" and wrote
+      to Niels Bohr expressing despair
+  - name: Wolfgang Pauli
+    role: Physicist
+    contribution: Legend says he announced abandoning quantum physics to write a utopian
+      novel
+  - name: Albert Einstein
+    role: Physicist
+    contribution: Formulated the special theory of relativity (1905) and derived E=mc²
+  - name: Erwin Schrödinger
+    role: Physicist
+    contribution: Formalized quantum mechanics in 1926 with the wave equation
+  - name: Oscar Klein
+    role: Physicist
+    contribution: Substituted relativistic operators into Schrödinger’s framework
+      to obtain the Klein‑Gordon equation (1926)
+  - name: Walter Gordon
+    role: Physicist
+    contribution: Independently derived the same relativistic wave equation in 1926
+  - name: Vladimir Fock
+    role: Physicist
+    contribution: Independently derived the same relativistic wave equation in 1926;
+      name attached to Klein‑Gordon‑Fock equation
+  - name: Niels Bohr
+    role: Physicist
+    contribution: Recipient of Heisenberg’s letter; later associated with the Klein‑Gordon‑Fock
+      equation
+  works_cited:
+  - title: Special Theory of Relativity
+    author: Albert Einstein
+    year: 1905
+  - title: Schrödinger Equation
+    author: Erwin Schrödinger
+    year: 1926
+  - title: Klein‑Gordon Equation
+    author: Oscar Klein, Walter Gordon, Vladimir Fock
+    year: 1926
+  concepts_mentioned:
+  - Special Relativity
+  - Quantum Mechanics
+  - Negative Energy Solutions
+  - Schrödinger Equation
+  - Klein‑Gordon Equation
+  - Energy‑Momentum Relation
+  - Wave Function
+  - Quantum Operator
+  laws_theories_cited:
+  - Special Relativity
+  - E=mc²
+  - Energy‑Momentum Relation
+  - Quantum Mechanics
+  - Schrödinger Equation
+  - Klein‑Gordon Equation
+concepts:
+- name: Special Relativity
+  definition: A theory stating that the laws of physics are the same for all observers
+    moving at constant velocity and that the speed of light is invariant.
+  parent_concepts:
+  - Relativity
+  related_concepts:
+  - Energy‑Momentum Relation
+  - Spacetime
+  abstraction_level: Fundamental
+  confidence: 1.0
+- name: Quantum Mechanics
+  definition: A branch of physics describing the behavior of particles at atomic and
+    sub‑atomic scales, where wave‑particle duality and quantized energy levels appear.
+  parent_concepts:
+  - Physics
+  related_concepts:
+  - Wave Function
+  - Schrödinger Equation
+  - Negative Energy Solutions
+  abstraction_level: Fundamental
+  confidence: 1.0
+- name: Schrödinger Equation
+  definition: A differential equation that governs how the quantum wave function evolves
+    over time for non‑relativistic particles.
+  parent_concepts:
+  - Quantum Mechanics
+  related_concepts:
+  - Wave Function
+  - Quantum Operator
+  - Relativistic Corrections
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: Klein‑Gordon Equation
+  definition: A relativistic wave equation for spin‑0 particles obtained by applying
+    the relativistic energy‑momentum relation to quantum operators.
+  parent_concepts:
+  - Quantum Mechanics
+  - Relativity
+  related_concepts:
+  - Schrödinger Equation
+  - Negative Energy Solutions
+  - Antimatter
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: Negative Energy Solutions
+  definition: Mathematical solutions of relativistic wave equations that correspond
+    to energies below zero, later interpreted as antiparticles.
+  parent_concepts:
+  - Relativistic Quantum Mechanics
+  related_concepts:
+  - Klein‑Gordon Equation
+  - Antimatter
+  - Dirac Equation
+  abstraction_level: Theoretical
+  confidence: 0.95
+relationships:
+- source_concept: Special Relativity
+  target_concept: Energy‑Momentum Relation
+  relationship_type: derives_from
+  strength: 1.0
+  evidence: The transcript states that Einstein’s relativity leads to the energy‑momentum
+    relation used later.
+  reasoning: Special relativity provides the formula linking energy, momentum, and
+    mass.
+- source_concept: Schrödinger Equation
+  target_concept: Special Relativity
+  relationship_type: contradicts
+  strength: 0.9
+  evidence: Speaker notes that Schrödinger’s equation is not consistent with relativity.
+  reasoning: Non‑relativistic formulation fails at high velocities.
+- source_concept: Klein‑Gordon Equation
+  target_concept: Energy‑Momentum Relation
+  relationship_type: derives_from
+  strength: 1.0
+  evidence: Klein substituted relativistic operators into the energy‑momentum relation
+    to obtain the equation.
+  reasoning: The equation is directly built from the relativistic relation.
+- source_concept: Negative Energy Solutions
+  target_concept: Klein‑Gordon Equation
+  relationship_type: produces
+  strength: 0.95
+  evidence: The transcript explains that taking the square root of the energy‑momentum
+    relation yields both positive and negative energy curves.
+  reasoning: The relativistic wave equation admits both sign solutions.
+- source_concept: Negative Energy Solutions
+  target_concept: Antimatter
+  relationship_type: supports
+  strength: 0.8
+  evidence: The video title references "The Man Who Accidentally Discovered Antimatter"
+    linking negative energy to antiparticles.
+  reasoning: Historical interpretation of negative energy as antiparticles.
+cross_domain_insights:
+- connection_type: structural_analogy|principle_application
+  source_domain: Physics
+  source_concept: Schrödinger Equation (time‑dependent, parabolic PDE)
+  target_domain: Finance / Economics
+  target_concept: Black‑Scholes Equation for option pricing (diffusion PDE)
+  insight: Both equations describe the evolution of a probability‑like amplitude under
+    a potential‑like term.
+  explanation: A Wick rotation (t → iτ) maps the Schrödinger equation onto the heat/diffusion
+    equation, which is mathematically identical to Black‑Scholes after a change of
+    variables. The eigenfunctions and Green’s functions used in quantum mechanics
+    become the pricing kernels in finance.
+  potential_applications:
+  - Developing quantum‑inspired Monte‑Carlo pricing algorithms
+  - Using spectral methods from quantum mechanics to solve high‑dimensional option‑pricing
+    problems
+  confidence: 0.86
+  historical_example: Feynman’s path‑integral formulation (1948) was later adapted
+    to derive the Black‑Scholes formula (1973) via a Euclidean time transformation.
+- connection_type: principle_application|metaphor
+  source_domain: Physics
+  source_concept: Lorentz transformations and time dilation in Special Relativity
+  target_domain: Computer Science / Distributed Systems
+  target_concept: Network latency scaling and clock synchronization across geographically
+    dispersed nodes
+  insight: The invariant speed of light plays the role of a hard latency bound, while
+    moving clocks experience dilation analogous to clock skew in networks.
+  explanation: Just as relativistic observers must adjust their time coordinates to
+    maintain causality, distributed systems employ algorithms (e.g., Lamport timestamps,
+    vector clocks) that compensate for finite signal propagation, preserving a consistent
+    ordering of events.
+  potential_applications:
+  - Design of latency‑aware consensus protocols for blockchain
+  - Improved time‑synchronization schemes in high‑frequency trading platforms
+  confidence: 0.79
+  historical_example: The 1978 Lamport logical clock paper explicitly draws on the
+    notion of a universal ordering, reminiscent of relativistic causality.
+- connection_type: structural_analogy|historical_precedent
+  source_domain: Physics
+  source_concept: Negative energy solutions of the Klein‑Gordon and Dirac equations
+  target_domain: Macroeconomics
+  target_concept: Negative nominal interest rates and deflationary traps
+  insight: Both were once deemed unphysical but became essential once the surrounding
+    framework (vacuum structure or monetary policy) changed.
+  explanation: In quantum field theory, negative energy states are reinterpreted as
+    antiparticles filling a sea; similarly, negative rates are reinterpreted as a
+    policy tool when the zero‑lower‑bound is breached, altering the dynamics of capital
+    flow.
+  potential_applications:
+  - Modeling monetary transmission mechanisms using field‑theoretic analogues
+  - Designing fiscal simulations that treat negative rates as excitations of an underlying
+    economic field
+  confidence: 0.71
+  historical_example: The discovery of the positron (1932) legitimized negative energy
+    solutions; the European Central Bank’s adoption of negative rates in 2014 legitimized
+    negative interest in macro models.
+- connection_type: structural_analogy|principle_application
+  source_domain: Physics
+  source_concept: Klein‑Gordon Equation (second‑order in time, includes a mass term)
+  target_domain: Mechanical Engineering / Materials Science
+  target_concept: Wave propagation in elastic media with dispersion and attenuation
+    (e.g., phononic crystals)
+  insight: Both describe waves that travel with a finite speed and exhibit a dispersion
+    relation ω² = c²k² + (mc²/ħ)², where the mass term maps to a band‑gap or cutoff
+    frequency in engineered structures.
+  explanation: The mass term in Klein‑Gordon acts like a restoring force that prevents
+    low‑frequency propagation, analogous to the stop‑band introduced by periodic micro‑structures
+    in metamaterials. Solving the equation yields mode shapes identical to those used
+    in vibration analysis.
+  potential_applications:
+  - Design of acoustic cloaks using relativistic‑inspired dispersion engineering
+  - Predicting the spread of mechanical disturbances in lattice‑structured composites
+  confidence: 0.84
+  historical_example: The 1995 work on photonic crystals employed a Klein‑Gordon‑type
+    dispersion to explain band gaps, directly borrowing the relativistic formalism.
+bridge_concepts:
+- concept: Eigenvalue Problem
+  appears_in_domains:
+  - Quantum Physics
+  - Structural Engineering
+  - Economics (Input‑Output Models)
+  role: Provides the mathematical backbone for quantized energy levels, natural vibration
+    modes, and stable economic equilibria.
+  examples:
+  - Energy eigenstates of the Schrödinger equation
+  - Natural frequencies of a bridge modeled by the Euler‑Bernoulli beam equation
+  - Leontief input‑output matrix eigenvectors representing sectoral growth patterns
+- concept: Dispersion Relation
+  appears_in_domains:
+  - Relativistic Quantum Field Theory
+  - Signal Processing
+  - Epidemiology
+  role: Links frequency and wavenumber, governing how disturbances travel and spread.
+  examples:
+  - ω² = c²k² + (mc²/ħ)² for Klein‑Gordon particles
+  - Group velocity vs. phase velocity in filter design
+  - Wave‑front speed vs. infection latency in spatial SIR models
+- concept: Conservation Laws (Noether’s Theorem)
+  appears_in_domains:
+  - Physics
+  - Chemistry (Reaction Invariants)
+  - Computer Science (Invariant Preservation)
+  role: Symmetry leads to conserved quantities, guiding system evolution across disciplines.
+  examples:
+  - Energy‑momentum conservation from spacetime translation symmetry
+  - Mass balance in closed chemical reactors
+  - Invariant preservation in functional programming semantics
+mental_models:
+- name: First‑Principles Decomposition
+  description: Break a complex system down to its most fundamental, universally valid
+    laws before adding layers of approximation.
+  applied_to:
+  - Deriving the Klein‑Gordon equation from the relativistic energy‑momentum relation
+  - Formulating the Black‑Scholes PDE from no‑arbitrage and risk‑neutral valuation
+  transferable_to:
+  - Designing algorithms from axiomatic specifications
+  - Developing policy frameworks from core economic identities
+- name: Perturbative Expansion
+  description: Treat a small coupling or deviation as a series of corrections to an
+    exactly solvable baseline.
+  applied_to:
+  - Time‑independent perturbation theory for quantum bound states
+  - Linearizing the Navier‑Stokes equations around a laminar flow
+  transferable_to:
+  - Iterative improvement of machine‑learning models (gradient descent as perturbation)
+  - Incremental budgeting adjustments in public finance
+- name: Boundary‑Condition Matching
+  description: Solve differential equations by enforcing continuity and physical constraints
+    at interfaces.
+  applied_to:
+  - Particle‑in‑a‑box wavefunctions, matching at potential steps
+  - Acoustic wave transmission across layered media
+  transferable_to:
+  - Interface design in software APIs (contract matching)
+  - Legal treaty negotiations where clauses must align at jurisdictional borders
+analogies_used:
+- source_domain: Everyday Life
+  source_concept: A stretched rubber sheet representing spacetime curvature
+  target_domain: Physics
+  target_concept: General Relativity’s description of gravity as curvature of spacetime
+  mapping:
+    Rubber sheet sag: Mass‑induced curvature
+    Marble rolling: Test particle following geodesic
+  pedagogical_value: Provides a visual, tactile metaphor that conveys how mass deforms
+    the geometry through which objects move, making the abstract tensor calculus more
+    intuitive.
+- source_domain: Music
+  source_concept: Harmonic overtones in a vibrating string
+  target_domain: Physics
+  target_concept: Quantized energy levels of a particle in a one‑dimensional infinite
+    potential well
+  mapping:
+    Fundamental tone: Ground‑state wavefunction
+    Higher overtones: Excited eigenstates with nodes
+  pedagogical_value: Links the discrete set of allowed frequencies in a familiar instrument
+    to the discrete spectrum of quantum states, reinforcing the concept of quantization.
+tags:
+  hierarchical:
+  - '#Physics → #Relativity → #Special Relativity'
+  - '#Physics → #Quantum Mechanics → #Schrödinger Equation'
+  - '#Physics → #Quantum Mechanics → #Relativistic Quantum Mechanics → #Klein-Gordon
+    Equation'
+  topical:
+  - '#Antimatter'
+  - '#NegativeEnergy'
+  - '#HistoricalNarrative'
+  - '#ParticlePhysics'
+  methodological:
+  - '#Derivation'
+  - '#HistoricalExample'
+  people:
+  - '#AlbertEinstein'
+  - '#ErwinSchrödinger'
+  - '#OscarKlein'
+  - '#WalterGordon'
+  - '#VladimirFock'
+  - '#EugeneWigner'
+  - '#WernerHeisenberg'
+  - '#WolfgangPauli'
+  - '#NielsBohr'
+  concepts:
+  - '#SpecialRelativity'
+  - '#QuantumMechanics'
+  - '#SchrodingerEquation'
+  - '#KleinGordonEquation'
+  - '#NegativeEnergy'
+  - '#WaveFunction'
+  temporal:
+  - '#1905'
+  - '#1920s'
+  - '#1926'
+summary: ''
+key_ideas: []
+---
+## Key Concepts
+
+**Special Relativity**  
+A theory stating that the laws of physics are the same for all observers moving at constant velocity and that the speed of light is invariant.
+
+**Quantum Mechanics**  
+A branch of physics describing the behavior of particles at atomic and sub‑atomic scales, where wave‑particle duality and quantized energy levels appear.
+
+**Schrödinger Equation**  
+A differential equation that governs how the quantum wave function evolves over time for non‑relativistic particles.
+
+**Klein‑Gordon Equation**  
+A relativistic wave equation for spin‑0 particles obtained by applying the relativistic energy‑momentum relation to quantum operators.
+
+**Negative Energy Solutions**  
+Mathematical solutions of relativistic wave equations that correspond to energies below zero, later interpreted as antiparticles.
+
+## Cross-Domain Connections
+
+**Physics → Finance / Economics**
+
+*Both equations describe the evolution of a probability‑like amplitude under a potential‑like term.*
+
+A Wick rotation (t → iτ) maps the Schrödinger equation onto the heat/diffusion equation, which is mathematically identical to Black‑Scholes after a change of variables. The eigenfunctions and Green’s functions used in quantum mechanics become the pricing kernels in finance.
+
+**Physics → Computer Science / Distributed Systems**
+
+*The invariant speed of light plays the role of a hard latency bound, while moving clocks experience dilation analogous to clock skew in networks.*
+
+Just as relativistic observers must adjust their time coordinates to maintain causality, distributed systems employ algorithms (e.g., Lamport timestamps, vector clocks) that compensate for finite signal propagation, preserving a consistent ordering of events.
+
+**Physics → Macroeconomics**
+
+*Both were once deemed unphysical but became essential once the surrounding framework (vacuum structure or monetary policy) changed.*
+
+In quantum field theory, negative energy states are reinterpreted as antiparticles filling a sea; similarly, negative rates are reinterpreted as a policy tool when the zero‑lower‑bound is breached, altering the dynamics of capital flow.
+
+## Full Transcription
+
+
+
+***
+
+[ 0m0s363ms - 0m5s63ms ] Speaker 1: In 1928, a young man shuffled onto a stage in Germany to present a lecture on his recent work.
+[ 0m5s463ms - 0m9s333ms ] Speaker 1: He had a slightly unusual presentation style.
+[ 0m9s333ms - 0m14s863ms ] Speaker 1: Physicist Eugene Wigner described the lecture as detached, almost like a recitation of a technical text.
+[ 0m15s23ms - 0m19s183ms ] Speaker 1: He said, "The man spoke without giving any sign of enjoying his own lecture."
+[ 0m19s733ms - 0m26s623ms ] Speaker 1: But the work this strange unassuming man presented was about to send some of the most famous quantum physicists of the 20th century spiraling.
+[ 0m28s123ms - 0m33s773ms ] Speaker 1: After the lecture, Werner Heisenberg described the man's theory as "the saddest chapter in modern physics."
+[ 0m34s143ms - 0m41s763ms ] Speaker 1: Heisenberg also wrote to Niels Bohr and said, "I find the present situation quite absurd, and on that account, almost out of despair, I have taken up another field."
+[ 0m42s263ms - 0m46s703ms ] Speaker 1: Legend has it that Wolfgang Pauli even announced that he was abandoning quantum physics.
+[ 0m47s83ms - 0m49s313ms ] Speaker 1: And then he started writing a Utopian novel.
+[ 0m50s203ms - 0m54s533ms ] Speaker 2: What had the young man said to disrupt the world of quantum mechanics so profoundly?
+[ 0m54s883ms - 1m2s913ms ] Speaker 2: Well, he had been working on a problem that physicists are still tackling today: the unification of Einstein's relativity and quantum mechanics.
+[ 1m3s23ms - 1m4s973ms ] Speaker 2: And his work had revealed something troubling:
+[ 1m5s393ms - 1m11s493ms ] Speaker 2: a particle unlike any seen in the world, a particle with negative energy.
+[ 1m13s733ms - 1m17s883ms ] Speaker 1: In 1905, Albert Einstein published his special theory of relativity.
+[ 1m18s243ms - 1m23s863ms ] Speaker 1: It was based on the simple idea that for anyone moving with constant speed, the laws of physics should be the same.
+[ 1m24s113ms - 1m26s793ms ] Speaker 1: And this includes any measurement of the speed of light.
+[ 1m27s183ms - 1m33s613ms ] Speaker 1: So, it doesn't matter how you're moving relative to a beam of light, you should measure its speed to be 300 million meters per second.
+[ 1m34s163ms - 1m42s863ms ] Speaker 1: This means that things that we ordinarily think of as fixed, like time and space, have to transform so that the speed of light is always measured to have the same value.
+[ 1m43s463ms - 1m51s613ms ] Speaker 1: In making this discovery, Einstein realized that space and time are not really separate dimensions at all, they're linked in a four-dimensional fabric called spacetime.
+[ 1m53s213ms - 1m57s263ms ] Speaker 1: When Einstein applied this idea to an object emitting light, he found something peculiar.
+[ 1m58s303ms - 2m2s573ms ] Speaker 1: When an object loses energy by emitting photons, its mass must also decrease.
+[ 2m3s223ms - 2m8s733ms ] Speaker 1: And the change in the object's mass is equal to the energy of the photons emitted divided by the speed of light squared.
+[ 2m9s403ms - 2m15s863ms ] Speaker 1: In other words, he found that energy must be equal to MC squared. E equals MC squared.
+[ 2m16s424ms - 2m22s224ms ] Speaker 3: Matter and energy are but different manifestations of the same thing.
+[ 2m22s543ms - 2m26s733ms ] Speaker 1: So, a particle's total energy comes from its momentum and its rest mass,
+[ 2m27s233ms - 2m30s343ms ] Speaker 1: giving a new relationship between energy and momentum.
+[ 2m31s843ms - 2m36s573ms ] Speaker 1: Now, if we take the square root of both sides, we get an expression for the energy of a particle in terms of its mass and momentum.
+[ 2m37s233ms - 2m46s713ms ] Speaker 1: And if we plot energy versus momentum in a single dimension, we get this curve where mc squared, the rest mass energy of the object, is the lowest possible value for energy.
+[ 2m47s293ms - 2m56s603ms ] Speaker 1: But really, when we took the square root, we should have put a plus minus out front, which would give us two curves, one for positive energies and another for negative energies.
+[ 2m57s433ms - 3m2s823ms ] Speaker 1: But we don't observe things that have energy less than zero. I mean, what would that even mean?
+[ 3m3s893ms - 3m8s863ms ] Speaker 1: So, in classical physics, the solution is simple: you just ignore the negative energy solutions.
+[ 3m9s33ms - 3m11s63ms ] Speaker 1: They can't physically represent anything, right Casper?
+[ 3m12s653ms - 3m14s333ms ] Speaker 4: Well, sure that sounds right.
+[ 3m14s333ms - 3m24s843ms ] Speaker 4: But around the same time that Einstein was coming up with his special theory of relativity, physicists began observing some strange phenomena in atomic physics that were overthrowing all of these classical assumptions.
+[ 3m25s603ms - 3m33s843ms ] Speaker 4: First of all, they noticed that when looking at the energy levels of subatomic particles like electrons, they weren't continuous at all, they were discrete.
+[ 3m34s143ms - 3m43s533ms ] Speaker 4: And they also didn't just behave as particles, but as waves. So, if you would take electrons and fire them through two narrow slits, then they would create interference patterns, just like light does.
+[ 3m44s383ms - 3m46s783ms ] Speaker 4: What they were discovering was the new field of quantum mechanics.
+[ 3m48s523ms - 3m57s693ms ] Speaker 4: And in 1926, Erwin Schrödinger formalized this field by coming up with his now famous wave equation, which describes how quantum mechanical systems evolve over time.
+[ 3m58s763ms - 4m4s963ms ] Speaker 5: This was the most radical new theory of the 20th century, and it will remain so.
+[ 4m4s963ms - 4m9s773ms ] Speaker 5: This is not a bit like Newton or a bit like Maxwell, this was radically new.
+[ 4m11s123ms - 4m18s673ms ] Speaker 4: The equation solution, called the wave function psi, does not describe a particle with a precise position and momentum, as classical laws would,
+[ 4m19s143ms - 4m25s403ms ] Speaker 4: but instead, the modulus squared can give us the probability of finding the particle in a specific location at a specific time.
+[ 4m25s803ms - 4m28s983ms ] Speaker 1: Deriving the Schrödinger equation is actually surprisingly simple.
+[ 4m29s643ms - 4m36s143ms ] Speaker 1: Just start by writing down the total energy, which for a free particle is just its kinetic energy, 1/2 MV squared.
+[ 4m36s693ms - 4m45s383ms ] Speaker 1: And we can rewrite it in terms of momentum, mass times velocity. So, kinetic energy is just momentum squared divided by 2M.
+[ 4m46s223ms - 4m48s173ms ] Speaker 1: Now, we're going to make this quantum.
+[ 4m48s483ms - 4m56s163ms ] Speaker 1: And to do that, we need two things. The first is the wave function psi, which describes how particles act as waves at quantum scales.
+[ 4m56s453ms - 5m9s373ms ] Speaker 1: And the second is something called a quantum operator. This is just a mathematical tool that extracts information from the wave function to reveal a specific property of the particle, like its position, energy, or momentum.
+[ 5m9s703ms - 5m13s223ms ] Speaker 1: The operators for energy and momentum look like this.
+[ 5m14s363ms - 5m19s393ms ] Speaker 1: By inputting these operators, we can make each side of the equation act on the wave function.
+[ 5m20s343ms - 5m22s763ms ] Speaker 1: And that gives us the Schrödinger equation for a free particle.
+[ 5m24s273ms - 5m31s633ms ] Speaker 1: For particles that aren't free, like electrons in atoms, you need to factor in potential energy too, which gives you the full Schrödinger equation.
+[ 5m33s453ms - 5m36s273ms ] Speaker 4: But there are some places where it doesn't produce the right prediction.
+[ 5m37s133ms - 5m45s393ms ] Speaker 4: For example, take the element gold. The Schrödinger equation suggests that it should be a silver-gray color, just like all the other metals, but it's not, I mean, it's gold.
+[ 5m45s953ms - 5m52s223ms ] Speaker 4: And for mercury, the Schrödinger equation predicts that it should be a solid at room temperature, but it's a liquid.
+[ 5m52s513ms - 5m58s73ms ] Speaker 4: So, what is wrong? Well, I'll give you a hint, because both gold and mercury are heavy elements.
+[ 5m58s433ms - 6m2s913ms ] Speaker 1: They have a high number of protons in their nuclei which attract orbiting electrons more strongly.
+[ 6m3s243ms - 6m11s693ms ] Speaker 1: So, if you're thinking in a classical sense, the electrons would be bound tighter in, and they'd be whizzing around at higher speeds than in other elements.
+[ 6m12s243ms - 6m17s873ms ] Speaker 1: And for electrons in some orbits, those speeds start to get a little too close to the speed of light.
+[ 6m18s603ms - 6m20s463ms ] Speaker 1: So, let's go back to the Schrödinger equation.
+[ 6m20s773ms - 6m23s433ms ] Speaker 1: There we had the kinetic energy was p squared over 2m.
+[ 6m24s273ms - 6m29s133ms ] Speaker 1: But for particles moving at relativistic speeds close to the speed of light, that equation isn't the right one.
+[ 6m30s143ms - 6m33s843ms ] Speaker 1: The correct equation is the energy momentum relation from special relativity.
+[ 6m34s143ms - 6m39s773ms ] Speaker 5: Schrödinger's equation is not consistent with the theory of relativity. So, it's technically it's not right.
+[ 6m41s793ms - 6m48s953ms ] Speaker 1: So, the solution seems simple enough: just start with the relativistic energy momentum relation and use that to derive a new wave equation.
+[ 6m50s453ms - 6m59s943ms ] Speaker 1: Well, this is exactly what a physicist named Oscar Klein did in 1926. He subbed in the same energy and momentum operators that Schrödinger used and found this equation.
+[ 7m2s393ms - 7m4s543ms ] Speaker 1: Klein's work was pretty well received by a number of his colleagues.
+[ 7m4s883ms - 7m12s453ms ] Speaker 1: In fact, it turned out that two other physicists, Walter Gordon and Vladimir Fock, had independently arrived at the same equation in that same year.
+[ 7m12s933ms - 7m18s243ms ] Speaker 1: It became known as the Klein-Gordon equation, which was a bit of a burn for Fock.
+[ 7m20s683ms - 7m24s843ms ] Speaker 4: But that's often how it goes: you do all the hard work, and then no one notices.
+[ 7m25s213ms - 7m33s553ms ] Speaker 4: Things have changed a little since Fock's time, but the key to recognition is still visibility, and these days that means having a website.
+[ 7m34s103ms - 7m45s683ms ] Speaker 4: Simple enough, you just need to write a couple thousand lines of CSS, JavaScript, or HTML, or else pay someone a few thousand dollars to do it for you. Oh, and then there's the hosting costs and the maintenance.
+[ 7m46s333ms - 7m49s313ms ] Speaker 4: Or you could check out today's sponsor, Hostinger.
+[ 7m49s633ms - 7m53s663ms ] Speaker 4: Not only will they get your website online, their intuitive tools let you build it yourself.
+[ 7m54s53ms - 8m0s563ms ] Speaker 4: There's no need to learn multiple coding languages, the Hostinger builder can get you most of the way there with just one prompt.
+[ 8m0s823ms - 8m6s263ms ] Speaker 4: You can optimize your website with their built-in tools for SEO rating, logo design and e-commerce.
+[ 8m6s523ms - 8m10s953ms ] Speaker 4: And once you're happy, you're online immediately on a domain that's included with the plan.
+[ 8m11s243ms - 8m16s343ms ] Speaker 4: That whole process is fast and straightforward and a subscription is just a few dollars a month.
+[ 8m16s783ms - 8m23s863ms ] Speaker 4: So, sign up now to get an 85% discount in the sale and use the code Veritasium for an extra 10% off.
+[ 8m24s263ms - 8m27s663ms ] Speaker 4: Just scan this QR code or follow the link in the description to get started.
+[ 8m28s133ms - 8m34s743ms ] Speaker 4: I want to thank Hostinger for sponsoring this part of the video and now back to Klein, Gordon, and Fock.
+[ 8m36s273ms - 8m40s863ms ] Speaker 1: The Klein-Gordon-Fock equation even made its way over to one of the fathers of quantum physics, Niels Bohr,
+[ 8m41s473ms - 8m42s673ms ] Speaker 1: who must have been impressed.
+[ 8m42s933ms - 8m52s483ms ] Speaker 1: Because at the 1927 Solvay conference, Bohr was chatting to a promising young physicist about what he was working on. The young man said, "I'm trying to get a relativistic theory of the electron."
+[ 8m52s843ms - 8m55s123ms ] Speaker 1: Bohr replied, "But Klein has already solved this problem."
+[ 8m55s793ms - 8m57s143ms ] Speaker 1: The young man disagreed.
+[ 8m58s393ms - 9m0s983ms ] Speaker 1: So, who was this bold 25-year-old?
+[ 9m1s593ms - 9m7s573ms ] Speaker 1: He was Paul Dirac, a man who Bohr would later give the nickname "the strangest man" because he was truly one of a kind.
+[ 9m8s243ms - 9m18s313ms ] Speaker 5: The first time I went to Princeton, I met a a couple who invited Dirac and his wife, and Dirac, uh, for the whole meal, which lasted three hours, didn't say a single word.
+[ 9m20s113ms - 9m21s303ms ] Speaker 5: Not one word.
+[ 9m21s633ms - 9m25s723ms ] Speaker 5: He wasn't sulky, he wasn't angry, he just saw no reason to speak.
+[ 9m26s303ms - 9m27s113ms ] Speaker 4: That's crazy.
+[ 9m27s683ms - 9m35s303ms ] Speaker 1: Dirac was a man of so few words that his colleagues invented a special unit, a Dirac, equivalent to speaking one word per hour.
+[ 9m36s33ms - 9m40s733ms ] Speaker 1: Legend also has it that he liked to relax by climbing trees in three-piece suits.
+[ 9m41s103ms - 9m42s823ms ] Speaker 1: And that wasn't his only strange hobby.
+[ 9m43s563ms - 9m49s3ms ] Speaker 1: As a student, Dirac had attended seminars on Einstein's theory of relativity, and he'd kind of fallen in love with it.
+[ 9m49s513ms - 9m52s443ms ] Speaker 1: He was impressed by the elegance and beauty of its mathematics.
+[ 9m52s883ms - 9m55s833ms ] Speaker 1: To Dirac, this got to the core of what a good theory must do.
+[ 9m56s273ms - 10m1s613ms ] Speaker 1: He once said, "It is more important to have beauty in one's equations than to have them fit experiment."
+[ 10m4s33ms - 10m6s443ms ] Speaker 4: Do you know why Dirac was so drawn to relativity?
+[ 10m6s723ms - 10m14s723ms ] Speaker 5: Einstein went in there and did it all, not all, but almost all by deductive reasoning. That made a huge impression on Dirac, right?
+[ 10m15s83ms - 10m23s223ms ] Speaker 5: He realized that uh that it was advanced mathematics was really important to understanding the way that nature works.
+[ 10m23s553ms - 10m29s873ms ] Speaker 4: So, Dirac found a new hobby, obsessively updating classical equations with Einstein's theory of relativity,
+[ 10m30s333ms - 10m35s403ms ] Speaker 4: so that they would now work for relativistic scenarios as well that are those approaching the speed of light.
+[ 10m35s753ms - 10m49s563ms ] Speaker 4: He later said this was like a game for him, and so it's maybe not too much of a surprise then that he was one of the people trying to unite quantum physics and relativity, because a theory that would cover both of these would be truly beautiful in his eyes.
+[ 10m51s333ms - 10m55s713ms ] Speaker 1: Dirac didn't see the beauty in Klein, Gordon, and Fock's relativistic update of the Schrödinger equation.
+[ 10m56s43ms - 11m3s13ms ] Speaker 1: And he wasn't alone. Fellow physicist Wolfgang Pauli, after reading Klein's paper, wrote him a letter wishing his physics a speedy recovery.
+[ 11m3s143ms - 11m5s813ms ] Speaker 1: Pauli was known for being pretty savage.
+[ 11m5s813ms - 11m13s533ms ] Speaker 1: And actually, the Klein-Gordon equation is useful in some cases, but he and Dirac were both concerned with one particular feature of the equation.
+[ 11m14s887ms - 11m22s717ms ] Speaker 4: And that's because the Klein-Gordon equation contains this term, that's a second-order time derivative, so the wave function is being differentiated twice with respect to time.
+[ 11m23s477ms - 11m30s547ms ] Speaker 4: Now, remember, the Schrödinger equation also contains a second-order derivative, but that's with space, not with time. Time is just first-order.
+[ 11m31s397ms - 11m41s217ms ] Speaker 4: So, why is this such a problem? Well, think of a very simple second-order time derivative, something like d squared Y over dt squared is equal to three.
+[ 11m41s847ms - 11m46s437ms ] Speaker 4: Now, to figure out what Y is, the function that satisfies this equation, we just have to integrate it twice.
+[ 11m51s237ms - 11m56s657ms ] Speaker 4: But notice, to find the solution, we now have two integration constants, C and D.
+[ 11m57s167ms - 12m5s567ms ] Speaker 4: And the problem is that we can only find that if we know both Y at a given time, and if we know the first derivative of Y at a given time.
+[ 12m6s407ms - 12m18s997ms ] Speaker 4: This makes sense physically if you think about say throwing a ball in the air. If you want to predict the ball's future motion, well, then you need to know where you threw it from, that's its position, and how hard you threw it, that's its velocity.
+[ 12m20s77ms - 12m24s837ms ] Speaker 4: Or in other words, you need to know both the position and the first derivative of the position.
+[ 12m26s647ms - 12m34s157ms ] Speaker 1: Similarly, to predict a quantum system's future state using the Klein-Gordon equation, you'd need the initial wave function and the initial first derivative of the wave function.
+[ 12m35s757ms - 12m44s107ms ] Speaker 1: Now, the beauty of the Schrödinger equation was that if you knew only the wave function of a system at a given time, you could use it to determine all the future states of that system.
+[ 12m44s567ms - 12m48s777ms ] Speaker 1: But in the Klein-Gordon equation, the wave function no longer told the whole story.
+[ 12m49s187ms - 12m57s717ms ] Speaker 1: And this introduced a further problem: the probability of finding a particle in a given area could no longer be simply described by the modulus of the wave function, as it was for the Schrödinger equation.
+[ 12m58s207ms - 13m2s827ms ] Speaker 1: For the Klein-Gordon equation, a new equation was needed to describe the probability using the wave function,
+[ 13m3s177ms - 13m7s757ms ] Speaker 1: which takes a while to derive, so we won't get into that here, but it looks like this.
+[ 13m8s417ms - 13m15s877ms ] Speaker 1: And the problem with that equation is that, unlike the simple modulus of the wave function, it can have negative solutions, negative probabilities.
+[ 13m17s147ms - 13m24s117ms ] Speaker 1: How can the chance of something happening be less than zero? As Dirac put it, that, of course, is physically nonsense.
+[ 13m26s867ms - 13m32s857ms ] Speaker 1: So, Dirac did what Dirac does best and he set out to find his own solution that contained no second-order time derivatives.
+[ 13m33s457ms - 13m36s977ms ] Speaker 1: First, he rewrote the relativistic energy momentum relationship like this,
+[ 13m38s147ms - 13m47s117ms ] Speaker 1: which is a linear equation, so no squaring E, that is, no squaring the energy operator, which is what gave rise to that second-order time derivative in the Klein-Gordon equation.
+[ 13m47s717ms - 13m55s607ms ] Speaker 1: Now, he just had to solve this equation and find the coefficients, alpha x, alpha y, alpha z, and beta, and he would have a solution.
+[ 13m57s757ms - 14m0s247ms ] Speaker 1: To do this, we can start by squaring both sides of the equation.
+[ 14m1s327ms - 14m4s607ms ] Speaker 1: Next, we can expand the momentum on the left-hand side into its three dimensions.
+[ 14m4s967ms - 14m8s677ms ] Speaker 1: And then expand the right-hand side to end up with this long equation.
+[ 14m9s507ms - 14m12s247ms ] Speaker 1: It might look pretty complicated, but there is a trick we can use.
+[ 14m14s357ms - 14m28s687ms ] Speaker 1: Notice that all these terms on the right-hand side are multiplied by PMC cubed, but on the left-hand side, there are no terms containing PMC cubed, so that tells us that when you multiply these coefficients together, like alpha times beta and beta times alphas, all of that must be zero.
+[ 14m29s157ms - 14m41s827ms ] Speaker 1: And similarly, notice that these terms are multiplied by two different momenta, like PX and PY times C squared, which also don't have a counterpart on the left-hand side, so these alpha times alpha terms must also be equal to zero.
+[ 14m42s677ms - 14m52s817ms ] Speaker 1: And that just leaves this top row. These terms do match on both sides, which tells us that alpha x squared must be equal to 1, and so must alpha y squared, alpha z squared, and beta squared.
+[ 14m53s697ms - 15m0s687ms ] Speaker 1: So, Dirac now had a set of simultaneous equations for alpha x, alpha y, alpha z, and beta that he just needed to solve.
+[ 15m1s597ms - 15m2s377ms ] Speaker 1: That sounds easy, right?
+[ 15m3s157ms - 15m4s377ms ] Speaker 1: But it's not that straightforward.
+[ 15m4s727ms - 15m6s667ms ] Speaker 4: To see why, let's do some examples.
+[ 15m6s917ms - 15m18s247ms ] Speaker 4: So, say alpha x is one and beta equals minus one. Well, then we get one squared, which is one, equals minus one squared, which is also one, so that satisfies the top equation.
+[ 15m18s677ms - 15m29s187ms ] Speaker 4: But if we fill it in here, we get one times minus one, which is just minus one, plus minus one times one, which is again minus one, for a total of minus two.
+[ 15m30s337ms - 15m31s847ms ] Speaker 4: So, that doesn't work.
+[ 15m32s307ms - 15m37s677ms ] Speaker 4: So, let's let's try another number. Say alpha x is one, and now it's alpha z that is minus one.
+[ 15m38s707ms - 15m49s187ms ] Speaker 4: Well, in that case, we get one times minus one, so again, we get minus one, plus minus one times one, again minus one, so we again get minus two.
+[ 15m49s517ms - 16m5s607ms ] Speaker 4: And in fact, if you look at this top equation, the only numbers that satisfy this relation is one and minus one. So, all these coefficients have to be either one or minus one. But if you fill that in, then the only two possible answers you're going to get in these equations is minus two or positive two.
+[ 16m6s107ms - 16m15s537ms ] Speaker 4: Now, the two equations that are giving problems are these two, and that's because alpha times beta is the same as beta times alpha. So, you're always going to get minus two or two.
+[ 16m15s947ms - 16m20s887ms ] Speaker 4: So, the only way to get out of this is to somehow make the order of multiplication matter.
+[ 16m21s347ms - 16m22s227ms ] Speaker 4: But where do you find something like that?
+[ 16m24s377ms - 16m28s837ms ] Speaker 1: Let's think about a really simple vector, say one in the x direction and two in the y direction.
+[ 16m29s107ms - 16m35s447ms ] Speaker 1: If I reflect this vector along the line y = x, and then reflect it about the x-axis, I get this.
+[ 16m36s397ms - 16m44s117ms ] Speaker 1: But if I start again and instead reflect first about the x-axis and then along y = x, I get this, which is totally different.
+[ 16m44s487ms - 16m46s707ms ] Speaker 1: So, the order matters.
+[ 16m47s447ms - 16m53s517ms ] Speaker 1: How do we express this mathematically? We need some way to represent transformations like reflections as a single coefficient,
+[ 16m53s837ms - 16m55s747ms ] Speaker 1: which means we need matrices.
+[ 16m57s267ms - 17m4s677ms ] Speaker 1: Matrices are arrays of numbers which encapsulate these transformations, telling us how to reflect, rotate, stretch, or squish across each dimension.
+[ 17m5s377ms - 17m7s757ms ] Speaker 1: Mathematically, the order we multiply them matters,
+[ 17m8s487ms - 17m11s647ms ] Speaker 1: since we multiply the rows of the first matrix by the columns of the second.
+[ 17m15s157ms - 17m17s927ms ] Speaker 1: A matrix that reflects along y = x looks like this.
+[ 17m18s447ms - 17m21s637ms ] Speaker 1: And a matrix that reflects about the x-axis looks like this.
+[ 17m23s297ms - 17m28s817ms ] Speaker 1: And if I apply them to that original vector one by one, you can see how we end up with different results.
+[ 17m30s164ms - 17m38s94ms ] Speaker 1: And actually, using matrices in quantum mechanics was not completely out there. Dirac had already seen it done by Werner Heisenberg, his new, if unlikely, friend.
+[ 17m39s254ms - 17m41s964ms ] Speaker 1: Dirac and Heisenberg were very different characters.
+[ 17m42s244ms - 17m46s294ms ] Speaker 1: Heisenberg was charming and outgoing, Dirac hated socializing and small talk.
+[ 17m46s614ms - 17m52s544ms ] Speaker 1: Once, the two were on a cruise ship to a conference together and Heisenberg spent a lot of time dancing with women on board.
+[ 17m53s14ms - 17m54s714ms ] Speaker 1: So, Dirac asked him, "Why do you dance?"
+[ 17m55s614ms - 17m59s334ms ] Speaker 1: Heisenberg replied, "When there are nice girls, it is a pleasure."
+[ 17m59s764ms - 18m4s674ms ] Speaker 1: Dirac thought about this for a bit before saying, "How do you know beforehand that the girls are nice?"
+[ 18m5s634ms - 18m9s624ms ] Speaker 1: So, they were pretty different guys, but Heisenberg had a profound impact on Dirac.
+[ 18m12s224ms - 18m14s644ms ] Speaker 4: Do you know what drew him to quantum mechanics initially?
+[ 18m15s14ms - 18m18s314ms ] Speaker 5: He always said that Heisenberg gave him his start. He always said that.
+[ 18m18s574ms - 18m24s374ms ] Speaker 5: In later life, he used to begin lectures when he was 70, even 80 years old, with the following words.
+[ 18m25s254ms - 18m29s864ms ] Speaker 6: Quantum mechanics was discovered by Heisenberg in 1925.
+[ 18m30s464ms - 18m34s524ms ] Speaker 4: As a PhD student, Dirac had closely followed Heisenberg's work.
+[ 18m35s24ms - 18m44s394ms ] Speaker 4: And a few years earlier, Heisenberg had found that for certain properties, like position and momentum, the order of multiplication matters. So, X * P is not the same as P * X.
+[ 18m44s904ms - 18m54s934ms ] Speaker 4: This was actually the beginning of Heisenberg's famous uncertainty principle, which says that there is a limit to how precisely we can know certain pairs of physical properties in quantum systems.
+[ 18m55s534ms - 19m4s574ms ] Speaker 4: It turns out that if the order of multiplication matters for two properties like position and momentum, then that means there's an inherent uncertainty in their combined measurement.
+[ 19m5s44ms - 19m7s574ms ] Speaker 4: The order we measure them in will change the outcome.
+[ 19m8s484ms - 19m16s594ms ] Speaker 4: Heisenberg's mentor, Max Born, suggested that he could represent this mathematically by using matrices because there the order of multiplication also matters.
+[ 19m17s924ms - 19m26s644ms ] Speaker 4: This led Heisenberg to a new form of quantum mechanics, which was mathematically equivalent to Schrödinger's equation, but it was based on matrix algebra.
+[ 19m27s514ms - 19m32s424ms ] Speaker 1: Dirac recognized something similar in his coefficients, where the order of multiplication clearly mattered.
+[ 19m32s934ms - 19m34s854ms ] Speaker 1: So, he thought matrices might be the solution.
+[ 19m35s584ms - 19m43s864ms ] Speaker 1: For his coefficients, he tried 2x2 matrices, since they're the smallest simple matrices that could make the order of multiplication matter.
+[ 19m44s374ms - 19m53s384ms ] Speaker 1: He found that some worked with the equations, in fact, those reflection matrices we tried earlier worked well, but he just couldn't find solutions for all four coefficients that all worked together.
+[ 19m54s174ms - 19m58s394ms ] Speaker 5: This is not simple. You're Dirac, one of the smartest people of the 20th century in physics, right?
+[ 19m58s594ms - 20m5s904ms ] Speaker 5: But it was not easy. You don't just have to twiddle with bits of the Schrödinger equation. You have to do something completely radical.
+[ 20m6s14ms - 20m9s404ms ] Speaker 5: His working is in there, and you can see him really struggling.
+[ 20m10s194ms - 20m12s224ms ] Speaker 1: Then, Dirac had a stroke of genius.
+[ 20m12s584ms - 20m22s714ms ] Speaker 1: He said, "I suddenly realized that there was no need to stick to quantities which can be represented by matrices with just two rows and columns. Why not go to four rows and columns?"
+[ 20m30s344ms - 20m34s404ms ] Speaker 1: With these 4x4 matrices, Dirac got these solutions to his simultaneous equations.
+[ 20m35s34ms - 20m44s624ms ] Speaker 1: A matrix with ones on the diagonal is mathematically equivalent to a one, and a whole array of zeros is the same thing as zero. So, all of the equations were satisfied.
+[ 20m45s4ms - 20m47s404ms ] Speaker 1: Dirac had found coefficients that worked.
+[ 20m48s74ms - 20m55s134ms ] Speaker 1: Now, we can substitute those matrices back into Dirac's linear equation, then rewrite the three momenta and alpha coefficients as vectors.
+[ 20m55s664ms - 21m2s974ms ] Speaker 1: And, just as we did with the Schrödinger and Klein-Gordon equations, we can use the energy and momentum operators to make both sides act on the wave function.
+[ 21m4s224ms - 21m9s934ms ] Speaker 1: If we substitute those operators in, we get Dirac's final equation for the relativistic free electron.
+[ 21m11s434ms - 21m17s324ms ] Speaker 1: The young man who spent his life looking for mathematical beauty had found, perhaps, his most beautiful equation of all.
+[ 21m18s24ms - 21m22s994ms ] Speaker 5: people were expecting the solution to be horrible, and it turned out to be a thing of beauty, right?
+[ 21m24s214ms - 21m27s344ms ] Speaker 5: Something you look at and you think, that is absolutely amazing.
+[ 21m28s324ms - 21m34s404ms ] Speaker 5: It's a pattern that Dirac had found deep in nature. Nothing like that had been seen in physics at that time.
+[ 21m36s14ms - 21m40s294ms ] Speaker 4: To see some of that beauty, you only have to compare it to the Schrödinger equation, which you can see right here.
+[ 21m40s494ms - 21m45s314ms ] Speaker 4: Now, the two look very similar, but there is a lot hidden in the Dirac equation.
+[ 21m45s734ms - 21m54s74ms ] Speaker 4: First of all, it's relativistic, so it works at really, really high speeds because it uses Einstein's energy momentum relationship, unlike the Schrödinger equation, which breaks down there.
+[ 21m54s594ms - 22m7s534ms ] Speaker 4: But what's even more beautiful is that if you look at this, the Dirac equation isn't just first order in time derivatives, it's also first order in spatial derivatives, whereas the Schrödinger equation was second order in spatial derivatives.
+[ 22m7s874ms - 22m19s834ms ] Speaker 4: So, you might wonder, well, why does that matter? Well, because not only does going first order in all the derivatives solve the second-order time derivative problem of the Klein-Gordon equation, it now also treats time and space symmetrically.
+[ 22m20s194ms - 22m28s764ms ] Speaker 4: And it becomes really important if you start thinking about relativity, where time and space are not separate dimensions, they're intertwined in a four-dimensional space-time.
+[ 22m29s134ms - 22m39s924ms ] Speaker 4: And while the Schrödinger equation had just a single component wave function, to make the wave function work with these 4x4 matrices, in Dirac's case, you actually need a wave function that has four components.
+[ 22m40s364ms - 22m48s434ms ] Speaker 4: So, it will look something like this. Psi one, Psi two, Psi three, and Psi four.
+[ 22m49s864ms - 22m56s174ms ] Speaker 1: The four-component wave function means that the Dirac equation describes four possible states for any quantum system,
+[ 22m56s654ms - 23m0s884ms ] Speaker 1: which reveals something Schrödinger's single wave function didn't.
+[ 23m1s204ms - 23m10s774ms ] Speaker 1: An electron at a given energy level actually has two possible states due to different orientations of its intrinsic angular momentum: spin up and spin down.
+[ 23m11s954ms - 23m20s224ms ] Speaker 1: This spin creates a tiny magnetic field, so these two states are like tiny magnets pointing in opposite directions, and that has an interesting implication.
+[ 23m21s334ms - 23m24s424ms ] Speaker 1: Take hydrogen, which has one proton and one electron.
+[ 23m24s844ms - 23m27s454ms ] Speaker 1: Classically, the electron whizzes around the proton.
+[ 23m27s844ms - 23m37s874ms ] Speaker 1: But, if you switch to the perspective of the electron, well, now it's the proton that's moving, and since it's positively charged, that moving charge creates a magnetic field in the electron's frame of reference.
+[ 23m38s364ms - 23m48s644ms ] Speaker 1: So, now you've got this electron which has its own mini magnetic field, interacting with a larger magnetic field, and that interaction will be slightly different for a spin up and a spin down electron.
+[ 23m49s204ms - 23m55s394ms ] Speaker 1: And as a result, some energy levels of the electron split into two closely spaced energy levels.
+[ 23m56s344ms - 24m0s564ms ] Speaker 1: And you can actually see this if you zoom into the emission spectrum for a hydrogen atom.
+[ 24m2s574ms - 24m6s774ms ] Speaker 1: Schrödinger's equation didn't predict that splitting, since it just had one solution for each energy level.
+[ 24m7s344ms - 24m14s234ms ] Speaker 1: But with Dirac's four-component solution, the top two wave functions now described two different spin states with two slightly different energies.
+[ 24m15s84ms - 24m18s734ms ] Speaker 4: Dirac admitted himself that he had never set out to capture spin in his equation.
+[ 24m19s522ms - 24m26s162ms ] Speaker 6: I started out this work without any intention at all of bringing in the spin of the electron.
+[ 24m27s304ms - 24m37s764ms ] Speaker 4: But hold on, because if an electron at a given energy level only has two possible spin states, then why do we have a four-component wave function? Why are there four states and not just two?
+[ 24m39s764ms - 24m46s784ms ] Speaker 1: Well, that's what brings us back to that 1928 lecture at the start, the one that seemed to drive even the most well-established quantum physicists mad,
+[ 24m47s44ms - 24m52s704ms ] Speaker 1: because that strange man presenting his work was actually Paul Dirac, sharing his new equation with the world.
+[ 24m53s534ms - 24m59s344ms ] Speaker 1: It was Dirac's beautiful equation that Heisenberg called the saddest chapter in modern physics.

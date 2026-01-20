@@ -1,0 +1,845 @@
+---
+title: Veritasium_The Ridiculous Engineering Of The World's Most Important Machine_20251231_part1
+audio_file: Veritasium_The Ridiculous Engineering Of The World's Most Important Machine_20251231_part1.mp3
+note_id: 3a735b70-8d5d-4d3e-b53e-eea340cd6914
+date_processed: '2026-01-06'
+classification:
+  primary_domain: Physics
+  sub_domains:
+  - SemiconductorPhysics
+  - OpticalEngineering
+  - Nanotechnology
+  - MaterialsScience
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: Gordon Moore
+    role: Intel co‑founder
+    contribution: Observed and articulated the doubling of transistor counts every
+      two years, now known as Moore's law
+  works_cited: []
+  concepts_mentioned:
+  - Transistor
+  - Moore's law
+  - Photolithography
+  - Numerical aperture
+  - Diffraction
+  - Rayleigh equation
+  - Feature size
+  laws_theories_cited:
+  - Moore's law
+  - Rayleigh criterion
+  - Diffraction theory
+concepts:
+- name: Transistor
+  definition: A semiconductor device that can switch or amplify electronic signals,
+    acting as the binary on/off elements in digital circuits.
+  parent_concepts:
+  - Electronics
+  related_concepts:
+  - Microchip
+  - Binary logic
+  abstraction_level: Fundamental
+  confidence: 1.0
+- name: Moore's law
+  definition: An empirical observation that the number of transistors on an integrated
+    circuit doubles approximately every two years.
+  parent_concepts:
+  - Empirical observation
+  related_concepts:
+  - Transistor scaling
+  - Semiconductor industry
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: Photolithography
+  definition: A process that uses light to transfer geometric patterns from a mask
+    onto a photosensitive resist on a semiconductor wafer, defining circuit features.
+  parent_concepts:
+  - Semiconductor manufacturing
+  related_concepts:
+  - Mask
+  - Reticle
+  - Etching
+  abstraction_level: Applied
+  confidence: 1.0
+- name: Numerical aperture
+  definition: A dimensionless number that characterizes the range of angles over which
+    a lithography system can accept or emit light, influencing resolution.
+  parent_concepts:
+  - Optical engineering
+  related_concepts:
+  - Diffraction
+  - Resolution
+  abstraction_level: Fundamental
+  confidence: 1.0
+- name: Diffraction
+  definition: The bending and spreading of waves when they encounter obstacles or
+    apertures, creating interference patterns that limit the ability to resolve fine
+    features.
+  parent_concepts:
+  - Wave optics
+  related_concepts:
+  - Interference
+  - Resolution
+  abstraction_level: Fundamental
+  confidence: 1.0
+- name: Rayleigh equation
+  definition: An equation that relates the minimum resolvable feature size to the
+    wavelength of light and the numerical aperture of the imaging system.
+  parent_concepts:
+  - Optical resolution
+  related_concepts:
+  - Diffraction
+  - Numerical aperture
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Feature size
+  definition: The smallest dimension of a pattern that can be reliably printed on
+    a semiconductor wafer.
+  parent_concepts:
+  - Semiconductor manufacturing
+  related_concepts:
+  - Resolution
+  - Photolithography
+  abstraction_level: Practical
+  confidence: 0.9
+relationships:
+- source_concept: Moore's law
+  target_concept: Transistor
+  relationship_type: supports
+  strength: 1.0
+  evidence: Moore's law states transistor count doubles, implying continual scaling
+    of transistors.
+  reasoning: The law drives the need for smaller transistors.
+- source_concept: Photolithography
+  target_concept: Feature size
+  relationship_type: causes
+  strength: 1.0
+  evidence: The transcript says the photolithography step determines how small you
+    can make the features.
+  reasoning: Photolithography directly sets the minimum printable dimension.
+- source_concept: Numerical aperture
+  target_concept: Feature size
+  relationship_type: supports
+  strength: 1.0
+  evidence: Larger NA allows smaller features; the speaker explains larger NA reduces
+    the minimum feature size.
+  reasoning: Higher NA increases the angular range of captured diffracted light, improving
+    resolution.
+- source_concept: Diffraction
+  target_concept: Feature size
+  relationship_type: contradicts
+  strength: 0.9
+  evidence: Diffraction is described as inevitable and limits how small features can
+    be printed.
+  reasoning: Diffraction imposes a physical limit that opposes arbitrarily small feature
+    sizes.
+- source_concept: Rayleigh equation
+  target_concept: Feature size
+  relationship_type: derives_from
+  strength: 0.9
+  evidence: The Rayleigh equation determines the smallest feature size based on wavelength
+    and NA.
+  reasoning: Feature size is mathematically derived from the Rayleigh criterion.
+cross_domain_insights:
+- connection_type: structural_analogy|principle_application
+  source_domain: Physics
+  source_concept: Moore's law (exponential scaling of transistor count)
+  target_domain: Economics
+  target_concept: Compound interest and economic growth models
+  insight: Both describe processes where a quantity doubles at regular intervals,
+    leading to exponential trajectories.
+  explanation: Moore's law quantifies the doubling of transistors roughly every 18
+    months; similarly, compound interest doubles capital over a fixed period. The
+    mathematics of exponential growth applies to both, allowing techniques from one
+    field (e.g., logistic saturation models) to anticipate limits in the other.
+  potential_applications:
+  - Forecasting technology adoption curves using economic growth models
+  - Designing fiscal policies that account for technology‑driven productivity spikes
+  confidence: 0.88
+  historical_example: The use of logistic curves in population biology (Verhulst 1845)
+    later informed saturation models for semiconductor scaling in the 1990s.
+- connection_type: structural_analogy|metaphor
+  source_domain: Physics
+  source_concept: Diffraction limit and Rayleigh equation (minimum resolvable feature
+    size)
+  target_domain: Epidemiology
+  target_concept: Minimum viable cluster size for disease outbreak (critical community
+    size)
+  insight: The Rayleigh criterion defines the smallest distinguishable point; epidemiology
+    defines the smallest population where an infection can sustain itself.
+  explanation: Both concepts involve a threshold where a signal (optical or infectious)
+    can be distinguished from background noise. Mathematically they share a form where
+    a product of a wavelength‑like parameter and a system size determines detectability.
+  potential_applications:
+  - Applying optical resolution formulas to improve early‑warning thresholds in disease
+    surveillance
+  - Designing public‑health interventions that treat communities analogously to optical
+    apertures
+  confidence: 0.81
+  historical_example: The adoption of the SIR model (Kermack & McKendrick 1927) borrowed
+    concepts from chemical kinetics, illustrating cross‑domain threshold thinking.
+- connection_type: principle_application|historical_precedent
+  source_domain: Physics
+  source_concept: Numerical aperture (NA) in photolithography (trade‑off between collection
+    angle and resolution)
+  target_domain: Computer Networks
+  target_concept: Bandwidth‑latency product (trade‑off between data rate and round‑trip
+    time)
+  insight: NA determines how much spatial frequency content can be captured, just
+    as bandwidth‑latency product determines how much information can be transferred
+    per unit time.
+  explanation: Increasing NA (wider acceptance angle) improves resolution but reduces
+    depth of focus, mirroring how higher bandwidth reduces latency tolerance. Both
+    are governed by a conservation‑like relationship where expanding one dimension
+    compresses another.
+  potential_applications:
+  - Optimizing data‑center optical interconnects using NA‑inspired design heuristics
+  - Developing adaptive routing protocols that mimic NA adjustments for varying traffic
+    loads
+  confidence: 0.84
+  historical_example: Claude Shannon's channel capacity theorem (1948) introduced
+    bandwidth‑latency trade‑offs, later echoed in optical engineering when NA limits
+    were formalized in the 1970s.
+- connection_type: structural_analogy|principle_application
+  source_domain: Physics
+  source_concept: Transistor switching threshold (gate voltage vs. channel conduction)
+  target_domain: Neuroscience
+  target_concept: Neuron action potential firing threshold
+  insight: Both systems act as binary switches that transition from an off to an on
+    state once an input exceeds a critical threshold.
+  explanation: The gate voltage controls carrier flow in a transistor; similarly,
+    membrane potential controls ion channel opening in a neuron. The underlying differential
+    equations (e.g., logistic growth for channel opening) share the same bifurcation
+    structure, enabling cross‑disciplinary modeling of signal propagation.
+  potential_applications:
+  - Designing neuromorphic chips that directly map transistor characteristics to neuronal
+    dynamics
+  - Applying transistor noise analysis to understand stochastic firing in cortical
+    neurons
+  confidence: 0.91
+  historical_example: Carver Mead's 1989 proposal of the 'neuron as a transistor'
+    concept laid the groundwork for modern neuromorphic engineering.
+- connection_type: metaphor|principle_application
+  source_domain: Physics
+  source_concept: Feature size scaling in photolithography (minimum printable line
+    width)
+  target_domain: Urban Planning
+  target_concept: Minimum lot size and zoning density regulations
+  insight: Just as photolithography imposes a physical limit on how small a circuit
+    feature can be printed, city planners impose minimum lot sizes that bound urban
+    density.
+  explanation: Both domains balance the desire for compactness (higher transistor
+    density or housing units) against manufacturing or livability constraints, leading
+    to analogous optimization problems (e.g., maximizing utility per area under a
+    minimum size constraint).
+  potential_applications:
+  - Using lithographic scaling models to predict the impact of zoning changes on urban
+    sprawl
+  - Adapting layout algorithms from chip design (e.g., floorplanning) for efficient
+    city block arrangement
+  confidence: 0.78
+  historical_example: The 1960s 'Garden City' movement introduced minimum lot sizes,
+    paralleling the 1970s shift to sub‑micron lithography where feature size became
+    a design driver.
+bridge_concepts:
+- concept: Scaling Laws
+  appears_in_domains:
+  - Physics
+  - Biology
+  - Economics
+  role: Provides a common mathematical framework to relate size, performance, and
+    resource consumption across systems.
+  examples:
+  - Feature size vs. transistor speed in semiconductor physics
+  - Metabolic rate vs. body mass in biology (Kleiber's law)
+  - GDP growth vs. capital accumulation in economics
+- concept: Threshold Behavior
+  appears_in_domains:
+  - Physics
+  - Neuroscience
+  - Sociology
+  role: Describes systems that remain inert until an input surpasses a critical value,
+    after which a rapid transition occurs.
+  examples:
+  - Transistor gate voltage threshold
+  - Neuron firing threshold
+  - Social tipping point for adoption of a new technology
+- concept: Resolution Limit
+  appears_in_domains:
+  - Optics
+  - Geography
+  - Data Visualization
+  role: Defines the finest detail that can be distinguished given constraints of wavelength,
+    sampling, or granularity.
+  examples:
+  - Rayleigh criterion for optical lithography
+  - Map scale determining smallest geographic feature shown
+  - Pixel density limiting detail in a heat‑map visualization
+mental_models:
+- name: First‑Principles Decomposition
+  description: Break a complex system down to its fundamental laws and rebuild understanding
+    from those axioms.
+  applied_to:
+  - Deriving the Rayleigh equation from wave diffraction theory
+  - Analyzing transistor operation from semiconductor band theory
+  transferable_to:
+  - Economic policy design (starting from supply‑demand fundamentals)
+  - Biological pathway analysis (starting from molecular interactions)
+- name: Trade‑off Analysis (Pareto Frontier)
+  description: Identify pairs of competing objectives where improving one degrades
+    the other, and map the optimal frontier of compromises.
+  applied_to:
+  - Balancing numerical aperture against depth of focus in photolithography
+  - Balancing transistor density against power dissipation in Moore's law scaling
+  transferable_to:
+  - Product design (cost vs. performance)
+  - Environmental policy (economic growth vs. carbon emissions)
+analogies_used:
+- source_domain: Everyday Life
+  source_concept: Water faucet (on/off flow control)
+  target_domain: Physics
+  target_concept: Transistor as a switch controlling electron flow
+  mapping:
+    Faucet handle: Gate voltage
+    Water flow: Channel current
+    Closed faucet: Off state (no current)
+    Open faucet: On state (conducting)
+  pedagogical_value: Maps a familiar mechanical control to an abstract semiconductor
+    device, making the notion of threshold and binary operation intuitive.
+- source_domain: Printing Press
+  source_concept: Ink transferred through a mesh onto paper
+  target_domain: Physics
+  target_concept: Photolithography projecting patterns onto a silicon wafer
+  mapping:
+    Ink: Photon exposure
+    Mesh: Mask pattern
+    Paper: Photoresist-coated wafer
+    Press pressure: Numerical aperture (light collection angle)
+  pedagogical_value: Helps learners visualize how a mask defines the final pattern
+    and why finer meshes (higher NA) enable smaller features, paralleling historical
+    print technology.
+tags:
+  hierarchical:
+  - '#Physics → #SemiconductorPhysics → #Transistor → #Microchip'
+  - '#Physics → #OpticalEngineering → #Diffraction → #Resolution'
+  - '#Physics → #OpticalEngineering → #NumericalAperture → #FeatureSize'
+  topical:
+  - '#Transistor'
+  - '#MooresLaw'
+  - '#Photolithography'
+  - '#Diffraction'
+  - '#NumericalAperture'
+  - '#RayleighEquation'
+  - '#FeatureSize'
+  methodological:
+  - '#ThoughtExperiment'
+  - '#Demonstration'
+  - '#Derivation'
+  people:
+  - '#GordonMoore'
+  concepts:
+  - '#Transistor'
+  - '#MooresLaw'
+  - '#Photolithography'
+  - '#Diffraction'
+  - '#NumericalAperture'
+  - '#RayleighEquation'
+  - '#FeatureSize'
+  temporal:
+  - '#1965'
+  - '#1990s'
+  - '#2015'
+summary: ''
+key_ideas: []
+---
+## Key Concepts
+
+**Transistor**  
+A semiconductor device that can switch or amplify electronic signals, acting as the binary on/off elements in digital circuits.
+
+**Moore's law**  
+An empirical observation that the number of transistors on an integrated circuit doubles approximately every two years.
+
+**Photolithography**  
+A process that uses light to transfer geometric patterns from a mask onto a photosensitive resist on a semiconductor wafer, defining circuit features.
+
+**Numerical aperture**  
+A dimensionless number that characterizes the range of angles over which a lithography system can accept or emit light, influencing resolution.
+
+**Diffraction**  
+The bending and spreading of waves when they encounter obstacles or apertures, creating interference patterns that limit the ability to resolve fine features.
+
+## Cross-Domain Connections
+
+**Physics → Economics**
+
+*Both describe processes where a quantity doubles at regular intervals, leading to exponential trajectories.*
+
+Moore's law quantifies the doubling of transistors roughly every 18 months; similarly, compound interest doubles capital over a fixed period. The mathematics of exponential growth applies to both, allowing techniques from one field (e.g., logistic saturation models) to anticipate limits in the other.
+
+**Physics → Epidemiology**
+
+*The Rayleigh criterion defines the smallest distinguishable point; epidemiology defines the smallest population where an infection can sustain itself.*
+
+Both concepts involve a threshold where a signal (optical or infectious) can be distinguished from background noise. Mathematically they share a form where a product of a wavelength‑like parameter and a system size determines detectability.
+
+**Physics → Computer Networks**
+
+*NA determines how much spatial frequency content can be captured, just as bandwidth‑latency product determines how much information can be transferred per unit time.*
+
+Increasing NA (wider acceptance angle) improves resolution but reduces depth of focus, mirroring how higher bandwidth reduces latency tolerance. Both are governed by a conservation‑like relationship where expanding one dimension compresses another.
+
+## Full Transcription
+
+
+
+[ 0m0s426ms - 0m3s386ms ] This is a microchip. When you zoom in, you find a nanoscopic computing city.
+[ 0m3s896ms - 0m7s756ms ] Skyscrapers hundreds of layers tall with hundreds of kilometers of wires connecting everything.
+[ 0m8s736ms - 0m10s266ms ] And at the very bottom, is this.
+[ 0m11s686ms - 0m12s646ms ] Transistors.
+[ 0m13s316ms - 0m14s386ms ] Billions of them.
+[ 0m15s146ms - 0m16s866ms ] They are the ones and zeros of our computer.
+[ 0m17s336ms - 0m20s226ms ] The chip works by whizzing electrons from transistor to transistor.
+[ 0m20s766ms - 0m24s976ms ] And the smaller you can make those transistors, the less the signals have to travel, so the faster they can compute.
+[ 0m25s296ms - 0m27s666ms ] Plus, you can fit more transistors into the same area,
+[ 0m27s666ms - 0m29s176ms ] resulting in a much more powerful chip.
+[ 0m30s126ms - 0m33s876ms ] So, for over 50 years, transistors got smaller and smaller.
+[ 0m34s126ms - 0m36s276ms ] And the number you could fit on a chip doubled every two years.
+[ 0m36s406ms - 0m40s416ms ] This became known as Moore's law, named for Intel's co-founder Gordon Moore after he noticed the pattern back in 1965.
+[ 0m40s586ms - 0m42s856ms ] And it's been one of the main drivers of the tech industry.
+[ 0m43s226ms - 0m45s336ms ] But around 2015, progress came to a screeching halt.
+[ 0m46s456ms - 0m47s916ms ] And we might have never gotten past it
+[ 0m47s916ms - 0m51s366ms ] if it wasn't for a single company that makes these machines.
+[ 0m51s586ms - 0m53s596ms ] The machines that saved Moore's law.
+[ 0m53s826ms - 0m54s346ms ] Holy.
+[ 0m54s506ms - 0m55s236ms ] This is a video
+[ 0m55s236ms - 0m59s326ms ] about the most complicated commercial product humanity's ever built.
+[ 0m59s526ms - 1m0s566ms ] That's insane.
+[ 1m0s966ms - 1m5s876ms ] It costs a whopping $400 million, and it is so bizarre that I want to introduce it to you with a thought experiment.
+[ 1m7s876ms - 1m11s406ms ] Imagine you are shrunk down to the size of an ant.
+[ 1m12s656ms - 1m16s146ms ] And you're given a laser that's strong enough to melt through metal like butter.
+[ 1m16s866ms - 1m20s766ms ] Next, a tiny droplet of molten tin, roughly the size of a white blood cell, is shot out in front of you around 250 km/h.
+[ 1m21s116ms - 1m24s816ms ] And your task is to hit this nut once, not twice, but three times in a row in 20 microseconds with your little laser.
+[ 1m25s746ms - 1m28s486ms ] Well, that is exactly what this machine does.
+[ 1m28s626ms - 1m32s86ms ] It hits one tiny tin droplet three times in a row, heating each one up to over 220,000 Kelvin.
+[ 1m32s216ms - 1m34s836ms ] That's roughly 40 times hotter than the surface of the sun.
+[ 1m35s306ms - 1m36s796ms ] And it doesn't just hit one droplet.
+[ 1m37s606ms - 1m40s26ms ] It hits 50,000 droplets every single second.
+[ 1m40s413ms - 1m41s963ms ] How often do you miss a laser shot?
+[ 1m42s628ms - 1m43s378ms ] We don't miss them.
+[ 1m43s378ms - 1m43s658ms ] What?
+[ 1m43s758ms - 1m46s238ms ] You do 150,000 laser shots a second,
+[ 1m46s238ms - 1m47s488ms ] and you don't miss one.
+[ 1m48s718ms - 1m49s188ms ] Exactly.
+[ 1m50s186ms - 1m54s596ms ] The same machine also contains mirrors that might just be the smoothest objects in the universe.
+[ 1m54s896ms - 1m58s906ms ] If you scale one up to the size of the earth, then the largest bump would be no thicker than a playing card.
+[ 1m59s306ms - 2m3s66ms ] On top of that, it is able to overlay one layer of a chip perfectly on top of another and never be off by more than five atoms.
+[ 2m3s546ms - 2m7s436ms ] And this is all happening while parts of the machine whip around at accelerations of over 20 Gs.
+[ 2m8s296ms - 2m11s646ms ] For 30 years, almost everyone thought that actually building this machine was impossible.
+[ 2m12s246ms - 2m13s546ms ] And yet, it exists.
+[ 2m14s166ms - 2m17s186ms ] There is only one company in the world that can make it.
+[ 2m17s546ms - 2m20s486ms ] So, what is this company and what is this impossible machine they've built?
+[ 2m20s976ms - 2m22s766ms ] This video is sponsored by Brilliant.
+[ 2m22s766ms - 2m24s146ms ] More about them at the end of the show.
+[ 2m25s296ms - 2m29s186ms ] Now, just as a quick aside, the makers of this machine didn't actually sponsor this video.
+[ 2m29s666ms - 2m33s846ms ] We just thought that the science and engineering here were so cool that we had to make a video about it.
+[ 2m34s146ms - 2m35s366ms ] So, let's jump straight in.
+[ 2m35s996ms - 2m38s946ms ] To make a microchip, you start by taking silicon dioxide,
+[ 2m38s946ms - 2m42s686ms ] usually from sand, and purify it into ultra pure, nearly 100% silicon chunks.
+[ 2m43s566ms - 2m45s36ms ] which is then melted down in a special furnace.
+[ 2m46s226ms - 2m49s396ms ] Next, you lower a small seed crystal into the vat.
+[ 2m49s786ms - 2m52s86ms ] Silicon atoms attach to the crystal, extending its structure.
+[ 2m52s486ms - 2m55s926ms ] Then you slowly raise the seed crystal while rotating it, and this results in a large single crystal silicon ingot.
+[ 2m56s266ms - 2m58s56ms ] This is where the seed crystal would be.
+[ 2m58s476ms - 2m58s906ms ] Yeah.
+[ 2m59s36ms - 2m59s366ms ] And then you pull it out.
+[ 2m59s366ms - 2m59s696ms ] Can I touch it?
+[ 2m59s836ms - 3m0s286ms ] Yeah, you can.
+[ 3m1s436ms - 3m3s86ms ] It seems like you would not be able to hold this from here.
+[ 3m3s416ms - 3m3s886ms ] Yes.
+[ 3m4s276ms - 3m6s506ms ] Yeah, I'm scared to break it.
+[ 3m6s886ms - 3m7s126ms ] Yes.
+[ 3m7s576ms - 3m8s306ms ] Ah, he's using more force.
+[ 3m9s116ms - 3m12s256ms ] The ingot is then cut into wafers with diamond wire saws,
+[ 3m12s656ms - 3m14s366ms ] up to 5,000 of them.
+[ 3m14s666ms - 3m16s386ms ] After which, each wafer is carefully polished.
+[ 3m17s146ms - 3m20s326ms ] Next, it's coated with a light-sensitive material called photoresist.
+[ 3m20s696ms - 3m26s16ms ] There are different kinds, but in a positive photoresist, the areas exposed to light become weaker and more soluble.
+[ 3m26s196ms - 3m30s306ms ] So, if you shine light through a patterned mask, you can selectively weaken parts of that coating.
+[ 3m30s556ms - 3m34s126ms ] Then, you rinse the wafer with a basic solution to wash away the exposed photoresist, leaving the design imprinted.
+[ 3m36s126ms - 3m39s266ms ] So now, you can actually turn this pattern into physical structures.
+[ 3m39s596ms - 3m44s306ms ] This is often done by etching into the uncovered silicon by using either chemicals or plasma, and then you deposit a metal like copper to fill in those etched lines.
+[ 3m45s386ms - 3m47s866ms ] As a last step, you wash away the remaining photoresist,
+[ 3m49s36ms - 3m51s346ms ] and now you've made a single layer of the chip.
+[ 3m51s586ms - 3m56s146ms ] We've simplified this cycle down to the main steps: coat, expose, etch, and deposit.
+[ 3m56s466ms - 4m1s326ms ] It repeats for every single chip layer, and depending on the chip, there could be anywhere from 10 to 100 layers.
+[ 4m1s616ms - 4m4s336ms ] The bottom layer is the transistors; this is the most complicated layer,
+[ 4m4s336ms - 4m7s336ms ] requiring hundreds of steps that all need to be perfect.
+[ 4m7s696ms - 4m10s396ms ] The higher layers are a little easier; these are the metal wires that carry signals and power.
+[ 4m10s886ms - 4m14s766ms ] By the end, the completed wafer can have hundreds of chips, which are then cut into separate pieces, packaged, and put into products.
+[ 4m15s786ms - 4m20s606ms ] But by far the hardest and most crucial step in the process is where you shine light through the mask and onto the wafer.
+[ 4m20s716ms - 4m21s636ms ] This is photolithography.
+[ 4m22s226ms - 4m25s846ms ] And that's because this step determines how small you can make the features.
+[ 4m26s686ms - 4m30s356ms ] At first, it seems simple. Light passes through the openings, and it gets blocked by all the rest.
+[ 4m30s936ms - 4m36s6ms ] But as you try to print smaller and smaller features, the gaps in the mask start to approach the wavelength of the light, and that causes problems.
+[ 4m36s276ms - 4m39s506ms ] And we can actually show it because I happen to have a... this is a mask, this is a reticle.
+[ 4m39s906ms - 4m43s566ms ] A reticle or a mask carries the design of one chip layer.
+[ 4m43s876ms - 4m47s466ms ] This reticle is filled with microscopic lines and gaps around 670 nanometers across.
+[ 4m48s166ms - 4m51s76ms ] And if I take like a laser pointer, so this is a red laser, and if I shine it through it, then you see this here.
+[ 4m54s556ms - 4m57s716ms ] The laser has a wavelength of around 650 nanometers.
+[ 4m57s716ms - 5m2s86ms ] When light hits the reticle, its wavefronts bend as they pass through each gap, so each gap sends out waves that spread out and overlap.
+[ 5m2s416ms - 5m3s916ms ] Now, let's just look at the light from these two gaps.
+[ 5m4s416ms - 5m11s6ms ] When the peaks of one wave line up with the troughs of the other, we say that the two waves are out of phase, and they cancel each other out, so you get dark spots.
+[ 5m11s296ms - 5m15s86ms ] And when the peaks line up with the peaks, the two waves are in phase, they add up, and you get bright spots.
+[ 5m15s276ms - 5m18s266ms ] You get interference, right? And you get a diffraction pattern.
+[ 5m18s736ms - 5m20s346ms ] Now, diffraction is inevitable.
+[ 5m20s646ms - 5m23s866ms ] So instead of fighting it, designers actually use it to get the patterns they want.
+[ 5m24s256ms - 5m29s196ms ] They kind of work backwards from the eventual pattern they want on the wafer, and they design the slits so that diffraction will occur in such a way that it creates the pattern that they want.
+[ 5m29s566ms - 5m30s546ms ] You see three dots.
+[ 5m30s786ms - 5m32s836ms ] Uh, the middle dot, that's the original one, that's the zero order.
+[ 5m33s456ms - 5m36s546ms ] And then on the left and the right, you can see the first and the minus first.
+[ 5m36s796ms - 5m40s796ms ] Now, in order for us to have this image resolved on the wafer,
+[ 5m41s516ms - 5m44s366ms ] you need to capture the zero and the first and the minus first order.
+[ 5m44s956ms - 5m49s396ms ] The smaller you make the features, the larger this angle alpha between the zero and first orders becomes.
+[ 5m49s856ms - 5m53s206ms ] So, the larger your lens needs to be to capture the light.
+[ 5m53s516ms - 5m56s686ms ] The size of the lens is described by the numerical aperture, or NA for short,
+[ 5m56s686ms - 5m57s756ms ] which is just the sign of this angle.
+[ 5m58s266ms - 6m2s576ms ] So, the larger that is, the smaller the features you can print, but there is a hard limit to how large your lens system can be.
+[ 6m2s576ms - 6m5s606ms ] When this angle is 90°, and your numerical aperture is one, well your lens would have to be infinite.
+[ 6m6s166ms - 6m8s306ms ] Fortunately, there is one other thing we can change.
+[ 6m9s366ms - 6m10s26ms ] This is a red laser.
+[ 6m10s26ms - 6m10s676ms ] Yeah.
+[ 6m10s986ms - 6m13s396ms ] And a red laser has a wavelength of 650 nanometers.
+[ 6m14s366ms - 6m16s86ms ] Same.
+[ 6m16s146ms - 6m19s186ms ] And if I take a green laser and this one has a wavelength of 532,
+[ 6m20s56ms - 6m23s266ms ] then you can see that the green dots are closer spaced than the red dots.
+[ 6m23s626ms - 6m27s346ms ] That's because the light from the two different gaps doesn't have to travel as far to match up in phase.
+[ 6m27s676ms - 6m30s316ms ] So, the orders end up closer together.
+[ 6m30s436ms - 6m32s836ms ] So, with a smaller wavelength, you can print smaller patterns using the same lens.
+[ 6m33s276ms - 6m36s796ms ] All of this is captured by the Rayleigh equation, which determines the smallest feature size or critical dimension.
+[ 6m37s896ms - 6m45s386ms ] But since there's a limit to how much you can increase the numerical aperture, I mean, to one, over time, the only way to keep making smaller and smaller features is by using shorter and shorter wavelengths.
+[ 6m45s686ms - 6m51s106ms ] So, this is exactly what happened up until the late 1990s, when the industry settled on 193 nanometer deep UV light.
+[ 6m51s536ms - 6m56s186ms ] This was the light that was used to make all of the most advanced chips right until around 2015.
+[ 6m56s546ms - 6m58s936ms ] But by that point, scientists had reached the limit to how small they could make the features.
+[ 6m59s206ms - 7m1s76ms ] And Moore's Law was about to run into a brick wall.
+[ 7m1s356ms - 7m2s416ms ] So, a radical change was needed.
+[ 7m3s26ms - 7m5s136ms ] A change that had been brewing for around 30 years.
+[ 7m7s106ms - 7m11s956ms ] All the way back in the 1980s, Japanese scientist Hiroki Noshita came up with a crazy idea.
+[ 7m12s246ms - 7m16s56ms ] Why not use much shorter wavelengths, like X-rays of around 10 nanometers?
+[ 7m16s186ms - 7m18s676ms ] In theory, that should allow you to print much smaller features.
+[ 7m19s146ms - 7m21s366ms ] But you quickly run into a problem.
+[ 7m21s736ms - 7m25s856ms ] X-rays at these wavelengths have enough energy to eject electrons from their atoms, so most materials absorb them.
+[ 7m26s266ms - 7m32s176ms ] But unlike medical X-rays, which have wavelengths shorter than 1 nanometer, these are still long enough to interact with air, so air absorbs them too.
+[ 7m32s396ms - 7m34s536ms ] That meant that Kinoshita's setup had to be in a vacuum.
+[ 7m34s816ms - 7m38s706ms ] But even worse, he couldn't use lenses to focus the light because the lenses would absorb it too.
+[ 7m39s776ms - 7m41s926ms ] So, it seemed like this idea would never work.
+[ 7m42s596ms - 7m47s406ms ] But around 1983, Kinoshita stumbled on a paper by Jim Underwood and Troy Barbie.
+[ 7m47s666ms - 7m51s976ms ] Their work focused on special mirrors that could reflect X-rays with a wavelength of 4.48 nanometers.
+[ 7m52s416ms - 7m53s516ms ] So, Kinoshita was intrigued.
+[ 7m53s826ms - 7m55s236ms ] Curved mirrors can focus light just like lenses do.
+[ 7m55s536ms - 7m59s446ms ] If he could figure out how to make these special mirrors for the wavelength he was using, then this could be another way to do photolithography.
+[ 7m59s796ms - 8m2s496ms ] The mirrors work something like this.
+[ 8m4s126ms - 8m7s936ms ] When light crosses from one medium to another, say from air to glass, it bends or refracts.
+[ 8m8s246ms - 8m10s476ms ] Some of it goes through and part reflects back.
+[ 8m10s796ms - 8m15s56ms ] How much gets reflected depends on things like the angle, the light's polarization, and most importantly for us, the difference between the refractive indices of the two media.
+[ 8m15s426ms - 8m16s866ms ] The larger that difference, the more light is reflected.
+[ 8m17s146ms - 8m19s836ms ] And Underwood and Barbie used that principle.
+[ 8m20s36ms - 8m23s866ms ] They made a super thin layer of tungsten, less than 1 nanometer thick.
+[ 8m24s116ms - 8m27s366ms ] Thin enough that X-rays could pass through without immediately being absorbed.
+[ 8m27s746ms - 8m31s26ms ] When X-rays hit the layer at a specific angle, the tungsten reflected less than 1%.
+[ 8m31s376ms - 8m37s676ms ] Then, they carefully tuned the layer thickness so the path length of the transmitted X-rays was only 1/4 of its wavelength.
+[ 8m37s876ms - 8m40s26ms ] Then, they added another layer, this time out of carbon.
+[ 8m40s486ms - 8m44s396ms ] It has a higher refractive index than tungsten for wavelengths of 4.48 nanometers.
+[ 8m44s656ms - 8m47s936ms ] The X-rays hit the boundary and a little bit more reflects.
+[ 8m48s436ms - 8m52s386ms ] But this time, the phase is inverted, or it's changed by half a wavelength.
+[ 8m52s386ms - 8m55s106ms ] This happens when any light moves from a lower refractive index to a higher one.
+[ 8m55s526ms - 9m1s6ms ] Now, by the time this new reflected wave reaches the tungsten boundary, it has traveled another quarter of its wavelength for a half-wavelength in total.
+[ 9m1s236ms - 9m3s46ms ] So, the two phases line up and the waves interfere constructively.
+[ 9m3s186ms - 9m7s416ms ] Underwood and Barbie kept doing this trick for a total of 76 alternating layers, so that in total, they could reflect back much more of the X-rays.
+[ 9m8s266ms - 9m11s46ms ] Now, they only managed to reflect around 6% of the light,
+[ 9m11s46ms - 9m14s366ms ] but it was a proof of principle that you could reflect X-rays.
+[ 9m15s526ms - 9m16s606ms ] So, Kinoshita saw the possibilities.
+[ 9m16s966ms - 9m21s626ms ] He got to work and after around two years, his team designed and built three tungsten-carbon curved multilayer mirrors to reflect 11 nanometer light.
+[ 9m21s906ms - 9m24s946ms ] And with it, he managed to print lines 4 microns or 4,000 nanometers thick,
+[ 9m25s6ms - 9m27s496ms ] proving that, at least in theory, X-ray lithography was possible.
+[ 9m28s196ms - 9m32s376ms ] A year later, in 1986, he went to present his findings to the Japanese Society of Applied Physics.
+[ 9m32s766ms - 9m36s276ms ] Proud and excited, he explained his setup and showed his image.
+[ 9m36s546ms - 9m38s706ms ] But to his horror, the audience refused to believe it.
+[ 9m39s256ms - 9m42s86ms ] Unfortunately, the audience was highly skeptical of my talk.
+[ 9m42s426ms - 9m43s466ms ] Kinoshita was devastated.
+[ 9m43s736ms - 9m46s706ms ] He later said, "People seemed unwilling to believe that we had actually made an image
+[ 9m46s706ms - 9m50s156ms ] by bending X-rays and they tended to regard the whole thing as a big fish story."
+[ 9m51s656ms - 9m53s516ms ] Nobody believed that this was a viable way forward.
+[ 9m53s976ms - 9m56s16ms ] And unfortunately, the reaction was at least somewhat justified.
+[ 9m56s596ms - 9m59s346ms ] First, this light isn't naturally produced by anything on Earth.
+[ 9m59s946ms - 10m1s746ms ] The closest natural source is the Sun.
+[ 10m2s416ms - 10m5s76ms ] We had to basically build an artificial sun here on Earth.
+[ 10m5s736ms - 10m10s16ms ] It gives an enormous amount of power, it's as big as a soccer field, you can fuel the whole fab.
+[ 10m10s16ms - 10m11s326ms ] The problem is if the light goes out,
+[ 10m11s326ms - 10m12s216ms ] the whole fab goes out.
+[ 10m13s196ms - 10m15s566ms ] So, each machine needed its own power source.
+[ 10m15s946ms - 10m20s226ms ] But even if you could produce the light, you'd need to make incredibly smooth mirrors to actually focus and print those tiny features.
+[ 10m20s576ms - 10m23s146ms ] You would need the smoothest objects in the universe.
+[ 10m23s856ms - 10m27s666ms ] Okay, so I got a football and I've got a bouncy ball and a cobblestone street.
+[ 10m27s926ms - 10m29s66ms ] Now, what do you think is going to happen when I drop them?
+[ 10m30s676ms - 10m33s266ms ] The football basically bounces straight up, but for the bouncy ball,
+[ 10m34s146ms - 10m35s446ms ] it just shoots off to the side.
+[ 10m35s446ms - 10m38s176ms ] And that's because the surface is relatively flat for the football, which is much larger,
+[ 10m38s176ms - 10m39s456ms ] but it's super rough for the bouncy ball.
+[ 10m40s286ms - 10m41s516ms ] And a similar thing happens with mirrors.
+[ 10m41s736ms - 10m46s236ms ] If the surface is super rough compared to the size of the wavelength, then the light scatters randomly.
+[ 10m46s716ms - 10m50s196ms ] Now, it might look smooth, but if you zoom into a mirror, you find something that looks like this.
+[ 10m50s876ms - 10m53s526ms ] You find all these crazy bumps.
+[ 10m54s66ms - 10m57s706ms ] And now to measure the roughness, what you do is you take the average of these bumps,
+[ 10m58s766ms - 11m0s156ms ] and that will give you your mean line.
+[ 11m0s156ms - 11m2s636ms ] Now, for a normal household mirror,
+[ 11m3s356ms - 11m5s246ms ] the average height is about 4,000 silicon atoms.
+[ 11m6s356ms - 11m7s876ms ] But for Kinoshita's mirrors,
+[ 11m7s876ms - 11m14s36ms ] which not only needed to reflect X-ray light, which has a 100 times shorter wavelength, but also needed to minimize scattering, you know, so that all the photons make it onto the wafer,
+[ 11m14s36ms - 11m15s826ms ] it needed to be way more smooth.
+[ 11m16s346ms - 11m17s416ms ] It needed to be atomically smooth.
+[ 11m17s416ms - 11m20s76ms ] In fact, the average bump could only be about 2.3 silicon atoms thick.
+[ 11m20s636ms - 11m24s866ms ] If one mirror would be the size of Germany, the biggest bump would be about a millimeter high.
+[ 11m25s216ms - 11m26s166ms ] But Kinoshita refused to give up.
+[ 11m26s706ms - 11m28s16ms ] Well, my belief did not change.
+[ 11m28s376ms - 11m29s866ms ] And soon, help would come
+[ 11m29s866ms - 11m31s386ms ] from an unlikely place.
+[ 11m32s306ms - 11m37s6ms ] Across the Pacific, around 70 km east of San Francisco, is Lawrence Livermore National Lab.
+[ 11m37s386ms - 11m41s796ms ] A lab that was born out of the Cold War, heavily funded by the US government and built for one purpose and one purpose only:
+[ 11m41s796ms - 11m42s946ms ] nuclear weapons.
+[ 11m43s566ms - 11m47s766ms ] The lab was founded by the inventor of the cyclotron, Ernest Lawrence, and the father of the hydrogen bomb, Edward Teller.
+[ 11m48s76ms - 11m51s336ms ] And over its lifetime, they designed over 10 fusion-type nuclear warheads.
+[ 11m51s556ms - 11m54s566ms ] So, part of their research focused on what happens inside nuclear fusion reactions.
+[ 11m55s796ms - 11m57s716ms ] Fusion reactions release a lot of X-ray light.
+[ 11m57s716ms - 12m1s76ms ] Light that they had never been able to capture and analyze, but now, using those special multilayer mirrors,
+[ 12m1s76ms - 12m2s916ms ] there was a chance.
+[ 12m3s246ms - 12m7s46ms ] One of the scientists tasked with making this work was Andrew Havrilla, and within a few years,
+[ 12m7s46ms - 12m10s126ms ] he and his team used multilayer mirrors to reflect some X-ray light.
+[ 12m10s526ms - 12m13s536ms ] But then, in 1987, Andy got a visit from a professor from Cornell.
+[ 12m13s826ms - 12m18s286ms ] He was very impressed with the technologies that we developed, and he looked at me at the end of the day and said, "This is all very interesting and very neat and stuff, but,
+[ 12m18s646ms - 12m21s636ms ] and he met his words, and I'll remember it to the day I die, was, 'Can you do anything useful with this stuff?'"
+[ 12m22s196ms - 12m24s936ms ] And this was the day before a Christmas shutdown in 1987.
+[ 12m25s396ms - 12m26s626ms ] And I was so inflamed by that,
+[ 12m26s626ms - 12m28s196ms ] that comment that I went home,
+[ 12m28s196ms - 12m30s306ms ] and for the next 10 days I wrote up a multi-page white paper.
+[ 12m30s986ms - 12m33s716ms ] He applied these mirrors to lithography to print chips using X-rays.
+[ 12m34s106ms - 12m36s576ms ] Around five months later, Andy presented his findings at a conference.
+[ 12m37s236ms - 12m39s416ms ] But, like Kinoshita, it was not the response he was hoping for.
+[ 12m39s926ms - 12m41s136ms ] It was extremely negative.
+[ 12m41s926ms - 12m43s466ms ] That was the low point of my career.
+[ 12m44s126ms - 12m46s756ms ] I was literally laughed off the stage, and I kid you not.
+[ 12m47s436ms - 12m53s536ms ] Every, um, person who I looked up to in the field, they were listening to my talk, and they came up to the microphone and told me, basically, why it wouldn't work,
+[ 12m53s866ms - 12m55s536ms ] how stupid an idea it was.
+[ 12m55s906ms - 12m59s206ms ] Later that week I flew back, and the following Monday my boss asked me, "How did it go?"
+[ 12m59s676ms - 13m2s186ms ] And I looked at him and I said, "I will never speak of it again."
+[ 13m5s46ms - 13m8s966ms ] But then, three days later, he gets a phone call from someone named Bill Brinkman from Bell Labs.
+[ 13m9s366ms - 13m11s656ms ] So I walked over to my boss and I said, "Um, just got this phone call from a guy named Bill Brinkman.
+[ 13m11s656ms - 13m12s666ms ] Do you know who he is?"
+[ 13m12s876ms - 13m14s36ms ] And my boss's eyes popped open and said,
+[ 13m14s36ms - 13m17s366ms ] "Yeah, he's the Executive Vice President of AT&T."
+[ 13m17s366ms - 13m20s356ms ] And I said, "Well, he just called me and asked me to fly out to New Jersey and give a talk."
+[ 13m20s776ms - 13m23s866ms ] The response from my boss said it all, he basically said,
+[ 13m23s866ms - 13m25s356ms ] "Well, you got to go."
+[ 13m26s166ms - 13m27s926ms ] At Bell Labs, Andy found fellow believers,
+[ 13m28s196ms - 13m30s336ms ] and it couldn't have come at a better time.
+[ 13m30s626ms - 13m35s366ms ] Over the past 30 years, the US government had invested billions of dollars into national labs to maintain the country's technological edge during the Cold War.
+[ 13m36s276ms - 13m39s416ms ] But by the late 1980s, the Cold War was slowing down,
+[ 13m39s776ms - 13m42s516ms ] and all these labs were sitting on research that had commercial potential.
+[ 13m42s886ms - 13m47s646ms ] So, the government encouraged the labs to partner with US companies to turn that research into products and to stimulate the economy.
+[ 13m47s786ms - 13m49s336ms ] And the government would then supply seed money.
+[ 13m49s636ms - 13m53s526ms ] And so, Bell Labs partnered with Andy's labs and two others to keep developing X-ray lithography.
+[ 13m55s166ms - 13m59s326ms ] And by 1993, the first international conference for X-ray lithography was held in Japan near Mount Fuji.
+[ 13m59s836ms - 14m6s726ms ] In the opening address, Kinoshita said that, as long as we do not lose the desire that has sprung from within us, technology will steadily advance from the micro to the nano to the pico.
+[ 14m7s36ms - 14m8s96ms ] They even gave the technology a new name:
+[ 14m8s306ms - 14m12s266ms ] Extreme Ultraviolet Lithography, or just EUV.
+[ 14m13s516ms - 14m15s866ms ] But then, in 1996, the US government cut funding for the project.
+[ 14m16s246ms - 14m19s926ms ] This spelled disaster for the big chip companies like Intel.
+[ 14m20s226ms - 14m23s306ms ] The industry estimated that the 193 nanometer lithography tools would fall behind Moore's Law by 2005.
+[ 14m23s896ms - 14m25s76ms ] But there were no other alternatives.
+[ 14m26s646ms - 14m30s406ms ] So, Intel, Motorola, AMD, and other companies got together and invested $250 million to keep it going.
+[ 14m30s786ms - 14m34s536ms ] Making it the largest investment ever by private industry in a Department of Energy research project.
+[ 14m35s146ms - 14m37s6ms ] By the year 2000, the labs had produced this,
+[ 14m37s6ms - 14m38s366ms ] the engineering test stand.
+[ 14m38s706ms - 14m44s36ms ] It was the first fully functioning EUV prototype; it produced 9.8 watts of 13.4 nanometer EUV light,
+[ 14m44s36ms - 14m48s86ms ] which was then reflected by eight mirrors from the source to the mask to the wafer.
+[ 14m48s366ms - 14m50s56ms ] It could print 70 nanometer features,
+[ 14m50s56ms - 14m52s226ms ] and it proved that EUV could work.
+[ 14m52s666ms - 14m56s656ms ] It was a milestone to get the engineering test stand to work. It demonstrated to people like Intel that, you know, good engineering will get us there.
+[ 14m56s856ms - 15m0s96ms ] And it seems like you've got the prototype, shouldn't be too hard to then commercialize it.
+[ 15m0s696ms - 15m1s166ms ] That's what they thought.
+[ 15m2s496ms - 15m4s36ms ] But the prototype had a major flaw.
+[ 15m4s306ms - 15m5s816ms ] It could only print about 10 wafers per hour.
+[ 15m6s186ms - 15m9s6ms ] And to make EUV economically viable, it would have to print hundreds of wafers per hour,
+[ 15m9s6ms - 15m11s646ms ] 24/7, 365 days a year.
+[ 15m12s26ms - 15m14s366ms ] The main reason output was so slow was because the light reflected off of eight mirrors,
+[ 15m14s366ms - 15m17s66ms ] and the reticle, which is also a mirror, just with the design imprinted.
+[ 15m17s226ms - 15m20s226ms ] Traditional masks that allow light to pass through don't work because, well, they absorb the light.
+[ 15m21s306ms - 15m23s476ms ] Each mirror had a reflectivity of around 70%,
+[ 15m23s476ms - 15m27s666ms ] which is close to the max, but after nine bounces, you're only left with 4% of the light,
+[ 15m28s196ms - 15m30s316ms ] which means that out of every 100 photons,
+[ 15m30s556ms - 15m32s396ms ] only four make it to the wafer.
+[ 15m32s836ms - 15m34s136ms ] So, you might think,
+[ 15m34s136ms - 15m35s366ms ] just use way fewer mirrors,
+[ 15m35s706ms - 15m37s206ms ] but that only works up to a point.
+[ 15m37s386ms - 15m40s796ms ] When you focus light with any optical system, you always get some distortion.
+[ 15m41s106ms - 15m44s386ms ] For example, rays that pass through the outer edges of most lenses focus light slightly different from those near the center.
+[ 15m44s616ms - 15m47s486ms ] This is called spherical aberration, and normal cameras correct for this
+[ 15m47s486ms - 15m49s86ms ] and other aberrations by using multiple lenses,
+[ 15m49s336ms - 15m51s56ms ] and a mirror system is no different.
+[ 15m51s336ms - 15m56s186ms ] You need to have a certain amount of mirrors before you can say I have my aberrations under control.
+[ 15m56s486ms - 15m58s476ms ] In reality, the systems of today have, have six mirrors.
+[ 15m58s886ms - 16m1s166ms ] That helps a little, but after reflecting off six mirrors and the reticle,
+[ 16m1s166ms - 16m3s826ms ] you're still only left with around 8% of your light.
+[ 16m4s186ms - 16m6s836ms ] So, they needed to drastically increase the source power to at least 100 watts.
+[ 16m7s166ms - 16m9s316ms ] Now, to most companies, that tenfold increase seemed impossible.
+[ 16m9s546ms - 16m13s866ms ] Even people who worked on the engineering test that noted that, while EUV technology itself is a done deal,
+[ 16m13s866ms - 16m17s366ms ] there were six zillion engineering challenges to make it a fab-line reality.
+[ 16m17s746ms - 16m21s366ms ] And so, one by one, American companies walked away from developing a full EUV lithography machine.
+[ 16m21s836ms - 16m23s216ms ] That left just one company.
+[ 16m23s986ms - 16m29s136ms ] ASML. ASML, which used to stand for Advanced Semiconductor Materials Lithography, is located in a small nondescript town in the Netherlands.
+[ 16m29s326ms - 16m32s836ms ] It spun off from Philips back in the '80s with little more than a shed and a barely working wafer stepper to its name.
+[ 16m33s186ms - 16m37s86ms ] But Philips also gave them people, Jos Benschop, ASML's first researcher, and Martin van den Brink, who would eventually become ASML's CTO and EUV's greatest champion.
+[ 16m38s206ms - 16m39s706ms ] And he's really like the Steve Jobs of lithography.
+[ 16m39s706ms - 16m40s486ms ] And he saw EUV coming.
+[ 16m40s796ms - 16m45s36ms ] ASML had joined the US EUV consortium earlier, and now it became their task to find a way to commercialize EUV.
+[ 16m45s186ms - 16m48s866ms ] They would work together with their German partner Zeiss, where Zeiss would take care of the mirrors, and ASML would focus on the light source.
+[ 16m49s986ms - 16m53s526ms ] One of the first decisions for making any lithography system is deciding which wavelength to use.
+[ 16m54s66ms - 16m57s716ms ] In the early days, anything between 5 and 40 nanometers was, was explored.
+[ 16m57s986ms - 16m58s256ms ] Okay.
+[ 16m58s286ms - 16m59s446ms ] The, the thing is,
+[ 16m59s446ms - 17m2s416ms ] you need to find a source, and you need to find optics that reflect the wavelengths.
+[ 17m2s676ms - 17m4s226ms ] So you have to look for the combination.
+[ 17m4s636ms - 17m7s756ms ] Underwood and Barbie had already made mirrors that could reflect light of around 4 nanometers,
+[ 17m8s26ms - 17m9s26ms ] and since that wavelength is so small,
+[ 17m9s26ms - 17m10s476ms ] it seems like the obvious choice.
+[ 17m10s706ms - 17m15s46ms ] But the maximum reflectivity for those mirrors was only around 20%, so after hitting six mirrors and the reticle,
+[ 17m15s46ms - 17m17s786ms ] you're just left with 0.00128% of the light,
+[ 17m18s246ms - 17m19s176ms ] which is way too low.
+[ 17m19s506ms - 17m21s636ms ] Fortunately, further research also looked at two other pairs:
+[ 17m22s346ms - 17m26s6ms ] silicon and molybdenum, which had a theoretical maximum reflectivity of 70% for wavelengths around 30 nanometers,
+[ 17m26s166ms - 17m32s46ms ] and molybdenum and beryllium, with a theoretical maximum reflectivity of 80% for wavelengths around 11 nanometers.
+[ 17m32s356ms - 17m33s556ms ] So, the choice seemed obvious,
+[ 17m33s556ms - 17m34s146ms ] right?
+[ 17m34s326ms - 17m35s666ms ] I mean, pick the shorter wavelength and the higher reflectivity.
+[ 17m35s936ms - 17m40s76ms ] But it turns out that beryllium is extremely toxic and it's also difficult to handle.
+[ 17m40s426ms - 17m42s856ms ] So, scientists focused on silicon and molybdenum instead.
+[ 17m43s466ms - 17m45s106ms ] To make the mirrors,
+[ 17m45s106ms - 17m46s236ms ] Zeiss used a process called sputtering.
+[ 17m46s566ms - 17m50s606ms ] A target of coating material is bombarded with either plasma or ions, causing atoms to be ejected,
+[ 17m50s606ms - 17m51s956ms ] fly off, and stick to the mirror.
+[ 17m52s336ms - 17m54s46ms ] This is a messy process, so the layers end up having bumps and gaps.
+[ 17m54s596ms - 17m59s836ms ] There was a nice trick that actually the team in the Netherlands perfected with iron beam.
+[ 18m0s116ms - 18m2s496ms ] You just shake it a little bit until the atoms fall in the hole where it needs to be,
+[ 18m2s496ms - 18m3s236ms ] and then it's all flat.
+[ 18m3s626ms - 18m6s66ms ] With the mirror design locked in, ASML needed a source for that specific wavelength.
+[ 18m6s536ms - 18m8s266ms ] So it was 13.X.
+[ 18m8s346ms - 18m8s726ms ] Yeah.
+[ 18m8s886ms - 18m9s326ms ] The next good question is,
+[ 18m9s326ms - 18m10s226ms ] what's the X?
+[ 18m10s396ms - 18m11s656ms ] And you look for the, now you look for the source.
+[ 18m12s266ms - 18m14s366ms ] So there are basically three ways to generate EUV.
+[ 18m15s66ms - 18m16s136ms ] Uh, to build an,
+[ 18m16s136ms - 18m16s626ms ] an, a sun on earth.
+[ 18m17s126ms - 18m19s56ms ] The first method, which early researchers used, was the synchrotron.
+[ 18m19s396ms - 18m21s76ms ] But it was quickly ruled out because each machine needed its own source.
+[ 18m22s196ms - 18m23s866ms ] The second method was a laser.
+[ 18m23s866ms - 18m25s786ms ] So that's laser-produced plasma,
+[ 18m26s6ms - 18m27s366ms ] where you shoot a laser at a target.
+[ 18m27s746ms - 18m29s166ms ] The third one is discharge plasma.
+[ 18m29s166ms - 18m31s466ms ] So basically you use a high-powered electric spark.
+[ 18m31s736ms - 18m34s176ms ] Now, early on, ASML and Zeiss focused on discharge plasma,
+[ 18m34s176ms - 18m36s126ms ] but this method was quickly ruled out.
+[ 18m36s546ms - 18m39s76ms ] The light source didn't produce enough power to be commercially viable,
+[ 18m39s376ms - 18m40s866ms ] and the spark caused too much debris.
+[ 18m41s126ms - 18m42s96ms ] So, they turned to laser-produced plasma.
+[ 18m42s696ms - 18m46s726ms ] They focused on a tiny tin droplet as the target, which would then be hit by a laser.
+[ 18m47s76ms - 18m50s106ms ] The tin would then produce EUV light for a brief moment.
+[ 18m50s486ms - 18m53s66ms ] To maximize the efficiency, they would heat up the droplet twice.
+[ 18m53s536ms - 18m55s396ms ] Once, to pre-heat the tin droplet,
+[ 18m55s396ms - 18m58s766ms ] and then a second one, to heat it up all the way until it turns into plasma.
+[ 18m59s266ms - 19m1s596ms ] At first, the process was way too slow and only produced 1 watt.
+[ 19m1s836ms - 19m4s546ms ] So, to increase the power, they needed to make it run faster.
+[ 19m4s746ms - 19m7s416ms ] At first, they were able to go from 10 droplets per second to 100.
+[ 19m7s746ms - 19m9s506ms ] But this was still way too slow, so they kept working at it,
+[ 19m9s506ms - 19m11s646ms ] trying to find a way to make it run at 50,000 droplets per second.
+[ 19m12s6ms - 19m14s36ms ] But there was one last problem.
+[ 19m14s36ms - 19m16s366ms ] When the tin turns into plasma, it spatters.
+[ 19m16s606ms - 19m19s366ms ] And the tiny tin droplets would coat the mirror.
+[ 19m19s646ms - 19m21s66ms ] So, the machine would have to be stopped every 10 minutes
+[ 19m21s66ms - 19m22s776ms ] to clean the mirror.
+[ 19m23s226ms - 19m25s746ms ] This would make EUV lithography commercially useless.
+[ 19m26s106ms - 19m28s16ms ] So, they needed a solution for the splattering.
+[ 19m28s666ms - 19m31s16ms ] They needed a way to clean the mirror in real time,
+[ 19m31s16ms - 19m33s26ms ] and that's exactly what they did.
+[ 19m33s336ms - 19m35s366ms ] They used hydrogen gas as a cleaner,
+[ 19m35s636ms - 19m39s206ms ] because hydrogen gas is the only gas that can remove tin from the mirror.
+[ 19m39s556ms - 19m40s976ms ] They would use jets of hydrogen gas
+[ 19m40s976ms - 19m43s56ms ] to blow a very small percentage of tin away from the mirror.
+[ 19m43s376ms - 19m44s366ms ] In the beginning,
+[ 19m44s366ms - 19m46s766ms ] they used a high-powered electric spark to generate EUV light,
+[ 19m47s66ms - 19m48s176ms ] which would spit out tin droplets
+[ 19m48s176ms - 19m50s96ms ] which would then be blown away by jets of hydrogen gas.
+[ 19m50s406ms - 19m51s976ms ] So, the splattering problem was solved.
+[ 19m52s296ms - 19m54s566ms ] Now, they just needed to increase the source power.
+[ 19m54s816ms - 19m56s656ms ] By 2005, the EUV consortium was dissolved,
+[ 19m56s656ms - 19m58s96ms ] and all the US partners walked away.
+[ 19m58s436ms - 20m1s26ms ] That left just ASML and Zeiss to solve the remaining problems.
+[ 20m1s486ms - 20m4s36ms ] Over the next few years, the biggest chip companies in the world
+[ 20m4s36ms - 20m5s706ms ] kept investing in the technology,
+[ 20m6s6ms - 20m7s756ms ] and they kept making progress.
+[ 20m7s856ms - 20m10s396ms ] By 2010, the light source had reached 10 watts.
+[ 20m10s676ms - 20m12s666ms ] By 2015, they had produced the NXE:3300.
+[ 20m13s66ms - 20m15s426ms ] It was the world's first commercially viable EUV machine.
+[ 20m15s646ms - 20m16s626ms ] It produced 125 watts,
+[ 20m16s626ms - 20m18s246ms ] which was enough to make 60 wafers per hour.
+[ 20m18s646ms - 20m21s306ms ] It was the first time that this technology had a commercial future.
+[ 20m21s716ms - 20m24s946ms ] But that was still only half of the 100 wafers per hour that the industry wanted.
+[ 20m25s236ms - 20m26s76ms ] So, the work continued.
+[ 20m26s466ms - 20m28s46ms ] ASML needed a bigger laser.
+[ 20m28s466ms - 20m30s406ms ] So, they acquired a small US laser company,
+[ 20m30s656ms - 20m33s46ms ] and they started working on a massive CO2 laser.
+[ 20m33s576ms - 20m36s536ms ] The laser is 50,000 times more powerful than a laser pointer
+[ 20m36s536ms - 20m38s166ms ] and 10 times more powerful than anything used in the previous machine.
+[ 20m38s626ms - 20m40s276ms ] They would use this massive laser
+[ 20m40s276ms - 20m42s596ms ] to hit the tin droplets three times in a row.
+[ 20m43s166ms - 20m45s36ms ] First, a low-powered prepulse,
+[ 20m45s36ms - 20m47s66ms ] which would make the droplet spherical and slightly expand it.
+[ 20m47s406ms - 20m49s376ms ] Second, the main pulse,
+[ 20m49s376ms - 20m52s16ms ] which would heat up the tin to the 220,000 Kelvin,
+[ 20m52s16ms - 20m53s536ms ] converting it into plasma.
+[ 20m53s776ms - 20m56s166ms ] And then, the third laser beam would hit the tin,
+[ 20m56s166ms - 20m58s36ms ] converting the remaining tin into plasma.
+[ 20m58s306ms - 20m59s36ms ] This three-pulse system
+[ 20m59s36ms - 21m1s436ms ] had a 200% increase in efficiency.
+[ 21m1s936ms - 21m5s246ms ] The new machines, the NXE:3400C, were finally working at 250 watts,
+[ 21m5s246ms - 21m7s266ms ] which was enough to make 125 wafers per hour,
+[ 21m7s436ms - 21m9s366ms ] which was more than enough for the industry.
+[ 21m9s626ms - 21m12s256ms ] And finally, after 30 years of development,
+[ 21m12s566ms - 21m14s366ms ] EUV was ready for the fab.
+[ 21m14s666ms - 21m16s886ms ] In 2018, Samsung started using EUV
+[ 21m16s886ms - 21m19s526ms ] to manufacture their 7 nanometer high-volume production chips,
+[ 21m19s526ms - 21m21s366ms ] and TSMC soon followed.
+[ 21m21s716ms - 21m25s736ms ] Today, this is the machine that makes all the most advanced chips in the world,
+[ 21m25s736ms - 21m27s66ms ] and it is the machine that saved Moore's Law.
+[ 21m27s66ms - 21m29s66ms ] It just goes to show that just because an idea
+[ 21m29s66ms - 21m31s46ms ] seems impossible now,
+[ 21m31s46ms - 21m32s836ms ] doesn't mean it won't be possible later.
+[ 21m33s186ms - 21m34s546ms ] It just takes some good engineering.
+[ 21m34s776ms - 21m35s626ms ] And that's exactly why
+[ 21m35s626ms - 21m37s246ms ] we're excited to partner with Brilliant.
+[ 21m37s496ms - 21m41s106ms ] Brilliant is a fun and interactive way to learn math, science, and computer science.
+[ 21m41s426ms - 21m43s46ms ] I'm a big fan of their interactive courses,
+[ 21m43s46ms - 21m45s386ms ] especially their courses on scientific thinking,
+[ 21m45s386ms - 21m47s56ms ] which helps you build a solid foundation
+[ 21m47s56ms - 21m48s856ms ] for tackling new challenges.
+[ 21m49s166ms - 21m51s346ms ] Their courses are highly visual and interactive,
+[ 21m51s346ms - 21m54s6ms ] so you never get bored while trying to master a concept.
+[ 21m54s346ms - 21m57s366ms ] You can start learning from one of their 60 plus courses today.
+[ 21m57s756ms - 21m59s396ms ] You can learn for free by going to brilliant.org/veritasium,
+[ 22m0s46ms - 22m2s936ms ] or by clicking on the link in the description below.
+[ 22m3s66ms - 22m6s6ms ] And the first 200 people will get 20% off the annual premium subscription.
+[ 22m6s316ms - 22m7s436ms ] You can also check out this video
+[ 22m7s436ms - 22m9s546ms ] where I try to make a solar-powered computer.
+[ 22m9s816ms - 22m10s396ms ] Thanks for watching.

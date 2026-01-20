@@ -1,0 +1,68 @@
+---
+title: "Immovable Object vs. Unstoppable Force - Which Wins\uFF1F_20130125"
+audio_file: "Immovable Object vs. Unstoppable Force - Which Wins\uFF1F_20130125.mp3"
+date_processed: '2025-12-24'
+tags:
+- '#ImmovableObject'
+- '#UnstoppableForce'
+- '#Relativity'
+- '#InfiniteMass'
+- '#Physics'
+- "#Immovable Object vs. Unstoppable Force - Which Wins\uFF1F_20130125"
+domain: Physics
+summary: The popular question of an "immovable object" meeting an "unstoppable force"
+  is analyzed through physics, particularly relativity and Newton's laws. The text
+  explains that both concepts ultimately refer to an "unaccelerable object" possessing
+  infinite mass, as their velocities cannot be changed. Such objects are theoretical,
+  requiring infinite energy, and if two were to collide, they would simply pass through
+  each other without any effect on their motion.
+key_ideas: []
+note_id: 21081167-66b2-4326-82ed-4bf6506f6378
+---
+## Discussion Topics
+
+- **Here are 4 key ideas from the transcription:** 
+- **Relativity and the Immovable Object**:** Relativity dictates that there is no truly immovable object, as an object's motion is always relative to an observer's frame of reference.
+- **The "Unaccelerable Object" Concept**:** The common understanding of both an "immovable object" and an "unstoppable force" points to an "unaccelerable object," defined as an object with infinite mass.
+- **Equivalence of Immovable Object and Unstoppable Force**:** The core argument is that an "immovable object" and an "unstoppable force" are fundamentally the same concept, both referring to an unaccelerable object with infinite mass viewed from different reference frames.
+- **Theoretical Collision Outcome**:** If two theoretical unaccelerable objects with infinite mass were to collide, they would simply pass through each other without affecting each other's velocities, as their velocities cannot be changed.
+
+
+
+[ 0m0s096ms - 0m3s36ms ] What happens if an immovable object meets an unstoppable force?
+[ 0m3s36ms - 0m5s46ms ] is a popular question on the internet.
+[ 0m5s46ms - 0m9s506ms ] Of course, relativity clearly tells us that there is no such thing as an immovable object.
+[ 0m9s706ms - 0m10s176ms ] Here's why.
+[ 0m10s686ms - 0m16s606ms ] If you pick any supposedly immovable object, or just something like your house or the earth, I can make it move.
+[ 0m17s146ms - 0m19s396ms ] All I need to do is start moving relative to it.
+[ 0m19s396ms - 0m21s36ms ] For example, I might ride a rocket.
+[ 0m21s36ms - 0m25s796ms ] And suddenly from my perspective, I'm not moving and the earth sails by outside.
+[ 0m26s166ms - 0m29s46ms ] The laws of physics make no preference for inertial frame of reference.
+[ 0m29s46ms - 0m34s876ms ] So from my perspective here, I do not stir, and yet it's clear the immovable object moves.
+[ 0m35s366ms - 0m38s366ms ] So, because of relativity, immovable objects cannot be.
+[ 0m38s566ms - 0m45s106ms ] But what I think people normally mean by immovable object is something that if it's not moving, you can't make it start moving by pushing on it.
+[ 0m45s376ms - 0m48s776ms ] So, not an immovable object, but an unaccelerable one.
+[ 0m49s266ms - 0m54s296ms ] Using Newton's second law, we know that an object's acceleration is equal to the total force on it divided by its mass.
+[ 0m54s566ms - 0m56s896ms ] Though you've probably seen this as F equals MA.
+[ 0m57s266ms - 1m0s886ms ] So, an unaccelerable object would be an object with infinite mass.
+[ 1m0s886ms - 1m6s946ms ] An object so massive that no matter how big the total force F is, when you divide F by M, you always get zero.
+[ 1m7s246ms - 1m11s956ms ] Of course, as we've said, not being able to accelerate an object doesn't necessarily mean that the object isn't moving.
+[ 1m12s366ms - 1m14s316ms ] It just means that you can't directly change its speed.
+[ 1m14s636ms - 1m16s866ms ] If it's not moving, then it'll stay not moving.
+[ 1m16s866ms - 1m20s376ms ] And if it's moving at 100 miles an hour, then it'll stay moving at 100 miles an hour.
+[ 1m20s966ms - 1m22s746ms ] So, what about an unstoppable force?
+[ 1m22s996ms - 1m30s936ms ] Well, all the fundamental forces in nature are actually caused by particles like photons or gluons or gravitons that interact with an object and change its momentum.
+[ 1m31s276ms - 1m38s226ms ] The only way to not be affected by a force is to not interact with it at all, like how electrons don't interact with gluons, so they aren't subject to the strong nuclear force.
+[ 1m38s796ms - 1m40s806ms ] Even light itself is an unstoppable force.
+[ 1m40s976ms - 1m48s626ms ] Every photon that hits your body changes your momentum a tiny little bit, and there's nothing you can do about it other than avoid light altogether or become transparent.
+[ 1m48s996ms - 1m51s346ms ] So, all forces are already unstoppable.
+[ 1m51s876ms - 2m1s76ms ] But my impression is that the phrase unstoppable force isn't really meant to imply anything about forces like electromagnetism or gravity, but rather something that you cannot stop from barreling down on you.
+[ 2m1s76ms - 2m4s966ms ] That is, an object whose velocity cannot be changed by pushing on it.
+[ 2m5s6ms - 2m11s566ms ] So, if by an unstoppable force, we mean an object moving at a speed that can never be changed, then that means the object cannot accelerate.
+[ 2m11s946ms - 2m18s286ms ] But wait a second, this sounds familiar, recalling what we learned earlier, an unstoppable force must be an unaccelerable object.
+[ 2m18s646ms - 2m24s846ms ] And that means that an unstoppable force and an immovable object are really just the same, viewed from different reference frames.
+[ 2m25s276ms - 2m35s706ms ] Now, since infinite mass requires infinite energy, we don't know of anything in the universe that behaves like this, not the least because it would automatically be a black hole so big that everything in the universe would already be inside of it.
+[ 2m36s126ms - 2m39s596ms ] But what if we ignored gravity and imagined there were an unaccelerable object?
+[ 2m39s956ms - 2m48s896ms ] Well, first, it would be an infinite source of free power and would allow us to live in a 100% happy utopian society and break the second law of thermodynamics and probably create portals and time travel too.
+[ 2m49s226ms - 2m50s566ms ] You can do a lot with infinite energy.
+[ 2m50s976ms - 3m5s706ms ] But more importantly, if two of these infinitely massive unaccelerable objects were moving towards each other and collided, then since by definition, it's not possible for the velocity of either of them to change, the only possibility is that they must pass right through each other with no effect on each other at all.

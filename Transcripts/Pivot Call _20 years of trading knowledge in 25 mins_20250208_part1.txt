@@ -1,0 +1,477 @@
+---
+title: Pivot Call _20 years of trading knowledge in 25 mins_20250208_part1
+audio_file: Pivot Call _20 years of trading knowledge in 25 mins_20250208_part1.mp3
+note_id: 854b272b-34c7-4433-9376-01fc0e408079
+date_processed: '2026-01-17'
+classification:
+  primary_domain: Economics
+  sub_domains:
+  - Finance
+  - Trading
+  - Technical Analysis
+  difficulty_level: Intermediate
+  content_type: Tutorial
+entities:
+  people:
+  - name: Speaker
+    role: Trader
+    contribution: Shared 20 years of trading experience
+  works_cited: []
+  concepts_mentioned:
+  - Price Action
+  - Initial Balance
+  - Gap Border Reversal
+  - Technical Analysis
+  - Trading Strategies
+  laws_theories_cited: []
+concepts:
+- name: Initial Balance
+  definition: The first hour of trading, used to determine the high and low of the
+    day
+  parent_concepts:
+  - Technical Analysis
+  related_concepts:
+  - Price Action
+  - Trading Strategies
+  abstraction_level: Practical
+  confidence: 1.0
+- name: Gap Border Reversal
+  definition: A trading strategy based on the idea that markets don't like gaps and
+    often reverse at gap borders
+  parent_concepts:
+  - Technical Analysis
+  related_concepts:
+  - Price Action
+  - Trading Strategies
+  abstraction_level: Practical
+  confidence: 1.0
+- name: Price Action
+  definition: The study of the price movement of a security to predict future price
+    movements
+  parent_concepts:
+  - Technical Analysis
+  related_concepts:
+  - Initial Balance
+  - Gap Border Reversal
+  - Trading Strategies
+  abstraction_level: Theoretical
+  confidence: 1.0
+relationships:
+- source_concept: Initial Balance
+  target_concept: Price Action
+  relationship_type: derives_from
+  strength: 1.0
+  evidence: The speaker uses initial balance to inform price action decisions
+  reasoning: The speaker's strategy relies on understanding initial balance to make
+    trading decisions
+- source_concept: Gap Border Reversal
+  target_concept: Price Action
+  relationship_type: derives_from
+  strength: 1.0
+  evidence: The speaker uses gap border reversal as a price action strategy
+  reasoning: The speaker's strategy relies on understanding gap border reversal to
+    make trading decisions
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Economics
+  source_concept: Initial Balance
+  target_domain: Physics
+  target_concept: Initial Conditions
+  insight: Both require a starting point for predictions.
+  explanation: In economics, the initial balance is crucial for forecasting market
+    trends, while in physics, initial conditions are necessary for predicting the
+    behavior of physical systems. This structural analogy highlights the importance
+    of starting conditions in both domains. The concept of initial conditions can
+    be applied to understand how small changes in the beginning can significantly
+    impact outcomes in various systems.
+  potential_applications:
+  - Predictive modeling
+  - System dynamics
+  confidence: 0.9
+  historical_example: The concept of initial conditions in physics was first explored
+    by Sir Isaac Newton, and similarly, the idea of an initial balance in economics
+    has its roots in the works of Adam Smith.
+- connection_type: principle_application
+  source_domain: Economics
+  source_concept: Gap Border Reversal
+  target_domain: Biology
+  target_concept: Population Dynamics
+  insight: Reversals in trends can occur in both economic gaps and biological populations.
+  explanation: The principle of gap border reversal, where trends reverse at certain
+    thresholds, can be applied to understand population dynamics in biology. Just
+    as economic trends can reverse at the borders of gaps in the market, population
+    growth can also exhibit reversals based on environmental or predatory pressures.
+    This cross-domain insight suggests that similar mathematical models could be used
+    to predict and understand these reversals.
+  potential_applications:
+  - Ecological modeling
+  - Resource management
+  confidence: 0.8
+  historical_example: The concept of gap border reversal in economics has parallels
+    with the predator-prey models in biology, such as the Lotka-Volterra equations,
+    which demonstrate how populations can oscillate and sometimes reverse their trends.
+- connection_type: metaphor
+  source_domain: Economics
+  source_concept: Price Action
+  target_domain: Psychology
+  target_concept: Human Behavior
+  insight: Price action in markets can be seen as a form of collective human behavior.
+  explanation: The metaphor of price action being akin to human behavior underlines
+    the complex, often unpredictable nature of market movements, which can be influenced
+    by a myriad of psychological factors such as fear, greed, and herd mentality.
+    Understanding price action through the lens of human psychology can provide insights
+    into market trends and potential future movements.
+  potential_applications:
+  - Behavioral finance
+  - Market sentiment analysis
+  confidence: 0.7
+  historical_example: The works of Keynes on animal spirits in economics highlight
+    the psychological aspects influencing economic decisions and market movements.
+bridge_concepts:
+- concept: Feedback Loops
+  appears_in_domains:
+  - Economics
+  - Biology
+  - Engineering
+  role: Feedback loops play a crucial role in the stability and behavior of systems
+    across these domains.
+  examples:
+  - Economic multiplier effect
+  - Population growth regulation
+  - Control systems in engineering
+mental_models:
+- name: Systems Thinking
+  description: A holistic approach to understanding complex systems and their interactions.
+  applied_to:
+  - Analyzing market trends and economic systems
+  transferable_to:
+  - Biology (ecosystems), Engineering (complex systems design)
+analogies_used:
+- source_domain: Physics
+  source_concept: Fractals
+  target_domain: Economics
+  target_concept: Market Trends
+  mapping:
+    Self-similarity: Pattern repetition at different scales
+  pedagogical_value: Helps in understanding the complexity and scale-invariant patterns
+    in market trends.
+tags:
+  hierarchical:
+  - '#Economics → #Finance → #Trading → #Technical Analysis'
+  topical:
+  - '#PriceAction'
+  - '#TradingStrategies'
+  methodological:
+  - '#TechnicalAnalysis'
+  people:
+  - '#Speaker'
+  concepts:
+  - '#InitialBalance'
+  - '#GapBorderReversal'
+  temporal:
+  - '#2025'
+summary: The speaker, a full-time trader with 20 years of experience, shares his knowledge
+  on high-probability trading patterns in the Nifty and Bank Nifty markets. He discusses
+  several price action patterns, including initial balance high and low, gap border
+  reversal, parabolic moves, supply and demand zones, and CPR (Control Point Range)
+  reversals. He emphasizes the importance of patience, waiting for proper setups,
+  and avoiding random trades. The speaker also highlights the need to understand the
+  context of each pattern, including the presence of trigger points, supply zones,
+  and demand zones, to increase the chances of successful trades.
+key_ideas:
+- idea: Here are 3-5 key ideas or concepts discussed in the transcription text
+  description: ''
+- idea: Initial Balance High and Low**
+  description: The speaker discusses the importance of identifying the initial balance
+    high and low, which is the range of prices during the first hour of trading, and
+    using it as a basis for taking trades, either long or short, when the price retests
+    these levels.
+- idea: Gap Border Reversal**
+  description: The speaker explains that gaps in the market are often filled, and
+    that a gap border reversal setup can be used to take trades, where a trade is
+    taken when the price approaches the gap border, with a high probability of reversal.
+- idea: Parabolic Move and Supply Demand Zone**
+  description: The speaker warns against getting trapped in parabolic moves, where
+    the price moves rapidly in one direction, and instead suggests waiting for a reversal
+    candle to take a trade, and also discusses the importance of identifying supply
+    and demand zones to take high-probability trades.
+- idea: CPR (Control Point and Range) as a Reversal Point**
+  description: The speaker discusses how CPR can be used as a reversal point, rather
+    than just an indicator of a trending day, and how it can be used to identify support
+    and resistance levels.
+- idea: Trending Days and Trigger Points**
+  description: The speaker explains that trending days are rare, but can be identified
+    by looking for trigger points such as supply or demand zones, and that these trigger
+    points can be used to take trades with a high probability of success.
+---
+
+Full Transcription
+
+
+
+[ 0m12s654ms ] Though I have been a full-time trader only from 2019, but I've been in market since 2003, 2004.
+[ 0m19s324ms ] So, it has been almost 20 years being in market and watching the charts day in and day out.
+[ 0m25s774ms ] So, in this last 20 years, some years I made good money in stock market, but some years I made big losses also.
+[ 0m35s34ms ] So, when I look back at my last 20 years journey and why I made losses many times and I've seen that
+[ 0m42s304ms ] most of my losses came by taking random trades.
+[ 0m47s484ms ] That mean not waiting for the price action patterns and just taking random trades like a gambler.
+[ 0m54s594ms ] So, that is why I decided in this video,
+[ 0m58s304ms ] I'll make a special video where I'll discuss my 20 years of experience
+[ 1m7s24ms ] watching the charts day in and day out where I have seen which are the high probability patterns can work most of the time in Nifty, Bank Nifty.
+[ 1m20s24ms ] So that you don't take the random trades like how I used to take random trades and you trade with proper price action setups.
+[ 1m30s304ms ] Only take the trade which have a high probability of winning.
+[ 1m34s744ms ] And this price action patterns also based on my historical charts which have been saving in my different folder for almost five years.
+[ 1m45s414ms ] So, this are the historical charts. You can see that month wise, year wise, even you can see that since 2018 till the last month all the charts are saved here.
+[ 1m58s684ms ] If you open any folder, you can see that this is the Bank Nifty chart, this is the Nifty chart.
+[ 2m2s414ms ] And if I come here, you can see that all these are Nifty October 2020.
+[ 2m8s54ms ] Like that I have all the charts since 2018, 2019 in my folder.
+[ 2m14s644ms ] So, the high probability patterns which I'm going to discuss now, that all based on this historical charts.
+[ 2m21s344ms ] And this price action patterns which I'm going to discuss now, this are applicable only for Nifty, Bank Nifty, not for commodities and not for stocks.
+[ 2m32s424ms ] So now, without further delay, let us see what are those high probability patterns which I've seen with my 20 years of experience in market.
+[ 2m42s184ms ] So now let us see first price action patterns which I've seen working most of the time.
+[ 2m49s314ms ] And that pattern is based on initial balance high and initial balance low.
+[ 2m56s654ms ] If you don't know what is initial balance high and low, initial balance in the market is the first one hour of the day.
+[ 3m4s184ms ] So, if 9:15 market opens, that first one hour is 10:15.
+[ 3m8s344ms ] So, once market opens at 9:15, wait till one hour, that is till 10:15 and see the first one hour range.
+[ 3m17s4ms ] And first one hour range is called initial balance range.
+[ 3m22s74ms ] That mean, what is the initial balance whether it's a wide initial balance or it is a narrow initial balance.
+[ 3m32s174ms ] So, waiting for price to retest the initial balance high and taking a short trade or waiting for price to retest the initial balance low and taking a long trade is one of the high probability setup.
+[ 3m47s94ms ] So now ask me why I am saying is that this is the high probability setup because you already know that
+[ 3m54s594ms ] 60 to 70% of the time market stays sideways, right?
+[ 4m0ms 234ms ] Most of the time you see that market stays sideways, very rarely it happens that market goes in a trend.
+[ 4m8s324ms ] Maybe around 20-30% of the time market goes in the trend.
+[ 4m13s264ms ] So, this setup can work very well most of the time because most of the time market stays in a range.
+[ 4m19s834ms ] So, now to understand this setup in more clearer way, let me go to the whiteboard.
+[ 4m24s841ms ] Okay, assume that market opens here at 9:15, first day.
+[ 4m28s701ms ] After that, for first one hour, sometimes you see that market goes like this, right?
+[ 4m36s121ms ] Upside or downside, it will go like this.
+[ 4m40s361ms ] So, till 10:15, you should see whether market made a big move like this, upside or downside.
+[ 4m50s671ms ] Or sometimes you will see that market opens here and first one hour market will be like this.
+[ 4m59s21ms ] So, that mean initial balance mean this is called a wide initial balance and this is called a narrow initial balance.
+[ 5m10s711ms ] So, after one hour completed, you should go and see the chart whether it made a wide initial balance or a narrow initial balance.
+[ 5m20s591ms ] And you see that most of the time, almost 60 to 70% of the time initial balance of the day is very wide.
+[ 5m32s141ms ] So, when you see that initial balance day is wide, then mark the high and low of that initial balance.
+[ 5m40s591ms ] Suppose you see that 9:15 to 10:15 market is here, then you should wait for price to come here for the later part of the day and taking a long trade.
+[ 5m55s141ms ] Or if price again bounces back and then taking a short trade.
+[ 6m1s311ms ] That is this setup is all about.
+[ 6m3s251ms ] Now, for this video purpose, let me take the example of 30th January, Thursday in Nifty.
+[ 6m12s21ms ] Let us replay the candlestick to see how it behaved on the first one hour of the day.
+[ 6m18s171ms ] So, you can see that first one hour of the day, it is going up and up and now let us see whether its initial balance is wide or narrow.
+[ 6m28s191ms ] You can see that first 9:15 candle was here and where is the 10:15 candle?
+[ 6m33s931ms ] 10:15 candle is here, right?
+[ 6m36s391ms ] So, how much range it made?
+[ 6m38s141ms ] It made open of the day was 23 176 and first one hour high was 23 301.
+[ 6m45s361ms ] So, that mean first one hour only almost 140 points in Nifty.
+[ 6m52s171ms ] So, what we will do, we will mark the high of the first one hour and also we will go and mark the low of the first one hour.
+[ 7m3s761ms ] And now we know that this is the initial balance high and low.
+[ 7m7s691ms ] So, now as per the setup, what we have to do?
+[ 7m12s381ms ] We have to wait for price to come here so that we can take a long trade for a reversal.
+[ 7m21s341ms ] And if price goes from here and again it comes back to the day side, then we will take a short trade.
+[ 7m30s331ms ] That is the setup.
+[ 7m31s381ms ] Let us replay the candlestick and let us see what happened on that day.
+[ 7m36s881ms ] And you can see that after that it started going and retesting it.
+[ 7m40s271ms ] It did not come to the low of that initial balance, so still we have not got the long opportunity.
+[ 7m48s171ms ] And you can see that around afternoon around 2:15, 2:30, this candle started coming near that initial balance low.
+[ 8m0ms 231ms ] So, let us replay the candlestick now.
+[ 8m4s741ms ] And you can see that here price finally touch that black line and this is your long opportunity.
+[ 8m14s31ms ] This is your long opportunity and you can see that finally at 3:30, and you can see that finally it reached that target.
+[ 8m23s891ms ] So, that is what this setup is all about.
+[ 8m26s681ms ] Marking the initial balance high and low and waiting patiently for price to come back to one of the range.
+[ 8m33s771ms ] If it makes another bearish candle again, then you can take a short trade for the target of initial balance range.
+[ 8m44s701ms ] So, this is more like a tennis match where you see that ball goes from one code to another code, that is how it is traded on the day when you see that initial balance range is very wide.
+[ 9m3s721ms ] And next high probability setup which I've seen working most of the time, that is gap border reversal.
+[ 9m11s431ms ] So, you must have heard of that saying, they say that markets don't like gaps.
+[ 9m17s181ms ] That mean most of the time gaps get filled.
+[ 9m21s41ms ] So, that is what this strategy is all about.
+[ 9m23s981ms ] And this pattern, you should know that you should go to daily time frame and mark the gap border where there is a gap border.
+[ 9m32s31ms ] If you are on a smaller time frame, then difficult to identify the gaps.
+[ 9m36s21ms ] So, go to higher time frame, that is the daily time frame chart and see where there is a gap, mark that border and most of the time you can see reversal from that gap border.
+[ 9m46s851ms ] And this setup you will not see any technical analysis books and you may not see in any YouTube videos.
+[ 9m54s531ms ] This setup I'm going to discuss is based on my 20 years of experience, not based on any textbooks or YouTube videos.
+[ 10m3s561ms ] As I said earlier, for this, you can trade with a smaller time frame, but identifying the gap border, go to daily time frame.
+[ 10m12s271ms ] When you see and watch the daily time frame candlestick, you will see that there will be mix of candle, right?
+[ 10m18s171ms ] Sometimes there can be green, sometimes there can be red, that is how you will see the candlestick on your chart.
+[ 10m28s191ms ] Like this is the mix of green and red.
+[ 10m30s341ms ] And what you see in the all this candlestick, one thing you can see in all the candlestick that this is the high and low of this candlestick, next day candlestick is within that range.
+[ 10m42s91ms ] So, now this is the high and low, next day candle is traded within that range.
+[ 10m46s301ms ] Next is this is the high and low, next day candle within that range.
+[ 10m49s291ms ] Next day this is the high and low, that is how you will see that most of the time candlesticks are trading within the range.
+[ 10m56s631ms ] But also sometimes you can see that one candle makes big gap up next day and entire day it stays away from the previous day range, right?
+[ 11m10s981ms ] What is the previous day range?
+[ 11m12s281ms ] This is your previous day range.
+[ 11m14s361ms ] So, now next day candlestick, daily time frame, entire day traded above the previous day range and this is what known as gap up candle and this is the gap border.
+[ 11m27s661ms ] Okay, so this is the gap border, right?
+[ 11m30s161ms ] This candle is stand alone candle from the previous candle.
+[ 11m33s871ms ] Now, whenever you see that next day or coming day, price comes near that gap border, chances of reversal becomes very high.
+[ 11m44s371ms ] Okay?
+[ 11m44s611ms ] So, that mean you should wait patiently for this stand alone candle day low and most of the time you can see a reversal from there.
+[ 11m53s51ms ] Okay, one of the setup I can show you on this chart is this candle.
+[ 11m57s111ms ] This is the candle of 25th November 2024.
+[ 12m1s61ms ] You can see that before that from this candle if we take it, there is a red candle, next day candle within that range, next candle within that range, next candle traded within that range, but after that it closed above that candle.
+[ 12m12s181ms ] Next day again traded within that range.
+[ 12m14s291ms ] This candle also traded within that range, but on 25th November, this candle opened and made a big gap up candle.
+[ 12m27s121ms ] Right?
+[ 12m27s211ms ] This is the stand alone candle.
+[ 12m29s171ms ] So, now what I said, when you see this kind of setup, you can go and mark the low of that candle because that is going to be the important support for days to come, right?
+[ 12m43s721ms ] So, this is the low around 51 768 on 25th November.
+[ 12m50s1ms ] Let us go and see how this support acted on smaller time frame.
+[ 12m55s601ms ] Let's go to 5 minutes time frame now.
+[ 12m59s151ms ] Okay, this is the that same daily time frame candlestick which we have marked, right?
+[ 13m3s151ms ] We have marked the low of that candle because that was the gap border.
+[ 13m6s521ms ] 26th November you can see that price did not even come near to that.
+[ 13m10s61ms ] 27th also price did not come near to that, but you can see that on 28th November, you can see that here, though price did not touch, but on 29th November, you can see that price exactly touch that gap border and you can see that after that it made a big move.
+[ 13m29s721ms ] And after that you can see that again on 2nd December, price could not break that level.
+[ 13m37s61ms ] Couple of time it tried to go below that, but it could not break it and finally it took the support and then it made a big move, right?
+[ 13m46s291ms ] After that you can see that huge move from that.
+[ 13m49s861ms ] And most important in this setup is knowing which is that gap up candle and marking that border, that is important.
+[ 13m59s31ms ] Same thing you can see happened here also.
+[ 14m1s21ms ] This candle made a gap down candle from this candle, right?
+[ 14m4s331ms ] So, now what you will do?
+[ 14m5s61ms ] You will mark the high of this candle and you can see that this is the day, this is the day, price reversed exactly from that level.
+[ 14m15s151ms ] Next price action patterns which I've seen reversal from the parabolic move.
+[ 14m21s31ms ] Most of the time you will see that market opens at 9:15 and suddenly opens gap up and makes bullish candle one after another, one after another, series of bullish candle.
+[ 14m31s431ms ] And many times gets into FOMO thinking that they will miss the rally, they are missing the opportunity to make profit and they enter at the end of the parabolic move and they see that once they enter, market reverses and hit their stop loss.
+[ 14m47s711ms ] Or sometimes you see that market is falling with the big big red candles and they think that now I have to enter because today looks like market is going to crash and the time they enter short, suddenly market makes a V reversal.
+[ 15m4s31ms ] That is something I've seen working most of the time.
+[ 15m7s21ms ] That mean parabolic setups when you see on your chart, especially at the opening of the market, most of the time it's a trap.
+[ 15m15s81ms ] So, don't get trapped when there is a parabolic opening.
+[ 15m19s141ms ] So, wait for a reversal candle to take a reversal trades.
+[ 15m25s601ms ] That mean, if there is a series of bullish candle, then wait for the candle to take a short trade.
+[ 15m29s651ms ] And when there is a series of bearish candle, wait for the candle to take a reversal trade on the long side.
+[ 15m35s971ms ] But you must be asking that how to know which candle I have to take a long or short trade.
+[ 15m39s881ms ] That I'll show you on the whiteboard, then I'll show you on the real charts.
+[ 15m43s554ms ] What I mean by parabolic move, that mean market open first 9:15 candle, next candle, another bullish candle, next candle, another bullish candle, next candle, another big bullish candle.
+[ 15m56s14ms ] Like this, nonstop big big bullish candle happens and what happens with you?
+[ 16m1s164ms ] You start getting FOMO, fear of missing out.
+[ 16m4s414ms ] You think that I missed taking my long trade here, I should have taken it, I made a I would have made a big profit.
+[ 16m12s384ms ] And finally, you think that now I can't wait anymore, otherwise I'm going to miss the rally and you enter a long here and you see that most of the time the moment you take a long trade, it makes a bearish candle, it makes a bearish candle and your stop loss start getting hit.
+[ 16m27s924ms ] And you think that why it happens every time, the moment I take a long trade, I make a loss and sometimes it happens that it happens with a big big bearish candle and you think that today market is going to crash and look at this and you think that I can't wait anymore and you take a trade here at that last red candle and immediately reversal happens and your stop loss gets hit.
+[ 16m53s554ms ] Most of the time it's a trap.
+[ 16m57s244ms ] When there is a parabolic move like this on the upside or downside, you should ask a reason why it is happening.
+[ 17m7s34ms ] Is there any event?
+[ 17m9s264ms ] Event mean if there is any political news or business related news, which is positive for the market, then market is reacting to that and that parabolic move can continue for the entire day.
+[ 17m25s214ms ] Okay, if it is negative news, then it can keep going on downside.
+[ 17m30s34ms ] Now, you may have a question that how will I know which candle I have to take a short trade?
+[ 17m36s614ms ] Wait for the proper bearish candle.
+[ 17m39s134ms ] Sometimes you may see that pin bar, it may be a bearish pin bar.
+[ 17m45s364ms ] Don't take short trade on this kind of bearish pin bar.
+[ 17m50s134ms ] Take the short trade only if you see a full body candle.
+[ 17m55s534ms ] And if you are trading in 5 minutes time frame, I would suggest at least wait for two 5 minutes candle with a full body, not this kind of doji or not kind of bearish candle.
+[ 18m11s654ms ] For this purpose, let me take the 27th December 5 minutes time frame in Nifty.
+[ 18m19s184ms ] And you can see that Nifty is making a back to back bullish candle, right?
+[ 18m23s804ms ] Now, many times it happens with you that you think that I should take a long trade here because I could not take a long trade here.
+[ 18m30s844ms ] Now, I can't miss it and you take a long trade and let us see what happened after that.
+[ 18m37s474ms ] And you can see that after that it doesn't sustain and it starts going down, hitting your stop loss.
+[ 18m47s434ms ] And you think that why it happened that when I take a long trade only it reverses.
+[ 18m51s94ms ] So, for that, it's a trap.
+[ 18m55s394ms ] Okay?
+[ 18m55s614ms ] It's a trap.
+[ 18m57s204ms ] Most of the time you get trapped if you take a long trade here.
+[ 19m0ms 244ms ] Rather what you do, take a short trade.
+[ 19m3s764ms ] So, how to take a short trade?
+[ 19m5s4ms ] I said, don't take a short trade on doji candle, bearish pin bar.
+[ 19m11s864ms ] At least wait for two back to back bearish candle.
+[ 19m16s714ms ] Okay, at least two, not only one, two back to back.
+[ 19m19s144ms ] Here you can see the two back to back bearish candle.
+[ 19m21s34ms ] You can take a short trade here or here, but don't keep the stop loss above the candle, keep the stop loss above the day's high.
+[ 19m35s344ms ] Okay?
+[ 19m35s634ms ] And you can see that how it happened most of the time that parabolic move was a trap.
+[ 19m42s854ms ] And the next one is supply and demand zone can work like a magic in price action patterns.
+[ 19m55s224ms ] Remember, if you don't have any setups, any price action patterns and you want only one price action pattern, then you can rely only on supply demand if you can identify proper supply zone on smaller time frame, that is 5 minutes time frame.
+[ 20m10s954ms ] Go to previous chart, that mean, assume that today is say Friday, then go back to Thursday, Wednesday, Tuesday, see which was the biggest supply zone.
+[ 20m24s14ms ] And especially it works very well if it was previous day was a supply zone or a demand zone.
+[ 20m28s674ms ] So, my suggestion is stop taking random trades, at least take the trades near the supply demands for high probability trades.
+[ 20m41s14ms ] Okay, identifying the proper supply and demand is the key here.
+[ 20m46s724ms ] Supply demand is nothing but on your chart where you see parabolic fall or parabolic rise.
+[ 20m56s654ms ] For example, here on this chart, you can see that one of the biggest parabolic move happened from here, right?
+[ 21m5s24ms ] So, you can see that here also there is a fall, here also there is a small.
+[ 21m8s84ms ] This is not a supply zone.
+[ 21m10s34ms ] The big supply zone mean big fall from particular level.
+[ 21m16s964ms ] So, this becomes your supply zone.
+[ 21m19s394ms ] So, what you can do is go and mark that level where previous day where there was a big fall.
+[ 21m32s14ms ] And next day, even though there is a bullish candle, most of the time that is the place where most of the time reversal can happen.
+[ 21m43s344ms ] So, if you can identify properly supply demand based on previous price action.
+[ 21m50s54ms ] You have to see where is the big supply zone.
+[ 21m53s524ms ] But remember supply zone, demand zone is not only only for previous day or previous sessions.
+[ 22m0ms 244ms ] It can be for the same day.
+[ 22m2s84ms ] For example, if you look at this chart, you can see that this level becomes your supply zone because there was a sudden fall from here.
+[ 22m12s654ms ] So, that is the supply zone and next day when price comes to the same level, that is the level to take a short trade, not to go long trade because there is a bullish candle.
+[ 22m23s874ms ] Another example is here.
+[ 22m26s164ms ] You can see that on this chart, this is the 21st January chart, you can see that it was trading quietly here and then big bearish candle and nonstop big fall till here.
+[ 22m35s664ms ] So, this becomes your supply zone, that level becomes your supply zone.
+[ 22m40s244ms ] And even though even the same day price comes to that level, chances of price reversal higher.
+[ 22m49s34ms ] Okay?
+[ 22m49s314ms ] So, that means next time if you see this kind of bullish candle, don't take a long trade thinking that it's a bullish sign because most of the time it's a trap because you should go and see on your left where is the supply zone and if there is a supply zone, most of the time you can see another round of selling from that level.
+[ 23m8s944ms ] And the next one is trading based on CPR.
+[ 23m13s34ms ] Many people think that narrow CPR mean most of the time it's trending day.
+[ 23m17s334ms ] Most of the textbooks also you must have read that narrow CPR means trending day.
+[ 23m22s74ms ] And also you must have seen in YouTube videos, but with my experience, I have seen that narrow CPR mean it's not a trending day.
+[ 23m30s644ms ] Okay, don't take the trade just based on narrow CPR because I've seen many times narrow CPR days, market stays sideways or zigzag.
+[ 23m41s134ms ] So, that is why use CPR as a trend reversal.
+[ 23m46s714ms ] Okay, the next one is about the CPR.
+[ 23m50s244ms ] CPR is more than knowing whether it will be trending day or it will be sideways day.
+[ 23m56s24ms ] It is most useful in referring it as a support and resistance.
+[ 24m1s54ms ] Because most of the time I've seen despite being a narrow CPR, market can stay sideways.
+[ 24m5s64ms ] Look at this, this is the narrow CPR.
+[ 24m7s34ms ] But is there any trend?
+[ 24m8s24ms ] No, right?
+[ 24m8s344ms ] It stayed sideways for most of the time and people who have taken a short trade expecting price to go like this, but they got trapped.
+[ 24m19s454ms ] It did not go in the trend, despite having narrow CPR.
+[ 24m23s14ms ] So, come out of that mindset that narrow CPR mean trending day.
+[ 24m26s154ms ] It is not.
+[ 24m27s274ms ] Okay, and look at this chart again.
+[ 24m30s4ms ] This is also narrow CPR, but you can see that any trend here, no, right?
+[ 24m34s14ms ] It opened with a bearish candle, took the support near the CPR and after that full day it stayed in a sideways.
+[ 24m44s364ms ] So, what I suggest is that rather than taking the CPR to know whether it's a trending day, refer CPR as a reversal point.
+[ 24m59s44ms ] You can see that from here it went down and when price comes back to that CPR, most of the time you can get a good reversal points from that level.
+[ 25m12s224ms ] Though I accept that every time it doesn't work, but most of the time it can reverse from the CPR.
+[ 25m18s244ms ] Like here also you can see that though it did not give a big move, but it made a small reversal from CPR.
+[ 25m23s224ms ] Here also you can see that price opened above the CPR, came near the CPR, started bouncing.
+[ 25m27s664ms ] Here also two time price took the support from the CPR and started bouncing.
+[ 25m32s14ms ] That is what the objective, guys.
+[ 25m33s274ms ] Objective is not to look for a holy grail patterns which works all the time.
+[ 25m37s24ms ] No, it's all about looking for a high probability which can work most of the time and that is what I said with my experience I have seen.
+[ 25m44s404ms ] This is one of the setup that is reversal from the CPR can work most of the time.
+[ 25m51s234ms ] Next one is about the trending day.
+[ 25m53s514ms ] So, with my 20 years of experience, I have observed that trending days happens very rarely, but whenever it happens, it happens for a reason.
+[ 26m3s24ms ] Okay?
+[ 26m3s394ms ] So, many times when market opens, you see that bullish candle, bullish candle, bullish candle and you think that today going to be a trending day, you enter it and then market reverses.
+[ 26m11s64ms ] What I've observed with my experience that trending day can happen when there is a breakout on the upside or downside on daily time frame chart.
+[ 26m24s84ms ] Or another way is if there is a strong resistance and next day market opens right at that resistance, instead of breaking, it start making a bearish candle showing the weakness, then most of the time it can lead to trending day.
+[ 26m36s54ms ] So, many times it happens that you will see that day opens with a bullish candle and you take a long trade thinking that today will be trending day, but instead of going in a trend, neither it hits your stop loss, neither it goes up, it will be like a sideways day, right?
+[ 27m1s84ms ] And you are thinking that why it is not going up and sometimes it may happen that it opens with a bearish candle and you take a short trade thinking that today will be trending day on the downside, but it is like this, right?
+[ 27m18s34ms ] Neither it is going up or going down, it is trading sideways for entire day.
+[ 27m22s224ms ] So, you should remember before taking the trending day, two things is important.
+[ 27m27s284ms ] And one thing is that it should have made a breakout on a daily time frame candlestick.
+[ 27m38s14ms ] If there was a breakout on a daily time frame candlestick, that mean there was a big resistance here on a daily time frame candlestick, maybe two, three days, it was taking resistance here, right?
+[ 27m53s54ms ] And fourth day, if it breaks it, then you can expect a huge trending day.
+[ 27m57s344ms ] But there is another way to know which days are trending day.
+[ 28m1s24ms ] For that, trending day most of the time, if there is a supply zone or a demand zone, this is called the trigger points, okay?
+[ 28m12s24ms ] So, what is the meaning of that?
+[ 28m14s34ms ] That means, suppose, okay, previous day was like this, that mean this becomes your strong supply zone, right?
+[ 28m22s14ms ] Next day, 9:15 candle opens with a bearish candle, takes a resistance here, then entire day it can go in a trend, most of the time.
+[ 28m34s144ms ] One trending day if instead of making a bearish candle, from the resistance it makes a breakout with a bullish candle, then it can keep going up.
+[ 28m43s274ms ] Instead of bullish candle, it makes a bearish candle from that supply zone, then it can keep going down.
+[ 28m50s454ms ] Okay, now let me show you this chart.
+[ 28m53s4ms ] This is the latest one, 5th February.
+[ 28m56s14ms ] Nifty opened with a bearish candle and you must have taken a short trade expecting it to go in the trend on the downside like this.
+[ 29m5s14ms ] But can you see that what happened?
+[ 29m6s464ms ] It kept on trading in the sideways days for the entire day, right?
+[ 29m12s34ms ] Neither it went up or went down.
+[ 29m14s4ms ] Finally around 3:00, 3:05, it started going down a little bit, but otherwise you can see that most of the time it was trading sideways.
+[ 29m24s814ms ] But same thing if you look at the 6th February, also it made a bearish candle, just like 5th February.
+[ 29m32s44ms ] Both days it made a bearish candle, but this day what happened?
+[ 29m34s804ms ] You can see that it opened here and made a huge trending day, right?
+[ 29m42s64ms ] Previous day, despite opening bearish candle, it did not make trending day, but this day it made a trending day.
+[ 29m46s94ms ] What could be reason?
+[ 29m47s214ms ] What I said, there should be some trigger point.
+[ 29m50s14ms ] Is there any trigger point for this candle?
+[ 29m53s44ms ] There is no trigger point, right?
+[ 29m54s294ms ] For this candle because there was no any resistance or supply zone.
+[ 29m58s304ms ] But same time if you look at this candle, is there any reference point?
+[ 30m2s414ms ] Yes, what is the reference point?
+[ 30m5s64ms ] This is the reference point.
+[ 30m6s354ms ] From this candle you can see that late afternoon only it started falling.
+[ 30m13s14ms ] After staying for the sideways for the most part of the time, late afternoon from this level it started going down.
+[ 30m20s644ms ] Next day candle opened right at that level, made a bearish candle, so that is the trigger point, right?
+[ 30m27s664ms ] So, that means if there is a trigger point like supply zone or a demand zone, then you can expect most of the time bearish day.

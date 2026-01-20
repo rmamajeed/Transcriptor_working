@@ -1,0 +1,446 @@
+---
+title: Veritasium_The Ridiculous Engineering Of The World's Most Important Machine_20251231_part3
+audio_file: Veritasium_The Ridiculous Engineering Of The World's Most Important Machine_20251231_part3.mp3
+note_id: 7f2e0429-0b2e-407c-ad78-8592cac634c1
+date_processed: '2026-01-06'
+classification:
+  primary_domain: Physics
+  sub_domains:
+  - Semiconductor Manufacturing
+  - Optics
+  - Engineering History
+  - Technology Innovation
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: Kinoshita
+    role: Pioneer of EUV imaging
+    contribution: Created the first EUV images that inspired later development
+  - name: Andy
+    role: Early advocate of EUV
+    contribution: Mentioned as part of the group of unreasonable innovators
+  - name: Yaas
+    role: Narrator / Interviewer
+    contribution: Recounts meeting the installer of the first EUV machine
+  - name: Anku
+    role: Colleague
+    contribution: Responds affirmatively to the narrator’s story
+  - name: ASML Engineer
+    role: Speaker 2
+    contribution: Describes the timeline of EUV development from 2001 to 2010
+  - name: Professor (unnamed)
+    role: Academic
+    contribution: Former installer of the first EUV system, now a professor
+  works_cited: []
+  concepts_mentioned:
+  - EUV lithography
+  - Extreme ultraviolet light
+  - Artificial sun
+  - Mirror smoothness
+  - Overlay accuracy
+  - Unreasonable man principle
+  - Semiconductor manufacturing
+  - Optical engineering
+  - Brilliant learning platform
+  laws_theories_cited: []
+concepts:
+- name: EUV lithography
+  definition: A semiconductor manufacturing technique that uses extreme ultraviolet
+    light to pattern micro‑features on silicon wafers.
+  parent_concepts:
+  - Semiconductor Manufacturing
+  related_concepts:
+  - Extreme ultraviolet light
+  - Mirror smoothness
+  - Overlay accuracy
+  abstraction_level: Applied
+  confidence: 1.0
+- name: Extreme ultraviolet light
+  definition: Electromagnetic radiation with wavelengths around 13.5 nm, produced
+    by a high‑power plasma source often called an “artificial sun”.
+  parent_concepts:
+  - Electromagnetic Spectrum
+  related_concepts:
+  - EUV lithography
+  - Mirror smoothness
+  abstraction_level: Fundamental
+  confidence: 1.0
+- name: Mirror smoothness
+  definition: The degree to which an optical surface is free of imperfections, critical
+    for reflecting EUV wavelengths without scattering.
+  parent_concepts:
+  - Optics
+  related_concepts:
+  - EUV lithography
+  - Extreme ultraviolet light
+  abstraction_level: Applied
+  confidence: 0.95
+- name: Overlay accuracy
+  definition: The precision with which successive lithographic layers are aligned
+    on a wafer, essential for functional integrated circuits.
+  parent_concepts:
+  - Semiconductor Manufacturing
+  related_concepts:
+  - EUV lithography
+  abstraction_level: Applied
+  confidence: 0.95
+- name: Unreasonable man principle
+  definition: A philosophical idea that progress is driven by individuals who refuse
+    to accept prevailing limits and instead try to reshape the world.
+  parent_concepts:
+  - Philosophy of Innovation
+  related_concepts:
+  - Technological breakthrough
+  - Progress
+  abstraction_level: Theoretical
+  confidence: 0.9
+relationships:
+- source_concept: EUV lithography
+  target_concept: Extreme ultraviolet light
+  relationship_type: requires
+  strength: 1.0
+  evidence: The transcript states EUV needed an "artificial sun" (EUV source).
+  reasoning: EUV lithography cannot function without an EUV light source.
+- source_concept: EUV lithography
+  target_concept: Mirror smoothness
+  relationship_type: requires
+  strength: 1.0
+  evidence: Speaker 1 mentions needing mirrors "that are this smooth" for EUV.
+  reasoning: High‑precision mirrors are essential to reflect EUV wavelengths.
+- source_concept: EUV lithography
+  target_concept: Overlay accuracy
+  relationship_type: requires
+  strength: 1.0
+  evidence: Speaker 1 lists "required overlay accuracy" as a challenge.
+  reasoning: Accurate layer alignment is a prerequisite for functional EUV‑produced
+    chips.
+- source_concept: Unreasonable man principle
+  target_concept: Progress
+  relationship_type: supports
+  strength: 0.9
+  evidence: 'Quote: "Therefore, all progress depends on the unreasonable man."'
+  reasoning: The speaker directly links unreasonable innovators to technological progress.
+cross_domain_insights:
+- connection_type: structural_analogy|principle_application
+  source_domain: Physics
+  source_concept: Mirror smoothness required for EUV lithography (sub‑nanometer surface
+    error)
+  target_domain: Biology
+  target_concept: Cell‑membrane micro‑topography that governs protein docking
+  insight: Both systems rely on surface roughness at the sub‑nanometer scale to control
+    interaction efficiency.
+  explanation: In EUV lithography a smooth mirror preserves phase and intensity of
+    extreme‑UV photons; similarly, a cell membrane’s nanometer‑scale undulations modulate
+    ligand‑receptor binding. The mathematical treatment of scattering from a rough
+    surface applies to both photon reflection and molecular adhesion.
+  potential_applications:
+  - Design of biomimetic surfaces for improved biosensor sensitivity
+  - Guidelines for nanofabricated drug‑delivery carriers that mimic membrane smoothness
+  confidence: 0.85
+  historical_example: The transfer of Rayleigh scattering theory from atmospheric
+    optics to the design of anti‑reflective coatings in the 1970s.
+- connection_type: principle_application|historical_precedent
+  source_domain: Physics
+  source_concept: Overlay accuracy – nanometer‑level alignment of successive lithography
+    layers
+  target_domain: Economics
+  target_concept: Just‑in‑time (JIT) supply‑chain synchronization
+  insight: Both require tight coordination tolerances; a mis‑alignment in either case
+    propagates costly errors downstream.
+  explanation: Overlay accuracy is managed through error‑budgeting and feedback loops,
+    mirroring how JIT inventory uses real‑time data and corrective actions to keep
+    component arrivals within tight windows. The same statistical control charts used
+    in lithography can be applied to monitor supply‑chain variance.
+  potential_applications:
+  - Adapting lithographic overlay error‑budget models to predict stock‑out risk in
+    high‑mix manufacturing
+  - Creating cross‑industry dashboards that fuse metrology data with logistics KPIs
+  confidence: 0.78
+  historical_example: Toyota's adoption of statistical process control from semiconductor
+    fabs in the 1980s.
+- connection_type: metaphor|mental_model
+  source_domain: Physics
+  source_concept: Unreasonable man principle – persisting with EUV development despite
+    early failures
+  target_domain: Entrepreneurship
+  target_concept: Contrarian founder mindset that invests in long‑term, high‑risk
+    technologies
+  insight: The same cognitive bias that labels a scientist ‘unreasonable’ when he
+    pushes physical limits also describes successful founders who defy market consensus.
+  explanation: Both contexts involve a deliberate violation of short‑term cost rationality
+    in favor of a long‑term payoff, supported by a clear first‑principles justification.
+    The principle acts as a mental model for risk‑tolerant decision making.
+  potential_applications:
+  - Venture‑capital evaluation frameworks that score ‘unreasonable persistence’ as
+    a predictor of breakthrough innovation
+  - Leadership training modules that use EUV case studies to illustrate disciplined
+    contrarianism
+  confidence: 0.81
+  historical_example: The development of the transistor at Bell Labs in the 1940s,
+    championed by William Shockley despite initial skepticism.
+- connection_type: structural_analogy
+  source_domain: Physics
+  source_concept: Extreme ultraviolet (EUV) light – 13.5 nm wavelength requiring reflective
+    optics
+  target_domain: Medical Imaging
+  target_concept: Soft‑X‑ray phase‑contrast imaging for tissue characterization
+  insight: Both fields exploit short‑wavelength photons that cannot be refracted conventionally,
+    necessitating specialized reflective or diffractive elements to form images.
+  explanation: The multilayer mirrors engineered for EUV lithography share design
+    principles (layer thickness control, constructive interference) with Bragg reflectors
+    used in soft‑X‑ray microscopes. Transfer of coating deposition techniques can
+    improve contrast and dose efficiency in biomedical imaging.
+  potential_applications:
+  - Fabrication of high‑efficiency Bragg mirrors for low‑dose cancer diagnostics
+  - Cross‑training of thin‑film deposition engineers between semiconductor fabs and
+    synchrotron facilities
+  confidence: 0.73
+  historical_example: Adoption of synchrotron radiation optics from particle physics
+    to develop early phase‑contrast X‑ray microscopes in the 1990s.
+bridge_concepts:
+- concept: Precision Alignment
+  appears_in_domains:
+  - Physics
+  - Manufacturing
+  - Economics
+  role: Serves as a common metric for error propagation and system performance across
+    disparate systems.
+  examples:
+  - Overlay accuracy in EUV lithography
+  - Tool‑path calibration in CNC machining
+  - Timing coordination in high‑frequency trading
+- concept: Error Budgeting
+  appears_in_domains:
+  - Physics
+  - Software Engineering
+  - Project Management
+  role: Provides a quantitative framework to allocate permissible variance among sub‑systems.
+  examples:
+  - Allocation of wavefront error among mirror polishing steps
+  - Allocation of latency budget among micro‑services
+  - Allocation of contingency time across project phases
+- concept: Unreasonable Persistence
+  appears_in_domains:
+  - Physics
+  - Entrepreneurship
+  - Evolutionary Biology
+  role: Describes a strategic choice to pursue a path despite low short‑term payoff,
+    often leading to disruptive breakthroughs.
+  examples:
+  - Continued EUV development despite early cost overruns
+  - Founders persisting with electric‑vehicle startups in the early 2000s
+  - Species maintaining a maladaptive trait that later becomes advantageous under
+    environmental change
+mental_models:
+- name: First‑Principles Decomposition
+  description: Break a problem down to its most fundamental physical laws or axioms
+    before rebuilding a solution.
+  applied_to:
+  - Deriving the need for reflective multilayer mirrors from the inability of EUV
+    to transmit through conventional lenses
+  transferable_to:
+  - Business model innovation by stripping away legacy cost structures
+  - Biochemical pathway redesign by tracing reactions to thermodynamic constraints
+- name: Systems Thinking with Feedback Loops
+  description: View a complex process as an interconnected set of components where
+    outputs feed back as inputs, enabling stability or runaway behavior.
+  applied_to:
+  - Overlay control loops where metrology data adjusts scanner alignment in real time
+  transferable_to:
+  - Ecological management where predator‑prey dynamics regulate population
+  - Supply‑chain risk management using demand‑signal feedback
+- name: Error‑Budget Allocation
+  description: Allocate a total permissible error across multiple subsystems based
+    on cost‑benefit trade‑offs.
+  applied_to:
+  - Dividing wavefront error among mirror polishing, substrate flatness, and thermal
+    drift
+  transferable_to:
+  - Software latency budgeting across network, processing, and UI rendering
+  - Financial risk budgeting across asset classes
+analogies_used:
+- source_domain: Everyday Life
+  source_concept: Polishing a kitchen mirror to see a clear reflection
+  target_domain: Physics
+  target_concept: Achieving sub‑nanometer smoothness on EUV multilayer mirrors
+  mapping:
+    Kitchen mirror surface: Multilayer coating surface
+    Visible light reflection: EUV photon reflection
+    Dust specks: Surface roughness causing scatter
+  pedagogical_value: Leverages a familiar visual experience to convey the extreme
+    precision required for EUV optics, making an abstract nanometer‑scale requirement
+    concrete.
+- source_domain: Music
+  source_concept: Tuning a piano so that each key strikes the exact frequency
+  target_domain: Physics
+  target_concept: Overlay accuracy – aligning successive lithography layers within
+    a few nanometers
+  mapping:
+    Piano keys: Lithography layers
+    Pitch deviation: Overlay mis‑alignment
+    Tuning process: Metrology‑driven correction loops
+  pedagogical_value: Draws a parallel between auditory harmony and spatial alignment,
+    helping learners grasp why nanometer‑scale errors produce 'discord' in circuit
+    functionality.
+tags:
+  hierarchical:
+  - '#Physics → #Optics → #EUV Lithography → #Machine Manufacturing'
+  - '#Science → #Semiconductor Manufacturing → #EUV Lithography'
+  topical:
+  - '#EUV'
+  - '#ArtificialSun'
+  - '#MirrorSmoothness'
+  - '#OverlayAccuracy'
+  - '#Innovation'
+  methodological:
+  - '#PhilosophicalQuote'
+  - '#HistoricalNarrative'
+  people:
+  - '#Kinoshita'
+  - '#Andy'
+  - '#Yaas'
+  - '#Anku'
+  - '#ASMLEngineer'
+  - '#Professor'
+  concepts:
+  - '#EUVLithography'
+  - '#ExtremeUltraviolet'
+  - '#MirrorPrecision'
+  - '#OverlayAccuracy'
+  - '#UnreasonableMan'
+  temporal:
+  - '#2001'
+  - '#2010'
+  - '#2020s'
+  - '#30Years'
+summary: The video recounts the three‑decade‑long journey of extreme‑ultraviolet (EUV)
+  lithography—from early skepticism and technical hurdles to the first customer installation
+  in 2010 and its eventual large‑scale production—highlighting how “unreasonable”
+  visionaries persisted despite doubts. It argues that such relentless, unconventional
+  thinking drives breakthrough technologies, and the segment concludes with a sponsorship
+  plug for Brilliant’s interactive learning platform.
+key_ideas:
+- idea: EUV Lithography’s Long‑Term Development** – After decades of skepticism, EUV
+    (extreme ultraviolet) lithography finally reached manufacturing level, with the
+    first customer system installed in 2010 despite many technical hurdles.
+  description: No description provided by model.
+- idea: The Role of “Unreasonable” Visionaries** – Progress depended on people who
+    refused to accept conventional limits, persisting to create an “artificial sun,”
+    ultra‑smooth mirrors, and nanometer‑scale overlay accuracy.
+  description: No description provided by model.
+- idea: Overcoming Obstacles Through Iterative Learning** – The breakthrough required
+    decades of trial‑and‑error, building knowledge step‑by‑step, and continuously
+    tackling new challenges.
+  description: No description provided by model.
+- idea: Impact of Unreasonable Thinking on Technology** – Without the daring, many
+    modern technologies (including the video itself) would not exist; reasonable conformity
+    would lead to a far less innovative world.
+  description: No description provided by model.
+- idea: Encouragement to Embrace Challenging Learning** – The video promotes using
+    interactive, problem‑based education (e.g., Brilliant) to develop the skills and
+    mindset needed for future breakthroughs.
+  description: No description provided by model.
+---
+## Key Concepts
+
+**EUV lithography**  
+A semiconductor manufacturing technique that uses extreme ultraviolet light to pattern micro‑features on silicon wafers.
+
+**Extreme ultraviolet light**  
+Electromagnetic radiation with wavelengths around 13.5 nm, produced by a high‑power plasma source often called an “artificial sun”.
+
+**Mirror smoothness**  
+The degree to which an optical surface is free of imperfections, critical for reflecting EUV wavelengths without scattering.
+
+**Overlay accuracy**  
+The precision with which successive lithographic layers are aligned on a wafer, essential for functional integrated circuits.
+
+**Unreasonable man principle**  
+A philosophical idea that progress is driven by individuals who refuse to accept prevailing limits and instead try to reshape the world.
+
+## Cross-Domain Connections
+
+**Physics → Biology**
+
+*Both systems rely on surface roughness at the sub‑nanometer scale to control interaction efficiency.*
+
+In EUV lithography a smooth mirror preserves phase and intensity of extreme‑UV photons; similarly, a cell membrane’s nanometer‑scale undulations modulate ligand‑receptor binding. The mathematical treatment of scattering from a rough surface applies to both photon reflection and molecular adhesion.
+
+**Physics → Economics**
+
+*Both require tight coordination tolerances; a mis‑alignment in either case propagates costly errors downstream.*
+
+Overlay accuracy is managed through error‑budgeting and feedback loops, mirroring how JIT inventory uses real‑time data and corrective actions to keep component arrivals within tight windows. The same statistical control charts used in lithography can be applied to monitor supply‑chain variance.
+
+**Physics → Entrepreneurship**
+
+*The same cognitive bias that labels a scientist ‘unreasonable’ when he pushes physical limits also describes successful founders who defy market consensus.*
+
+Both contexts involve a deliberate violation of short‑term cost rationality in favor of a long‑term payoff, supported by a clear first‑principles justification. The principle acts as a mental model for risk‑tolerant decision making.
+
+## Discussion Topics
+
+- **EUV Lithography’s Long‑Term Development** – After decades of skepticism, EUV (extreme ultraviolet) lithography finally reached manufacturing level, with the first customer system installed in 2010 despite many technical hurdles.:** No description provided by model.
+- **The Role of “Unreasonable” Visionaries** – Progress depended on people who refused to accept conventional limits, persisting to create an “artificial sun,” ultra‑smooth mirrors, and nanometer‑scale overlay accuracy.:** No description provided by model.
+- **Overcoming Obstacles Through Iterative Learning** – The breakthrough required decades of trial‑and‑error, building knowledge step‑by‑step, and continuously tackling new challenges.:** No description provided by model.
+- **Impact of Unreasonable Thinking on Technology** – Without the daring, many modern technologies (including the video itself) would not exist; reasonable conformity would lead to a far less innovative world.:** No description provided by model.
+- **Encouragement to Embrace Challenging Learning** – The video promotes using interactive, problem‑based education (e.g., Brilliant) to develop the skills and mindset needed for future breakthroughs.:** No description provided by model.
+
+## Full Transcription
+
+
+
+[ 0m0s112ms - 0m5s602ms ] Speaker 1: machine in 250 containers, spread out over 25 trucks and 7 Boeing 747s.
+[ 0m7s482ms - 0m14s352ms ] Speaker 1: Despite all the doubt and setback, EUV finally made it to manufacturing level three decades after Kinoshita's first images.
+[ 0m14s352ms - 0m24s252ms ] Speaker 1: But even when almost the entire world didn't believe it would work, there were some people at ASML who knew that it was going to work all the way back in 2010.
+[ 0m24s487ms - 0m27s667ms ] Speaker 2: Around 2001, we said let's let's let's do EUV.
+[ 0m28s997ms - 0m30s937ms ] Speaker 2: And then we run into many challenges.
+[ 0m31s187ms - 0m35s367ms ] Speaker 2: 2010, we installed the first system at a customer, so it was installed in Korea.
+[ 0m35s647ms - 0m44s407ms ] Speaker 2: There it was. This thing I had been pursuing for, you know, 13 years was now standing at a customer producing wafers.
+[ 0m44s407ms - 0m48s527ms ] Speaker 2: This for me was a moment I realized, yes, we made the right bet.
+[ 0m49s188ms - 0m52s828ms ] Speaker 1: Years later, Yaas ran into the man who helped install that first machine.
+[ 0m53s8ms - 0m55s398ms ] Speaker 2: He's now a professor at a renowned Institute.
+[ 0m55s538ms - 1m0s408ms ] Speaker 2: And I shared the story about my relief and how great we made the decision.
+[ 1m0s408ms - 1m1s598ms ] Speaker 2: And Anku said, yeah, yeah, yeah.
+[ 1m1s718ms - 1m5s828ms ] Speaker 2: He said, but you left and you flew out after Christmas, the thing broke down.
+[ 1m5s828ms - 1m11s688ms ] Speaker 2: And it took two months to get back up again, and they almost fired me for making the wrong decision.
+[ 1m11s688ms - 1m14s468ms ] Speaker 2: We had some ups and downs along the way.
+[ 1m14s958ms - 1m21s358ms ] Speaker 2: But again, once I saw the system installed at a customer, in a customer fab, I knew we had done the right thing.
+[ 1m21s358ms - 1m24s358ms ] Speaker 2: This was 2010, the first phone that came out was 2019.
+[ 1m24s358ms - 1m28s328ms ] Speaker 2: So we still had some hurdles to resolve, but we kept going.
+[ 1m32s469ms - 1m39s259ms ] Speaker 1: Now, I have spent several months working on this video and thinking about it, and it still feels absolutely impossible.
+[ 1m40s489ms - 1m47s889ms ] Speaker 1: And the more I think about it, the more I think, you know, those people 40 years ago that said it was impossible, they had a point.
+[ 1m48s179ms - 1m58s779ms ] Speaker 1: It's completely unreasonable to think that you could make this artificial sun in a lab, that you could make these mirrors that are this smooth, and that you could get the required overlay accuracy.
+[ 1m59s339ms - 2m4s89ms ] Speaker 1: The reasonable thing is to think that none of that is possible and to point out all the problems with each of them.
+[ 2m4s339ms - 2m6s669ms ] Speaker 1: Which reminds me of this quote.
+[ 2m7s439ms - 2m9s719ms ] Speaker 1: The reasonable man adapts himself to the world.
+[ 2m10s339ms - 2m14s699ms ] Speaker 1: The unreasonable one persists in trying to adapt the world to himself.
+[ 2m15s309ms - 2m18s739ms ] Speaker 1: Therefore, all progress depends on the unreasonable man.
+[ 2m19s189ms - 2m23s899ms ] Speaker 1: Imagine if Andy and Kinoshita and all the others had been reasonable.
+[ 2m24s299ms - 2m25s279ms ] Speaker 1: We would have none of this.
+[ 2m26s129ms - 2m30s549ms ] Speaker 1: In fact, imagine what the world would be like if everyone on it was reasonable.
+[ 2m31s29ms - 2m32s879ms ] Speaker 1: It would probably be extremely boring.
+[ 2m32s879ms - 2m37s879ms ] Speaker 1: Probably most of the technology, most of the things you enjoy on a daily basis wouldn't be here.
+[ 2m38s309ms - 2m40s589ms ] Speaker 1: In fact, you probably wouldn't be watching this video.
+[ 2m40s589ms - 2m48s139ms ] Speaker 1: Because just about all the technology we have nowadays would seem completely unreasonable even just 200 years ago.
+[ 2m49s39ms - 2m54s749ms ] Speaker 1: And so I really think that to a large extent, we owe our lives to those unreasonable people.
+[ 2m54s749ms - 3m2s239ms ] Speaker 1: And maybe, at least to me, it's a reminder that it's good to be a little unreasonable, at least in some of the big parts of life.
+[ 3m7s109ms - 3m8s739ms ] Speaker 1: Changing the world is difficult.
+[ 3m8s739ms - 3m12s769ms ] Speaker 1: It took overcoming thousands of obstacles and over 30 years to get EUV to work.
+[ 3m12s879ms - 3m15s649ms ] Speaker 1: But big breakthroughs usually start in the same way.
+[ 3m15s649ms - 3m24s589ms ] Speaker 1: That is, you learn, you explore some related ideas, you try to apply them in some new ways, and then you build skills to take on bigger and bigger challenges.
+[ 3m25s229ms - 3m30s309ms ] Speaker 1: Bit by bit, you gain knowledge, and that's where today's video sponsor Brilliant comes in.
+[ 3m31s39ms - 3m37s809ms ] Speaker 1: Brilliant helps you excel in math, science, and computer science with visual interactive learning that's personalized for you.
+[ 3m38s629ms - 3m41s549ms ] Speaker 1: It's an incredibly powerful way to reach big learning goals.
+[ 3m41s549ms - 3m46s79ms ] Speaker 1: Mastering math for class or contributing to the next big technological breakthrough.
+[ 3m47s49ms - 3m52s89ms ] Speaker 1: On Brilliant, you learn by doing, a method that research has shown to be far more effective than just passive learning.
+[ 3m52s89ms - 4m2s579ms ] Speaker 1: It starts you at the right level based on your background, designs practice sets and reviews customized for you, and then it helps you advance at your ideal pace.
+[ 4m2s829ms - 4m11s409ms ] Speaker 1: There is always something new to discover on Brilliant, want to better understand optics after watching this video? Well, their scientific thinking course is a great place to start.
+[ 4m11s859ms - 4m19s149ms ] Speaker 1: It helps you think like an engineer by showing you how to break down large concepts into smaller, more understandable pieces.
+[ 4m20s359ms - 4m30s629ms ] Speaker 1: Whether you're conquering fundamental math, algebra, or calculus, diving deep into algorithms, exploring material science, or understanding the physics that will take us beyond EUV.
+[ 4m31s179ms - 4m39s769ms ] Speaker 1: Brilliant will help you get there. And if like me, you've resolved to learn more in the new year, then Brilliant is a great way to actually make that resolution stick.
+[ 4m40s289ms - 4m44s389ms ] Speaker 1: So, to learn for free, go to brilliant.org/ferritacium.
+[ 4m44s389ms - 4m47s889ms ] Speaker 1: Scan the QR code on screen or click the link in the description.
+[ 4m48s199ms - 4m56s659ms ] Speaker 1: Brilliant also gives our viewers 20% off an annual premium subscription, which gives you unlimited daily access to everything on Brilliant.
+[ 4m57s149ms - 5m1s499ms ] Speaker 1: So, I want to thank Brilliant for sponsoring this video and now I want to thank you for watching.

@@ -1,0 +1,127 @@
+---
+title: Honda_Client_Presentation_part2
+audio_file: Honda_Client_Presentation_part2.mp3
+date_processed: '2025-12-12'
+tags:
+- '#AIAccuracy'
+- '#ProjectTimeline'
+- '#DataPrivacy'
+- '#AIValidation'
+- '#ProofOfConcept'
+- '#Honda_Client_Presentation_part2'
+domain: Artificial Intelligence
+summary: The team is discussing the implementation of an AI system (JNAI/agentic)
+  for testing, aiming to achieve 98-100% accuracy by March to reduce manual workload.
+  Speaker 1 addressed concerns about achieving high accuracy by explaining that the
+  system can be tuned and supported with validators, even providing confidence levels
+  and justifications. Next steps include providing actual data and templates for a
+  week-long evaluation, securing compliance approval for data handling, and establishing
+  a timeline for the agentic system.
+key_ideas: []
+note_id: 53c2b8b6-74bc-4d89-a189-866a106856c6
+---
+## Discussion Topics
+
+- **Here are 4 key ideas from the transcription:** 
+- **AI Accuracy & Validation:** ** The critical need for high AI accuracy (99-100%) is discussed, alongside methods for validation through manual UAT and leveraging system-generated confidence levels and justifications to improve performance.
+- **Project Phased Approach & Timeline:** ** The project is structured with a Phase 1 Proof-of-Concept (POC) aiming for completion and an overall readiness for System Integration Testing (SIT) by March.
+- **Data Privacy and Compliance:** ** A crucial concern involves protecting sensitive customer data, requiring careful consideration of enterprise-approved AI models and consultation with the compliance team regarding data handling in cloud environments or offline processing.
+- **Technological Approach and Next Steps:** ** The team is exploring initial development with JNAI, considering an agentic system for potentially higher accuracy, and plans follow-up meetings to review progress with actual data, define the technology stack, and ensure environment readiness.
+
+
+
+[ 0m0s197ms - Speaker 1 ] I system with all the other surrounding things, that will take a couple of months at least. So once this POC is done, we can scale it up to that in the phase two. That's why I was suggesting phase one and phase two kind of setup.
+[ 0m18s449ms - Speaker 2 ] So for our project what's the timeline we have to be ready by testing.
+[ 0m27s519ms - Speaker 2 ] The actual testing SIT.
+[ 0m30s671ms - Speaker 3 ] March.
+[ 0m31s631ms - Speaker 2 ] March. Not say April and May.
+[ 0m36s511ms - Speaker 4 ] Okay.
+[ 0m40s751ms - Speaker 1 ] So uh
+[ 0m41s481ms - Speaker 2 ] So my my concern or my I'm not concerned, that's not the right word, but my my hiccup is if we do with JNAI, you know, we know that accuracy is not that then we want almost 100% accuracy.
+[ 0m57s711ms - Speaker 1 ] Okay. Okay.
+[ 0m58s761ms - Speaker 2 ] So now when we start, right? And if that doesn't work, then this entire exercise would fail. So, you see what I'm trying to say, so, uh, we can't prove something now. less accuracy, but that's not the intent. We want highly accurate, right?
+[ 1m17s171ms - Speaker 1 ] Okay. And uh if you do phase two approach, you know, phase one phase two. And phase two if it doesn't work, then we are back to square, right? So I I don't want to go with low accuracy.
+[ 1m29s151ms - Speaker 1 ] Uh no. uh okay. let me put it this way. uh we uh with the POC, uh that is with two weeks of time, we can uh that's what I uh I understand you are having in mind. By end of this month or something, we can have a uh POC system or system which can have more than 98% or something. We can tune the uh uh uh algorithm to be much more stable, right? Or prompt uh prompting along with the inputs being given to it. Uh for at least uh uh uh most number of template types, right? Uh assuming they're not very much complex. But agentic system, I can assure we have so many uh tools and uh solutions available. We can improve its accuracy to almost 99 to 100%. We can have uh I I have seen solutions where uh there is a validator for a validator again inside the agentic system as well. Before the accuracy is being sent out, there are certain uh conditioning which which are being given to a final agent, which does that and then gives to the human. See, of course, uh uh uh AI cannot be like 100% and I suppose human also have come with those kind of things, right? So, we can try as much as possible to reach that 99 to 100%, but it is possible. We can have supporting systems to do that.
+[ 3m4s541ms - Speaker 2 ] Yeah, how much time would the would it need for a similar effort in the agentic side?
+[ 3m11s121ms - Speaker 1 ] Uh, Is it okay if I discuss with the team and again come back to you by tomorrow or so?
+[ 3m20s591ms - Speaker 4 ] Sure.
+[ 3m22s221ms - Speaker 2 ] other question is how do you who gives you accuracy? Is it like you have the tool would provide it or is it an calculation?
+[ 3m30s531ms - Speaker 1 ] So, uh see, uh as with every uh development system, we are going to have a UAT phase, right? A testing phase and a UAT phase. During that time, we need uh uh manually, we need to validate the accuracy of the system and push it uh till 99, 100%. It's not going to uh uh it is going to give out some value. So, even here if you see uh the use case what I'm showing, it it shows me an accuracy of 98%. If you see here, it has a confidence level.
+[ 4m2s571ms - Speaker 2 ] This is system generated, right?
+[ 4m3s611ms - Speaker 1 ] Yeah. So, it's it's it's generated by itself sorry uh
+[ 4m9s271ms - Speaker 4 ] Okay.
+[ 4m9s931ms - Speaker 2 ] So, so the AI itself says that it's confident by this person.
+[ 4m11s951ms - Speaker 1 ] It says confident by 98% here, right? But only if I if I'm going to run uh uh see, it's kind of like a normal distribution, unless the uh number of pointers are going to be huge, it doesn't fit the bell curve properly, right? So, if only if we run for more than 100, 200 uh number of templates, we'll we'll be able to say yes, this is the value. As of now, yes, it's uh 9 95%. That's why I told uh cautiously we have put it as 85 to 95. Even though it is saying 98 or it all it mostly it says 98 and above. But for for a caution point, I have just put it as 95 over there.
+[ 4m54s531ms - Speaker 2 ] Oh, in this example, you know, that you are sharing here, it's matching, right? Test.
+[ 4m59s331ms - Speaker 1 ] Yes, yes.
+[ 5m0s691ms - Speaker 2 ] And then add. Why would it say 2% less?
+[ 5m4s891ms - Speaker 1 ] Uh it has its own guard rails in place. It cannot say 100% all the time. See, it can uh even though uh maybe with more tuning, it uh more fine tuning, it will be able to tell it very well. Okay. With a very short span of time, we have given certain specific instructions to it which with which it is going to give. And also uh as uh someone also pointed out, right? If we have a uh uh manual kind of a uh template based templates to so call it, right? If we have that, that those will be very much helpful to set the context as to what is accurate, right? Before we we start. Exactly.
+[ 5m18s641ms - Speaker 2 ] Okay.
+[ 5m46s431ms - Speaker 2 ] And we have it, right?
+[ 5m49s851ms - Speaker 1 ] So.
+[ 5m50s481ms - Speaker 2 ] Templates that we can share.
+[ 5m57s241ms - Speaker 2 ] Or, anyone.
+[ 5m59s211ms - Speaker 2 ] We have those templates, right?
+[ 6m0s887ms - Speaker 4 ] Yeah, we have the templates.
+[ 6m3s437ms - Speaker 4 ] Uh I I I I had a question and generally maybe it's more tool specific here, right? Like to Rishi's point, eventually say if it gives a less than 100%, even if it gives some pointers as to why things it's not 100, it will it will at least tell us what like the testing team will know what outside of these results, what areas they need to go and look at manually to cover that gap, right?
+[ 6m30s37ms - Speaker 1 ] Yes, of course. uh we can ask it to give a justification for that particular number what it is going to tell us.
+[ 6m38s727ms - Speaker 2 ] And that will also help to further find you, right? For certain pattern.
+[ 6m42s697ms - Speaker 1 ] Yes.
+[ 6m43s327ms - Speaker 2 ] It's not caught. Okay. So, is there any where's the prompt library? What prompt did you load for this?
+[ 6m48s847ms - Speaker 1 ] Uh this is it's not a prompt library as such. So, uh I have a uh uh three or four part structure to a prompt where I set a role, then I give some background, uh some context to it, then I give the uh what input it should have, what uh uh processes it should do, step-by-step process, then what output in what format it should give out, and certain guard rail. So, uh this is a structure what I have I usually use for every uh prompting, either it's a JAI or it's an agent KA. Uh both these systems, I do the same kind of stuff. So, in this case, I asked it to do a role of a QA analyst uh and then do this visual analysis of the uh PDF data and uh the CSV, uh then this is going to be the context and this is how the output structured summary should be and so on and so forth. So, that is how it has uh analyzed and giving out uh uh system like this. But uh since it's a UI system, instead of a JSON uh setup, uh it's going to show it as a uh where is it? Yeah, the table kind of a format.
+[ 6m59s217ms - Speaker 2 ] Oh.
+[ 8m0s287ms - Speaker 4 ] Okay.
+[ 8m3s997ms - Speaker 2 ] So, uh the team, are you okay with this approach, go with JNAI first. Uh try to have confident try, you know, to reach out 100%. You know, try your best and then see how it goes or we also look at agent.
+[ 8m25s607ms - Speaker 1 ] Uh
+[ 8m26s167ms - Speaker 2 ] Or we can discuss it generally like so if you want to.
+[ 8m29s157ms - Speaker 4 ] Yeah, I think as Majid mentioned, uh for the agentic, they'll come up with the timeline. At this point, they don't have that estimate. Uh and um I think one benefit I see with with these approaches is that it'll they'll still be a requirement for the QA team to go and validate, but uh it'll reduce the workload by a lot. And maybe the cycle also, it'll be faster.
+[ 8m37s677ms - Speaker 1 ] Yeah.
+[ 8m54s557ms - Speaker 2 ] And that's what it's going to help what was calling out, right? Where did it miss out? you know, some kind of pointer. Yeah. Uh to go to that focused, you know, manual testing.
+[ 9m2s237ms - Speaker 4 ] And that can actually feedback into the the AI program. Yes, to further find you, you know. Yeah.
+[ 9m11s687ms - Speaker 2 ] Yeah.
+[ 9m16s207ms - Speaker 2 ] All right, great. Thanks for presenting. So looks like it's going to help us, you know.
+[ 9m20s767ms - Speaker 1 ] Sure. Uh only two things uh I just wanted to call out. Uh one is, see, as of now, uh as I already told, we are using a sample template. So as I showed, right? It's just a dummy data, whatever we are using here. So, I am like, uh I don't have any inhibitions sending out it sending it to a Gemini API and uh uh processing this. But if you're going to send a base data or base template to do, uh it is going to have some uh customer data or privacy data, right? So, along with that, it will be uh uh uh better if you can tell or uh come come up with the available AI model for your enterprise uh uh systems, which you have. That will be a better option to test out uh instead of sending these data to a uh common uh uh pool of uh uh AI models.
+[ 10m17s567ms - Speaker 2 ] So that's uh great point, you know, when you find out what's, right? So that no surprises when we are ready with some solution and then we get stuck. So that's that is one and also can or someone, you know, to reach out a compliance team, make them aware of this. But this will send data to the cloud. Are they okay? Of course, it's scrambled but just let them know. And we don't have much time on that. So.
+[ 10m22s347ms - Speaker 1 ] Yeah.
+[ 10m45s527ms - Speaker 4 ] Okay.
+[ 10m54s657ms - Speaker 4 ] So would that be and uh Yeah. Yeah. I I can work with that.
+[ 10m57s777ms - Speaker 2 ] Yeah.
+[ 11m1s597ms - Speaker 4 ] All right. Okay.
+[ 11m7s877ms - Speaker 2 ] Can you send this to us?
+[ 11m9s817ms - Speaker 1 ] Uh yeah, sure, sure. We can go there.
+[ 11m13s387ms - Speaker 2 ] I'm sorry. I could not be there in the room. So there was overlap of the so maybe next time when we meet.
+[ 11m19s797ms - Speaker 4 ] So a quick question, so assuming that you get the let's say the templates, actual templates and uh actual data. When can we get a more clear picture of how it's working in terms of accuracy? Uh once you're on it.
+[ 11m36s797ms - Speaker 1 ] I sorry. Yes, I at least need a week's time to uh check and understand what it is uh capable of. Uh Okay. Then we can see uh I think today is 11th, right? By uh around next Friday, we can have certain uh much more clarity depending on the data uh which is available. And then we can see uh what can be the next steps on that.
+[ 11m47s217ms - Speaker 4 ] Okay.
+[ 12m3s357ms - Speaker 4 ] Okay. So maybe let's have a follow-up meeting around Friday. Is that okay?
+[ 12m7s577ms - Speaker 2 ] Yeah, so let's do that and also we need to send them data and template, right?
+[ 12m13s97ms - Speaker 4 ] So I think we should. additionally are you guys planning to do it in our environment or you are going to do offline?
+[ 12m20s297ms - Speaker 1 ] Uh no, um most probably offline is what I'm thinking for initial uh setup. uh
+[ 12m28s127ms - Speaker 2 ] Let's take that to compliance as well I mean offline. POC, scrambled data, no or data. They should have been data privacy, so. hopefully.
+[ 12m40s757ms - Speaker 4 ] So I think this this probably already has, but uh can you provide some kind of a technology stack that we can also uh check uh share with our teams to make sure that you know.
+[ 12m51s977ms - Speaker 1 ] Yes, yes. Of course. I'll as of now, uh not sure where I added that. But yeah, I will add that as a separate slide and I will share it with you.
+[ 13m0s517ms - Speaker 4 ] Yeah, we want to make sure that it's a Honda approved.
+[ 13m2s917ms - Speaker 1 ] Yes, yes. Of course. I'll do that too.
+[ 13m5s317ms - Speaker 2 ] And also bring in. Yeah, architect. You're going to check if we have environment ready or what kind of environment we have. Yeah.
+[ 13m9s277ms - Speaker 4 ] Yeah.
+[ 13m15s37ms - Speaker 4 ] Okay.
+[ 13m19s527ms - Speaker 2 ] All right, great. Thank you team. Thank you. This is good.
+[ 13m24s27ms - Speaker 4 ] Good good presentation. Good demo as well.
+[ 13m26s687ms - Speaker 1 ] Yeah. Thank you.
+[ 13m27s667ms - Speaker 4 ] Thanks.
+[ 13m27s747ms - Speaker 1 ] Thanks.
+[ 13m28s527ms - Speaker 2 ] Thank you. Thanks. Yeah.
+[ 13m29s627ms - Speaker 4 ] Thank you.
+[ 13m30s547ms - Speaker 1 ] Yeah.
+[ 13m31s217ms - Speaker 2 ] Thank you for the time.
+[ 13m32s37ms - Speaker 1 ] Yeah, thank you for your time. Have a good day. Bye.
+[ 13m46s567ms - Speaker 5 ] Huh?
+[ 13m49s397ms - Speaker 6 ] What's wrong? What's wrong?
+[ 13m56s147ms - Speaker 5 ] So no.
+[ 14m35s747ms - Speaker 7 ] Majid, you have rocked it, seriously. You have rocked it. Seriously, I didn't expect uh so much, actually. So, it's we had my expectations at least. Thanks for that.
+[ 14m49s187ms - Speaker 1 ] Thank you so much, Yeah. But yeah, a lot of effort I have put on this, so
+[ 14m55s797ms - Speaker 7 ] I know, I know. It's a lot of effort. Uh see, uh one thing is, uh see, I understand uh uh compliance part and all, right? So for the POC part, uh we'll try to get you some allocation and all, right? So that there's no issues from other and all. Okay.
+[ 15m14s337ms - Speaker 1 ] Okay. Fine.
+[ 15m15s427ms - Speaker 7 ] Uh this I'm proactively telling you, see, no CRM will come and tell like this.
+[ 15m18s737ms - Speaker 1 ] No, makes sense. Makes sense, thank you so much for that. See, and also specifically told she has shared a lot of good pointers about you and she was like was involving you, please look into this. Yeah yeah. So that's that's also I've also worked with multiple CRM, so uh I mean this this was very different case when I was working with you. So that's also one of the reason I put in a lot of interest as well. So yeah, good fair enough. thank you so much for that feedback.
+[ 15m59s967ms - Speaker 7 ] Uh see I I'll I'll be very honest and uh I will uh echo this anywhere and I'll make sure that you'll get the due recognition anywhere. We we'll have to do uh things which should because ultimately everyone is going to get aligned here. Right? Uh I mean the industry itself is

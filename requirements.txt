@@ -1,0 +1,120 @@
+#
+# Transcriptinator - Complete Dependencies List
+# All packages required for multi-provider AI transcription application
+# Last verified: 2026-01-02
+#
+
+# ============================================================================
+# CORE DEPENDENCIES (Required for all functionality)
+# ============================================================================
+
+# YouTube download functionality
+yt-dlp>=2023.12.30
+# Note: Requires FFmpeg binary installed on system (not a Python package)
+
+# Google Gemini AI (for audio transcription)
+google-generativeai>=0.3.0
+
+# Environment configuration
+python-dotenv>=1.0.0
+
+# YAML processing (for metadata frontmatter)
+pyyaml>=6.0
+
+# System utilities
+psutil>=5.9.0
+
+# ============================================================================
+# AUDIO PROCESSING
+# ============================================================================
+
+# FFmpeg Python wrapper (for audio chunking)
+ffmpeg-python>=0.2.0
+# Note: Requires FFmpeg binary installed on system
+
+# ============================================================================
+# AI PROVIDER DEPENDENCIES
+# ============================================================================
+
+# OpenAI SDK (required for OpenRouter AND LM Studio local models)
+# OpenRouter uses OpenAI-compatible API
+# LM Studio uses OpenAI-compatible API on localhost
+openai>=1.0.0
+
+# Groq SDK (for Groq cloud provider)
+groq>=0.4.0
+
+# ============================================================================
+# OPTIONAL WEB UI DEPENDENCIES
+# ============================================================================
+
+# Flask web framework (only needed if using web UI)
+#Flask==2.3.2
+
+# Flask-SocketIO (only needed if using web UI)
+#Flask-SocketIO==5.3.4
+
+# ============================================================================
+# NOTES FOR TEAM DEPLOYMENT
+# ============================================================================
+#
+# INSTALLATION INSTRUCTIONS:
+# --------------------------
+# 1. Install Python 3.8 or higher
+#
+# 2. Create virtual environment:
+#    python -m venv venv
+#
+# 3. Activate virtual environment:
+#    - Linux/Mac: source venv/bin/activate
+#    - Windows: venv\Scripts\activate
+#
+# 4. Install dependencies:
+#    pip install -r requirements.txt
+#
+# 5. Install FFmpeg (system dependency):
+#    - Ubuntu/Debian: sudo apt-get install ffmpeg
+#    - Mac: brew install ffmpeg
+#    - Windows: Download from https://ffmpeg.org/download.html
+#
+# PROVIDER-SPECIFIC SETUP:
+# ------------------------
+# - Gemini: Required for transcription (always needed)
+#   Get API key: https://makersuite.google.com/app/apikey
+#
+# - OpenRouter: Optional for metadata extraction
+#   Get API key: https://openrouter.ai/
+#
+# - Groq: Optional for metadata extraction (fastest)
+#   Get API key: https://console.groq.com/
+#
+# - LM Studio: Optional for local models (privacy)
+#   Download: https://lmstudio.ai/
+#   Note: Uses openai package (already installed)
+#
+# CONFIGURATION:
+# -------------
+# Copy .env.example to .env and configure:
+#   GOOGLE_API_KEY=your_gemini_key
+#   METADATA_PROVIDER=groq  # or openrouter, local, gemini
+#   GROQ_API_KEY=your_groq_key  # if using groq
+#   OPENROUTER_API_KEY=your_key  # if using openrouter
+#   LOCAL_MODEL=llama-3.1-8b-instruct  # if using LM Studio
+#
+# MINIMUM REQUIREMENTS:
+# --------------------
+# - Python 3.8+
+# - FFmpeg (system binary)
+# - google-generativeai (for transcription)
+# - python-dotenv
+#
+# RECOMMENDED FOR PRODUCTION:
+# ---------------------------
+# - groq (fastest metadata extraction)
+# - All core dependencies above
+#
+# WEB UI (OPTIONAL):
+# ------------------
+# If not using web UI, you can skip Flask and Flask-SocketIO
+# The CLI works perfectly without them
+#
