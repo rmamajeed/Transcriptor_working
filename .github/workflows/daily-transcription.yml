@@ -51,7 +51,7 @@ jobs:
           yt-dlp --version
       
       - name: Setup YouTube cookies
-        if: secrets.YOUTUBE_COOKIES != ''
+        if: ${{ secrets.YOUTUBE_COOKIES }}
         run: |
           echo "🍪 Setting up YouTube cookies for authentication..."
           echo "${{ secrets.YOUTUBE_COOKIES }}" > youtube_cookies.txt
