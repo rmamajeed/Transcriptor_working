@@ -18,6 +18,17 @@ if [ ! -f "$COOKIE_FILE" ]; then
     exit 1
 fi
 
+# Verify Netscape format (Basic check)
+HEADER=$(head -n 1 "$COOKIE_FILE")
+if [[ "$HEADER" != *"# Netscape HTTP Cookie File"* && "$HEADER" != *"# HTTP Cookie File"* ]]; then
+    echo -e "${YELLOW}⚠️  Warning: $COOKIE_FILE might not be in Netscape format.${NC}"
+    echo "The first line does not contain '# Netscape HTTP Cookie File' or '# HTTP Cookie File'."
+    echo "Ensure you exported it correctly (e.g. using a 'Get cookies.txt LOCALLY' extension)."
+    echo "Proceeding anyway..."
+    echo ""
+fi
+
+
 # Encode cookies to base64
 if [[ "$OSTYPE" == "darwin"* ]]; then
     # macOS
