@@ -34,6 +34,9 @@ downloads/*.webp
 downloads/*.jpg
 
 # Keep the folders but ignore contents
+# Keep the folders but ignore contents
 downloads/*
 !downloads/.gitkeep
 youtube_cookies.txt
+*.info.json
+

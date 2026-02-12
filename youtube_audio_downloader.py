@@ -39,6 +39,14 @@ class YouTubeAudioDownloader:
         )
         self.logger = logging.getLogger(__name__)
 
+        # Cookie file configuration
+        self.cookie_file = "youtube_cookies.txt"
+        if os.path.exists(self.cookie_file):
+            self.logger.info(f"🍪 Found cookie file: {self.cookie_file}")
+        else:
+            self.logger.warning("⚠️  No cookie file found. YouTube may block requests (403 Forbidden).")
+
+
         # Check if yt-dlp is available
         try:
             import yt_dlp
@@ -48,14 +56,13 @@ class YouTubeAudioDownloader:
             self.logger.error("yt-dlp not found. Please install it using: pip install yt-dlp")
             sys.exit(1)
 
-    def configure_ydl_options(self, custom_filename=None, include_date=True, cookiefile=None):
+    def configure_ydl_options(self, custom_filename=None, include_date=True):
         """
         Configure yt-dlp options for audio extraction
 
         Args:
             custom_filename (str): Custom filename template
             include_date (bool): Whether to include upload date in filename
-            cookiefile (str): Path to YouTube cookies file (for authentication)
 
         Returns:
             dict: yt-dlp options dictionary
@@ -74,7 +81,7 @@ class YouTubeAudioDownloader:
 
         # Configure yt-dlp options
         ydl_opts = {
-            'format': 'bestaudio*',  # More flexible - accepts any audio format
+            'format': 'bestaudio/best',  # Download best audio quality available
             'outtmpl': str(self.output_dir / filename_template),
             'postprocessors': [{
                 'key': 'FFmpegExtractAudio',
@@ -87,11 +94,10 @@ class YouTubeAudioDownloader:
             'ignoreerrors': False,
             'noplaylist': True,  # Download single video only by default
         }
-        
-        # Add cookies if provided (for YouTube bot detection bypass)
-        if cookiefile and os.path.exists(cookiefile):
-            ydl_opts['cookiefile'] = cookiefile
-            print(f"   🍪 Using cookie file for authentication: {cookiefile}")
+
+        # Use cookies if available
+        if os.path.exists(self.cookie_file):
+            ydl_opts['cookiefile'] = self.cookie_file
 
         return ydl_opts
 
@@ -122,25 +128,13 @@ class YouTubeAudioDownloader:
             dict: Video information or None if error
         """
         try:
-            # Check for cookie file from environment variable
-            cookiefile = os.getenv('YOUTUBE_COOKIES_FILE')
-            
-            # DEBUG: Print cookie status
-            print(f"   🔍 DEBUG: YOUTUBE_COOKIES_FILE env var: {cookiefile}")
-            if cookiefile:
-                print(f"   🔍 DEBUG: Cookie file exists: {os.path.exists(cookiefile)}")
-                if os.path.exists(cookiefile):
-                    print(f"   🔍 DEBUG: Cookie file size: {os.path.getsize(cookiefile)} bytes")
-            
             ydl_opts = {
                 'quiet': True,
                 'no_warnings': True,
             }
-            
-            # Add cookies if available
-            if cookiefile and os.path.exists(cookiefile):
-                ydl_opts['cookiefile'] = cookiefile
-                print(f"   ✅ Using cookies from: {cookiefile}")
+
+            if os.path.exists(self.cookie_file):
+                ydl_opts['cookiefile'] = self.cookie_file
 
             with self.yt_dlp.YoutubeDL(ydl_opts) as ydl:
                 info = ydl.extract_info(url, download=False)
@@ -192,11 +186,8 @@ class YouTubeAudioDownloader:
 
             self.logger.info(f"Starting download for: {video_info['title']}")
 
-            # Check for cookie file from environment variable
-            cookiefile = os.getenv('YOUTUBE_COOKIES_FILE')
-            
             # Configure download options
-            ydl_opts = self.configure_ydl_options(custom_filename, cookiefile=cookiefile)
+            ydl_opts = self.configure_ydl_options(custom_filename)
             ydl_opts['writethumbnail'] = include_thumbnail
 
             # Download the audio
@@ -243,12 +234,9 @@ class YouTubeAudioDownloader:
             dict: Playlist info with video list or error
         """
         try:
-            # Check for cookie file from environment variable
-            cookiefile = os.getenv('YOUTUBE_COOKIES_FILE')
-            
             # Clean the playlist URL - extract just the list parameter
             import re
-            list_match = re.search(r'[?\&]list=([a-zA-Z0-9_-]+)', playlist_url)
+            list_match = re.search(r'[?&]list=([a-zA-Z0-9_-]+)', playlist_url)
             if list_match:
                 clean_playlist_url = f"https://www.youtube.com/playlist?list={list_match.group(1)}"
                 print(f"   🔧 Cleaned URL: {clean_playlist_url}")
@@ -262,9 +250,8 @@ class YouTubeAudioDownloader:
                 'noplaylist': False
             }
             
-            # Add cookies if available
-            if cookiefile and os.path.exists(cookiefile):
-                ydl_opts['cookiefile'] = cookiefile
+            if os.path.exists(self.cookie_file):
+                ydl_opts['cookiefile'] = self.cookie_file
             
             if max_downloads:
                 ydl_opts['playlistend'] = max_downloads

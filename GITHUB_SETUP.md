@@ -60,6 +60,8 @@ Secrets store your API keys securely. They're encrypted and never visible in com
 | `OPENROUTER_API_KEY` | Your OpenRouter key | ⚠️ Optional | [OpenRouter](https://openrouter.ai/) |
 | `METADATA_PROVIDER` | `groq` or `openrouter` | ✅ Yes | Type manually: `groq` |
 | `GEMINI_MODEL` | `models/gemini-2.0-flash-exp` | ⚠️ Optional | Type manually (uses default if not set) |
+| `YOUTUBE_COOKIES_BASE64` | *Base64 string* | ✅ Yes | Run `.github/scripts/setup-cookies.sh` locally |
+
 
 **Example: Adding GOOGLE_API_KEY**
 1. Name: `GOOGLE_API_KEY`

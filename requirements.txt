@@ -118,3 +118,14 @@ groq>=0.4.0
 # If not using web UI, you can skip Flask and Flask-SocketIO
 # The CLI works perfectly without them
 #
+
+# ---
+# Added for deployment
+yt-dlp
+google-generativeai
+groq
+openai
+ffmpeg-python
+python-dotenv
+psutil
+pyyaml

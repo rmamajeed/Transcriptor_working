@@ -95,5 +95,22 @@ source venv/bin/activate
 python audio_process_and_transcribe.py Audio_Files/ --metadata-level basic
 
 
+############
+crontab -e
+# Daily Transcriptinator Run (Added 2026-02-07)
+00 12 * * * /home/asd/Python/Transcriptinator_working/run_daily.sh
+
+tail -f /home/asd/Python/Transcriptinator_working/daily_run.log
+##################
+crontab -e
+# Daily Transcriptinator Run (Added 2026-02-07)
+# 45 11 * * * /home/asd/Python/Transcriptinator_working/run_daily.sh
+
+Save and Exit:
+In nano: Press Ctrl+O, Enter, then Ctrl+X.
+In 
+vi
+: Press Esc, type :wq, and press Enter.
 
 
+crontab -l
