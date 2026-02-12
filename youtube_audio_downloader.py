@@ -89,25 +89,25 @@ class YouTubeAudioDownloader:
             }],
             'outtmpl': os.path.join(self.output_dir, '%(uploader)s_%(title)s_%(upload_date)s.%(ext)s'),
             'quiet': False,
+            'verbose': True,  # ENABLE VERBOSE LOGGING FOR DEBUGGING
             'no_warnings': False,
             'ignoreerrors': True,
             'nocheckcertificate': True,
-            # Anti-bot options
-            'sleep_interval': 5,
-            'max_sleep_interval': 30,
-            'sleep_interval_requests': 1,
+            # Standard browser User-Agent to match typical cookies
             'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'extractor_args': {
-                'youtube': {
-                    'player_client': ['android', 'web'],
-                    'player_skip': ['webpage', 'configs', 'js'],
-                    'zerodynamic': ['true'], 
-                }
-            }
         }
 
         # Add cookie file if it exists
         if os.path.exists(self.cookie_file):
+            self.logger.info(f"🍪 using cookie file: {self.cookie_file}")
+            # Debug: check first line of cookie file
+            try:
+                with open(self.cookie_file, 'r') as f:
+                    first_line = f.readline().strip()
+                    self.logger.info(f"📄 Cookie file header: {first_line}")
+            except Exception as e:
+                self.logger.warning(f"⚠️ Could not read cookie file header: {e}")
+            
             ydl_opts['cookiefile'] = self.cookie_file
         
         # Download single video only by default
