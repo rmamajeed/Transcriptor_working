@@ -81,19 +81,27 @@ class YouTubeAudioDownloader:
 
         # Configure yt-dlp options
         ydl_opts = {
-            'format': 'bestaudio/best',  # Download best audio quality available
-            'outtmpl': str(self.output_dir / filename_template),
+            'format': f'bestaudio/best',
             'postprocessors': [{
                 'key': 'FFmpegExtractAudio',
                 'preferredcodec': self.audio_format,
                 'preferredquality': self.audio_quality,
             }],
-            'ffmpeg_location': None,  # Auto-detect FFmpeg
-            'writeinfojson': True,  # Save video info as JSON
-            'writethumbnail': False,  # Don't download thumbnail by default
-            'ignoreerrors': False,
-            'noplaylist': True,  # Download single video only by default
+            'outtmpl': os.path.join(self.output_dir, '%(uploader)s_%(title)s_%(upload_date)s.%(ext)s'),
+            'quiet': False,
+            'no_warnings': False,
+            'ignoreerrors': True,
+            'nocheckcertificate': True,
         }
+
+        # Add cookie file if it exists
+        if os.path.exists(self.cookie_file):
+            ydl_opts['cookiefile'] = self.cookie_file
+        # Download single video only by default
+        # This comment was misplaced in the instruction, assuming it should be removed or rephrased if it was meant to be a key.
+        # The original code had 'noplaylist': True, which is the equivalent.
+        # Re-adding 'noplaylist': True to maintain original functionality if it was intended to be kept.
+        ydl_opts['noplaylist'] = True
 
         # Use cookies if available
         if os.path.exists(self.cookie_file):
