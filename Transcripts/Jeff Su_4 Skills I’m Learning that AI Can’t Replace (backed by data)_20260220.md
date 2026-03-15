@@ -1,0 +1,374 @@
+---
+title: Jeff Su_4 Skills I’m Learning that AI Can’t Replace (backed by data)_20260220
+audio_file: Jeff Su_4 Skills I’m Learning that AI Can’t Replace (backed by data)_20260220.mp3
+note_id: 62414708-eaee-4778-8c69-6836b7938d6f
+date_processed: '2026-03-02'
+classification:
+  primary_domain: AI
+  sub_domains:
+  - Machine Learning
+  - Natural Language Processing
+  - Human-Computer Interaction
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: Jeffrey Huang
+    role: Speaker
+    contribution: Explaining AI skills
+  - name: Ethan Mollick
+    role: Professor
+    contribution: Agentic cost-benefit framework
+  - name: Andrew Ng
+    role: Expert
+    contribution: Workflow design example
+  - name: Randy Olson
+    role: Developer
+    contribution: And, But, Therefore framework
+  - name: Philip Hum
+    role: Storyteller
+    contribution: Storytelling video
+  - name: Vinh Giang
+    role: Content creator
+    contribution: Content on storytelling
+  works_cited:
+  - title: Google AI Professional Certificate
+    author: Coursera
+    year: 2023
+  concepts_mentioned:
+  - AI
+  - Machine Learning
+  - Human-Computer Interaction
+  - Storytelling
+  - Workflow Design
+  laws_theories_cited:
+  - Agentic cost-benefit framework
+  - And, But, Therefore framework
+  - SCQA framework
+concepts:
+- name: Cockpit Rule
+  definition: A mental model for deciding when to delegate to AI, collaborate with
+    it, or avoid it entirely
+  parent_concepts:
+  - AI
+  related_concepts:
+  - Agentic cost-benefit framework
+  abstraction_level: Applied
+  confidence: 0.9
+- name: Build the Rails
+  definition: Designing a workflow for AI to follow
+  parent_concepts:
+  - AI
+  related_concepts:
+  - Workflow Design
+  abstraction_level: Practical
+  confidence: 0.9
+- name: Storytelling Mode
+  definition: The ability to turn data into a story that moves people
+  parent_concepts:
+  - Human-Computer Interaction
+  related_concepts:
+  - And, But, Therefore framework
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Manual Override
+  definition: Intentionally choosing not to use AI for certain tasks
+  parent_concepts:
+  - AI
+  related_concepts:
+  - Critical Thinking
+  abstraction_level: Fundamental
+  confidence: 0.9
+- name: Agentic cost-benefit framework
+  definition: A framework for deciding when to delegate to AI
+  parent_concepts:
+  - AI
+  related_concepts:
+  - Cockpit Rule
+  abstraction_level: Theoretical
+  confidence: 0.9
+relationships:
+- source_concept: Cockpit Rule
+  target_concept: Agentic cost-benefit framework
+  relationship_type: derives_from
+  strength: 0.9
+  evidence: Jeffrey Huang mentions using the agentic cost-benefit framework to decide
+    when to delegate to AI
+  reasoning: The Cockpit Rule is based on the agentic cost-benefit framework
+- source_concept: Build the Rails
+  target_concept: Workflow Design
+  relationship_type: equivalent_to
+  strength: 0.9
+  evidence: Jeffrey Huang explains that building the rails means designing a workflow
+    for AI to follow
+  reasoning: Building the rails is another way of describing workflow design
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: AI
+  source_concept: Cockpit Rule
+  target_domain: Aviation
+  target_concept: Crew Resource Management
+  insight: Both emphasize the importance of human oversight and decision-making in
+    complex systems.
+  explanation: The Cockpit Rule in AI refers to the need for human intervention in
+    critical decision-making processes, similar to how pilots are responsible for
+    making decisions in the cockpit. This analogy highlights the importance of balancing
+    automation with human judgment in complex systems. The structural similarity lies
+    in the hierarchical decision-making process, where human oversight is crucial
+    for safety and efficiency.
+  potential_applications:
+  - Development of more efficient human-AI collaboration systems
+  confidence: 0.9
+  historical_example: The introduction of autopilot systems in aviation, which required
+    pilots to adapt to new roles and responsibilities, parallels the need for humans
+    to work alongside AI systems.
+- connection_type: principle_application
+  source_domain: AI
+  source_concept: Agentic cost-benefit framework
+  target_domain: Economics
+  target_concept: Rational Choice Theory
+  insight: Both frameworks involve weighing costs and benefits to make decisions.
+  explanation: The agentic cost-benefit framework in AI is used to evaluate the potential
+    outcomes of actions, similar to how rational choice theory in economics assumes
+    that individuals make decisions based on a cost-benefit analysis. This principle
+    can be applied across domains to understand decision-making processes. The key
+    insight is that both frameworks recognize the importance of considering multiple
+    factors when making decisions, whether it's an AI system or a human actor.
+  potential_applications:
+  - Improved decision-making models in economics and AI
+  confidence: 0.8
+  historical_example: The concept of opportunity cost in economics, which is also
+    relevant in AI decision-making, demonstrates the cross-domain applicability of
+    this principle.
+- connection_type: metaphor
+  source_domain: AI
+  source_concept: Storytelling Mode
+  target_domain: Literary Theory
+  target_concept: Narrative Structure
+  insight: Both involve the use of narratives to convey meaning and context.
+  explanation: The storytelling mode in AI refers to the use of narrative structures
+    to generate human-like text, similar to how literary theory analyzes the narrative
+    structures of texts. This metaphor highlights the importance of context and meaning
+    in both AI-generated text and literary works. The connection lies in the way both
+    domains use narrative devices to engage audiences and convey information.
+  potential_applications:
+  - Development of more engaging and contextual AI-generated content
+  confidence: 0.7
+  historical_example: The use of narrative structures in literature, such as the hero's
+    journey, has been influential in shaping storytelling across domains, including
+    AI.
+- connection_type: historical_precedent
+  source_domain: AI
+  source_concept: Manual Override
+  target_domain: Industrial Automation
+  target_concept: Emergency Stop
+  insight: Both involve the need for human intervention in automated systems.
+  explanation: The concept of manual override in AI is similar to the emergency stop
+    mechanism in industrial automation, which allows humans to intervene in case of
+    an emergency. This historical precedent highlights the importance of designing
+    systems that can be safely and quickly intervened by humans. The connection lies
+    in the recognition of the limitations of automation and the need for human oversight.
+  potential_applications:
+  - Design of safer and more reliable automated systems
+  confidence: 0.8
+  historical_example: The introduction of emergency stop mechanisms in industrial
+    automation, which has saved countless lives, demonstrates the importance of manual
+    override in AI systems.
+- connection_type: structural_analogy
+  source_domain: AI
+  source_concept: Build the Rails
+  target_domain: Transportation Infrastructure
+  target_concept: Railway Construction
+  insight: Both involve the creation of infrastructure to support efficient movement
+    or flow.
+  explanation: The concept of building the rails in AI refers to the creation of infrastructure
+    to support the efficient flow of data and decision-making, similar to how railway
+    construction involves building infrastructure to support the efficient movement
+    of people and goods. This analogy highlights the importance of investing in infrastructure
+    to support complex systems. The structural similarity lies in the need for careful
+    planning and construction of infrastructure to facilitate efficient flow.
+  potential_applications:
+  - Development of more efficient data processing and decision-making systems
+  confidence: 0.9
+  historical_example: The construction of railway systems in the 19th century, which
+    revolutionized transportation, parallels the need for building infrastructure
+    in AI systems to support efficient data flow.
+bridge_concepts:
+- concept: Feedback Loop
+  appears_in_domains:
+  - AI
+  - Biology
+  - Economics
+  role: Feedback loops are crucial for learning, adaptation, and regulation in complex
+    systems.
+  examples:
+  - AI systems use feedback loops to learn from data
+  - Biological systems use feedback loops to regulate homeostasis
+  - Economic systems use feedback loops to adjust to market changes
+- concept: Emergence
+  appears_in_domains:
+  - AI
+  - Complexity Science
+  - Sociology
+  role: Emergence refers to the phenomenon of complex systems exhibiting behaviors
+    that cannot be predicted from their individual components.
+  examples:
+  - AI systems exhibit emergent behavior in complex tasks
+  - Complexity science studies emergent behavior in natural systems
+  - Sociology studies emergent behavior in social systems
+mental_models:
+- name: Systems Thinking
+  description: A mental model that involves analyzing complex systems as a whole,
+    considering the interactions and interdependencies between components.
+  applied_to:
+  - Understanding the interactions between AI systems and their environment
+  transferable_to:
+  - Economics, Biology, Sociology
+- name: First Principles
+  description: A mental model that involves breaking down complex systems into their
+    fundamental components and rebuilding them from scratch.
+  applied_to:
+  - Designing and optimizing AI systems
+  transferable_to:
+  - Physics, Engineering, Economics
+analogies_used:
+- source_domain: Familiar domain
+  source_concept: Teaching a child to ride a bike
+  target_domain: AI
+  target_concept: Training an AI model
+  mapping:
+    Child: AI model
+    Bike: Task
+    Parent: Trainer
+  pedagogical_value: This analogy helps to understand the process of training an AI
+    model, highlighting the importance of guidance, feedback, and practice.
+tags:
+  hierarchical:
+  - '#AI → #Machine Learning → #Natural Language Processing'
+  - '#Human-Computer Interaction → #Storytelling'
+  topical:
+  - '#AI'
+  - '#MachineLearning'
+  - '#Storytelling'
+  methodological:
+  - '#Framework'
+  - '#WorkflowDesign'
+  people:
+  - '#JeffreyHuang'
+  - '#EthanMollick'
+  concepts:
+  - '#CockpitRule'
+  - '#BuildTheRails'
+  temporal:
+  - '#2023'
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  To get ahead in a world where AI is becoming increasingly ubiquitous, it''s essential
+  to develop skills that build on top of basic AI proficiency. Four key skills to
+  focus on are the "Cockpit Rule" for deciding when to delegate to AI, "Building the
+  Rails" to design workflows that leverage AI, "Storytelling Mode" to turn data into
+  compelling narratives, and "Manual Override" to intentionally choose not to use
+  AI for certain tasks and preserve critical thinking. By developing these skills,
+  individuals can harness the power of AI while maintaining their unique strengths
+  and abilities.'
+key_ideas:
+- idea: Here are the 3-5 key ideas discussed in the transcription text, along with
+    a short description of each
+  description: ''
+- idea: The Cockpit Rule**
+  description: This concept involves developing a mental model to decide when to delegate
+    tasks to AI, when to collaborate with it, and when to avoid it entirely, based
+    on factors such as human baseline time, probability of success, and AI process
+    time.
+- idea: Building the Rails**
+  description: This idea involves designing workflows and processes that allow AI
+    to perform tasks efficiently, by laying the groundwork and creating a structured
+    approach that enables AI to produce high-quality output with minimal human intervention.
+- idea: Storytelling Mode**
+  description: This concept involves developing the ability to turn data and information
+    into compelling stories that resonate with people, which is a key skill in a world
+    where AI can generate information, but human judgment and storytelling are still
+    essential.
+- idea: Manual Override**
+  description: This idea involves intentionally choosing not to use AI for certain
+    tasks, in order to maintain critical thinking skills and prevent over-reliance
+    on AI, by developing habits such as "think first, prompt second" and interrogating
+    AI output.
+- idea: Developing skills beyond AI proficiency**
+  description: The overall key idea is that being proficient in AI is no longer a
+    differentiator, and that individuals need to develop additional skills, such as
+    the ones mentioned above, in order to stay ahead and achieve success in a world
+    where AI is increasingly prevalent.
+---
+## Key Concepts
+
+**Cockpit Rule**  
+A mental model for deciding when to delegate to AI, collaborate with it, or avoid it entirely
+
+**Build the Rails**  
+Designing a workflow for AI to follow
+
+**Storytelling Mode**  
+The ability to turn data into a story that moves people
+
+**Manual Override**  
+Intentionally choosing not to use AI for certain tasks
+
+**Agentic cost-benefit framework**  
+A framework for deciding when to delegate to AI
+
+## Cross-Domain Connections
+
+**AI → Aviation**
+
+*Both emphasize the importance of human oversight and decision-making in complex systems.*
+
+The Cockpit Rule in AI refers to the need for human intervention in critical decision-making processes, similar to how pilots are responsible for making decisions in the cockpit. This analogy highlights the importance of balancing automation with human judgment in complex systems. The structural similarity lies in the hierarchical decision-making process, where human oversight is crucial for safety and efficiency.
+
+**AI → Economics**
+
+*Both frameworks involve weighing costs and benefits to make decisions.*
+
+The agentic cost-benefit framework in AI is used to evaluate the potential outcomes of actions, similar to how rational choice theory in economics assumes that individuals make decisions based on a cost-benefit analysis. This principle can be applied across domains to understand decision-making processes. The key insight is that both frameworks recognize the importance of considering multiple factors when making decisions, whether it's an AI system or a human actor.
+
+**AI → Literary Theory**
+
+*Both involve the use of narratives to convey meaning and context.*
+
+The storytelling mode in AI refers to the use of narrative structures to generate human-like text, similar to how literary theory analyzes the narrative structures of texts. This metaphor highlights the importance of context and meaning in both AI-generated text and literary works. The connection lies in the way both domains use narrative devices to engage audiences and convey information.
+
+## Discussion Topics
+
+- **Here are the 3-5 key ideas discussed in the transcription text, along with a short description of each:** 
+- **The Cockpit Rule**:** This concept involves developing a mental model to decide when to delegate tasks to AI, when to collaborate with it, and when to avoid it entirely, based on factors such as human baseline time, probability of success, and AI process time.
+- **Building the Rails**:** This idea involves designing workflows and processes that allow AI to perform tasks efficiently, by laying the groundwork and creating a structured approach that enables AI to produce high-quality output with minimal human intervention.
+- **Storytelling Mode**:** This concept involves developing the ability to turn data and information into compelling stories that resonate with people, which is a key skill in a world where AI can generate information, but human judgment and storytelling are still essential.
+- **Manual Override**:** This idea involves intentionally choosing not to use AI for certain tasks, in order to maintain critical thinking skills and prevent over-reliance on AI, by developing habits such as "think first, prompt second" and interrogating AI output.
+- **Developing skills beyond AI proficiency**:** The overall key idea is that being proficient in AI is no longer a differentiator, and that individuals need to develop additional skills, such as the ones mentioned above, in order to stay ahead and achieve success in a world where AI is increasingly prevalent.
+
+## Full Transcription
+
+ Here's the transcription:
+
+00:00 - 00:22 [Jeffrey Huang]: Saying you know how to use AI nowadays is kind of like putting "Proficient at Microsoft Word" on your resume. It's no longer a differentiator, right? It's a baseline expectation. Just like adding AI to your dat- I mean LinkedIn profile. And that means being good at ChatGPT is now the bare minimum. So in this video, we'll cover four skills you need to build on top of that to actually get ahead. Let's get started.
+
+00:22 - 01:21 [Jeffrey Huang]: Beginning with the most important skill to develop: the "Cockpit Rule." Put simply, this is a mental model for deciding when to delegate to AI, when to collaborate with it, and when to avoid it entirely. Think of it like a pilot in the cockpit. At cruise altitude on a clear day, you engage autopilot and let the plane fly itself. During takeoff and landing, you and the system work together because there are more variables. And in an emergency where sensors fail, you take over full manual control. The exact same logic applies to AI. Autopilot mode is when you hand the task to AI with clear instructions and trust the output with minimal review. The AI handles everything on its own. Collaboration mode is where you and AI iterate together through multiple rounds until the output meets your standard. Neither you nor AI could have produced the result alone. Manual mode is when you do the work yourself because AI either can't do it well or the risk of getting it wrong is too high. Now, the real skill is knowing which mode to pick for any given task. And Professor Ethan Mollick of Wharton has a useful framework for this called the agentic cost-benefit framework. And it comes down to three factors.
+
+01:21 - 02:59 [Jeffrey Huang]: First, human baseline time. How long would this take you to do manually? Second, probability of success. How likely is the AI to get it right? And third, AI process time. How long does it take to prompt, wait, and check the output? Diving right into an example: you have a messy spreadsheet that needs to be restructured and formatted for a presentation. Human baseline: 2 hours of tedious spreadsheet work. Probability of success: high, because AI is great at structured data manipulation. AI process time: maybe 15 minutes to upload the data, write the prompt, and spot-check. Result: autopilot mode. 15 minutes is much shorter than 2 hours, and you know this domain well enough to catch any major errors at a glance. Example 2: When I was at Google preparing a client pitch deck, AI could handle the research and draft talking points, but it didn't know my client's risk tolerance or Google's priorities for that quarter. Human baseline: about 10 hours to build the presentation. AI's probability of success on any single attempt: medium, because the AI needs my direction and domain expertise. AI process time per round: maybe 45 minutes of prompting, checking sources, and fixing hallucinations. Result: collaboration mode. Even if I iterated five times and spent 4 hours total managing the AI, that's still less than half the manual baseline. Example 3: Your VP sends an angry Slack message questioning your team's approach on a project. Human baseline: 3 minutes since you already know the backstory and the politics. Probability of success: low because AI doesn't know your boss's personality. AI process time: 20 to 30 minutes since you'd have to explain all the context you already have in your head. Result: manual. So, as a rule of thumb, the best tasks to delegate to AI are those that take you a long time to do, the AI tool itself is very capable in that domain to increase probability of success, and you can easily evaluate the output to decrease AI process time.
+
+02:59 - 04:02 [Jeffrey Huang]: Now, regular viewers know I've taken quite a few AI courses on Coursera before. So when I received early access to their latest Google AI professional certificate, I honestly expected more of the same. But I was pleasantly surprised by the labs feature. Basically, throughout the course, instead of just watching videos, there are these standalone lessons where you open up Gemini, follow along with the step-by-step video, and work with downloadable documents. So it's sort of like a self-contained mini-project. For example, this lab walked me through a product ideation process with Gemini. The video and written instructions stay within this page, and we actually go through an end-to-end brainstorming exercise in another tab, like running a cost-benefit analysis and scheduling recurring reports. The certificate covers seven courses including brainstorming, research, writing for content creation, data analysis, and more. So it pairs well with the skills we're talking about today. You can get 40% off three months of Coursera plus right now, so I'll leave a link in the description. Thank you, Coursera, for sponsoring this portion of the video.
+
+04:02 - 05:59 [Jeffrey Huang]: Next up, "Build the Rails." Put simply, now that AI has become so capable, your competitive advantage is no longer doing the work; it's designing the process so AI can do it for you. Think of it like this: a bullet train needs a lot of heavy lifting upfront to lay the tracks, right? But once those rails are in place, the train glides over them at over 300 kilometers per hour with almost no friction. For our American friends, that's around 200 hamburgers per unit of freedom. It's the same thing with AI. Designing a workflow is like laying the tracks. It's tedious at first, but once the system is in place, AI can just do its thing. Here's a simple example: I used to have a single prompt to polish the subject line and body content for my newsletters, and the output was fine. But when I created a separate prompt optimized just for the subject lines, my click-through rates went up. Andrew Ng had a famous example where he found that using a single prompt to write code gave him a 48% success rate, but when he designed a workflow to write, run, and troubleshoot the code using the same AI model, that jumped to 95%. And in a study from Harvard and BCG, they tested 758 consultants and found the top performers fell into two groups: "Centaurs," who divided tasks between themselves and AI with clear handoff points, and "Cyborgs," who integrated AI into every step of their workflow. The third group, let's call them "Peons," used AI with no structured process and they performed 19 percentage points worse. Again, the variable wasn't the AI model, it was the process. So how do we actually redesign our workflows to be AI-first? I've talked about this in other videos, so I won't waste your time here, but in a nutshell, you want to first: take a recurring deliverable you produce, like a weekly report, and break it into its component steps. Second, apply the cost-benefit framework I mentioned earlier to each step. Which steps are autopilot, which are collaboration, and which should stay manual? Third, prioritize redesigning the autopilot steps first, since that's where you get the biggest return for the least amount of effort. Obviously, this is a very dense topic. I'm probably going to have to dedicate an entire lesson to it in my upcoming AI course. I'll leave a link to that waitlist down below.
+
+05:59 - 07:31 [Jeffrey Huang]: Skill number three: the "Storytelling Mode." So first, let's check out this ad from Anthropic.
+
+06:10 - 06:12 [Speaker 2]: How do I communicate better with my mom?
+
+06:12 - 06:17 [Speaker 3]: Find emotional connection with other older women on Golden Encounters, the mature dating site that connects sensitive cubs with roaring cougars.
+
+06:17 - 06:20 [Speaker 3]: Would you like me to create your profile?
+
+06:26 - 09:05 [Jeffrey Huang]: I'm not surprised that ad went semi-viral because AI companies have been aggressively hiring heads of content and storytellers because even they understand that AI, as powerful as they are, cannot generate meaning. I still remember this crazy meeting when I was still at Google where all the managers were asking for more budget, and on paper, our team had the weakest case by far, right? But my manager, instead of focusing on the data, she talked about how her project would benefit other countries and would become an Asia-wide case study, thereby making our big boss look good. And she ended up getting most of her budget. Now, am I saying I learned all my bullshitting skills from her? No, I'm naturally gifted. Uh, but that's not the point here. The point is, in the world of AI, information is a commodity, and so the real skill is turning that information into something people actually care about. Put simply, if you can turn data into a story that moves people, you're safe. If you just pass along the data, you're replaceable. So how do we actually get better at this? I'm still working on this myself, so I recommend checking out Philip Hum's storytelling video and Vinh Giang's content. He's an absolute monster at storytelling. That said, I've been practicing two frameworks since my management consulting days. First, the "And, But, Therefore" (ABT) framework developed by Randy Olson. Here's how it works: Your manager asks, "Hey, how's the launch going?" Instead of listing facts, you answer: "We're on track, AND adoption is rising, BUT one client paused spending due to technical issues, THEREFORE I'm preparing a follow-up call to troubleshoot his account." "AND" sets the stage: here's where we are. "BUT" introduces the conflict and makes people lean in because something's wrong; something didn't go according to the plan. Because it's all part of the plan. "THEREFORE" delivers the resolution and a clear next step. Second, the tried-and-true "SCQA" framework from McKinsey, Bain, and BCG. Situation: here's where we are. Complication: here's the obstacle, aka conflict. Question: what do we need to answer to move forward? Answer: here's the resolution. You've probably already noticed a common denominator across both frameworks: they introduce conflict, then resolve it. That's what makes people care. And to show you how big a difference this makes, here's the same story told both ways. Version 1: Frodo volunteered to take the ring to Mordor, AND he was joined by a fellowship, AND after a long journey, he destroyed the ring. The End. Version 2: Frodo was entrusted with the One Ring, AND he was the only one who could resist its corruption, BUT the journey nearly broke him. By the time he reached Mount Doom, the ring had won. THEREFORE, it was only through Gollum's obsession, not Frodo's strength, that the ring was accidentally destroyed. The hero failed at the finish line and the quest was saved by the villain. Same story, completely different impact.
+
+09:05 - 12:13 [Jeffrey Huang]: And that's a perfect segue into skill number four: "Manual Override." This is about intentionally choosing not to use AI for certain tasks so that your critical thinking doesn't atrophy. Put simply, if you let AI write every email, outline every strategy, and summarize every meeting, you gradually lose the ability to synthesize information yourself. Think of it like this: a weightlifting belt helps you lift heavier, right? But if you wear it for every single rep, your stabilizer muscles, like your abs, weaken. After a year, you're only strong with a belt on. And the science backs this up. Researchers at McGill found physical changes in the brains of drivers who relied heavily on GPS that decreased their ability to navigate on their own. A Microsoft and Carnegie Mellon study found that knowledge workers who over-relied on AI gradually stopped doing key cognitive steps themselves, like questioning assumptions, checking sources, and weighing trade-offs. As a result, they became less prepared for unexpected edge cases. And a study of 2,760 decisions from radiologists found that those who used AI as a first opinion often anchored themselves onto the AI's answer and stopped looking for other signs. By contrast, those who formed their own opinion first and used AI as a second check maintained their accuracy. So how do we protect our thinking while still benefiting from AI? There are two habits we can develop. Number one, and this is very simple, Professor Mollick recommends "think first, prompt second." For example, I'll still use AI to summarize reports (I'll leave a link to my essential prompts below), but I always write my own "so what" analysis first before asking AI for its take. Basically, for analytical tasks, spend a few minutes forming your own position before engaging AI. Second, interrogate the output. When AI gives you an answer, don't accept it right away, and instead ask yourself: "How would I verify this? What's the counter-argument?" For instance, I recently asked AI about refinancing my mortgage, and I challenged it with a series of "what ifs," since this kind of active debate forces my brain to engage rather than passively consume. Now, at this point, it's easy for skeptics to say, "See, I told you so, AI is making us all dumber." But that's just simply not true. Yes, an MIT study found students who used ChatGPT were less engaged, but those findings are about habits, not neurological brain damage. And for context, Plato worried that writing would erode wisdom, and people worried that cell phones would kill our ability to remember phone numbers. So here's the nuance those clickbaity bullshit articles will never tell you: AI will only hurt us if we allow it to change our habits. It's just like giving a toddler unlimited access to TV: the TV isn't the problem, it's the behavior. Back to the learning example: students using ChatGPT without guidance scored 17% worse on exams, yes, but with structured guidance, a World Bank study found that six weeks of AI tutoring produced learning gains equivalent to two years of traditional schooling. Ethan Mollick sums it up perfectly: there's plenty of work worth handing off to AI (we rarely mourn the math we do with calculators), but there's also a lot of work where our thinking is important. Your brain is safe; your thinking, however, is up to you. If you enjoyed this, you might want to check out this video where I share my favorite AI tools. See you there, and in the meantime, have a great one!

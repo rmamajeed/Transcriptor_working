@@ -8,6 +8,22 @@ VENV_ACTIVATE="$PROJECT_DIR/venv/bin/activate"
 # Ensure we are in the project directory
 cd "$PROJECT_DIR" || exit 1
 
+# Once-per-day check
+LAST_RUN_FILE="$PROJECT_DIR/.last_run"
+TODAY=$(date +%Y-%m-%d)
+
+if [ -f "$LAST_RUN_FILE" ]; then
+    LAST_RUN=$(cat "$LAST_RUN_FILE")
+    if [ "$LAST_RUN" == "$TODAY" ]; then
+        # Already run today, exit silently or log it
+        echo "$(date): Script already run today ($TODAY). Skipping." >> "$LOG_FILE"
+        exit 0
+    fi
+fi
+
+# Update last run file immediately to prevent race conditions
+echo "$TODAY" > "$LAST_RUN_FILE"
+
 # Activate virtual environment
 source "$VENV_ACTIVATE"
 

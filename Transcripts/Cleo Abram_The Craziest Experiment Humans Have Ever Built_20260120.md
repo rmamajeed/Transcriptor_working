@@ -1,0 +1,383 @@
+---
+title: Cleo Abram_The Craziest Experiment Humans Have Ever Built_20260120
+audio_file: Cleo Abram_The Craziest Experiment Humans Have Ever Built_20260120.mp3
+note_id: 9c3eac97-dcaf-407a-9cdc-af7fdbbfafee
+date_processed: '2026-02-20'
+classification:
+  primary_domain: Physics
+  sub_domains:
+  - Astrophysics
+  - Gravitational Physics
+  - Experimental Physics
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: Cleo
+    role: Host
+    contribution: Explaining the LIGO experiment
+  - name: Mike
+    role: Head of LIGO
+    contribution: Providing technical details about the experiment
+  - name: Miko
+    role: AI Assistant
+    contribution: Assisting with research and explanations
+  works_cited: []
+  concepts_mentioned:
+  - Gravitational Waves
+  - LIGO
+  - General Relativity
+  - Lasers
+  - Interferometry
+  laws_theories_cited:
+  - General Relativity
+concepts:
+- name: Gravitational Waves
+  definition: Ripples in the fabric of spacetime produced by massive cosmic events
+  parent_concepts:
+  - General Relativity
+  related_concepts:
+  - Black Holes
+  - Neutron Stars
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: LIGO
+  definition: Laser Interferometer Gravitational-Wave Observatory, a detector for
+    gravitational waves
+  parent_concepts:
+  - Gravitational Waves
+  related_concepts:
+  - Interferometry
+  - Lasers
+  abstraction_level: Applied
+  confidence: 1.0
+- name: General Relativity
+  definition: A fundamental theory of gravity developed by Albert Einstein
+  parent_concepts: []
+  related_concepts:
+  - Gravitational Waves
+  - Black Holes
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: Interferometry
+  definition: A technique for measuring small changes in distance using interference
+    patterns
+  parent_concepts:
+  - Optics
+  related_concepts:
+  - Lasers
+  - LIGO
+  abstraction_level: Applied
+  confidence: 1.0
+- name: Lasers
+  definition: Concentrated beams of light used in various applications, including
+    LIGO
+  parent_concepts:
+  - Optics
+  related_concepts:
+  - Interferometry
+  - LIGO
+  abstraction_level: Applied
+  confidence: 1.0
+relationships:
+- source_concept: Gravitational Waves
+  target_concept: General Relativity
+  relationship_type: derives_from
+  strength: 1.0
+  evidence: Einstein's prediction of gravitational waves
+  reasoning: Gravitational waves are a direct consequence of General Relativity
+- source_concept: LIGO
+  target_concept: Gravitational Waves
+  relationship_type: detects
+  strength: 1.0
+  evidence: LIGO's detection of gravitational waves
+  reasoning: LIGO is designed to detect gravitational waves
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Physics
+  source_concept: Interferometry
+  target_domain: Biology
+  target_concept: Microarray analysis
+  insight: Both use interference patterns to analyze data
+  explanation: In physics, interferometry is used to detect gravitational waves by
+    analyzing interference patterns. Similarly, in biology, microarray analysis uses
+    interference patterns to analyze gene expression levels. This connection highlights
+    the structural similarity between the two domains, where patterns and interference
+    are used to extract meaningful information.
+  potential_applications:
+  - Gene expression analysis
+  - Biological signal processing
+  confidence: 0.8
+  historical_example: The development of microarray analysis was inspired by the principles
+    of interferometry in physics
+- connection_type: principle_application
+  source_domain: Physics
+  source_concept: General Relativity
+  target_domain: Economics
+  target_concept: Complex systems modeling
+  insight: Both use curvature and non-linearity to model complex systems
+  explanation: In physics, General Relativity describes the curvature of spacetime.
+    Similarly, in economics, complex systems modeling uses non-linear dynamics to
+    describe the behavior of economic systems. This connection highlights the principle
+    of non-linearity and curvature, which can be applied across domains to model complex
+    systems.
+  potential_applications:
+  - Economic forecasting
+  - Systemic risk analysis
+  confidence: 0.7
+  historical_example: The work of economist Hyman Minsky was influenced by the principles
+    of General Relativity
+- connection_type: metaphor
+  source_domain: Physics
+  source_concept: LIGO
+  target_domain: Computer Science
+  target_concept: Distributed sensing networks
+  insight: Both use distributed sensing to detect weak signals
+  explanation: In physics, LIGO uses a network of detectors to sense gravitational
+    waves. Similarly, in computer science, distributed sensing networks use multiple
+    nodes to detect and analyze data. This connection highlights the metaphor of distributed
+    sensing, where multiple agents work together to detect weak signals.
+  potential_applications:
+  - Wireless sensor networks
+  - Distributed machine learning
+  confidence: 0.9
+  historical_example: The development of LIGO inspired the design of distributed sensing
+    networks in computer science
+- connection_type: historical_precedent
+  source_domain: Physics
+  source_concept: Gravitational Waves
+  target_domain: Astronomy
+  target_concept: Astrophysical phenomena
+  insight: Both have led to new discoveries and a deeper understanding of the universe
+  explanation: The detection of gravitational waves has opened a new window into the
+    universe, allowing us to study astrophysical phenomena in ways previously impossible.
+    This connection highlights the historical precedent of new discoveries leading
+    to a deeper understanding of the universe, and how this can be applied to other
+    domains.
+  potential_applications:
+  - Multi-messenger astronomy
+  - Cosmological research
+  confidence: 0.9
+  historical_example: The discovery of gravitational waves has been compared to the
+    discovery of radio waves in the early 20th century
+bridge_concepts:
+- concept: Signal processing
+  appears_in_domains:
+  - Physics
+  - Computer Science
+  - Biology
+  role: Signal processing is a fundamental concept that bridges multiple domains,
+    enabling the analysis and interpretation of complex data
+  examples:
+  - Gravitational wave detection in physics
+  - Image processing in computer science
+  - Gene expression analysis in biology
+- concept: Non-linearity
+  appears_in_domains:
+  - Physics
+  - Economics
+  - Biology
+  role: Non-linearity is a key concept that appears in multiple domains, describing
+    complex systems and behaviors
+  examples:
+  - General Relativity in physics
+  - Complex systems modeling in economics
+  - Population dynamics in biology
+mental_models:
+- name: Systems Thinking
+  description: A mental model that involves analyzing complex systems and their interactions
+  applied_to:
+  - Understanding the behavior of gravitational waves in physics
+  transferable_to:
+  - Analyzing complex economic systems
+  - Modeling biological networks
+- name: First Principles
+  description: A mental model that involves breaking down complex systems into their
+    fundamental components
+  applied_to:
+  - Designing LIGO detectors in physics
+  transferable_to:
+  - Designing complex systems in computer science
+  - Understanding biological pathways
+analogies_used:
+- source_domain: Optics
+  source_concept: Interference patterns
+  target_domain: Physics
+  target_concept: Gravitational wave detection
+  mapping:
+    Light waves: Gravitational waves
+    Interference pattern: Signal
+  pedagogical_value: This analogy helps to explain the concept of gravitational wave
+    detection in terms of a more familiar concept, interference patterns in optics
+tags:
+  hierarchical:
+  - '#Physics → #Astrophysics → #Gravitational Physics → #LIGO'
+  topical:
+  - '#GravitationalWaves'
+  - '#LIGO'
+  - '#GeneralRelativity'
+  methodological:
+  - '#Interferometry'
+  - '#Lasers'
+  people:
+  - '#Cleo'
+  - '#Mike'
+  concepts:
+  - '#GravitationalWaves'
+  - '#LIGO'
+  temporal: []
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  The Laser Interferometer Gravitational-Wave Observatory (LIGO) is a giant machine
+  that detects gravitational waves, which are ripples in space and time predicted
+  by Albert Einstein. After years of development and refinement, LIGO first detected
+  gravitational waves in 2015, marking a new era in our understanding of the universe,
+  and has since made over 90 detections, including black holes colliding and stars
+  exploding. The success of LIGO has paved the way for new, even larger machines to
+  be built, which will allow us to "hear" the universe in even greater detail and
+  potentially manipulate gravity in ways previously unimaginable.'
+key_ideas:
+- idea: Here are 3-5 key ideas discussed in the transcription text
+  description: ''
+- idea: The Laser Interferometer Gravitational-Wave Observatory (LIGO) is a machine
+    that detects gravitational waves, which are ripples in space and time predicted
+    by Albert Einstein, by using powerful lasers and extremely sensitive mirrors to
+    measure tiny changes in distance.
+  description: No description provided by model.
+- idea: The detection of gravitational waves by LIGO has opened up a new era of understanding
+    the universe, allowing scientists to "hear" the universe in a way that was previously
+    impossible and providing new insights into cosmic events such as black hole mergers
+    and star explosions.
+  description: No description provided by model.
+- idea: The technology used in LIGO is incredibly complex and sensitive, requiring
+    the creation of ultra-smooth mirrors, precise laser alignment, and advanced suspension
+    systems to isolate the mirrors from vibrations and allow for accurate measurements.
+  description: No description provided by model.
+- idea: The success of LIGO has led to the development of new, even more sensitive
+    machines, such as the proposed Cosmic Explorer, which will allow scientists to
+    detect gravitational waves from even more distant and powerful cosmic events.
+  description: No description provided by model.
+- idea: The detection of gravitational waves has significant implications for our
+    understanding of the universe, including the ability to measure the speed of gravity
+    and the expansion of the universe, and potentially even manipulate gravity in
+    the future.
+  description: No description provided by model.
+---
+## Key Concepts
+
+**Gravitational Waves**  
+Ripples in the fabric of spacetime produced by massive cosmic events
+
+**LIGO**  
+Laser Interferometer Gravitational-Wave Observatory, a detector for gravitational waves
+
+**General Relativity**  
+A fundamental theory of gravity developed by Albert Einstein
+
+**Interferometry**  
+A technique for measuring small changes in distance using interference patterns
+
+**Lasers**  
+Concentrated beams of light used in various applications, including LIGO
+
+## Cross-Domain Connections
+
+**Physics → Biology**
+
+*Both use interference patterns to analyze data*
+
+In physics, interferometry is used to detect gravitational waves by analyzing interference patterns. Similarly, in biology, microarray analysis uses interference patterns to analyze gene expression levels. This connection highlights the structural similarity between the two domains, where patterns and interference are used to extract meaningful information.
+
+**Physics → Economics**
+
+*Both use curvature and non-linearity to model complex systems*
+
+In physics, General Relativity describes the curvature of spacetime. Similarly, in economics, complex systems modeling uses non-linear dynamics to describe the behavior of economic systems. This connection highlights the principle of non-linearity and curvature, which can be applied across domains to model complex systems.
+
+**Physics → Computer Science**
+
+*Both use distributed sensing to detect weak signals*
+
+In physics, LIGO uses a network of detectors to sense gravitational waves. Similarly, in computer science, distributed sensing networks use multiple nodes to detect and analyze data. This connection highlights the metaphor of distributed sensing, where multiple agents work together to detect weak signals.
+
+## Discussion Topics
+
+- **Here are 3-5 key ideas discussed in the transcription text:** 
+- **The Laser Interferometer Gravitational-Wave Observatory (LIGO) is a machine that detects gravitational waves, which are ripples in space and time predicted by Albert Einstein, by using powerful lasers and extremely sensitive mirrors to measure tiny changes in distance.:** No description provided by model.
+- **The detection of gravitational waves by LIGO has opened up a new era of understanding the universe, allowing scientists to "hear" the universe in a way that was previously impossible and providing new insights into cosmic events such as black hole mergers and star explosions.:** No description provided by model.
+- **The technology used in LIGO is incredibly complex and sensitive, requiring the creation of ultra-smooth mirrors, precise laser alignment, and advanced suspension systems to isolate the mirrors from vibrations and allow for accurate measurements.:** No description provided by model.
+- **The success of LIGO has led to the development of new, even more sensitive machines, such as the proposed Cosmic Explorer, which will allow scientists to detect gravitational waves from even more distant and powerful cosmic events.:** No description provided by model.
+- **The detection of gravitational waves has significant implications for our understanding of the universe, including the ability to measure the speed of gravity and the expansion of the universe, and potentially even manipulate gravity in the future.:** No description provided by model.
+
+## Full Transcription
+
+ 
+
+---
+
+[00:00:00] **Cleo:** Ready? Right here, out in the middle of the desert, miles from any city, are huge concrete tubes that are part of a giant machine running the most precise experiment humans have ever built. This experiment is happening inside two tubes, each 4 kilometers long. And inside each tube, there's a big metal pipe, and at the end of each pipe, scientists place some of the smoothest mirrors ever made. And then they fire a powerful laser that gets split down each tube, bouncing back and forth and back and forth, building up power, until they bring those beams back together to detect something that just a hundred years ago, scientists said was impossible to find. Finding it took hundreds of scientists and over a billion dollars. But what exactly did we find, and what's the cutting-edge we're finding now that makes those same scientists want to build an even bigger one? Let's go.
+
+[00:01:08] **Cleo:** Right now, I'm here in the control room of this giant machine. Hey everyone!
+
+[00:01:13] **Others:** Hi!
+
+[00:01:14] **Woman:** I've seen you on the internet!
+
+[00:01:15] **Cleo:** Yeah, I'm Cleo. Great to meet you! This machine is known as the Laser Interferometer Gravitational-Wave Observatory, or just LIGO. And that is Mike, the head of LIGO. The reason this machine is such a big deal is that up until now, for all of human history, everything that we know about the cosmos has been from waves of light and particles that just happened to come our way. But it turns out, there are other ways to sense our universe. Think about it this way: imagine that you're in a jungle and you can only see. Think about what you know about what's around you. Now, with this machine, it's like all of a sudden we can suddenly hear. Think about what you know now about what's around you. That's why LIGO was built: to create a way to hear our universe. And with this machine, our hearing is getting better fast. It's as though a few years ago we could only hear the universe yelling, and now we can hear it murmuring. But when scientists started building this machine back in the 90s, it was thought of as high-risk, high-reward because it was all based on a prediction made by Albert Einstein 75 years before. Imagine for a second that two enormous stars, a hundred light years away from us, collide. What happens here on Earth? Well, at first, nothing. We don't see it, we don't feel it. But Einstein predicted that massive things warp space and time around them, and that's what we call gravity. So when these two massive stars collide, Einstein said that not only do they produce an explosion of light, but they make ripples that stretch and squeeze space and time. And those ripples move outward like a wave, a gravity wave, a gravitational wave. And Einstein predicted that these gravitational waves travel at the same speed as light. So after a hundred years, that light from that collision hits us, and so do these waves. But think about what that means: it implies that everything we know—you, me, the space between us, all of reality as we know it—is getting stretched and squeezed, and we never feel it. But a hundred years ago, this was all just a theory: gravitational waves. Most physicists believed that even if Einstein were right, it would be too hard to actually prove. That's because based on Einstein's predictions, this stretch or squeeze would be 10,000 times smaller than the size of a proton. To put that into perspective, trying to measure that is like trying to measure the distance from here to the nearest star, four light years away, and watching that distance change by the width of a human hair. Yeah. That's why we had to build this insane machine. It's a giant measuring stick. But if everything is getting stretched and squeezed, including your measuring stick, how would you get an accurate result? No, seriously, how would you do it? Turns out, the measuring stick and this are the key. Because what if you used something that we know has a constant speed, right, like light? And you shoot it down your measuring stick, and you could calculate how long it takes the light to go down and bounce back. So if the distance changes, the time the light would take would change, too. That would work in principle. But actually doing this is insanely hard. So this is what they built. I'm walking around next to LIGO's measuring sticks right now. That's what these concrete arms are. The way this works is laser light is sent out here and then split into two, speeding down these identical arms, then hits mirrors at the end and gets reflected back. Now normally, the arms are perfectly aligned so that the waves of light cancel each other out, resulting in no light hitting the detectors. But if that mysterious stretchy-squeezy wave comes through, it would change the length of the arms, shift the laser beams ever so slightly, and on the detector, you should see a flicker. The longer the measuring stick, the easier to measure the change, except the harder to build it in the first place. LIGO's measuring sticks are four kilometers long—so long that they have to correct for the curve of the Earth.
+
+[00:06:01] **Mike:** The curvature of the Earth is such that, you know, if we launch the light from the corner station, at the ends, the fall off of the curvature of the Earth is about 4 feet.
+
+[00:06:12] **Cleo:** Now, time to go inside. The suspense is building. Oh, cool. This is a big deal; very few people get to go inside here. I was so excited! Except there were a lot of spiders.
+
+[00:06:23] **Man:** Yeah, widows. That's the main thing I'm worried about.
+
+[00:06:26] **Cleo:** Less excited about that. Now we are inside the concrete tube. This is the beam pipe. And inside the beam pipe is 10,000 cubic meters of nothing. And when I say nothing, I mean there are fewer particles in there than the International Space Station flies through, because they sucked them all out. And the reason they did that is to make sure the only thing in there is the laser. We're going off to this clean room space so we have several different layers to protect ourselves. I think I look great!
+
+[00:06:58] **Mike:** Wow, you look cool. That's the good thing about $700 glass.
+
+[00:07:02] **Cleo:** Why do we have to wear these glasses?
+
+[00:07:04] **Mike:** Because the laser that we use is invisible, and if it hits you in the eye, you're not... you won't blink. It will blind you, and you can start hearing popping first, which is your blood vessels popping, before your field of vision goes cloudy.
+
+[00:07:16] **Cleo:** Okay, I'm gonna wear the glasses, just in case. Inside this is the laser, where the whole experiment starts. But if I were to open up this pipe, you wouldn't see it, because it's an infrared laser. Its wavelength lies just outside the spectrum that you can see. We sense this as heat. Right now, at the beginning here, only 60 watts of power goes into the experiment. That's actually a lot. My little laser pointer here is probably 0.005 watts. So this is already 12,000 times more powerful, and it's not even close to its max power. Once the laser travels down the arms, it hits the mirrors at the ends, and on its way back, it hits more mirrors, bouncing back and forth within the arms 300 times on average before hitting the detector, building up the laser power to 400 kilowatts. That's 80 million times more powerful than my little laser pointer. But this extreme power has a purpose: more light equals more sensitivity, and more bouncing means a longer distance the light travels—a longer measuring stick—increasing the total travel distance to 1,200 kilometers, which makes any little change easier to measure. But pulling this off is even harder than you think. They have to line this laser up with incredible accuracy. That's what they're doing here at this crazy-looking table. But to look any closer, I need to put on some special gear. Why do we look like this? Why are we gowned up?
+
+[00:08:48] **Woman:** It's definitely not to protect us. It's because we're just dirty. Right, like our skin, our eyelashes, our sneezing or coughing...
+
+[00:08:56] **Cleo:** I touched my glasses after wiping my hands, so now I need to wipe my hands again. This is serious business. Even the tiniest speck of dust on these optics could ruin the whole experiment. So to limit that chance, they only open up these chambers about once a year to make sure that everything is perfectly aligned. It's extremely rare to get to go inside. And once it's all aligned, the laser exits here and enters the arms. Oh my god! You see it? That's the coolest thing! And while I was here, I learned the most fun way to explain what they're doing with this machine.
+
+[00:09:30] **Man:** Has anyone taught you the LIGO dance yet?
+
+[00:09:32] **Cleo:** No.
+
+[00:09:33] **Man:** Okay, one hand up in the air, one arm out to the side. Gravitational waves coming towards us... this one goes down, this one goes big. This one goes big, this one goes down. And then goes faster and faster and faster and faster and faster. And that is what's happening but zoom it in 10 to the minus 22 meters.
+
+[00:09:52] **Cleo:** So they set up this incredible experiment, but if anything jostles it, it messes the whole thing up. My favorite story about this is how scientists at LIGO found a very weird source of noise. Miko, why did ravens cause an issue at LIGO in 2018?
+
+[01:10:07] **Miko:** Here's the deal: back in 2018, frost formed on these pipes that were part of the cooling system at the end of one of the detector's four-kilometer arms. The ravens, clever as they are, found the icy pipes and started pecking at them. That tapping created tiny vibrations that interfered with the laser readings underneath, causing those glitches in the LIGO data.
+
+[01:10:26] **Cleo:** This is Miko. It's like Clippy, but way smarter. Actually, hold on, let me show you... there's a secret way to turn it into... there we go, Clippy! I like talking to it because it helps me figure out what's most interesting about a story, like I can have a conversation and then I can go into the transcript and find sources and figure out what I thought was most cool. Miko, how did they solve the raven problem?
+
+[01:10:46] **Miko:** Well, the team got a little creative. They insulated those pipes so that condensation couldn't form and freeze anymore, which means no more frosty treats for the ravens and no more data glitches caused by their tapping.
+
+[01:10:58] **Cleo:** If you want to chat with Miko, you can scan this QR code or use the link in my description. And make sure to ask how they deal with airplane noise at LIGO; it's a whole thing. Thanks Miko! Back to the story. So now that the laser is lined up, it's flying down the arms and it's hitting these mirrors. But remember, we're trying to measure something smaller than a proton, so these can't just be any mirrors. These are some of the smoothest, most reflective mirrors in the world. These things are huge; the main mirrors at the ends of the arms weigh 40 kilograms, and making them takes work on four continents over multiple years. Wait, but that doesn't look like a mirror. You can see right through it. That's because these mirrors need to be coated with dozens of layers of different materials to optimize their reflectivity. But now they definitely don't look like regular mirrors, and that's because they're not made for visible light. They're made to reflect the infrared light of the laser. And on top of that, they're polished to be unbelievably smooth.
+
+[01:12:00] **Mike:** Normal people think that their fridge surface is flat, stainless, but it turns out that if you were to take your fingernail or something and rub across it, it has a peak-to-valley shape, right? All flat surfaces do.
+
+[01:12:09] **Cleo:** But those peaks and valleys won't work for the laser.
+
+[01:12:12] **Mike:** Those peaks and valleys will distort our detector laser waveform.
+
+[01:12:16] **Cleo:** A typical mirror in your bathroom is about 90 to 95 percent reflective, but these mirrors reflect 99.99999 percent of the infrared light that hits them. That means that practically all of this powerful laser light can keep on bouncing back and forth along these tubes, measuring their length for any changes. So now we've got our powerful laser, our insanely long arms, our super smooth mirrors all aligned, but there's one more thing that could ruin everything. What if you do all of this incredibly delicate work and then a truck drives by? The whole thing could get ruined if the ground that it's on doesn't stay still. And by still, I mean a kind of stillness that you and I have never known.
+
+[01:13:02] **Mike:** So the natural movement of the ground that we're standing on is about a nanometer, you know, a billionth of a meter. That means our mirrors have to be made ten billion times more still than the ground we're standing on.
+
+[01:13:15] **Cleo:** This machine is ten billion times more still than the normal still ground. What does that even mean? They did it by creating an insanely complex suspension system that isolates those mirrors and counteracts any vibrations, even hanging them by strands of glass about four times thicker than a human hair and yet stronger than steel. The details of the engineering here are incredible. And what really blows my mind is that they did all of this work on basically a bet that Einstein was right. So they build this crazy machine, and then they turn it on. And... nothing. For ten years, no flicker; the detectors stay silent; they don't see a single gravitational wave. Brutal.
+
+[01:14:12] **Mike:** And we didn't see anything in those first science runs. We didn't see any gravitational waves at all.
+
+[01:14:18] **Cleo:** But they kept going, making the machine better and better, more and more sensitive until, in September 2015, they turn on the newer, better, advanced LIGO, and almost immediately, three days later, they finally see... and that flicker, it actually looked like this. Yep, it's a bump on a chart. They call it a chirp. But how did they know that that chirp was actually a gravitational wave? Maybe it was just a truck going by. That's why 3,000 kilometers away, in a totally different place with none of the same trucks, they'd built a whole 'nother one. That's right: there are two of these enormous crazy machines working together to check each other's work. And that second machine saw the chirp, too. After all this work and all this building and all this genius human effort, a hundred years, almost to the day after Einstein predicted it, we saw our first gravitational wave. For those scientists, it meant that they'd just won the Nobel Prize. And for all the rest of us, it meant a totally new era. Eventually, they figured out that those first waves they detected were caused by two black holes merging 1.3 billion light years away. It was a huge impact causing massive waves—a cosmic yell, basically. And it turns out that the universe yells a lot.
+
+[01:15:52] **Mike:** We've made 94 detections to date. And right now we get them about once every three days or so.
+
+[01:16:01] **Cleo:** We've now heard more black holes colliding, creating even bigger ones; stars smashing and exploding, telling us where many of the elements on Earth come from. These sounds let us officially measure the speed of gravity and the expansion of the universe. We first understood light, and then we manipulated it. We're now right at the beginning of understanding gravity. Just imagine what we could do if we could manipulate that. When LIGO first started listening to the universe, they could only hear this far, and they didn't detect anything. Then, here's how far they could hear in 2015, making their first detection. And today, LIGO can reach more than a thousand times more space than it originally could. And the best part is: we're only just getting started. They're working on new, bigger machines, like this one in Europe: it's a triangle with three 10-kilometer long arms buried underground. And in the U.S., there's another plan for one called Cosmic Explorer: an L-shape, but instead of 4-kilometer arms, they want 40. Those observatories would expand our hearing to close to the edge of the observable universe. Humans are astonishing. We gave ourselves, and every person after us, a new sense. We might be the first living species ever to sense the universe in this way. The universe has been talking to us this whole time, and we can finally hear it. So now, the question is: what will we hear next? If you believe that there should be more optimistic science and tech stories, subscribe.

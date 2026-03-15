@@ -1,0 +1,262 @@
+---
+title: ColdFusion_The Race to Control Our Brains is Heating Up_20250721_part1
+audio_file: ColdFusion_The Race to Control Our Brains is Heating Up_20250721_part1.mp3
+note_id: 071a6b1d-dc37-49e6-a33d-f0787a28910c
+date_processed: '2026-03-08'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Unknown
+  source_concept: Pattern recognition
+  target_domain: Computer Science
+  target_concept: Machine learning algorithms
+  insight: Pattern recognition in unknown domains can be analogous to machine learning
+    in computer science
+  explanation: Both involve identifying and learning from patterns to make predictions
+    or decisions. The structural similarity lies in the process of data analysis and
+    the application of learned patterns to new, unseen data. This connection can be
+    valuable for developing new machine learning techniques inspired by patterns found
+    in unknown domains.
+  potential_applications:
+  - Image recognition
+  - Natural language processing
+  confidence: 0.8
+  historical_example: The development of neural networks was inspired by the structure
+    and function of the human brain
+- connection_type: principle_application
+  source_domain: Unknown
+  source_concept: Adaptation and evolution
+  target_domain: Biology
+  target_concept: Natural selection
+  insight: Principles of adaptation and evolution in unknown domains can be applied
+    to understand natural selection in biology
+  explanation: The process of adaptation and evolution in unknown domains can be seen
+    as a form of natural selection, where entities or ideas that are better suited
+    to their environment are more likely to survive and propagate. This principle
+    can be applied to understand the evolution of species and the development of complex
+    systems. The connection between these domains can provide insights into the fundamental
+    mechanisms driving change and evolution.
+  potential_applications:
+  - Evolutionary biology
+  - Ecology
+  confidence: 0.9
+  historical_example: Darwin's theory of evolution was influenced by the concept of
+    adaptation in economics
+- connection_type: metaphor
+  source_domain: Unknown
+  source_concept: Complex systems
+  target_domain: Engineering
+  target_concept: System design
+  insight: Complex systems in unknown domains can be understood through the metaphor
+    of system design in engineering
+  explanation: The metaphor of system design can be used to understand and analyze
+    complex systems in unknown domains. This involves breaking down the system into
+    its components, understanding the relationships between them, and identifying
+    the key factors that influence its behavior. The use of this metaphor can provide
+    a framework for designing and optimizing complex systems. The connection between
+    these domains highlights the importance of understanding complex systems as interconnected
+    networks of components.
+  potential_applications:
+  - System engineering
+  - Complexity science
+  confidence: 0.7
+  historical_example: The development of systems thinking in engineering was influenced
+    by the study of complex systems in biology
+- connection_type: historical_precedent
+  source_domain: Unknown
+  source_concept: Innovation and discovery
+  target_domain: History of Science
+  target_concept: Scientific revolutions
+  insight: Innovation and discovery in unknown domains can be understood through the
+    lens of scientific revolutions in the history of science
+  explanation: The process of innovation and discovery in unknown domains can be seen
+    as a form of scientific revolution, where new ideas and paradigms emerge to challenge
+    existing ones. This historical precedent can provide insights into the mechanisms
+    driving scientific progress and the impact of new discoveries on our understanding
+    of the world. The connection between these domains highlights the importance of
+    interdisciplinary approaches to understanding complex phenomena.
+  potential_applications:
+  - History of science
+  - Philosophy of science
+  confidence: 0.8
+  historical_example: The Copernican Revolution in astronomy was a paradigm shift
+    that influenced the development of modern science
+bridge_concepts:
+- concept: Complexity
+  appears_in_domains:
+  - Unknown
+  - Biology
+  - Engineering
+  role: Complexity is a bridge concept that connects different domains through its
+    universal principles and patterns
+  examples:
+  - Complex systems in unknown domains
+  - Ecosystems in biology
+  - System design in engineering
+- concept: Adaptation
+  appears_in_domains:
+  - Unknown
+  - Biology
+  - Economics
+  role: Adaptation is a bridge concept that connects different domains through its
+    role in driving change and evolution
+  examples:
+  - Adaptation in unknown domains
+  - Natural selection in biology
+  - Market adaptation in economics
+mental_models:
+- name: Systems Thinking
+  description: Systems thinking is a mental model that involves understanding complex
+    systems as interconnected networks of components
+  applied_to:
+  - Complex systems in unknown domains
+  transferable_to:
+  - Biology
+  - Engineering
+  - Economics
+- name: First Principles
+  description: First principles is a mental model that involves breaking down complex
+    systems into their fundamental components and principles
+  applied_to:
+  - Innovation and discovery in unknown domains
+  transferable_to:
+  - Physics
+  - Engineering
+  - Computer Science
+analogies_used:
+- source_domain: Biology
+  source_concept: Ecosystems
+  target_domain: Unknown
+  target_concept: Complex systems
+  mapping:
+    Species: Components
+    Environment: Context
+  pedagogical_value: The analogy between ecosystems and complex systems provides a
+    framework for understanding the relationships between components and their environment
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+
+Full Transcription
+
+
+
+00:00 - 00:03 **Interviewer**: Talk about the different approaches between Precision and Neuralink.
+00:03 - 00:11 **Michael Mager**: Some competing approaches to this technology, including Neuralink's, involve doing some amount of tissue damage upon implantation.
+00:11 - 00:18 **Michael Mager**: So, the Precision system sits on the surface of the brain, underneath the skull and underneath the dura, but on the surface of the brain without doing any damage.
+00:18 - 00:24 **Michael Mager**: So you can see here, it's incredibly, incredibly thin. It's a fifth of the width of a human hair.
+00:24 - 00:30 **Michael Mager**: We deposit 1,024 micro-platinum electrodes on the array.
+00:30 - 00:40 **Michael Mager**: Most of which are about 50 microns in diameter, so that is the size of an individual neuron. You can't see it with the naked eye.
+00:40 - 00:54 **Dagogo Altraide**: This is the human brain, the most complex and least understood part of the human body. It's the very essence of you: your thoughts, memory, and personality, they all reside here.
+00:54 - 01:07 **Dagogo Altraide**: Since the 1970s, scientists have dreamed of connecting the human brain to a computer. This kind of brain-computer interface would help those with disabilities bypass damaged nerves, restore lost senses, and maybe even provide enhancements.
+01:07 - 01:21 **Dagogo Altraide**: Now, in the 21st century, several startups are racing to build the world's best brain implant. For the better part of a decade, Elon Musk's Neuralink was at the center of the conversation, but now, two rivals are rising up.
+01:21 - 01:32 **Dagogo Altraide**: One of them is led by an ex-Neuralink co-founder. And the thing is, as we'll see later in this episode, even more interesting companies are entering the space. It's a growing industry that's kind of going under the radar.
+01:32 - 01:46 **Dagogo Altraide**: In this episode, we'll explore these companies trying to digitize and tap into the human mind. We'll explore how the tech works, its potential, and take a step back and ask ourselves, is this even a good idea in the first place?
+01:46 - 01:58 **Announcer**: You are watching Coldfusion TV.
+01:58 - 02:07 **Dagogo Altraide**: A brain-computer interface, or BCI, is exactly what it sounds like: a technology that allows users to control computers or other devices using only their brain activity.
+02:07 - 02:18 **Dagogo Altraide**: And even though it may sound like science fiction, functional BCIs have been around for about 30 years now. But fascinatingly, recording brainwaves goes back as far as 1924 with Hans Berger.
+02:18 - 02:32 **Dagogo Altraide**: He may not have invented the hamburger, but he did discover the brain's electrical activity and electroencephalography, or EEG for short. That's the predominant method of measuring brain activity.
+02:32 - 02:42 **Dagogo Altraide**: You might have heard of the cochlear ear implants. These help people hear again by stimulating auditory nerves in the brain.
+02:42 - 02:50 **Dagogo Altraide**: Or you may have seen ALS patients using EEG headsets to control devices with their mind. These are both examples of early BCIs.
+02:50 - 03:00 **Dagogo Altraide**: But these early generation systems suffer from some fundamental limitations. First off, they're bulky external devices with clunky hardware that sits outside the body.
+03:00 - 03:07 **Dagogo Altraide**: Secondly, they only offer low bandwidth connections, meaning that they can only capture crude, basic brain signals.
+03:07 - 03:14 **Dagogo Altraide**: The dream was always something more elegant and discreet. A direct high-bandwidth connection to the brain.
+03:14 - 03:26 **Dagogo Altraide**: Something that would let us eavesdrop directly into our neurons' conversations. A device that could read the rich, complex signals of our brain activity and translate them into precise digital commands in real time.
+03:26 - 03:32 **Dagogo Altraide**: And in 2016, that's exactly what Neuralink set out to build.
+03:32 - 03:45 **Dagogo Altraide**: Founded by Elon Musk and a team of eight engineers and scientists, Neuralink wanted to design a next-generation BCI unlike anything the world had ever seen.
+03:45 - 03:55 **Dagogo Altraide**: The awkward academic prototypes of the time wouldn't cut it for them. They wanted something that could be commercialized to improve the quality of life for millions of people.
+03:55 - 04:03 **Dagogo Altraide**: The result was a brain implant known as the Link. The device had two parts.
+04:03 - 04:10 **Dagogo Altraide**: One, a coin-sized transmitter that's implanted into the skull and sits flush with the surface.
+04:10 - 04:18 **Dagogo Altraide**: And two, the part that actually goes into your brain tissue, a set of 1,024 electrodes that are distributed across 64 threads, thinner than a human hair.
+04:18 - 04:25 **Dagogo Altraide**: These threads penetrate into the brain tissue about three to five millimeters deep.
+04:25 - 04:33 **Dagogo Altraide**: These Link chips are implanted by a surgical robot, also of Neuralink's design.
+04:33 - 04:41 **Dagogo Altraide**: Known as R1, it makes the implantation process scalable. The R1 robot inserts these threads into the brain with a speed and precision not possible with traditional brain surgery.
+04:41 - 04:48 **Dagogo Altraide**: But Elon and his team didn't stop there. They made sure that the Link was bidirectional, meaning that it could read as well as write brain signals.
+04:48 - 05:01 **Dagogo Altraide**: In practical terms, the Link would be able to decode a paralyzed person's thoughts in order to send an email, and also be able to stimulate the user's brain with its own signals.
+05:01 - 05:15 **Elon Musk**: Neuralink has had in monkeys a working device we call "blindsight," and it's been working well. Monkeys are healthy for a few years now. And we're hoping, later this year, to do our first device implant for a human, enabling someone who is completely blind to see.
+05:15 - 05:27 **Elon Musk**: It's going to be low-res at first, like Atari graphics. So I want to set expectations appropriately. So it will start off with very low-res, but then, over time, I think eventually the implant would enable vision that is like superhuman. So that'd be pretty cool.
+05:27 - 05:42 **Dagogo Altraide**: When you stop and think about it, it sounds far-fetched at first, but it's a similar concept to the cochlear ear implant: artificially stimulating the brain using external stimuli. Although restoring vision is probably an order of magnitude more difficult than sound.
+05:42 - 05:58 **Dagogo Altraide**: It's clear that the potential medical applications of such a device are endless. Restoring movement to people with spinal cord injuries, restoring vision and speech, and further down the line, relief for those suffering from depression, improving memory recall in dementia patients, and so on it goes.
+05:58 - 06:14 **Dagogo Altraide**: But as some of you know, Neuralink's real vision is rather spicy. It goes far beyond just healthcare. Musk talks a lot about unlocking human potential, promising the device would eventually enable telepathy, machine control, and putting humans into a "symbiosis with artificial intelligence."
+06:14 - 06:29 **Dagogo Altraide**: Make of all of those statements what you will. Anyway, in August of 2020, just four years after their formation, Neuralink showed how a device implanted into a pig recorded neural activity from her snout as she interacted with her environment.
+06:29 - 06:36 **Dagogo Altraide**: The following year, they showed a macaque monkey playing Pong using only its thoughts.
+06:36 - 06:54 **Dagogo Altraide**: The company was crushing milestone after milestone and seemed to be at the cusp of transforming millions of lives. Finally, in January of 2024, Neuralink installed its first brain implant into a human patient, a 29-year-old quadriplegic, Noland Arbaugh.
+06:54 - 07:07 **Dagogo Altraide**: A swimming accident left him unable to move from the shoulders down. A friend and long-time fan of Elon called and asked if he "wanted a chip in his brain."
+07:07 - 07:19 **Noland Arbaugh**: It's always cool to be the first at anything. I think anyone given that opportunity would probably do it.
+07:19 - 07:31 **Dagogo Altraide**: Noland's implant was embedded in his left motor cortex, specifically in the part corresponding to right-hand movement. Through the Link computer app, the chip translates Noland's thoughts to cursor control.
+07:31 - 07:44 **Dagogo Altraide**: The results are remarkable. He can move cursors, play games, and text with unprecedented speed and precision.
+07:44 - 07:56 **Noland Arbaugh**: I was not expecting it to be as good as it is. It is something that will learn over time as you give it more data, and not only be able to follow along, but it may also be able to anticipate what you want to do just a little bit faster than you can think it.
+07:56 - 08:29 **Dagogo Altraide**: It was all looking promising, great even. But just a few weeks after this landmark surgery, everything started to unravel. Not even one month after receiving the implant, Noland was informed that 85% of the Link's electrodes had retracted from his brain and were no longer responsive.
+08:29 - 08:44 **Dagogo Altraide**: Fortunately, he didn't have to undergo another surgery; a software update fixed most of the problem. But there was a deeper issue here: no one from Neuralink warned Noland about the potential risk.
+08:44 - 08:58 **Dagogo Altraide**: And this is even though the company had seen similar problems in animal trials on monkeys and other test species. This wasn't the first controversy to plague the company, though.
+08:58 - 09:11 **Dagogo Altraide**: In 2023, the FDA cited Neuralink's animal testing facilities as having "objectionable conditions." This includes quality control issues and poor record-keeping. Some reports reveal that several monkeys died due to complications from Neuralink brain implants.
+09:11 - 09:24 **Dagogo Altraide**: But perhaps the most telling sign of trouble wasn't any external investigation, but the internal disagreements that caused one of the company's own founders to step away.
+09:24 - 09:37 **Dagogo Altraide**: Dr. Pen Rapoport is an extremely accomplished neurosurgeon, electrical, computer, and biomedical engineer.
+09:37 - 09:50 **Pen Rapoport**: In the early days of brain-computer interfaces, there was this notion that in order to extract information-rich data from the brain, one needed to penetrate the brain with tiny needle-like electrodes.
+09:50 - 10:04 **Dagogo Altraide**: This implementation method, which the Link relies on, leads to one serious side effect: it always results in some amount of brain damage. When these threads are inserted into brain tissue, they create scarring and sometimes are even rejected by the body.
+10:04 - 10:11 **Dagogo Altraide**: When this scarring occurs, the electrodes can no longer read the brain signals. And this is exactly what happened to Noland.
+10:11 - 10:24 **Dagogo Altraide**: However, Pen Rapoport thought about the problem differently. What if there was a safer, less invasive way to get high-quality data?
+10:24 - 10:37 **Dagogo Altraide**: This clashed with Neuralink's approach; over there, they weren't so concerned about invasiveness. And here we have a clashing of heads. The internal disagreements culminated with Pen leaving the company just one year after their public launch.
+10:37 - 10:48 **Dagogo Altraide**: And in 2021, he founded the rival company, Precision Neuroscience, with co-founder Michael Mager. While seemingly operating in the same space as Neuralink, Mager emphasizes that Precision Neuroscience's mission is inherently human-care focused.
+10:48 - 11:01 **Michael Mager**: So, I'm the CEO and co-founder of Precision Neuroscience. We are developing what's called a brain-computer interface. The company that I co-founded, I did so with Pen Rapoport. Pen was one of the co-founders of Neuralink; he's also an active neurosurgeon.
+11:01 - 11:06 **Interviewer**: Talk about the different approaches between Precision and Neuralink.
+11:06 - 11:23 **Michael Mager**: Fundamentally different missions. If you look at Neuralink's website or speak to the co-founders of the company, I think their stated objective is to create some sort of symbiosis between human intelligence and artificial intelligence. That's a fine goal and maybe a very important one, but it's not our goal.
+11:23 - 11:46 **Michael Mager**: You know, I mentioned earlier that Pen is a neurosurgeon, so we are a physician-led company. Really built into our DNA is a focus on safety and, you know, patient impact. The goal of this company is to make a really meaningful positive difference in people's lives.
+11:46 - 12:11 **Michael Mager**: We've done 25 human implants; our most recent was just on Friday. So this is happening actively. And at different sites, we're able to do different protocols, which are really validating the safety of the system, that we can implant and explant it safely, and the fact that it's working, as well as training the algorithms to be able to do the decoding work that is at the core of a brain-computer interface.
+12:11 - 12:26 **Dagogo Altraide**: Precision's BCI, the Layer 7 Cortical Interface, is also an array composed of 1,024 tiny electrodes. But instead of being implanted into actual brain tissue, it's thin and flexible enough to conform to the shape of your brain tissue, kind of like a cerebral Glad Wrap.
+12:26 - 12:39 **Dagogo Altraide**: The film is one-fifth the thickness of a human hair and doesn't create any damage, scarring, or risk of rejection by the patient's body. It also means it's easily removable.
+12:39 - 12:48 **Dagogo Altraide**: In fact, Precision Neuroscience is focused on creating a temporary implant which can be used for up to 30 days. Another key difference is where the transmitter lies.
+12:48 - 12:59 **Dagogo Altraide**: While fitting a Neuralink Link requires permanent modification to the patient's body, Precision Neuroscience came up with a much more elegant solution: they place the transmitter under the patient's skin instead. Once removed, you'd hardly be able to tell that the patient has had it, aside from a couple of stitches.
+12:59 - 13:14 **Dagogo Altraide**: This less invasive procedure means researchers can place multiple arrays on the same patient's brain simultaneously. To date, they've managed to place as many as four arrays, or 4,096 electrodes, on a patient's brain at the same time.
+13:14 - 13:31 **Dagogo Altraide**: Mager claims that this is a world record. Precision has also completed a human pilot study. They implanted their devices in patients undergoing brain surgery, then recorded the brain activity in real time.
+13:31 - 13:46 **Dagogo Altraide**: This provided the highest-resolution picture of human thought ever recorded. Precision's President and Chief Product Officer said in an interview with CNBC, "It was incredibly surreal, the nature of the data and our ability to visualize that. You know, I got chills."
+13:46 - 13:59 **Dagogo Altraide**: But even though Precision Neuroscience offers some clear advantages over Neuralink, there's a third contender who takes the least invasive route of all.
+13:59 - 14:12 **Dagogo Altraide**: Synchron, founded by Dr. Tom Oxley, created a BCI device that doesn't require any brain surgery at all. Instead, Synchron's Stentrode is delivered through blood vessels.
+14:12 - 14:25 **Dagogo Altraide**: A catheter is threaded through the circulatory system and up to blood vessels on the brain's surface. Here, the device unfolds like a stent. It's actually the same procedure used for treating strokes.
+14:25 - 14:31 **Dagogo Altraide**: Minimally invasive, well-tested, and, like the other two methods, requires no incision into the skull.
+14:31 - 14:54 **Dagogo Altraide**: But, of course, there's a tradeoff. For the Synchron device, the signal quality is less. By sitting in blood vessels rather than directly on brain tissue, Synchron's device captures less detailed neural information, at least when compared to the other two.
+14:54 - 15:09 **Dagogo Altraide**: But that being said, for basic functions like controlling a computer cursor, sending texts, or operating smart home devices, the signal is strong enough. Synchron has already achieved permanent implants in 10 patients and received FDA approval for longer-term clinical trials.
+15:09 - 15:19 **Dagogo Altraide**: Their approach represents the safest entry into brain-computer interfaces and the lowest surgical risk. But okay, let's turn things up a notch here in this episode. What's a race with only three participants?
+15:19 - 15:39 **Dagogo Altraide**: There's one more company that we should look at, and they've recently made a breakthrough: Blackrock Neurotech. Founded in 2008, it's one of the oldest and most experienced BCI companies on the market.
+15:39 - 15:52 **Dagogo Altraide**: And I know what some of you might be thinking: BlackRock and brain-computer interfaces don't go together. It sounds like a dystopian nightmare. But despite the name, Blackrock Neurotech has no affiliation with BlackRock Investment.
+15:52 - 16:04 **Dagogo Altraide**: Their latest chip, the MoveAgain system, uses a rigid grid of silicon microelectrodes that penetrate the cortex. With just 96 to 128 electrodes per array, its bandwidth is quite low compared to the other devices, and its rigid structure makes placement less flexible.
+16:04 - 16:17 **Dagogo Altraide**: But that's not holding them back. This device enabled a paralyzed man to speak again, and he spoke in his own voice, thanks to their technology.
+16:17 - 16:32 **Dagogo Altraide**: The implant reads his brain signals as he tries to speak, then feeds them into an AI-powered decoding model. In just 10 milliseconds, they're converted into audible speech, created using past recordings of the patient's voice.
+16:32 - 16:42 **Patient**: Not being able to communicate is so frustrating and demoralizing. It is like you are trapped.
+16:42 - 16:56 **Dagogo Altraide**: But we can also accurately predict what he's trying to say in freeform conversation. A lot of the demonstrations of BCI technology over the past few decades took weeks or months to get working.
+16:56 - 17:01 **Dagogo Altraide**: The first time he tried to use the system, it just worked.
+17:01 - 17:09 **Patient**: That first time that he tried to speak and that word appeared on the screen...
+17:09 - 17:28 **Dagogo Altraide**: He started crying, I started crying, his family started crying. Basically, everyone... We had to pause. We stopped the rest of that block of experiment trials. Everyone composed themselves and were like, "Alright, let's do it again," and it kept working. So yeah, it was... it was really special. It was a special moment.
+17:28 - 17:45 **Dagogo Altraide**: With just 30 minutes of speech training, the system achieved an astounding 99.6% word accuracy, which is better than a lot of commercially available smartphone applications that try to interpret your voice, which hover around 95%. This is by far the most accurate decoder ever reported.
+17:45 - 17:58 **David Brandman**: Previous speech BCI systems had frequent word errors. This made it difficult for the user to be understood consistently and was a barrier to communication.
+17:58 - 18:16 **Dagogo Altraide**: Okay, this is cool and all, but as this industry continues to grow, which hopefully you can see by now that it is growing, and as more players enter the market, we have a bigger question to worry about: should we even be doing this in the first place?
+18:16 - 18:31 **Dagogo Altraide**: Many people feel instinctively uncomfortable with the idea of merging brains and machines. It challenges our notion of human identity and consciousness.
+18:31 - 18:39 **Dagogo Altraide**: But on the other hand, what does it say about us if we don't use this tool to improve the lives of those suffering from debilitating conditions?
+18:39 - 19:01 **Dagogo Altraide**: When trying to answer questions like this, it can be helpful to break down the potential applications of the brain implants into four categories: treatment, prevention, enhancement, and augmentation. Treatment is any medical application that makes the patient's outcomes or quality of life better. Things like helping the blind see.
+19:01 - 19:22 **Dagogo Altraide**: Then there's prevention. This could be things like giving BCIs to people with a genetic predisposition to different neurological conditions. So far, we're within the realm of medical applications, but if we venture into non-medical applications, this is where things get murky.
+19:22 - 19:43 **Dagogo Altraide**: Using BCIs to enhance existing traits or augment humans with entirely new ones is a whole different story. If rich parents gave BCIs to some children to give them a photographic memory, the ability to see more colors, or faster reasoning skills with an actually accurate AI system, does that really seem right?
+19:43 - 20:02 **Dagogo Altraide**: Furthermore, if society was eventually divided between enhanced humans and unenhanced humans, what would that mean? It could open a Pandora's box to an eerily dystopian future. If we look five to 10 years in the future, there are also legal questions to consider.
+20:02 - 20:32 **Dagogo Altraide**: If, at this stage in the future, brain data becomes easily readable thanks to advanced algorithms, who owns the data generated by your brain? Where should it be stored, and what are the legal acceptable uses for this data? And what happens if these systems are hacked? Imagine the powers that could be given to advertisers and governments.
+20:32 - 20:52 **Michael Mager**: Data security and data privacy questions are really built into the regulatory regime that the FDA enforces. This is a highly, highly regulated industry for good reason, and it's not the case where, you know, companies are able to like move fast and break things.
+20:52 - 21:19 **Michael Mager**: So, the FDA's very prescriptive in terms of the data security and data privacy issues, as well as the fact that we operate, you know, within the HIPAA regime.
+21:19 - 21:50 **Dagogo Altraide**: Now, for argument's sake, let's leave aside those with disabilities that need it most. So where do we draw the line for non-medical applications of BCIs? Some will say we should never start toying with it at all. Others might think that a little bit of enhancement is okay. Unfortunately, at this time, where we sit at the very beginning of the advancement of this kind of technology, there is no straightforward answer.
+21:50 - 22:44 **Dagogo Altraide**: But one thing is for sure: finding out that answer as the technology progresses will be a wild ride. But I'd love to hear what you guys think. The idea of merging mind and machine has been science fiction for decades. But as the BCIs move from labs into clinics and eventually to consumers, we'll all have to ask ourselves not just what's possible, but what is worth doing.
+22:44 - 23:20 **Dagogo Altraide**: And the decisions we make might just define what it means to be human. What are your views on this? Are you for BCI enhancements or think it's a bad idea? Let me know in the comment section below. As you've seen, some of the breakthroughs in brain-computer interfaces were made possible with the help of AI. [Coldfusion sponsor message for Brilliant.org] My name is Dagogo and you've been watching Coldfusion, and I'll catch you again soon for the next episode. Cheers guys, have a good one.

@@ -1,0 +1,91 @@
+---
+title: The Wall Street Journal_Why Costco Went All in on Kirkland — and How It Paid
+  Off ｜ WSJ Case Study_20250331
+audio_file: The Wall Street Journal_Why Costco Went All in on Kirkland — and How It
+  Paid Off ｜ WSJ Case Study_20250331.mp3
+note_id: 1cc6adf1-cea1-4292-b6e1-8d8d17c6cc16
+date_processed: '2026-02-21'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+## Full Transcription
+
+
+
+00:00:00 - 00:00:10 **Speaker 1:** On any Costco aisle next to a name brand item is often one with a slightly lower price tag and the label "Kirkland Signature".
+00:00:10 - 00:00:16 **Speaker 2:** In the industry, "Kirkland Signature" is seen as a shining example of what a retailer can do with its house brand.
+00:00:16 - 00:00:29 **Speaker 1:** Today, the Kirkland brand accounts for around 1/3 of the company's sales. But the decision to create just one private label 30 years ago was risky, especially in a world where the most successful ones were divided up by product type.
+00:00:29 - 00:00:33 **Jim Sinegal:** We were kind of flying right in the face of that success story.
+00:00:33 - 00:00:43 **Speaker 1:** Here's the case study on how Costco went against industry standards and in the process created a negotiation tool that would forever change big box retail.
+00:00:43 - 00:00:52 **Speaker 1:** When Costco first started in 1983, the premise was simple: carry a limited number of name brands in each product category that sell a lot of them.
+00:00:52 - 00:01:14 **Jim Sinegal:** One of the significant disciplines of our business is the limited selection. We weren't going to carry all the SKUs other retailers carried. We were only going to carry the highest quality goods - 4,000 items as opposed to 140,000 items. Because everything that's presented at Costco is presented pretty big. It hits you right in the face whenever you walk in there.
+00:01:14 - 00:01:19 **Speaker 1:** But just a few years into this, data showed that the price of these name brand items were going up, even while the costs for brands to make them were going down.
+00:01:19 - 00:01:23 **Jim Sinegal:** Every year, they had to raise their prices to continue to satisfy Wall Street.
+00:01:23 - 00:01:26 **Speaker 1:** But Costco co-founder Jim Sinegal saw an opportunity.
+00:01:26 - 00:01:29 **Jim Sinegal:** We were seeing articles being written about what was happening with private label.
+00:01:29 - 00:01:58 **Speaker 1:** This 1991 Forbes article in particular outlined how consumers in Europe were turning away from name brand items and instead buying products manufactured by stores directly, known as private labels.
+**Speaker 2:** He wrote a whole bunch of his observations on this article and then asked all of his executives to kind of initial it to acknowledge they had read it. It's this moment where you can see his wheels turning about look: their price increases are our opportunity.
+00:01:58 - 00:02:15 **Speaker 1:** That opportunity came down to profit margins. While retailers typically mark up name brand items anywhere from 24 to 30 percent, Costco had a strict maximum markup of 14 percent. But with a private label, Costco could now control more of the manufacturing costs for a lower starting price. So...
+00:02:15 - 00:02:19 **Jim Sinegal:** We allowed private label to take one more percentage point higher in a markup.
+00:02:19 - 00:02:33 **Speaker 1:** The private labels quickly started piling up.
+**Speaker 2:** We had Chelsea toilet paper, Cloud detergent, Traditions, Pinnacle...
+**Jim Sinegal:** We were just making up names as we went along.
+**Speaker 1:** But then, something happened that would change everything.
+00:02:33 - 00:03:06 **Jim Sinegal:** And I was in one of our warehouses down in Los Angeles and I asked the warehouse manager: "Did you get the new legal tablet that we had in our private label?". And he said: "No, I don't think so." So we went to the section and we had it under the Pinnacle name. So I showed it to the manager, I said "Well, here it is right here!" He said, "I didn't know that was our label." And it was like a bell: Hell, if we don't understand within the organization what we're doing with our label, how are the customers going to know? We decided we need to get one name.
+00:03:06 - 00:03:12 **Speaker 1:** Consolidating all of these labels under one brand would go against every proven best practice.
+00:03:12 - 00:03:31 **Speaker 2:** Retailers tend to not use one private label brand because they're afraid that if you have a bad experience with one item, it might translate across the whole store. If they don't trust the brand in the golf ball, they don't trust the mixed nuts. You look at Sears, which was a successful retailer at the time - they had multiple brands that were their store brands in different categories.
+00:03:31 - 00:03:44 **Jim Sinegal:** You can't argue with the success that Sears had. But that one warehouse manager who couldn't tell me where the tablets were was an illustration of where you could go wrong in something like that.
+00:03:44 - 00:03:59 **Speaker 2:** And then the question was what would that name be?
+**Jim Sinegal:** We thought Costco was not the right name to put on it because we did so much business with other people. And we decided on the Kirkland name. At the time, the headquarters were in Kirkland, Washington.
+00:03:59 - 00:04:12 **Jim Sinegal:** And I remember we promptly moved the home office to Issaquah, but nobody could spell Issaquah anyway, so we'll just keep Kirkland. And we've used that same label ever since.
+00:04:12 - 00:04:19 **Speaker 1:** Over the next few years, Costco slowly rolled out the Kirkland name.
+**Speaker 2:** I do remember when Kirkland Signature shampoo came out. It was the first haircare that we did. And then we had some vitamins that came out shortly after that.
+00:04:19 - 00:04:31 **Speaker 1:** Today, Kirkland has over 350 products across a variety of categories. But the company still operates with a limited selection in each of these, with what the industry calls a limited SKU environment.
+00:04:31 - 00:04:42 **Speaker 2:** I think the limited SKU environment is a very misunderstood or under-understood secret of a lot of things about Costco, including private label.
+00:04:42 - 00:05:03 **Speaker 1:** When a new Kirkland item hits the shelf, that category becomes even more competitive.
+**Speaker 2:** If you're a supplier at Costco, it's kind of existential. It could reduce your sales, it could kick you off the slot entirely. So it's a real moment of head-on competition for a supplier. It's an 80 billion dollar brand, so it drives a lot of sales. Nobody wants to be that dramatically higher priced than them. I see it as a tremendous negotiation tool.
+00:05:03 - 00:05:14 **Speaker 1:** One of the clearest examples of this leverage is Kirkland diapers. Costco knew that they wanted to have a Kirkland version of a diaper. But because of its limited SKU environment...
+00:05:14 - 00:05:17 **Jim Sinegal:** We weren't going to carry both Huggies and Pampers. We were going to carry one brand and a Kirkland Signature.
+00:05:17 - 00:05:45 **Speaker 1:** To see who might make the Kirkland diapers, Costco approached two market leaders: Procter & Gamble of Pampers and Kimberly-Clark of Huggies.
+**Speaker 2:** There was a series of negotiations. Kimberly-Clark agreed. And although Costco says Kirkland manufacturer negotiations are separate from conversations about shelf space, there's always been only Huggies diapers and Kirkland diapers on Costco shelves for many, many years.
+00:05:45 - 00:05:49 **Jim Sinegal:** It was decided on the basis of who came in and presented the best deal for the diapers.
+00:05:49 - 00:05:59 **Speaker 1:** Even after a product is established, Costco buyers continue to monitor that category.
+**Speaker 2:** Our buyers are very aware of the commodity inputs, the raw ingredients that go into something. They know everything.
+00:05:59 - 00:06:22 **Speaker 1:** And this knowledge can lead the company to change its Kirkland vendors. Recently, Costco shifted to the Cuties manufacturer, First Quality.
+**Jim Sinegal:** We felt like we could produce a higher quality product at a lower price for our members.
+**Speaker 2:** Having not that many products on shelves compared to other retailers is a huge benefit with Kirkland because they can be very strategic about the fact that there's only a few slots. It allows them to dictate what they want for their shoppers.
+00:06:22 - 00:06:45 **Speaker 1:** With Kirkland's name on hundreds of products, these negotiations are happening on almost every aisle of the warehouse.
+**Speaker 2:** When I look back at that Forbes article, one thing that really struck me is: Wow, brands really had a chance to not charge more than they needed to to give retailers kind of an in to create these really successful private label products. But that's ancient history. It's too late now. Consumers again have really turned to store brands.
+00:06:45 - 00:07:05 **Speaker 1:** While national brands are still a bigger industry than private labels, in 2024, sales for private labels like Kirkland grew about four times faster than the national brands, hitting a record high. And with 86 billion dollars in sales last year, Kirkland is now a bigger brand than Procter & Gamble and Kraft Heinz.
+00:07:05 - 00:07:12 **Jim Sinegal:** Is it the most significant thing for the company? I'd certainly say it's up there with the top three or four.
+00:07:12 - 00:07:27 **Speaker 1:** But analysts say Kirkland's success is hard to replicate.
+**Speaker 2:** There's a few retailers that have gone to one private label. Not many. But a direct competitor like Sam's Club, more recently 2017, they went to Member's Mark, which is their private label brand.
+00:07:27 - 00:07:31 **Jim Sinegal:** I'm guessing they got that from us.
+00:07:31 - 00:07:49 **Speaker 1:** Since consolidating, Sam's Club private label sales have nearly doubled. And when asked about its strategy shift, Sam's Club said in an email to the Wall Street Journal that one reason it simplified its products into a single brand was to reduce confusion for its members. But despite these successes, many big retailers aren't following Costco's lead. Target and Walmart have multiple private label brands.
+00:07:49 - 00:07:57 **Jim Sinegal:** They have to make that choice themselves. I mean, the choice, we think, in retrospect, was right for us. But it could have been wrong.
+00:07:57 - 00:08:11 **Speaker 2:** I think there's something also specific to like the club channel. Like a Costco, Sam's Club - you pay a membership fee. So it's a little bit of a different environment. You're a little bit more bought in. You've already shown loyalty to what they have to offer in a way that's just a little bit different.
+00:08:11 - 00:08:24 **Speaker 1:** Compared to other mass retailers like Target and Walmart, club channels like Costco and Sam's Club are winning the private label food and beverage space, shown in their growth over the last year.
+**Speaker 2:** We still want to sell name brands. We think that's important...

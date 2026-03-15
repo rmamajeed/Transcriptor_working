@@ -1,0 +1,309 @@
+---
+title: Logically Answered_It's (Finally) Bursting..._20260213
+audio_file: Logically Answered_It's (Finally) Bursting..._20260213.mp3
+note_id: 0b09dd76-6615-4aec-a366-726fcc87e6ac
+date_processed: '2026-02-23'
+classification:
+  primary_domain: AI
+  sub_domains:
+  - Artificial Intelligence
+  - Economics
+  - Technology
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: Hary
+    role: Speaker
+    contribution: Analyzing AI trends and investments
+  - name: Satya Nadella
+    role: CEO of Microsoft
+    contribution: Commenting on AI bubble and benefits
+  - name: Jensen Huang
+    role: CEO of NVIDIA
+    contribution: Discussing AI investments and applications
+  - name: Senator Elizabeth Warren
+    role: Senator
+    contribution: Questioning OpenAI's spending and seeking government assistance
+  works_cited:
+  - title: The End of AI Tourism
+    author: The Value Philosopher
+    year: 2025
+  concepts_mentioned:
+  - AI bubble
+  - AI investments
+  - Generative AI
+  - Gartner hype cycle
+  - AI applications
+  laws_theories_cited:
+  - Gartner hype cycle
+concepts:
+- name: AI bubble
+  definition: A situation where AI investments and valuations exceed their real worth,
+    leading to a potential burst
+  parent_concepts:
+  - Economic bubble
+  related_concepts:
+  - AI investments
+  - Generative AI
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Generative AI
+  definition: A type of AI that can generate new content, such as images or text
+  parent_concepts:
+  - Artificial Intelligence
+  related_concepts:
+  - AI applications
+  - Deep learning
+  abstraction_level: Applied
+  confidence: 0.9
+- name: Gartner hype cycle
+  definition: A model that describes the cycle of hype and disillusionment that new
+    technologies go through
+  parent_concepts:
+  - Technology adoption
+  related_concepts:
+  - AI bubble
+  - AI investments
+  abstraction_level: Theoretical
+  confidence: 0.9
+relationships:
+- source_concept: AI bubble
+  target_concept: AI investments
+  relationship_type: causes
+  strength: 0.8
+  evidence: Microsoft's market cap fell by $360 billion after announcing big AI spending
+  reasoning: Excessive investments in AI can lead to a bubble, which can burst and
+    cause financial losses
+- source_concept: Generative AI
+  target_concept: AI applications
+  relationship_type: derives_from
+  strength: 0.9
+  evidence: Generative AI is being used in various applications, such as image and
+    text generation
+  reasoning: Generative AI is a type of AI that enables various applications
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: AI
+  source_concept: AI bubble
+  target_domain: Economics
+  target_concept: Financial bubble
+  insight: The AI bubble and financial bubbles share similar structural patterns of
+    rapid growth and potential collapse.
+  explanation: Both phenomena are characterized by inflated expectations, excessive
+    investment, and a lack of fundamental value, leading to a high risk of sudden
+    collapse. This analogy is rooted in the shared human psychology of speculation
+    and herd behavior. The AI bubble, like financial bubbles, can be driven by hype
+    and speculation, rather than solid fundamentals.
+  potential_applications:
+  - Risk assessment and management
+  - Regulatory frameworks
+  confidence: 0.9
+  historical_example: The Dot-Com Bubble (2000)
+- connection_type: principle_application
+  source_domain: AI
+  source_concept: Generative AI
+  target_domain: Biology
+  target_concept: Evolutionary algorithms
+  insight: Generative AI and evolutionary algorithms both rely on iterative processes
+    to produce novel outcomes.
+  explanation: Generative AI uses neural networks to generate new data samples, while
+    evolutionary algorithms use selection and mutation to evolve solutions. Both processes
+    involve exploration and exploitation of a solution space, with the goal of finding
+    optimal or novel outcomes. This shared principle can be applied to understand
+    how complex systems evolve and adapt over time.
+  potential_applications:
+  - Biotechnology
+  - Complex systems design
+  confidence: 0.8
+  historical_example: The use of genetic algorithms in optimization problems
+- connection_type: metaphor
+  source_domain: AI
+  source_concept: Gartner hype cycle
+  target_domain: Psychology
+  target_concept: Emotional cycle of expectation and disappointment
+  insight: The Gartner hype cycle can be seen as a metaphor for the emotional cycle
+    of expectation and disappointment that people experience in various aspects of
+    life.
+  explanation: The hype cycle describes the phases of inflated expectations, disillusionment,
+    and eventual enlightenment that technologies go through. Similarly, people experience
+    emotional cycles of excitement, disappointment, and acceptance in their personal
+    and professional lives. This metaphor highlights the importance of managing expectations
+    and emotions in the face of uncertainty and change.
+  potential_applications:
+  - Emotional intelligence
+  - Change management
+  confidence: 0.7
+  historical_example: The concept of emotional rollercoaster in psychology
+bridge_concepts:
+- concept: Feedback loops
+  appears_in_domains:
+  - AI
+  - Biology
+  - Economics
+  role: Mechanism for adaptation and self-regulation
+  examples:
+  - Neural networks
+  - Hormone regulation
+  - Market dynamics
+mental_models:
+- name: Systems Thinking
+  description: Analyzing complex systems as interconnected components
+  applied_to:
+  - Understanding AI systems
+  - Modeling biological systems
+  transferable_to:
+  - Economics
+  - Social sciences
+analogies_used:
+- source_domain: Biology
+  source_concept: Evolutionary adaptation
+  target_domain: AI
+  target_concept: Neural network training
+  mapping:
+    Genetic variation: Weight updates
+    Natural selection: Error minimization
+  pedagogical_value: Helps understand the iterative process of neural network training
+tags:
+  hierarchical:
+  - '#AI → #Artificial Intelligence → #Generative AI → #Deep learning'
+  topical:
+  - '#AI bubble'
+  - '#AI investments'
+  - '#Gartner hype cycle'
+  methodological:
+  - '#Analysis'
+  - '#Critique'
+  people:
+  - '#Hary'
+  - '#Satya Nadella'
+  - '#Jensen Huang'
+  concepts:
+  - '#AI'
+  - '#Generative AI'
+  - '#Gartner hype cycle'
+  temporal:
+  - '#2024'
+  - '#2025'
+  - '#2026'
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  The AI industry is experiencing a decline in user retention and investor confidence,
+  with companies like Microsoft and NVIDIA facing significant financial losses despite
+  heavy investments in AI. The hype surrounding AI has led to unrealistic expectations,
+  and many companies are now struggling to deliver on their promises, with some facing
+  criticism for their lack of discipline and poor business approach. As the AI bubble
+  appears to be bursting, a more sober and realistic approach to AI is emerging, with
+  a focus on using AI as a tool to enhance existing products and services rather than
+  replacing them.'
+key_ideas:
+- idea: Here are 3-5 key ideas discussed in the transcription text with a short description
+    of each
+  description: ''
+- idea: The AI bubble is bursting**
+  description: The speaker argues that the hype surrounding AI is dying down, with
+    user retention rates plummeting and investors becoming wary of the high costs
+    associated with AI development, leading to a potential burst of the AI bubble.
+- idea: AI is not a product, but a feature**
+  description: The speaker suggests that AI is most useful when it is integrated into
+    existing products and services to enhance their functionality, rather than being
+    a standalone product, and that companies like Adobe and Google are successfully
+    using AI in this way.
+- idea: The focus on AI tourists is misguided**
+  description: The speaker believes that companies are mistaken in targeting "AI tourists"
+    who are looking for entertainment and dopamine hits, and that instead, they should
+    focus on creating useful products that help professionals and individuals achieve
+    their goals, such as Anthropic's focus on helping programmers.
+- idea: The future of AI lies in augmentation, not replacement**
+  description: The speaker argues that AI is most valuable when it is used to augment
+    human capabilities, rather than replace them, and that it has the potential to
+    bring significant benefits in areas such as healthcare, weather forecasting, and
+    scientific research.
+- idea: A more sober approach to AI is needed**
+  description: The speaker suggests that the hype and expectations surrounding AI
+    need to be tempered, and that a more realistic and nuanced approach is necessary
+    to ensure that AI is developed and used in a way that is beneficial to society,
+    rather than simply chasing short-term gains.
+---
+## Key Concepts
+
+**AI bubble**  
+A situation where AI investments and valuations exceed their real worth, leading to a potential burst
+
+**Generative AI**  
+A type of AI that can generate new content, such as images or text
+
+**Gartner hype cycle**  
+A model that describes the cycle of hype and disillusionment that new technologies go through
+
+## Cross-Domain Connections
+
+**AI → Economics**
+
+*The AI bubble and financial bubbles share similar structural patterns of rapid growth and potential collapse.*
+
+Both phenomena are characterized by inflated expectations, excessive investment, and a lack of fundamental value, leading to a high risk of sudden collapse. This analogy is rooted in the shared human psychology of speculation and herd behavior. The AI bubble, like financial bubbles, can be driven by hype and speculation, rather than solid fundamentals.
+
+**AI → Biology**
+
+*Generative AI and evolutionary algorithms both rely on iterative processes to produce novel outcomes.*
+
+Generative AI uses neural networks to generate new data samples, while evolutionary algorithms use selection and mutation to evolve solutions. Both processes involve exploration and exploitation of a solution space, with the goal of finding optimal or novel outcomes. This shared principle can be applied to understand how complex systems evolve and adapt over time.
+
+**AI → Psychology**
+
+*The Gartner hype cycle can be seen as a metaphor for the emotional cycle of expectation and disappointment that people experience in various aspects of life.*
+
+The hype cycle describes the phases of inflated expectations, disillusionment, and eventual enlightenment that technologies go through. Similarly, people experience emotional cycles of excitement, disappointment, and acceptance in their personal and professional lives. This metaphor highlights the importance of managing expectations and emotions in the face of uncertainty and change.
+
+## Discussion Topics
+
+- **Here are 3-5 key ideas discussed in the transcription text with a short description of each:** 
+- **The AI bubble is bursting**:** The speaker argues that the hype surrounding AI is dying down, with user retention rates plummeting and investors becoming wary of the high costs associated with AI development, leading to a potential burst of the AI bubble.
+- **AI is not a product, but a feature**:** The speaker suggests that AI is most useful when it is integrated into existing products and services to enhance their functionality, rather than being a standalone product, and that companies like Adobe and Google are successfully using AI in this way.
+- **The focus on AI tourists is misguided**:** The speaker believes that companies are mistaken in targeting "AI tourists" who are looking for entertainment and dopamine hits, and that instead, they should focus on creating useful products that help professionals and individuals achieve their goals, such as Anthropic's focus on helping programmers.
+- **The future of AI lies in augmentation, not replacement**:** The speaker argues that AI is most valuable when it is used to augment human capabilities, rather than replace them, and that it has the potential to bring significant benefits in areas such as healthcare, weather forecasting, and scientific research.
+- **A more sober approach to AI is needed**:** The speaker suggests that the hype and expectations surrounding AI need to be tempered, and that a more realistic and nuanced approach is necessary to ensure that AI is developed and used in a way that is beneficial to society, rather than simply chasing short-term gains.
+
+## Full Transcription
+
+ 
+
+0:00 - 0:41 **Speaker 1 (Hary):** You’ve probably read the headlines. OpenAI released Sora 2, the newest, most advanced video generator, but in just 30 days, user retention dropped to just 1%. But that’s just the beginning. Something strange is happening in the world of AI. After Microsoft announced big AI spending, their market cap fell by $360 billion in just one day. CEOs are pleading with people to stop being so negative, and people just aren’t using AI tools like they used to. What’s happening? Is this giant experiment finally about to come crashing down?
+
+0:42 - 1:15 **Speaker 1 (Hary):** In January 2026, Satya Nadella, CEO of Microsoft, said, “For this not to be a bubble by definition, it requires that the benefits of this are much more evenly spread. A telltale sign of it being a bubble would be if only tech groups were benefiting from the rise of AI, rather than companies in other sectors.” He also asked people to stop calling AI “slop.” Pretty weird things to say if you’ve spent $200 billion since 2024. Jensen Huang is also doing something similar: “I think we’ve done a lot of damage with very well-respected people who have painted a doomer narrative, and a world narrative, a science fiction narrative. It’s not helpful to people, it’s not helpful to the industry, it’s not helpful to society, it’s not helpful to the governments.” 
+
+1:16 - 1:57 **Speaker 1 (Hary):** So why are the faces of AI suddenly so insecure about AI? Well, it gets much weirder. If you’ve been tracking big tech lately, you’ve probably noticed this. NVIDIA, for the past several months, has actually just been going sideways, and some AI plays have been tumbling hard, like Oracle. After they peaked with their big OpenAI deal, their stock has fallen over 50% in the last 5 months. But the worst might be in Microsoft’s most recent earnings report. This was a great earnings report. Azure Cloud grew 39% and revenue was up 17% to $81 billion this quarter alone. Both of those were higher than expected, but after they announced this, Microsoft’s market cap fell $360 billion in one day. Even though revenue was higher than expected, after a week, their market cap had fallen by over $500 billion. 
+
+1:58 - 2:32 **Speaker 1 (Hary):** What happened? Well, their capital spend was up 66%, $37.5 billion spent in just one quarter. Two-thirds of it was on chips, GPUs, and CPUs – spending for AI. It turns out that investors aren’t actually happy about the AI money pit. One big, obvious issue is that revenues are up 17% and the cost of revenues are up 19%, so if that is a new long-term trend, that is one of my concerns. And the results of Microsoft’s big AI projects are even more confusing. Right after, Oracle announced a plan to spend $50 billion on AI in 2026, and their stock fell. Investors have grown wary of the rising costs for Oracle’s AI push and the time needed to see payback. 
+
+2:33 - 3:00 **Speaker 1 (Hary):** But something that makes all this worse is NVIDIA. Their original plan last year was to invest up to $100 billion into OpenAI, but just recently, Huang is walking that back and said, “No, no, nothing like that,” and that the agreement was non-binding and not finalized. OpenAI is their biggest customer, which is why all these companies pour billions into it. But OpenAI doesn’t have any money. According to the Wall Street Journal, privately, Huang has criticized what he has described as a lack of discipline in OpenAI’s business approach and expressed concern about the competition it faces from the likes of Google and Anthropic. 
+
+3:01 - 3:33 **Speaker 1 (Hary):** Revenue passed $20 billion in 2025, up $6 billion from 2024, but its total cash flow projection is, wait for it, negative $143 billion. They don’t expect to be profitable until 2030, and they might run out of money by 2027. These are essentially OpenAI’s suppliers, who are funneling money into their biggest customer, who will send it back to them for cloud, GPUs, and other things to keep ChatGPT alive. Amazon, NVIDIA, and Microsoft are talking about investing $60 billion into OpenAI, but this is barely enough to feed this monster with an endless hunger. This whole system is beginning to wobble, and it’s not just investors who are worried. 
+
+3:34 - 4:02 **Speaker 1 (Hary):** Senator Elizabeth Warren wrote that OpenAI has committed to more than a trillion dollars in spending despite not yet turning a profit, and appears to be seeking government assistance should it prove unable to pay its bills. Ironically, it’s something that both Democrats and Republicans seem to agree on: the government does not want to bail out this startup that needs unlimited money. OpenAI denied this, though confidence wasn’t helped by their CEO suggesting taxpayers should backstop the company’s heavy infrastructure investments, even if she quickly walked it back. But OpenAI, Microsoft, and NVIDIA have another bigger problem, which is making investors question this entire gambit. 
+
+4:03 - 4:33 **Speaker 1 (Hary):** A major bug had thousands of ChatGPT history logs leaked. But one of the biggest privacy risks today isn’t actually AI; it’s your phone carrier. AT&T, Verizon, and T-Mobile keep showing up in headlines for data breaches, surveillance, and selling user data. Even if you use VPNs or encrypted apps, your cellular connection is still exposed. That’s why I’m excited to talk about today’s sponsor, Cape. Cape is a secure mobile carrier founded by experts in telecom, cybersecurity, and national security. 
+
+4:34 - 5:07 **Speaker 1 (Hary):** It gives you premium cell service like the big carriers, but privacy and security are built into the foundation, not added later. Most privacy tools only protect apps; they can’t stop network-level attacks like SIM swaps, silent tracking, voice-mail interception, or metadata leaks. Those happen at the carrier level. Cape secures that layer directly, which is where the most invisible and damaging attacks occur. The new identity rotation lets your SIM change its network identifier every 24 hours, making it much harder for carriers, advertisers, and bad actors to identify and track your device. 
+
+5:08 - 5:40 **Speaker 1 (Hary):** Cape also provides subscribers with two free secondary numbers when websites, retailers, or apps ask for your number. Cape also collects as little data as possible – no name, no social security number, and call logs disappear after just one day, while other carriers hang onto these for years. Cape prevents SIM swaps by locking your number behind a 24-word phrase that only you control. On top of that, Cape blocks signaling attacks, encrypts voice mail, and keeps payment info tokenized so your identity is never tied to billing. Check out the link in my description and use my code LOGICALLY33 to get 33% off your first 6 months of Cape. Thank you to Cape for supporting our video. 
+
+5:41 - 6:15 **Speaker 1 (Hary):** Take a look at this data. Searches for AI have peaked and have fallen a lot. Does this mean AI is dying? Not quite. It tells us something more interesting. When a new technology arrives, interest grows, then it peaks, then it falls to a new normal. This isn’t anything new; it’s called the Gartner hype cycle. At the end of last year, the Value Philosopher wrote a fantastic article called “The End of AI Tourism,” and I think it explains why Sora saw 99% of users vanish. Suno, the AI music company, scraped millions of copyrighted tracks for an AI music generator which had 10 million users, but most of them left. Now, the company is parading as a tool for real artists trying to get them back. 
+
+6:16 - 6:53 **Speaker 1 (Hary):** A similar thing happened to Sora. In the first three days, it outpaced the growth of even ChatGPT. But user retention dropped to 2% by day 7, 1% by day 30, and close to 0% by day 60. The most valuable private company’s newest biggest product has no one using it. This is the tourism. An AI tourist arrives, generates 50 images of a cat in a spacesuit, and gets their dopamine hit. After a week, they realize the 100th image brings no joy; the result holds no value because there is no effort or story behind it. And what does a user do when an app stops being fun? They cancel the subscription. AI videos and photos used to wow people, but now they’re kind of boring. 
+
+6:54 - 7:35 **Speaker 1 (Hary):** This is the problem with so many AI products. Viewing this through an investment lens, we must stop asking who has the better AI and start asking who has the more useful product. AI is a great feature to elevate another profession, tool, or platform – coding, science, radiology, administration, image editing. Adobe, for example, after their giant AI drama, has had a lot of success, not with AI on its own, but with added generative AI functions into the existing product. Not to replace the tool, but to supplement it. This is why, at least right now, ChatGPT is struggling while Google Gemini is exploding. 
+
+7:36 - 8:12 **Speaker 1 (Hary):** Google holds our emails, docs, spreadsheets, calendars, YouTube, and Drive. The moment Gemini interconnects this ecosystem, the game changes. And Microsoft is realizing this too. Microsoft shared they have 15 million paid Microsoft 365 Copilot seats, and that sounds big, but that’s out of 450 million 365 seats. So only about 3% of the Microsoft 365 base – 3% of tens of billions spent a quarter. And Microsoft secretly knows this is a problem. That’s why they pushed customers towards the Copilot version of 365 while hiding the cheaper classic plan. This is after they rebranded 365 as Copilot 365 after no one was using Copilot. 
+
+8:13 - 8:45 **Speaker 1 (Hary):** And it’s not just regular consumers either. More than half of CEOs surveyed by PwC last month reported no revenue or cost gains from AI. But as we move down into the trough of disillusionment, we still have the massive cost of generative AI. With so much spent, AI can’t just be a niche product for a handful of users. With so much money riding on AI, anything less than a complete upheaval of the world as we know it will look like a failure. A typical financial analysis indicates that the top seven big tech companies should be seeing an extra $600 billion in yearly revenue. For context, Walmart, which makes the most revenue on the planet, is around $600 billion. 
+
+8:46 - 9:30 **Speaker 1 (Hary):** Again, as Nadella said, “For this not to be a bubble requires that the benefits of this are much more evenly spread.” AI is so expensive and these companies have spent so much money that it can’t be a niche success. But that brings us to what I think is the real survival case for AI. If you’re tired of the AI bubble like I am, subscribe, and we can follow what happens together. Is there a world where the bubble bursts and AI disappears altogether? I don’t think so. But there is something Jensen Huang said that I do agree with: “If you reason from first principles, not surprisingly, the number of radiologists have gone up. A radiologist’s job, the purpose of their job, is to diagnose disease, to help patients diagnose disease. That’s the purpose of their job. The task of the job includes studying scans. The fact that they are able to study scans now infinitely fast allows them to spend more time with patients.” 
+
+9:31 - 10:14 **Speaker 1 (Hary):** More than changing the entire world, AI has brought quantum leaps to small, individual worlds. AI has produced breakthroughs in predicting protein structures, which dramatically increases how fast we can discover new medicines. It’s helping us detect breast cancer earlier. It’s allowing us to forecast weather, floods, and storms faster. AI is being used to understand the alphabet and language of whales. Anthropic was even used to help NASA with the Martian rover. Where AI can help professionals do their job better, I think, is a great use for AI. 
+
+10:15 - 10:48 **Speaker 1 (Hary):** Unfortunately, many CEOs saw AI as a way to reduce cost and thus reduce workers. And for this to make a real return for these companies, I think they need the hype curve to look like this. We seem to have two different approaches with AI: that these are going to flip the world upside down, produce some kind of post-work utopia, and every industry will change; and the other more sober view that these products will simply help us achieve more but can’t replace work altogether. As an investor, I am now avoiding companies that bet on AI tourists – users seeking dopamine and entertainment. 
+
+10:49 - 11:34 **Speaker 1 (Hary):** This is something I actually like about Anthropic: their focus on helping programmers and the boring stuff. I believe the boring incumbent players will fare the best – companies that are already established, possess a strong brand, and most importantly, a massive user base that is locked into their ecosystem by their work. For Adobe or Google, AI is not the product, but just another feature that makes their existing product even more indispensable. I actually think a bubble bursting is good for the future of AI, and it seems people are starting to come to their senses. Now, could all of this be a small trough and these companies convince investors of a big new return and somehow the market cap climbs back even higher? Maybe, but I think we’re moving into a more sober, realistic AI world. Ironically, the ones who might bring all this lunacy to an end might be shareholders. CEOs who laid off huge amounts of their workforce are quietly regretting it. Check out this video to learn more, but until then, I’m Hary and I’ll see you guys on the next one.

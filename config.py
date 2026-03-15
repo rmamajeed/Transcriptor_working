@@ -17,7 +17,7 @@ AUTOMATED_MODE = True  # Set to False to use interactive menu
 PLAYLIST_URL = "https://www.youtube.com/playlist?list=PLA67COBNthEJbJCXwyjR9uHS1SJEOaRa5"
 
 # Download settings
-MAX_DOWNLOADS = 8  # None = download ALL new videos, or set a number (e.g., 5)
+MAX_DOWNLOADS = None  # None = download ALL new videos, or set a number (e.g., 5)
 SKIP_ALREADY_PROCESSED = True  # Always skip videos already in youtube_memory.json
 
 # ============================================================================
@@ -33,3 +33,7 @@ METADATA_LEVEL = "enhanced"
 # ============================================================================
 DOWNLOADS_FOLDER = "downloads"
 TRANSCRIPTS_FOLDER = "Transcripts"
+
+# Execution time limit in seconds (default: 3600 = 1 hour)
+# The application will stop starting new downloads after this time
+EXECUTION_TIME_LIMIT_SECONDS = 5400

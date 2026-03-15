@@ -1,0 +1,66 @@
+---
+title: Logically Answered_Did Google Just Win？？_20260227
+audio_file: Logically Answered_Did Google Just Win？？_20260227.mp3
+note_id: 583c632b-e19c-4c68-a742-430c1252225e
+date_processed: '2026-03-01'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+## Full Transcription
+
+ 
+
+[00:00:00] **Speaker 1:** You've probably seen the headlines. Google just went from AI's biggest loser to the leader of the pack and it's been growing. Its market cap just passed Microsoft, briefly passed Apple, and they're even close to overtaking NVIDIA. But Google was recently losing in AI and badly. But now it's Microsoft that's dropping 500 billion dollars in market cap in a week while NVIDIA has gone sideways for ages and OpenAI is panicking. And strangest of all, Apple just picked Gemini for Siri's AI. Did Google just win AI or is something else happening? 
+
+[00:00:46] **Speaker 1:** For the longest time, the AI race felt like a three-horse race that didn't include Google. The narrative we were told was simple. You had OpenAI with ChatGPT, Microsoft writing the checks, and NVIDIA providing all the hardware. Every time you opened a news app or checked a finance subreddit, it was the same story. Investors jumped on this as well. They poured money into Microsoft and NVIDIA because they saw a clear path to making a profit. OpenAI with ChatGPT was the vehicle for that growth. After all, ChatGPT seemed to kick off the AI boom and with explosive growth was the biggest buyer of lots of chips. Of course, there was also AMD, Oracle, Amazon, Meta and other giant players, but these were the big three. It felt like progress was only happening in that tight circle while the rest of the world was just trying to keep up. 
+
+[00:01:49] **Speaker 1:** And then there was Google. Honestly, Google was the weirdest case in tech history. On June 12th, 2017, Google researchers published a groundbreaking paper, "Attention is All You Need". As of 2024, the paper has been cited more than 173,000 times and is in the top 10 most cited papers in the 21st century. This was the key foundation of generative AI like ChatGPT. Aidan Gomez, a co-author of that groundbreaking paper, realized this technology wasn't going anywhere at Google. "It is a matter of the freedom to explore inside a huge corporation like Google. You can't really freely do that product innovation. Fundamentally, the structure does not support it and so you have to go build it yourself." So he left, but not just him. Out of the eight co-authors of the paper, seven have left Google, six founded startups and one of them joined OpenAI. Google had the holy grail of AI technology and they had it before anyone else, but Google wasn't interested. 
+
+[00:02:56] **Speaker 1:** When Sundar Pichai was appointed as CEO in 2015, he had a large focus on slimming down. Their big investments into other technologies like Google Glass, Project Loon, Google Fiber, and Google Wave hadn't paid off. While ChatGPT was exploding and reaching 100 million users in record time, Google was playing catch up and they had other problems too. Jeff Dean told employees that Google has much more reputational risk in providing wrong information and thus was moving more conservatively than a small startup. And I can't blame them. In 2023, advertising made up over 76% of Google's revenue, which was over 230 billion, though it's ironic given how much AI summaries have been ruining Google search results lately. But regardless, Google was the one playing catch up to OpenAI and Microsoft, who had played the perfect hand. When they finally did launch their own AI, Bard, it was a mess. It hallucinated during its first demo and wiped 100 billion dollars off their market cap. 
+
+[00:03:59] **Speaker 2:** Google says such issues are to be expected and will be addressed by its trusted testers. Google shares, though, tanking after the reveal. 
+
+[00:04:08] **Speaker 1:** Then there was Gemini, which had about the same success. 
+
+[00:04:15] **Speaker 3:** Check my calendar and see if she's free when she's coming to San Francisco this year. Gemini pulls relevant content from the image, connects with my calendar, and gives me the information I'm looking for. Oh, looks like we had a little demo issue. Let me try one more time. 
+
+[00:04:31] **Speaker 1:** It was painful to watch. From 2023 to 2025, it honestly seemed like Google might fall off. It felt like they were making all the wrong moves. Every step forward was three steps backward. But despite how many times people counted them out, something was happening behind the scenes. Then, at the start of 2026, came news that shocked everyone. 
+
+[00:05:04] **Speaker 1:** In January 2026, a single decision changed the entire hierarchy of the tech world. Apple chose Google Gemini as the AI to power Siri, not ChatGPT, not Llama, not Grok, but Gemini. This was a huge shock and it gets stranger. In the AI era, Siri has been struggling. Siri upgrades kept getting delayed. Then they announced Apple Intelligence, which was embarrassing. Responsibility was being moved around internally and it was pretty messy. Siri has become a running joke in the tech community for being useless lately. So this was a make-or-break moment for Apple and they chose Google Gemini. Why? 
+
+[00:05:51] **Speaker 1:** Well, in a short amount of time, a lot had changed. It turns out Google had been quietly building. Google had quietly transformed into a full-stack powerhouse. Basically, it wasn't just making an LLM, but the entire AI pipeline: Gemini, yes, but also TPUs, aka chips, data centers, networking, software - the whole pipe. They were serving billions of tokens a day through cloud APIs and boosting Google's own search engagement by 20%. This was massive. Enterprise API calls rival OpenAI's, ad tools auto-optimizing billions in advertiser spend, which brings us back to Apple. The big question in Apple's case wasn't cost, but actually something else. The whole AI supply chain is extremely unstable. OpenAI needs chips from Jensen Huang, who himself is begging TSMC to make them. And Apple picking the wrong LLM for Siri comes with a huge risk. Siri serves hundreds of millions of users every day. They can't afford a partner burning through cash or lacking their own hardware. Reports suggest OpenAI needs to spend 1 trillion dollars just to make good on its deals to NVIDIA and AMD, but Apple needed a big upgrade to Siri and fast. So Google just makes sense. It has the strongest, robust foundation and the least risk of collapse waiting on GPUs. Google built something nobody else had: a vertically integrated AI stack. And this is related to their second secret weapon: TPU dominance, or chips. 
+
+[00:07:30] **Speaker 1:** Their custom Trillium chips, the sixth generation of their tensor processing units, offer 4.7 times the performance per watt of an NVIDIA H100. Anthropic, who makes Claude, is already renting 1 million of Google's chips, which are notably cheaper than standard GPUs. So if you're Apple running a model the size of Siri, Google just makes sense. You're not worried about Google collapsing like OpenAI and Google's resurgence goes deeper than just chips. Google Gemini is everywhere. In early 2026, the standalone Gemini app passed 750 million monthly active users. That's close to ChatGPT in scale, which is why they're panicking. Monthly visits to Gemini hit 1.18 billion in 2025. But the app is one thing, the G-Suite is another. But didn't Microsoft do the same thing with Co-Pilot? So how is Gemini winning? 
+
+[00:08:24] **Speaker 1:** Microsoft pushed Co-Pilot while also asking for a 30 dollar fee per seat per month. And this is added to the Business 365 plan - Microsoft Office, PowerPoint, Outlook, Excel, Teams - those apps. You might think Google is just doing the same thing, but they're surprisingly not. There are some free features that they pushed in the G-Suite, but that's not what's responsible for Gemini's dominance. Around 70% of Google Cloud customers now use Gemini. That's not Google Drive, it's their version of AWS or Microsoft Azure. This is where people are actually using AI. In fact, Google now has a 106 billion dollar backlog, meaning big companies like banks or retailers who have signed to use Google Gemini. And that's not weird circular financing like ChatGPT promising other companies a trillion dollars at some point. These are actual customers for AI, not AI companies paying each other. And all of this is working. Q4 earnings show that Google Cloud hit 35% growth. Overall revenue hit 105 billion quarterly. Profit margins are at 31% even with 53 billion in AI spending. For Google, AI wasn't just this bottomless pit anymore. It was real revenue. Microsoft, on the other hand, was struggling to do the same thing and they've had ChatGPT at their fingertips for years. Just last month, they watched their market cap fall 360 billion dollars in one day, even though revenue beat expectations. Why? Their capital spend was up 66%, 37.5 billion in just one quarter. Two-thirds of it was on chips - GPUs and CPUs spent for AI, AI that wasn't making money. 
+
+[00:10:09] **Speaker 4:** One big obvious issue is that revenues are up 17% and the cost of revenues are up 19%. So if that is a new long-term trend, that is one of my concerns. 
+
+[00:10:20] **Speaker 1:** So if Google just delivered the AI that actually makes money, does that mean it won the AI race? Maybe, but I think something else is happening entirely. Just like Google, we've been quietly working hard, so if you could subscribe, it would mean a lot. Look at this stock comparison. Google is on the up, Microsoft is on the down, and NVIDIA is sideways. Google is in a strong position and their stock price has been strong for a while, but I don't think they've quite won yet. I think the reality is far more interesting. 
+
+[00:11:05] **Speaker 1:** For a long time, Alphabet was trading at much lower multiples than Microsoft. Everyone basically assumed they were playing catch up. From 2021 to 2024, Google stock went pretty much sideways. From April '21 to April '24, Google went up about 20% and during the AI boom, that's basically nothing. The rest of Big Tech was exploding. But after that, something changed. Since mid-2025, Google has gone straight up. Meanwhile, NVIDIA was already priced about as high as they could go, at least for now, and Microsoft faced the same problem. They already had a huge valuation, so even when they beat revenue targets, they actually lost market cap. The hype was already paid for and investors were waiting for big returns. But Google was the opposite. Every good piece of news was a surprise. The hype wasn't priced in, at least not like NVIDIA or Microsoft. So they went up. And honestly, with the sheer scale of the costs involved in AI, it is starting to favor the incumbents who have their own energy and chip infrastructure. 
+
+[00:12:16] **Speaker 1:** OpenAI is doing incredible work, but they are playing a very dangerous game with their burn rate. Not only that, investors are beginning to punish AI spending which isn't tied to a big return, which is why Microsoft fell so much. Google is one of the few actually bringing in those returns, which to be honest, I think is very good. I believe the boring incumbent players will fare the best. Companies that are already established possess a strong brand, and most importantly, a massive user base that is locked into their ecosystem by their work. NVIDIA had already priced in perfect AI growth, so they've just gone sideways. Microsoft had the same problem. They got credit early for AI leadership, so new wins barely moved the stock. The hype was already baked in. Google hasn't necessarily won, but they're catching up where they should be. Of course, if Microsoft, NVIDIA and OpenAI somehow make a gigantic return, they could go up even higher and OpenAI is still at the top. But Google just became a real threat and the market finally sees it. The gap is closing and Google is now back with the AI leaders. The real question is: what happens next? Only time will tell. While Gemini is exploding, Microsoft is begging people to use Co-Pilot and it isn't going well. Click here to hear the other side of this story. But until then, I'm Hurry and I'll see you guys on the next one.

@@ -1,0 +1,77 @@
+---
+title: Veritasium_We still don't understand magnetism_20260129_part2
+audio_file: Veritasium_We still don't understand magnetism_20260129_part2.mp3
+note_id: 207b0b93-3956-4b1f-9f59-e4cc834f54d5
+date_processed: '2026-02-23'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+## Full Transcription
+
+
+
+---
+
+00:00 - 00:04 Casper: But critics were unconvinced.
+00:04 - 00:13 Yakir Aharonov: They objected to it because it seemed the rays are finite. There is always some other native fields that could go out. 
+00:13 - 00:18 Casper: Maybe a stray field was responsible for the effect, not the potential.
+00:18 - 00:24 Neil Lambert: And that's showing no shade on their colleague who did these cool experiments. It's like, it's hard, it's really hard.
+00:24 - 00:30 Casper: And so it went for several decades. Experimentalists repeatedly tested the Aharonov-Bohm effect.
+00:30 - 01:21 Neil Lambert: But each trial had flaws that left the result open to debate. Until in 1986, a team of Japanese researchers led by Akira Tonomura came up with a new way to do the experiment. See, they used a tiny doughnut-shaped magnet to make their magnetic field. With a perfect torus, all the magnetic field is contained within the loop; outside it, it's absolutely zero. And as an added layer of protection, the team also coated the entire magnet in a layer of superconducting niobium, which would block out any leaking fields. Now, previous experiments relied on turning a magnetic field on or off, but Tonomura's team took a different approach. In their case, the magnet is always on. But because of its unique shape, the potential outside the torus is different from the one in the center. It points towards us on the outside and away from us on the inside. 
+01:21 - 02:40 Casper: And the team realized they could take advantage of this. They started by firing off an electron beam, which was actually wide enough to be treated as two separate beams. Part of it traveled along through empty space and functioned as the control, whereas the other part washed over the entire torus. And what's important here is that the beam is wide enough so that part of it passes around the torus and part of it passes through. Then at the end, a biprism deflects the electron beams toward each other. They intersect, and this is where they create an interference pattern. Now think about what this interference pattern should look like. Well, for starters, there should be a shadow of the torus, so we can fill that in. But the rest? Well, it depends on whether the Aharonov-Bohm effect is real or not. If it's not real, we'd expect to see an interference pattern that looks something like this, where the pattern outside the torus and in the center match up. But if it is real, then the electrons that traveled through the center would have experienced a different potential, which would have shifted their pattern by half a phase. So that should look something like this. Now here are the results from Tonomura's experiment. You see, these are the interference fringes inside and outside the magnet. And then if you follow what is a peak outside the torus, it lines up with a trough inside the middle and then it's a peak outside again. 
+02:40 - 02:41 Neil Lambert: Right.
+02:41 - 02:42 Casper: And that's exactly what they predicted.
+02:42 - 02:43 Neil Lambert: This is exactly what they predicted. 
+02:43 - 02:44 Casper: So it's real?
+02:44 - 02:55 Yakir Aharonov: It's real. Only Tonomura's experiment was really the final proof, experimentally. 
+02:55 - 03:09 Casper: And yet soon a new debate emerged. The effect is real, sure, but how should we interpret it? What is it really telling us about the nature of the universe?
+03:09 - 03:40 Neil Lambert: Today physicists largely fall into one of two camps. The first camp claims that potentials aren't just mathematical conveniences; they can influence physical reality. This is the perspective initially favored by Aharonov and Bohm. As they wrote in the abstract of their paper, "Contrary to the conclusions of classical mechanics, there exist effects of potentials on charged particles even in the region where all fields vanish." Some take this position a step further. Since the potentials show up in the Schrödinger equation and the fields do not, well, they argue that the potentials are more fundamental to physics than fields are.
+03:40 - 03:49 Casper: Richard Feynman supported this idea. He wrote, "A is as real as B, realer, whatever that means."
+03:49 - 04:14 Josh: I mean, I kind of like that interpretation. But something about the potential bothers me, and that's the fact that you can set the potential at any arbitrary height. It can be plus infinity, it can be minus infinity, anything in between. So wouldn't that change, you know, how the potential actually influences the wave function?
+04:14 - 06:05 Casper: This bothered me, too. So much so that I actually ended up asking a professor about this. But it turns out it can't. It's not just the potential that's entering the observable; it's the line integral. So it's only A that enters, it's not the magnetic field B; B vanishes, it's only A. But it's not A alone. It gets a little technical here, but you know, if I pull up, as one does, a flip chart, now we can actually run this through. So if you look at how the potential shows up, then what's measurable is not the phase directly, but it's the phase shift, call it delta theta. Then the phase shift is the line integral of A over the path, or dotted with the path. So you get this. Now you can imagine, okay, let's add a constant to this. And if our setup is roughly, you know, we start here, one electron beam goes like this and the other one goes like this and these are symmetric, then the potential here will point, let's say, in this direction, but here it will point in that direction. Let's say instead of A, we do A plus C, some constant. Then when we're taking the path this way, we'll be adding that C and we'll be dotting it with dx. But because that path is the exact same, when we go this way, we just subtract it. So it cancels out. So the potential, yeah, it does show up, but in such a way that all the arbitrariness of the potential, it cancels out perfectly.
+06:05 - 06:10 Josh: Okay. 
+06:10 - 06:21 Neil Lambert: It's a geometrical quantity involving A that has taken care of, for which all that residual ambiguity has literally canceled out.
+06:21 - 06:33 Casper: The potentials being physical might sound strange, but the second interpretation is even stranger.
+06:33 - 07:11 Neil Lambert: Physicists in camp two maintain that potentials really are just mathematical objects and the fields are responsible for the effect. But in Tonomura's experiment, the magnetic field was completely confined within the solenoid. For this interpretation to be true, its supporters are forced to assert that fields can act non-locally. That is, a field can influence things outside the region of space where the field itself exists. Many physicists find this idea difficult to swallow. I think the idea of saying that these fields act non-locally undoes the reason why we have field theory. Right, the great drive of field theory, which has served us so well for more than 100 years, is this notion, stubborn notion, that local causes yield only local effects.
+07:11 - 07:22 Casper: And yet Aharonov's own perspective has shifted from camp one to camp two.
+07:22 - 08:31 Yakir Aharonov: When we published the article, we called the effect to potentials. When you use potential and use the Schrödinger representation, it looks as if everything is local, but it's misleading because these local potentials are really not physical. Later, I decided that it should be called a non-local effect of the electrical magnetic field. The electron can feel the effect of a field that is not where it is.
+08:31 - 08:38 Casper: While non-locality remains a controversial idea, a sizable portion of physicists do side with Aharonov, and the debate continues to this day.
+08:38 - 08:40 Josh: I may have a third interpretation.
+08:40 - 08:45 Casper: Good. And I would love to get your thoughts, and if it's bad, please tell me honestly.
+08:45 - 08:46 Neil Lambert: Okay.
+08:46 - 08:56 Casper: So we did this other video about particles essentially exploring all possible paths all at once. And so right now we're saying either the potentials are real or fields are acting non-locally.
+08:56 - 09:12 Casper: But what if there's a third option where the fields are still local and it is the fields that are affecting the change, but rather it's the particles that are exploring all possible paths all at once? You could potentially even have some quantum tunneling effects going inside an area where there are fields.
+09:12 - 09:19 Casper: You know, as the electron, or the wave function at least, explores all possible paths, it gets influenced by those slight bits where the wave function is inside the field.
+09:19 - 09:33 Neil Lambert: I actually don't think that's ridiculous, Casper. That's as close to a strong ringing endorsement as I can give. I think there's a lot to that. Okay. If we could think about these things as, it is indeed the quantum phase that's being affected.
+09:33 - 09:47 Neil Lambert: We can describe that phase in terms of quantum mechanical path integrals. I think that's a perfectly reasonable way to frame it. So yeah, I'd buy that.
+09:47 - 10:07 Casper: That's awesome. I'm pretty sure this isn't the complete answer, but one thing which would be cool is if someone else takes this idea, you know, or maybe gets inspired by it and they're like, actually that doesn't work, but here is how it does work, and now we're closer. 
+10:07 - 10:14 Neil Lambert: That's right. That'd be the best possible outcome. Well, the best possible outcome is you're just right. But the second-best possible outcome is that that nudges the community more broadly to ask new questions of familiar material. That's right. 
+10:14 - 10:48 Casper: One new question the community asked was, is there also a gravitational version? In 2022, researchers at Stanford tested this. A simplified version of their experiment works something like this. They shot up ultra-cold rubidium atoms into a tube-shaped vacuum chamber, at the top of which was a tungsten mass. Now atoms, like electrons, are also governed by a wave function. So they split each rubidium atom's wave function into two distinct packets and they launched them to different heights. One was sent really high and got close to the mass, whereas the other didn't. And then when the two collided at the bottom, this created an interference pattern. 
+10:48 - 11:02 Casper: And when they let this interfere and accounted for all other effects, they could clearly see the phase shift as predicted by Aharonov and Bohm. So it seems like the gravitational Aharonov-Bohm effect is real.
+11:02 - 11:34 Casper: If the results hold up to scrutiny, this is a huge finding because it suggests that the electromagnetic and gravitational potentials can influence reality at the most fundamental scale, even when all the fields are exactly zero. So does that mean that most physics textbooks are wrong or need updating? 
+11:34 - 11:47 Neil Lambert: Don't throw out all the textbooks. They're beautiful. We learn a lot. But that doesn't mean we're done. And we should be open to surprise. And just because things haven't changed in, let's say, 200 years, roughly between, let's say, Lagrange and Aharonov-Bohm, they still could change, right? And they can sometimes change in beautiful and surprising and very powerful ways. 
+11:47 - 12:02 Casper: I read somewhere that the reason you decided to do the AB effect was that you didn't really think potentials were something that was just a mathematical tool like most scientists believe.
+12:02 - 12:12 Yakir Aharonov: That is why I was very ignorant, luckily. Sometimes it's good not to know too much.

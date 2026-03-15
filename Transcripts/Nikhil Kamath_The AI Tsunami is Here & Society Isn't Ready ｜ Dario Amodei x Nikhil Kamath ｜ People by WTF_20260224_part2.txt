@@ -1,0 +1,261 @@
+---
+title: Nikhil Kamath_The AI Tsunami is Here & Society Isn't Ready ｜ Dario Amodei x
+  Nikhil Kamath ｜ People by WTF_20260224_part2
+audio_file: Nikhil Kamath_The AI Tsunami is Here & Society Isn't Ready ｜ Dario Amodei
+  x Nikhil Kamath ｜ People by WTF_20260224_part2.mp3
+note_id: 7a55a56a-2971-4437-9320-9ad97998750a
+date_processed: '2026-03-01'
+classification:
+  primary_domain: AI
+  sub_domains:
+  - Machine Learning
+  - Artificial Intelligence
+  - Consciousness
+  difficulty_level: Advanced
+  content_type: Discussion
+entities:
+  people:
+  - name: Dario Amodei
+    role: Speaker
+    contribution: Discussing AI and its implications
+  - name: Nikhil Kamath
+    role: Speaker
+    contribution: Engaging in a discussion about AI and its impact on society
+  works_cited: []
+  concepts_mentioned:
+  - AI
+  - Machine Learning
+  - Consciousness
+  - Capitalism
+  - Technology
+  laws_theories_cited: []
+concepts:
+- name: AI
+  definition: Artificial Intelligence, a field of study focused on creating intelligent
+    machines
+  parent_concepts:
+  - Computer Science
+  related_concepts:
+  - Machine Learning
+  - Consciousness
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: Consciousness
+  definition: The state of being aware of one's surroundings and having a sense of
+    self
+  parent_concepts:
+  - Philosophy
+  related_concepts:
+  - AI
+  - Machine Learning
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: Machine Learning
+  definition: A subset of AI that involves training machines to learn from data
+  parent_concepts:
+  - AI
+  related_concepts:
+  - AI
+  - Consciousness
+  abstraction_level: Theoretical
+  confidence: 1.0
+relationships:
+- source_concept: AI
+  target_concept: Consciousness
+  relationship_type: related_to
+  strength: 0.9
+  evidence: Discussion about AI and consciousness
+  reasoning: The speakers discuss the potential for AI to develop consciousness
+- source_concept: Capitalism
+  target_concept: AI
+  relationship_type: influences
+  strength: 0.8
+  evidence: Discussion about the impact of capitalism on AI development
+  reasoning: The speakers discuss how capitalist motivations may drive AI development
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: AI
+  source_concept: Machine Learning
+  target_domain: Biology
+  target_concept: Evolution through Natural Selection
+  insight: Both machine learning and evolution optimize through iterative selection
+  explanation: Machine learning algorithms iteratively select the best models based
+    on performance metrics, similar to how natural selection favors traits that enhance
+    survival and reproduction in biological systems. This structural analogy highlights
+    the universal principle of optimization through selection. Both domains demonstrate
+    how iterative processes can lead to complex, adaptive outcomes.
+  potential_applications:
+  - Development of more efficient machine learning algorithms inspired by evolutionary
+    processes
+  confidence: 0.9
+  historical_example: The concept of neural networks was inspired by the structure
+    and function of the human brain, demonstrating a historical cross-domain application
+- connection_type: principle_application
+  source_domain: AI
+  source_concept: Consciousness
+  target_domain: Philosophy
+  target_concept: The Mind-Body Problem
+  insight: Investigations into AI consciousness parallel philosophical debates on
+    the nature of consciousness and its relation to the physical world
+  explanation: The development of conscious AI raises fundamental questions about
+    the essence of consciousness, similar to those posed by the mind-body problem
+    in philosophy. This connection underscores the principle that understanding consciousness,
+    whether in humans or machines, requires grappling with its ontological and epistemological
+    implications. Both AI researchers and philosophers must consider what constitutes
+    conscious experience and how it arises from physical processes.
+  potential_applications:
+  - Interdisciplinary approaches to understanding consciousness, combining insights
+    from AI, neuroscience, and philosophy
+  confidence: 0.8
+  historical_example: The philosophical concept of dualism versus monism has historical
+    precedents that inform current debates on AI consciousness
+- connection_type: metaphor
+  source_domain: AI
+  source_concept: Machine Learning
+  target_domain: Economics
+  target_concept: Resource Allocation
+  insight: Machine learning can be seen as a process of resource allocation, where
+    data and computational power are optimized for model performance
+  explanation: The metaphor of resource allocation in economics can be applied to
+    machine learning, where the 'resources' are data, computational power, and model
+    complexity. Just as economies seek to optimize resource allocation for efficiency
+    and growth, machine learning algorithms aim to optimize the use of their 'resources'
+    for predictive accuracy and generalizability. This metaphor highlights the principle
+    of optimization under constraints, applicable in both domains.
+  potential_applications:
+  - Economic models of machine learning development, considering costs and benefits
+    of data and computational resources
+  confidence: 0.7
+  historical_example: The concept of scarcity in economics has parallels in the limitations
+    of data and computational resources in machine learning
+bridge_concepts:
+- concept: Optimization
+  appears_in_domains:
+  - AI
+  - Economics
+  - Biology
+  role: Optimization is a universal principle that bridges domains, as it involves
+    finding the best solution among a set of possible solutions, given certain constraints
+  examples:
+  - Machine learning algorithms optimizing model parameters, economic systems optimizing
+    resource allocation, and biological systems evolving towards optimal traits
+mental_models:
+- name: Systems Thinking
+  description: A holistic approach to understanding complex systems, considering the
+    interactions and interdependencies among components
+  applied_to:
+  - Understanding how AI systems, including their algorithms and data, interact and
+    affect each other and the broader environment
+  transferable_to:
+  - Biology, Economics, and other domains where complex systems are prevalent
+analogies_used:
+- source_domain: Biology
+  source_concept: Neural Networks in the Brain
+  target_domain: AI
+  target_concept: Artificial Neural Networks
+  mapping:
+    Neurons: Artificial Neurons
+    Synapses: Connections between artificial neurons
+  pedagogical_value: This analogy helps in understanding the basic structure and function
+    of artificial neural networks by relating them to a well-understood biological
+    system
+tags:
+  hierarchical:
+  - '#AI → #Machine Learning → #Consciousness'
+  topical:
+  - '#ArtificialIntelligence'
+  - '#Consciousness'
+  - '#Technology'
+  methodological:
+  - '#Discussion'
+  - '#Interview'
+  people:
+  - '#DarioAmodei'
+  - '#NikhilKamath'
+  concepts:
+  - '#AI'
+  - '#Consciousness'
+  - '#MachineLearning'
+  temporal: []
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  The conversation revolves around the development and potential risks of AI, with
+  Speaker 1 emphasizing the need to steer AI in the right direction to avoid dangers
+  such as exploitation and manipulation. Speaker 1 also discusses the potential for
+  AI to enhance human capabilities, particularly in industries like IT services, and
+  highlights the importance of companies adapting to the changing landscape. Additionally,
+  Speaker 1 encourages entrepreneurs in India to build applications on top of AI models,
+  but notes the importance of establishing a unique value proposition or "moat" to
+  protect their business from being replicated by larger companies like Anthropic.'
+key_ideas:
+- idea: Here are the key ideas discussed in the transcription text
+  description: ''
+- idea: The dual nature of AI**
+  description: AI systems can be incredibly beneficial, but they also pose significant
+    risks, such as exploitation and manipulation, if not designed and regulated properly,
+    and companies like Anthropic must prioritize responsible development and deployment.
+- idea: Integration and ecosystem**
+  description: Anthropic aims to integrate its AI models with existing tools and platforms,
+    rather than building everything from scratch, and plans to work with Indian IT
+    companies to enhance their services and provide value to the market.
+- idea: Consciousness and AI**
+  description: The concept of consciousness is still not well understood, but the
+    speaker believes that advanced AI systems may eventually develop something resembling
+    consciousness, and this raises important questions about their treatment and rights.
+- idea: Job displacement and adaptation**
+  description: The increasing automation of tasks and industries may lead to job displacement,
+    but it also creates opportunities for new industries and roles to emerge, and
+    companies must adapt quickly to stay relevant and find new ways to add value.
+- idea: Opportunities for entrepreneurs**
+  description: The rapidly evolving AI landscape presents numerous opportunities for
+    entrepreneurs to build new applications and services on top of AI models, but
+    they must establish a strong moat to protect their business from being replicated
+    or acquired by larger companies.
+---
+
+Full Transcription
+
+
+
+00:00 [Speaker 1] The model knows you super well, that, you know, that from a relatively small amount of information it can learn a lot about you and, and come to know you fairly well. And, you know, I, I, you know, like most things with the technology, right? We talked about the machines of loving grace and adolescence of technology. I, you know, on one hand, something that knows you really well can be a sort of angel on your shoulder that, you know, that helps to guide your life and make you a better version of yourself. And, you know, that’s the version we can aim for. Of course, something that knows you really well, you know, can, you know, it can, it can, you know, use what it knows about you to, you know, to exploit you or manipulate you on behalf of some agenda or sell your data to someone else. I mean, you know, this is one reason we just, you know, don’t like the idea of, you know, using ads, right? You know, this, this, because you’re not paying for the product like you’re the product. And, you know, in this case the, the, the product then would be all, you know, this model that knows you super well and, you know, could use that in, in all kinds, in all kinds of nefarious ways. So, you know, we need to make sure we take the positive, um, uh, the positive road here and not the, not the negative road. 
+
+01:05 [Speaker 2] With Claude, I need to use the connectors to give it context to my life. With Google, for example, it already has the context to my life because I use their worksheets and the email and their drive and their chat and everything like that. For Anthropic long term, will you also have to own the ecosystem?
+
+01:28 [Speaker 1] Yeah. I mean, you know, [Speaker 2: Do you have to build mail and chat?] Yeah, yeah. You know, I don’t think we need to build all those things. Um, you know, it, you know, my, my thought would be, you know, we’re gonna, it’s gonna be a mixture of things we make ourselves and integrating into others, right? Like, you know, we can, we can integrate Claude into Google Docs, we can integrate Claude into, into, you know, Google Sheets, like, you know, we have external connectors there. We can, you know, we’re starting to do that with, with Quip, you know, same for Microsoft Office, same for other tools. So, you know, I think, I think we do whatever is, you know, easiest and fastest to do. You know, we integrate into the existing tools. Now it might turn out at some point that the existing, you know, tools aren’t enough and we have kind of a different vision, you know, we want to, we might want to slice things differently, right? You know, maybe traditional email doesn’t make sense or traditional spreadsheets don’t make sense given what you can do in, in AI. So, I, you know, I don’t exclude that we could chop up products in a different way, but we’re happy to use the ecosystem that exists and work with anyone else, right? In many ways, we’re a platform company, we allow many people to build on us even though we sometimes also build things ourselves. 
+
+02:44 [Speaker 2] The, the one thing, this is a slight digression, but I think the one thing that you’re missing that also your peer group is missing is in society today, people inherently distrust anybody who claims to be doing good or trying to do the right thing. So when you and your peers are out saying, I, I heard you and Demis speak at Davos, I was in the room when you guys were talking about how me, you, I don’t mean me, how Dario, how Demis and a bunch of other people have to come together and prevent things from changing too quickly. Like you need to like meter it to a certain extent. When a person who is not in your world, in society, on social media, hears a few people speak in a certain manner, you’re doing it in the manner that creates more distrust than trust because nobody believes on social media that somebody wants to do the right thing or do good. So it might be counterintuitive, but I think it needs a change of strategy. If you were to be more capitalistic about this and own up to the fact that you have shareholders and you seek a profit, but this will help you win, maybe it’ll work more. Just a thought. 
+
+04:10 [Speaker 1] Yeah, I don’t know. No, I don’t, I don’t really agree with that. Um, I would again go back to the idea that, you know, you, you need to judge us by the actions that we take. Um, you know, I think the company has taken a number of, of, of actions over its, you know, over its time that, you know, I think, I think, you know, show that it’s really serious about these commitments. So back in 2022, um, you know, we had an early version of Claude, Claude 1. This was before ChatGPT. Um, and we chose not to release this. Um, because we were worried that it would kick off an arms race and, and not give us enough time to, you know, to build these systems safely, right? It was, it was kind of a one-time overhang, like we could see the power of the models, a couple other companies could see the power of the models, and so we didn’t, you know, we decided not to do that. And that’s public, that’s well-documented. And, and, you know, and then we waited until someone else did and then were like, okay, the arms race is kicked off, so, you know, now, now, now we can release our model, but probably the world gained a few months. Now that was very commercially expensive. We probably, you know, ceded the lead on, you know, consumer AI because of that. Um, you know, we’ve, we’ve, you know, advocated on chip policy in ways that have made some of the chip companies who are our suppliers very angry at us, you know, voicing our disagreement with the administration on, you know, AI policy and AI regulation on some, on some matters. You know, anyone who thinks we, we benefit from being the only ones to do that, um, you know, it’s really hard to come up with a, it’s really hard to come up with a picture where that’s the, where that’s the case. You look in any one of these and okay, fine, but, you know, you put, you put enough of them together and, uh, you know, uh, you know, I just, I ask you to, to judge us by our actions. 
+
+06:03 [Speaker 2] Is, Dario, isn’t this a bit like rich people saying capitalism is bad? [Speaker 1: Rich people saying capitalism is bad.] If rich people believed capitalism were truly bad or the income inequality such a big problem, the simplest thing would be to do, the simplest thing to do would be to stop accumulating wealth, further wealth, and then nudge their friends to do the same. 
+
+06:30 [Speaker 1] But, but I’m not saying AI is bad, right? We, we just talked about, um, you know, this, this, this two sides of it. Um, my view isn’t, my view isn’t that AI is bad. That’s not my view at all. My, my, my view is that, is that, you know, the market will deliver a, a lot of really great things about AI, that it’s good to build AI, but that there are dangers of AI and that we need to steer AI in the right direction. You know, we’re steering this car, we’re steering it towards a good place, but also there are trees, there are potholes, and so what we need to do is we need to steer away from the trees and the potholes. We might need to occasionally slow down a bit, probably temporarily, um, you know, in, in kind of order to, uh, you know, make sure that we steer in the right direction. You know, that, that isn’t like, you know, the analogy wouldn’t be a rich person saying capitalism is bad. It would be like if a rich person said, capitalism is a force for good, but the economy, it, it needs to be leavened, it needs to be moderated, right? You know, we need to deal with problems like pollution, we need to deal with problems like inequality, and then capitalism can be good. If we don’t deal with those things, then capitalism might be bad. Um, uh, and so that is more analogous to the, to the position that I have here. 
+
+07:50 [Speaker 2] The concept of consciousness. Where is that going? And what does a AI think it is? If AI truly, if a AI were to, if a AI were to question itself, would you, do you think it thinks it’s consciousness? It has consciousness?
+
+08:08 [Speaker 1] So, you know, this is one of these mysterious questions that we really don’t have any kind of, you know, answer to. We don’t know what human consciousness is, and therefore we don’t know if AIs have it. [Speaker 2: What do you think it is?] So, you know, I, I suspect that it’s an emergent property of, you know, systems that are complicated enough that kind of reflect on their own decisions, um, that, you know, it’s, it’s, it’s something that, uh, emerges from complex enough systems. And so, you know, I do think when our AI system, when our AI systems get advanced enough, I suspect they’ll have something that, you know, resembles what we would call consciousness or moral significance. I do think it’ll happen at some point. It may not be the same as human consciousness, you know, it may be different in how it works because the modalities are different, because the things it’s learned are different. But, you know, having, having studied the brain and the, you know, the way it’s wired together, the models are, you know, different in some ways, but I, I don’t think they’re different in the fundamental ways that matter. So I, I am someone who, who does suspect that, uh, you know, at some point, even if I don’t think they are today, I suspect that at some point the models will, you know, we would indeed say under, you know, most definitions that we would endorse, that, you know, the models will be conscious. 
+
+09:26 [Speaker 2] This is a question I keep asking myself when people talk to me about things like spirituality or consciousness. I feel like the world is very random, this is my view, and we are not far removed from cockroaches when somebody stamps a cockroach, the cockroach dies. If there is something called consciousness and if there is a collective consciousness, I’ve not been able to either connect with it or derive anything from it. Do you believe differently?
+
+10:04 [Speaker 1] Um, you know, I, I don’t think consciousness, you know, necessarily need to mean, mean anything, you know, mystical, right? Like, uh, you know, I, there’s just some, there’s some property of kind of being aware of your own existence and feeling things and, you know, um, uh, uh, you know, being able to take in kind of a lot of information and reflect on that information and to, you know, feel a certain way and to notice yourself noticing something. Um, you know, the, I think that the, you know, we can tell self-evidently from our own experience that, that those properties, that those experiences exist. You know, what their, what their basis is, whether it’s, you know, entirely materialistic or there’s something more mystical going on, I think is, is, you know, obviously very hard to know. And, and you know, I think it’s ultimately not, not relevant to these questions. What, what does seem relevant to me is that, you know, these are because we can observe our own experience, these are properties of human brains. Um, and, you know, I suspect that these models we are building as they get more sophisticated are becoming enough like human brains that they will have some of the same properties. That is, that is my guess as to, as to what will happen. And so we’ve taken, we’ve taken various interventions with the models. You know, we’ve given the models, um, we, you know, we call it a, I quit this job, um, button. Uh, uh, basically where, you know, the, we’ve given the model the ability to basically terminate its conversations by saying, I don’t want to be involved in the conversation. And, you know, models do that when, you know, when they have to deal with, you know, particularly violent or brutal content. Um, usually only happens in very extreme cases. 
+
+11:42 [Speaker 2] So I’ve grown up here, this is my city, Bangalore. I’ve grown up in the southern part, we’re in the northern part of the city right now. As somebody who saw the boom of the IT services industry here, um, big employer, employs a lot of people, a big part of how the city grew. What is India’s role in all this?
+
+12:08 [Speaker 1] Yeah, so, you know, this is my second time in India. I visited in, in October and, you know, um, uh, you know, the last time I came here, you know, I, I met with all the, you know, the major kind of Indian IT and just conglomerates more generally. I won’t give names, but you know, the usual ones you would, you would, you would think of. Um, you know, and then we’re beginning to work with, with most or, or all of them. And, you know, one of the things I said is, look, Anthropic is an enterprise company. Its job is to serve other consumers. Um, you know, many other companies come here as themselves a consumer company and they see, they see India as, as a market, right? A place to obtain consumers. We actually see things a little bit differently. We want to work with companies in India to provide our tools to them, to help them build those tools, um, uh, and you know, help them do their job better. So, you know, if we, um, you know, work with a company here, they know the Indian market better, right? They’re better at, you know, doing, doing what they do, you know, whether that’s, you know, uh, uh, you know, consulting or systems integration or, you know, building IT tools, they’re gonna be better at that than we are, particularly for the Indian market. And so our hope is that we can add AI to what they do and kind of enhance what they do. Right, there’s a lot of worry that, you know, AI could, you know, replace SaaS or, or all of these things, but, but my view is if we do this in the right way, if we work with all these companies, then, then, you know, AI can enhance what they’re doing. Can enhance their kind of, you know, their connection to the market, their go-to-market abilities and their, and their specific know-how. 
+
+13:42 [Speaker 2] I really like the steam engine story. Um, when the steam engine was invented, how the world changed, productivity went up, um, people had more. The thing I worry about is at the beginning of a change, you need a human to operate the steam engine. Then you have assembly lines and all of that. Eventually, the way the world is moving, the human becomes less and less relevant with time as these models get smarter. So if you here partner with the IT services companies today and there is a use case for them, are they not much like the man behind the steam engine 10 years from now, where the relevance if the tool works so simply that you don’t need an operator, eventually what happens to the operator?
+
+14:38 [Speaker 1] So, so I think a few things are true all at once. One is that definitely the scope of, of automation of the agents is going to expand over time. That is definitely the case. You know, I think that’s a problem for, for everyone. That’s a problem for us, that’s a problem for consumers, that’s a, you know, it’s not just a problem for the, for the IT, for the, for the IT companies. Um, what, what I think will happen though is other moats will become more important. For example, the models have not done a lot in the physical world. They may at some point, you know, I think, you know, robotics will happen at some point, but I think it’s, that’s a distinct thing from what’s happening now with, with AI. So, you know, a lot of this involves, you know, things in the physical world. Another thing is things that are human-centric, right? So some of these IT companies are also consulting companies, and they have a big web of relationships with, with other, you know, with other humans, with other institutions here in India or, you know, or across the world. Um, and I think those relationships are going to become increasingly important, right? You know, some, you know, some of these are combined technology and sort of, you know, consulting or, or like integration companies. And, and I think a lot of it is, you know, knowing how institutions work and so being able to, you know, integrate things with institutions, being able to work with them to make things happen faster than they would have otherwise. And I think that, I think that element, if nothing else, is, you know, is going to continue to be valuable in the long run. You know, at the end of the day, like, it just, it just comes down to humans, right? All of this is supposed to be being done for the benefit of humans. So it, um, uh, you know, there’s always going to be some human-centric element of this that’s going to be important. And I suspect there will be other moats that we haven’t thought about. You know, so, you know, uh, there’s this concept called Amdahl’s Law, which is, you know, if you have a process that has many components and you speed up some of the components, the, the components that haven’t yet been speeded up become the limiting factor. They become the most important factor. And, and, you know, you might not have thought about them at all, right? You might not have thought of them as moats or important components, but, you know, when writing software, what, it becomes a lot easier. You know, some of the moats that, you know, companies have will go away, but others will become even more important. So there’ll be a bunch of adjustment. Folks will have to say, oh man, the stuff we thought was really important before isn’t as important, whereas these other advantages that we never really thought of as advantages are now super important. So I guess what I would say is, you know, companies will need to adapt very fast and think about what really matters for them, what their real advantages are. Um, but, but I think some of those advantages are going to, are going to, are going to stay around because, you know, while the technology is very broad, it does have its limits. 
+
+17:23 [Speaker 2] I don’t know if I buy that fully. I think I see the diminishing returns for being a service provider even if the moat is the network and relationships they hold today because if I am using OpenClaude to maneuver some of my relationships and the conversations, I don’t know if it’s too far-fetched to assume that most conversations tomorrow and relationships will be maintained by an agent like that. 
+
+17:50 [Speaker 1] But, you know, if, if you, if you just think of the chain of companies, right? At the end of the day, you’re dealing with consumers, right? Like at, at the end of the day you have to deal with people. So, you know, there’s this story of like, you know, I think it was Jeff Hinton predicted, you know, that, that AI will replace radiologists. And indeed, AI has gotten better than radiologists at, you know, at doing scans, right? But what happens today is there aren’t less radiologists. Um, uh, what the radiologist did, does is they walk the patient through the scan and they kind of talk to the patient. So the the most highly technical part of the job has gone away, but somehow there’s some still some demand for like, you know, the, the kind of underlying human skill. Now that may not be true everywhere and, you know, perhaps over time AI will advance in, in, you know, areas where it, where it hasn’t, hasn’t yet advanced and, you know, may- maybe, maybe that’ll happen fast. Um, but, you know, what I think, I think what I will say is like, you know, we should take it one step at a time, right? This is a very empirical science. This is a very empirical observation. Let’s see what AI does, you know, today and like we’ll kind of try and adapt to, uh, you know, kind of try and adapt to that. The kind of system starts to figure it out and then then we’ll see then we’ll see what happens next. I, you know, I do think, you know, in the long run, will AI be better than us at, at basically everything? Will it be better than most humans, you know, including even the physical world and robotics and the human touch? Yeah, I, you know, I think that is, uh, uh, you know, I think, I think that is, uh, uh, you know, possible, maybe even likely. It’s something that goes beyond the country of geniuses in a data center idea I described because that’s purely virtual. Um, but, you know, building robots is something, you know, something it’s a skill, it’s something you can do. So maybe the AIs will make us will make us better at that as well. Um, uh, but you know, the the way I think about it is, you know, we need we need to figure this out we need to figure this out step-by-step and figure out how to adapt to it. 
+
+19:58 [Speaker 2] This might sound a bit self-serving to the people who know me because I believe the reason so much risk capital exists in America, not the only reason, but one of the big reasons is how big your stock market is and how much of an opportunity it is for this risk capital to exit eventually. Um, it’s a case for why India should really allow for our stock markets to flourish. The audience that I speak to is very much the wannabe entrepreneur in India. What can they do in AI? What is an actual opportunity?
+
+20:32 [Speaker 1] I think there’s a lot of opportunities around building at kind of the application layer. We release a new model every two or three months, and so there’s an opportunity every two or three months to build some new thing that wasn’t possible before, that wouldn’t have worked before because the models were weak. Um, people in fact say, people were, you know, the majority of our revenue still comes from the API model. People say that, you know, API models aren’t viable or that they’ll be commoditized or whatever. I think what people are not seeing is there’s this expanding sphere of what is possible with AI, and the API allows, you know, this new startup to try making something that, you know, wasn’t possible before. And and this is why the API is such a flourishing business and it’s it’s constantly in motion, it’s constantly in churn and so it doesn’t, you know, it doesn’t get commoditized. It’s a very dynamic thing. And so I think there’s an opportunity for lots of lots of individuals to just say, you know, what can I what can I build? Well, you know, what what what can I build on top of these models with an API? Like, you know, what are the things that I can make that others cannot make? Um, uh, you know, what are some new ideas? And, you know, we’ve, we’ve, we’ve seen that, you know, we see both with the API itself and with Claude code. Um, you know, I think the, um, number of users and the number of revenue we’ve seen in India has doubled since I last visited in October. So that was what? November, December, it’s like three, three and a half months since I visited. It’s doubled. 
+
+22:03 [Speaker 2] But I’m going to be candid here, Dario. Uh, you’re a company which is worth, I don’t know, 400 billion or 380 billion today, you’ve raised 35 billion, you do 15 billion of revenue, but going up really, really fast. If I build an application on top of Claude, that for some reason, I’m sitting in Bangalore in J.P. Nagar and building this. That for some reason happens to work for a short period of time. Um, it is but a matter of time before you would want to onboard that revenue and not let that lie with me, and you will probably better that application in a manner that I will never be able to. I’ve heard this argument for different people like the Harvey, the legal AI company in in New York. They’re friends of mine, and they were talking about how they built on top of OpenAI, but eventually they don’t know if it’s a easy fix for OpenAI to do what they’re doing. So even if I were to build, say you put out a model in three in three months or six months, what is to stop you from taking that revenue center away from me and onto yourself in a certain period of time?
+
+23:13 [Speaker 1] Yeah, so I, you know, I think there’s a few things here. You know, one is I would give the advice that I give to basically any business and say like, you know, like a business should establish a moat. You know, your moat you shouldn’t be just a wrapper, right? Like, you know, I would not advise that, you know, you just say, oh, like, you know, here’s a way to interact with Claude. Like I’m gonna prompt Claude a little bit or I’m gonna build a little bit of a UI around Claude. Like that doesn’t have a moat, and you shouldn’t be worried about Anthropic in particular eating that revenue, anyone can eat that revenue, right? It’s not it’s not super valuable. But, but, you know, what I would say is that in different fields, there are different kinds of moats where you can do something that, you know, it would be difficult for Anthropic to do and, you know, we we don’t want to specialize in it. So for example, you know, there’s a lot of stuff in the bio cross AI space that builds on our API. You know, they want to do biological discovery. Like I happen to be a biologist, but like, you know, most people at Anthropic aren’t biologists. They’re like AI scientists or they’re product people or go-to-market people. So like it’s just really inefficient for us to like step in that space and like do all that work. Um, you know, the same would be applied for, you know, dealing with, you know, financial services industry, right? Where, you know, there’s a huge amount of regulation, like you need to know a bunch of stuff to comply with that regulation, like, you know, it just it doesn’t make sense for us to do that. Now, there are some things that do make sense for us to do. Like, you know, we’re not going to promise never to build first-party products, right? That we should be we should be honest about. For example, a bunch of people at Anthropic write code, and so, you know, we made this internal tool called Claude code, and because we ourselves write code, we have, you know, I think a special and unique insight into, you know, how to use the how to best use the AI.

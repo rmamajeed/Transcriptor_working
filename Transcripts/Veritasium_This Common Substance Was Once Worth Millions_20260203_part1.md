@@ -1,0 +1,404 @@
+---
+title: Veritasium_This Common Substance Was Once Worth Millions_20260203_part1
+audio_file: Veritasium_This Common Substance Was Once Worth Millions_20260203_part1.mp3
+note_id: ff05aa48-7615-4e3f-abc9-ce1b0d1086ee
+date_processed: '2026-02-20'
+classification:
+  primary_domain: Economics
+  sub_domains:
+  - History of Trade
+  - Ice Industry
+  - Entrepreneurship
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: John Gorrie
+    role: Florida doctor
+    contribution: Treated patients with yellow fever using ice
+  - name: Frederick Tudor
+    role: Boston merchant
+    contribution: Established the ice trade in the West Indies
+  works_cited: []
+  concepts_mentioned:
+  - Ice trade
+  - Refrigeration
+  - Monopoly
+  - Entrepreneurship
+  - Innovation
+  laws_theories_cited:
+  - Square-cube law
+concepts:
+- name: Ice trade
+  definition: The business of harvesting, transporting, and selling ice
+  parent_concepts:
+  - Trade
+  related_concepts:
+  - Refrigeration
+  - Monopoly
+  abstraction_level: Applied
+  confidence: 1.0
+- name: Refrigeration
+  definition: The process of cooling or preserving food and drinks
+  parent_concepts:
+  - Thermodynamics
+  related_concepts:
+  - Ice trade
+  - Innovation
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: Monopoly
+  definition: A market structure where one company dominates the market
+  parent_concepts:
+  - Economics
+  related_concepts:
+  - Ice trade
+  - Entrepreneurship
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: Entrepreneurship
+  definition: The process of starting and running a business
+  parent_concepts:
+  - Business
+  related_concepts:
+  - Ice trade
+  - Innovation
+  abstraction_level: Practical
+  confidence: 1.0
+- name: Innovation
+  definition: The process of introducing new or improved products or services
+  parent_concepts:
+  - Business
+  related_concepts:
+  - Ice trade
+  - Refrigeration
+  abstraction_level: Practical
+  confidence: 1.0
+relationships:
+- source_concept: Ice trade
+  target_concept: Refrigeration
+  relationship_type: supports
+  strength: 1.0
+  evidence: The ice trade enabled the preservation of food and drinks
+  reasoning: The ice trade provided a means of cooling, which is a fundamental aspect
+    of refrigeration
+- source_concept: Monopoly
+  target_concept: Ice trade
+  relationship_type: causes
+  strength: 0.9
+  evidence: Frederick Tudor's monopoly on the ice trade
+  reasoning: Tudor's control of the ice trade led to a monopoly
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Economics
+  source_concept: Monopoly
+  target_domain: Biology
+  target_concept: Ecological niche dominance
+  insight: Similarities between market domination and ecological niche dominance
+  explanation: Both concepts involve a single entity dominating a particular space,
+    whether it's a market or an ecological niche. This can lead to a decrease in diversity
+    and an increase in vulnerability to disruptions. The structural similarity lies
+    in the concentration of power or resources, which can have far-reaching consequences.
+    For instance, a monopoly in economics can stifle innovation, while a dominant
+    species in an ecosystem can outcompete other species for resources.
+  potential_applications:
+  - Competition policy
+  - Ecological conservation
+  confidence: 0.9
+  historical_example: The breakup of Standard Oil in 1911 and the decline of the passenger
+    pigeon due to overhunting
+- connection_type: principle_application
+  source_domain: Economics
+  source_concept: Refrigeration
+  target_domain: Engineering
+  target_concept: Thermal management
+  insight: Applying refrigeration principles to thermal management in engineering
+  explanation: The development of refrigeration technology has direct applications
+    in engineering, particularly in the field of thermal management. The principles
+    of heat transfer and insulation can be applied to design more efficient cooling
+    systems for electronic devices, vehicles, and buildings. This can lead to significant
+    energy savings and improved performance.
+  potential_applications:
+  - Data center cooling
+  - Electric vehicle thermal management
+  confidence: 0.8
+  historical_example: The development of absorption refrigeration by Ferdinand Carré
+    in 1876
+- connection_type: metaphor
+  source_domain: Economics
+  source_concept: Ice trade
+  target_domain: Logistics
+  target_concept: Supply chain management
+  insight: The ice trade as a metaphor for modern supply chain management
+  explanation: The ice trade, which involved harvesting and transporting ice from
+    frozen lakes to urban centers, can be seen as a metaphor for modern supply chain
+    management. Both involve the coordination of complex networks to deliver perishable
+    goods to customers. The ice trade required careful planning, logistics, and infrastructure
+    development, all of which are still relevant in modern supply chain management.
+  potential_applications:
+  - Cold chain logistics
+  - Perishable goods transportation
+  confidence: 0.7
+  historical_example: The ice trade in 19th-century New England
+- connection_type: historical_precedent
+  source_domain: Economics
+  source_concept: Entrepreneurship
+  target_domain: Psychology
+  target_concept: Risk-taking behavior
+  insight: Historical examples of entrepreneurship as a precursor to understanding
+    risk-taking behavior
+  explanation: The study of entrepreneurship and innovative endeavors can provide
+    valuable insights into risk-taking behavior. Historical examples of entrepreneurs,
+    such as Frederick Tudor, who pioneered the ice trade, can help psychologists understand
+    the motivations and decision-making processes behind risk-taking behavior. This
+    can inform the development of interventions to promote entrepreneurship and innovation.
+  potential_applications:
+  - Entrepreneurship education
+  - Risk assessment tools
+  confidence: 0.8
+  historical_example: The entrepreneurial spirit of Frederick Tudor
+- connection_type: principle_application
+  source_domain: Economics
+  source_concept: Innovation
+  target_domain: Computer Science
+  target_concept: Artificial intelligence
+  insight: Applying innovation principles to artificial intelligence development
+  explanation: The principles of innovation, such as experimentation, iteration, and
+    learning from failure, can be applied to the development of artificial intelligence.
+    This can lead to the creation of more adaptive and resilient AI systems that can
+    learn from experience and improve over time.
+  potential_applications:
+  - AI-powered entrepreneurship tools
+  - Innovation management software
+  confidence: 0.9
+  historical_example: The development of the first AI-powered chatbot, ELIZA, in 1966
+bridge_concepts:
+- concept: Network effects
+  appears_in_domains:
+  - Economics
+  - Computer Science
+  - Biology
+  role: Describes how the value of a network increases with the number of nodes or
+    users
+  examples:
+  - Social media platforms
+  - Epidemic spreading
+  - Ecological networks
+- concept: Scalability
+  appears_in_domains:
+  - Economics
+  - Engineering
+  - Computer Science
+  role: Describes the ability of a system to handle increased load or demand
+  examples:
+  - Cloud computing
+  - Supply chain management
+  - Traffic flow
+mental_models:
+- name: Systems thinking
+  description: A holistic approach to understanding complex systems and their interactions
+  applied_to:
+  - Economic systems
+  - Ecological systems
+  - Social networks
+  transferable_to:
+  - Urban planning
+  - Public health policy
+  - Business strategy
+- name: First principles thinking
+  description: A method of analysis that involves breaking down complex systems into
+    their fundamental components
+  applied_to:
+  - Physics
+  - Economics
+  - Computer Science
+  transferable_to:
+  - Product design
+  - Financial analysis
+  - Scientific research
+analogies_used:
+- source_domain: Biology
+  source_concept: Ecosystems
+  target_domain: Economics
+  target_concept: Markets
+  mapping:
+    Species: Firms
+    Niche: Market segment
+  pedagogical_value: Helps to understand the complex interactions between firms and
+    their environment
+- source_domain: Physics
+  source_concept: Thermodynamics
+  target_domain: Economics
+  target_concept: Energy efficiency
+  mapping:
+    Energy: Resources
+    Entropy: Waste
+  pedagogical_value: Illustrates the importance of energy efficiency in economic systems
+tags:
+  hierarchical:
+  - '#Economics → #Trade → #IceTrade'
+  - '#Business → #Entrepreneurship → #Innovation'
+  topical:
+  - '#IceTrade'
+  - '#Refrigeration'
+  - '#Monopoly'
+  methodological:
+  - '#HistoricalAnalysis'
+  - '#CaseStudy'
+  people:
+  - '#FrederickTudor'
+  - '#JohnGorrie'
+  concepts:
+  - '#IceTrade'
+  - '#Refrigeration'
+  - '#Monopoly'
+  temporal:
+  - '#19thCentury'
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  In the early 19th century, Frederick Tudor, known as the "Ice King," built a vast
+  network of ships and ice houses to transport and sell ice, which was a rare and
+  expensive commodity at the time. However, his monopoly was eventually threatened
+  by Dr. John Gorrie, who invented a machine that could create artificial ice, but
+  Gorrie''s invention was suppressed by Tudor and he died in poverty. The concept
+  of artificial ice was later developed by others, including James Harrison, who created
+  the first commercially successful refrigeration system, ultimately leading to the
+  downfall of Tudor''s natural ice empire and the widespread use of refrigeration
+  today.'
+key_ideas: []
+---
+## Key Concepts
+
+**Ice trade**  
+The business of harvesting, transporting, and selling ice
+
+**Refrigeration**  
+The process of cooling or preserving food and drinks
+
+**Monopoly**  
+A market structure where one company dominates the market
+
+**Entrepreneurship**  
+The process of starting and running a business
+
+**Innovation**  
+The process of introducing new or improved products or services
+
+## Cross-Domain Connections
+
+**Economics → Biology**
+
+*Similarities between market domination and ecological niche dominance*
+
+Both concepts involve a single entity dominating a particular space, whether it's a market or an ecological niche. This can lead to a decrease in diversity and an increase in vulnerability to disruptions. The structural similarity lies in the concentration of power or resources, which can have far-reaching consequences. For instance, a monopoly in economics can stifle innovation, while a dominant species in an ecosystem can outcompete other species for resources.
+
+**Economics → Engineering**
+
+*Applying refrigeration principles to thermal management in engineering*
+
+The development of refrigeration technology has direct applications in engineering, particularly in the field of thermal management. The principles of heat transfer and insulation can be applied to design more efficient cooling systems for electronic devices, vehicles, and buildings. This can lead to significant energy savings and improved performance.
+
+**Economics → Logistics**
+
+*The ice trade as a metaphor for modern supply chain management*
+
+The ice trade, which involved harvesting and transporting ice from frozen lakes to urban centers, can be seen as a metaphor for modern supply chain management. Both involve the coordination of complex networks to deliver perishable goods to customers. The ice trade required careful planning, logistics, and infrastructure development, all of which are still relevant in modern supply chain management.
+
+## Full Transcription
+
+ 
+
+---
+
+00:00 **Speaker 1**: In the summer of 1841, Florida doctor John Gorrie faced a dire situation. Yellow fever, also known as the black vomit, was sweeping through his town, wiping out entire families. 
+Patients came to Gorrie's small infirmary, jaundiced and burning with fevers up to 40 degrees Celsius. 
+To cool his patients down, Gorrie couldn't turn to refrigeration because that hadn't been invented yet. So he came up with a radical treatment. He suspended pans of ice in his infirmary, allowing the cool dense air to flow down over his patients, providing much needed relief. 
+But this treatment was almost impossible to sustain because it required hundreds of kilograms of ice per day, and Gorrie had only one way to get it. 
+He relied on ice blocks that were transported thousands of kilometers through a now-forgotten ice empire: a vast network of ships and ice houses, all built and controlled by one man, known to the world as the Ice King. 
+Over the previous 35 years, he had forged a monopoly that spanned the globe, and anyone who wanted ice was at his mercy. 
+Gorrie only got a few deliveries each year, and now, by the peak of summer, the cost of just a few days’ ice for the infirmary would have been more expensive than the average yearly wage. So locals began to refer to the ice as "white gold." 
+As Gorrie's supply ran out, he was forced to watch his patients suffer and die. It was in that moment that he decided he would find a way to free the world from the grip of the Ice King. 
+
+01:43 **Speaker 1**: By the turn of the 19th century, most of America's ice came from the northern states, where thousands of square kilometers of lakes would freeze over for much of the year. The hard part was getting all that ice out. 
+
+02:00 **Speaker 2**: To get ice out of a lake or river, first of all, you had to trust that it was deep enough to support your weight, though there's no way to really tell. Then you had to walk out several feet onto this plain of ice, take a saw that's as long as I am tall, and then carve the very ice that you're standing on, and just, you know, hope to heaven that it doesn't sink. 
+Then you had to kind of float it to shore and a horse would help to kind of pull the ice into the back of a wagon. 
+It was frequently common for the harvesters and their horses to fall through into the ice, sometimes to their death. 
+
+02:37 **Speaker 1**: This dangerous and painstaking process meant that ice remained a rare commodity, available mostly to wealthy landowners. One of the few who had access to it was 22-year-old Boston merchant Frederick Tudor. 
+In the winter of 1805, Tudor was thinking back to a tragic incident that had happened four years earlier. He and his brother came down with a bad fever while visiting the Caribbean. Back home, they would have just asked their servants to get some ice. But on the islands, ice was unheard of. With no way to cool down, the brothers cut their trip short and returned to America. And while Frederick recovered, his brother did not. 
+Today, we know that ice wouldn't have saved his brother's life because he likely suffered from a rare case of bone tuberculosis. But at the time, Tudor believed that it was the lack of ice on the islands that was responsible for his brother's death. 
+It was this painful memory that gave him an idea: what if he could be the one to bring ice to the Caribbean and, in the process, make his fortune? 
+So Tudor got to work. He hired dozens of men to gather ice and approached investors to help finance a ship. But to the investors, this plan seemed ridiculous. Tudor wrote, "People only laugh when I tell them I'm going to carry ice to the West Indies," which is understandable because the journey would take three weeks, sailing through warm seas under the blazing Caribbean sun. I mean, can you really transport ice in those conditions for that long? Wouldn't it all just melt? 
+It turns out people had figured out ways to make ice last a long time even thousands of years ago. 
+As far back as 500 BC, in the scorching summers of the Persian Empire, ancient kings like Xerxes enjoyed refreshing frozen desserts even when the outside temperature climbed as high as 35 degrees Celsius. 
+Now, ice in the desert might seem strange, but during the winter months, temperatures can drop dramatically. So the Persians filled shallow pools with water, which would freeze overnight, and in the morning, they would break up the ice sheets and collect the pieces. To make that ice last until the summer, they used three key techniques. 
+Let's try a simple experiment. I have eight ice cubes spread evenly in one dish here, and I have another eight ice cubes now stacked together in one megacube in this dish over here. Now, if you leave these two plates to melt for a few hours, the stacked ice cubes fare a lot better. 
+And that's because the main way ice melts is through heat conduction on its surface. So even though the volume was the same, the surface area exposed here is double what we had here. The key idea here is that you want to pack your ice as tightly as possible. 
+In fact, the best shape to minimize the surface area is a sphere. So if you think about it, a snowman is pretty much mathematically optimal to survive as long as possible. 
+But you don't need perfect geometry to make ice last a long time. In the winter of 2010, the city of Helsinki dumped all the snow plowed from their streets onto this huge pile, around 30 meters high and 100 meters wide. Almost a year later, that very same pile was still around, despite being exposed to one of the country's hottest summers in decades. 
+The main reason it lasted so long is because the ratio of surface area to volume actually decreases for larger and larger amounts of ice. For example, if you double the radius of this snowman, then the volume of ice increases by a factor of 2 cubed or 8, but the surface area only increases by a factor of 2 squared or 4. This is known as the square-cube law, which was the second technique used by the Persians. And finally, they needed a way to shield the ice from the harsh desert. 
+Okay, I have another example: two ice cubes, two dishes. The only difference really is going to be that I have this fan, which is going to be blowing air onto this ice cube. Now it's not heating any of the air; it's just blowing away any air the ice would have chilled for itself, and it's introducing more warm ambient temperature air, which heats the ice cube better. 
+After about an hour of the fan blowing, this ice cube is completely gone, whereas this one is only about 40 percent melted. So obviously you want to minimize the amount of air flow that you're getting around your ice. One way you can do that is by putting the ice in a deeper dish like a pit because colder air sinks to the bottom so it collects around the ice and lets it stay there for longer. And a way you can one-up that is to seal the ice, which is exactly what the Persians did. 
+This is a yakhchāl, an ancient Persian ice house. It's a massive domed structure with walls up to 2 meters thick at the base. Here, the Persians collected up to 220 tons of ice and packed it tightly together in a pit. This allowed the cold dense air to collect while warm air was funneled up and out of the dome. After the winter, the entire structure was sealed up, insulating the ice until summer. 
+For the next 2300 years, these techniques barely changed. And now, Tudor was ready to bet his fortune on these ancient principles. So he mortgaged land on his family estate to buy a ship, and he began modifying it for the long journey to the West Indies. 
+
+07:56 **Speaker 2**: He did that by building out a cargo hold in a ship that was built similarly to the ice houses. The ice was elevated off the ground so it wasn't sitting in meltwater, because meltwater, you know, speeds up the melting of ice. And the blocks of ice were also packed really tightly. 
+
+08:14 **Speaker 1**: Tudor went all in, sinking a full $10,000 of mostly borrowed money into the venture, which is the equivalent of over a quarter million dollars today. He sent his younger brother and his cousin ahead to the island of Martinique to build an ice house ready to receive the cargo. 
+On the morning of February 13th, 1806, Tudor departed Boston Harbor, carrying with him over 80 metric tons of ice, the first shipment of its kind. The Boston Gazette ran an article that read: "No joke, a vessel has cleared at the custom house with a cargo of ice. We hope this will not prove a slippery speculation." 
+After nearly three weeks at sea, Tudor's ship arrived and, to his relief, around half of the ice had survived the trip. 
+But there was a problem: his brother and cousin had failed to build an ice house. So with no place to store the ice, Tudor had to sell it straight off the dock under the hot sun. He sold as quickly as possible, but after two days, he had only made about $50. The locals were confused by this strange frozen water, and many were shocked when their new product disappeared before their eyes. One customer tried to save his precious ice by submerging it in a bath of water, only to find it vanished even faster. 
+In the end, all Tudor could do was watch his remaining ice melt away. Yet somehow he was undeterred, and over the next four years he continued to borrow money, using every cent to ship ice to new markets like Cuba, Jamaica, Barbados, and Antigua. 
+But business remained difficult. Tudor wrote: "I found myself without money and without friends, and with only a cargo of ice in a torrid zone to depend on for the supply of both." 
+By 1809, Tudor owed $40,000 to investors, which is over a million bucks today. He was hounded by creditors, he was forced to hide from sheriffs on his own ships, and he was even sent to debtors' prison twice. He later described it as "the winter of my discontent." But during that time, he had a revelation: the reason demand wasn't picking up was because the people of the West Indies didn't know what to do with ice. So all he had to do, he reasoned, was make them understand, by offering them some refreshing drinks. 
+
+10:35 **Speaker 2**: He convinces the bartenders there to let him show them how to make icy cocktails. And he gives the ice initially to the bartenders for free, so the bartenders can sell both the icy drink and the room temperature drink at the same price, just to see what their customers prefer. And low and behold, they prefer the icy drink. 
+
+10:57 **Speaker 1**: In Tudor's own words: "A man who has drunk his drinks cold at the same expense for one week can never be presented with them warm again." 
+Tudor even showed them how to make ice cream, which became an instant hit, especially in Cuba. 150 years later, during the Cuban Revolution, its leader Fidel Castro was obsessed with ice cream. He was actually known to eat up to 18 scoops after lunchtime, which is a bit crazy. His sweet tooth was so famous that the CIA actually tried to assassinate him with a poisoned milkshake. 
+Now, back in Tudor's day, his work was finally paying off. The cafe owners in the West Indies started asking him for more and more ice, and he realized that he could increase his profits just by refining his methods. So he started using sawdust to insulate his ice on the ships, because sawdust was a phenomenal insulator that you could basically get for free from all the sawmills around Boston; they were just trying to get rid of it. 
+And he also replaced the manual saws at the lakes with horse-drawn plows, which made it all the easier to get the ice out. Because of that, the price of extracting a ton of ice dropped from around 30 cents all the way down to 10 cents. 
+By the 1820s, Tudor was finally turning a profit and the ice trade began to pick up, so much so that copycat businesses began to crop up. But Tudor wasn't about to let anyone else have a share of the market he created. So to maintain his monopoly, he often undercut his competition until they either gave up or went out of business. 
+Tudor's ambition didn't end there, and he wrote that there was "an experiment I have been desirous of making for 20 years." In 1833, he took on his biggest challenge yet: a four-month journey to ship ice halfway across the world to Calcutta, India. And despite the trip being five times longer than his first one to the Caribbean, more than half of the ice survived. 
+In India, the ice was a big hit. Over the next 20 years, Tudor made around $220,000 in Calcutta alone, making it one of his most profitable ventures. Over that same period, he rapidly expanded his empire, opening routes to Brazil, Singapore, Hong Kong, and even Australia. His yearly sales went from less than 10,000 tons in the 1830s to a record high of 132,000 tons in 1856. 
+Seeing the wealth and power of his monopoly, the world gave Tudor a new name: "The Ice King." 
+In under 50 years, the ice trade had become one of the largest industries in the US and its second largest export by weight. What was once a luxury product became a commodity. By the 1860s, devices known as ice boxes started popping up in ordinary kitchens. Essentially they were insulated wooden cabinets with a compartment for ice at the top, which would then cool down the food underneath, keeping it fresh. Families across the country soon bought ice daily or weekly, with the average New Yorker buying over 600 kilograms a year. This surge in demand resulted in a curious new profession: the iceman. 
+The iceman would go door to door delivering huge blocks of ice up to 45 kilograms. And while home delivery was nothing new in the 19th century, the iceman was unique in that he needed to go inside your house to make his delivery. 
+
+14:25 **Speaker 2**: All kinds of rumors and jokes and cultural thoughts started to, you know, to crop up. And if you look at some of the most popular songs at the time, "She fell in love with the iceman" or "The iceman took my wife." If you look at old Valentine's Day cards that were circulating at this time, they all had puns about the iceman, "The iceman made my wife too hot, he was supposed to deliver ice." Like, it was so silly. 
+
+14:55 **Speaker 1**: Consumption of ice in big cities like New York skyrocketed, and by the end of the 19th century, ice had grown into a billion-dollar business. And while part of the demand was due to home ice boxes, the real driving force was several new industries. 
+
+15:11 **Speaker 2**: The ice industry also launched the fish industry, the meatpacking industry, the brewery industry. It became like this multi-level industry. When we get to the point where there are railroads, then comes the invention of the refrigeration car: railroad cars that were insulated with ice boxes to carry things that are perishable. 
+
+15:34 **Speaker 1**: So if you think about it, fresh fruits and vegetables that have been region-locked now can become national staples. So you have apricots and cherries from California, you have strawberries from Florida, they can all go inland. 
+Actually, you want to guess the name of a vegetable that was really popularized with these chilled cars? Chilled vegetable? I'm going to guess lettuce. Which one? Iceberg. It's got to be iceberg, right? Exactly. You know, it's like crunchy water, it's like ice, iceberg lettuce. It is crunchy water, but it was actually called iceberg because of the ice that kept it fresh. 
+This change marked the beginning of a new system called the "cold chain," and for the meatpacking industry, it was a huge upgrade. Previously, the only way to transport fresh meat was by sending rail cars filled with live cattle straight from farms to cities. Then the animals had to be brought into the city and held in local stockyards before they were prepared by local slaughterhouses and butchers. The result was that city centers were filled with dirty, noisy cows. And on top of that, since almost half of the animal was inedible, shipping was extremely inefficient, pushing up the cost. 
+But with chilled rail cars, all this changed and the country's supply chain reorganized into three parts. First, ranches across the Great Plains funneled their cattle to cities in the Midwest. Taking on the role of industrial food preparation and distribution, these cities built up vast stockyards, slaughterhouses, and rail hubs to send the meat onward. Chicago emerged as the nation's meatpacking capital, ballooning in size from just 30,000 people in 1850 to 1.7 million in 1900. 
+And at the end of the journey were the large, insatiable cities. With the new system in place, almost twice as much edible meat could be transported in each rail car, eventually dropping the cost in urban areas by 39 percent. As a result, demand soared. In New York City alone, beef shipments rose from just 2,400 tons in 1882 to around 63,000 tons in 1886. That's a 25-fold increase in just four years. 
+But more importantly, with a national distribution network to rely on, these cities no longer needed to prepare meat locally. They could finally get rid of all the infrastructure and herds of cows in the city center, freeing up the land for things like housing, offices, and factories. This fundamentally changed their structure and gave rise to the modern city of today. 
+
+18:02 **Speaker 1**: But while the cold chain was redefining America, a new invention was about to overthrow the natural ice industry, which brings us back to Dr. John Gorrie in the 1840s. A few scientists had devised and even built prototype cooling machines, but they weren't commercially viable. And Gorrie wasn't faring any better. He had spent three years struggling to make artificial ice with no success. 
+But one night, while experimenting with an air pump to drain a bucket, he noticed that if he let the air expand quickly, it formed a thin layer of ice on the surface of the water. He had just stumbled upon the breakthrough he needed, and he set about creating a prototype based on this idea. 
+Take a sealed cylinder filled with air and a piston that can move inside it. We'll assume there's no friction or heat loss to the environment. When the piston pushes down, the air is compressed, increasing its pressure and temperature. The reason the temperature increases is because as the piston pushes down, it moves toward the air molecules. So when a molecule bounces off this moving surface, it gains a little bit of speed. And since the temperature is proportional to the molecules' speed squared, the air must heat up. 
+But notice that this process is completely reversible. If the piston is released, the high-pressure air pushes the piston back until the pressure equalizes. So now, when one of the molecules bounces off the piston, it loses a little bit of speed. Gorrie knew that if he simply let all of this hot, high-pressure air expand, it would return back to roughly its original temperature, which wouldn't be very helpful. 
+But what if he first cooled the air and then let it expand? Well, then its temperature would drop far lower than the ambient air. He started with a similar setup: a cylinder and a piston that were powered by a hand crank, which he then attached to a large air tank. As Gorrie turned the crank, the piston moved down, compressing the air and raising its temperature. To prevent the air from being sucked out of the large tank, Gorrie added a one-way valve at the bottom of the cylinder. He also added a similar valve at the top of the piston so that the cylinder could refill with fresh air. 
+So now, with each turn of the crank, more and more air was added to the tank, which allowed Gorrie to increase the pressure to around 10 atmospheres. But then he added one extra step. In between the piston and the tank, he placed a big bucket of water, and he forced the air through a submerged pipe. This cooled the air down to around the same temperature as the water. The result was that his tank was still filled with high-pressure air, but instead of being hot, it was cool. 
+So now, when Gorrie released some of his cool air into another cylinder with a piston, the air rapidly expanded. This cooled the air down below its starting point and dropped it to freezing temperatures. Gorrie then placed this entire cylinder inside a large tank of water, finally making ice. 
+But to avoid the entire tank freezing solid and clogging up his machine, he used one final trick. Instead of fresh water, he filled the final tank with salt water, which freezes below zero degrees Celsius. Since the salt water remained liquid, he then submerged metal molds of fresh water until they froze into solid blocks, essentially creating the world's first ice cube tray. For the first time ever, ice could be created anywhere, even in the heat of the Florida summer. 
+
+21:29 **Speaker 2**: And when he, you know, says to the world, "Like, I've invented ice," the reaction was "the hell you have!" You know, "No man should be creating ice, only God can create ice." 
+And what John Gorrie also didn't realize is that in the first public venues in which he announces his ice machine, Frederick Tudor has his associates in the audience. And Frederick Tudor is a man who does not take lightly to threats to his empire. And what bigger threat to the natural ice harvesting empire is there than human-made ice? 
+
+22:04 **Speaker 1**: There was no way the Ice King was giving up his empire without a fight. What he ends up doing is he ends up paying editors up and down the eastern seaboard at newspapers to publish scandalous news articles about John Gorrie. So everywhere from Tallahassee up to New York, you see newspapers publishing headlines like "There's this crank that thinks he can make ice as good as God Almighty." 
+And ultimately, John Gorrie, he does patent his machine, but he never makes a dime on it. Gorrie spent the next few years in financial ruin. A decade later, he died alone and penniless, most likely succumbing to malaria. There are reports he suffered an extremely high fever in his final days, the very symptom he had tried to alleviate for so many years. 
+But Gorrie's invention hadn't been completely ignored. Soon others began work on artificial cooling machines, including James Harrison, a Scottish-born engineer working in Australia. Harrison noticed that Gorrie's machine had one big drawback: it relied on just two components to move heat—a compressor and an expansion engine. So instead of using air to cool his machine, he tried a different approach. 
+I have a can of freeze spray here, which is a liquid that when I press down on this button comes out and immediately evaporates into a very, very low-temperature gas. So what I'm going to do is I'm going to blast it at this cup of water, and the process is actually so effective that in essentially under a minute, I'm able to get some ice to form in there. Okay, so after a layer of water, what you get is a bunch of ice. 
+Now, the reason this works is because something special happens when a substance changes phase. So in order to go from a liquid to a gas, it needs to absorb a lot of energy. And pretty much all this energy goes into overcoming the force of attraction between molecules so that they can disperse and go into the gas phase. 
+Harrison realized he could take advantage of this effect by forcing a fluid to continuously evaporate and condense as it's going through a loop. A modern version looks something like this. 
+Start by adding a liquid under high pressure to a loop. Passing this liquid through an expansion valve quickly drops the pressure and temperature, causing some of the liquid to immediately turn into a gas. The mixture then passes into an evaporator coil where the remaining liquid continues to boil. But this phase change requires a lot of energy, so the liquid absorbs heat from the environment, and this is what creates the cooling effect. 
+The cold gas is then cycled through a compressor, raising its temperature, and then it's pushed through a condenser coil. Here the hot gas cools and turns back into a liquid, releasing the absorbed heat back into the environment, before returning to the expansion valve. 
+By repeating this cycle over and over again, James Harrison was able to build the first commercially successful refrigeration system. These machines were soon adopted by meatpackers and breweries, and eventually led to the electric refrigerator in your kitchen today. 
+The Ice King's empire, built on natural ice, eventually collapsed. In the end, John Gorrie's vision of a world free from the grip of the Ice King came true, but only after his death. Today, we take refrigeration for granted, but it all started with a simple idea: that ice could be harvested and transported halfway across the world, and eventually created anywhere, even in the heat of a Florida summer.

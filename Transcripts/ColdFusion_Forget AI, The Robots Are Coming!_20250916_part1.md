@@ -1,0 +1,402 @@
+---
+title: ColdFusion_Forget AI, The Robots Are Coming!_20250916_part1
+audio_file: ColdFusion_Forget AI, The Robots Are Coming!_20250916_part1.mp3
+note_id: d8e3b19a-2074-421b-9e58-d76641fde0fe
+date_processed: '2026-03-08'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+## Full Transcription
+
+ Let's begin.
+
+00:00 - 00:03 **Speaker 1:** Oh, excuse me. Do you have a band-aid?
+
+00:03 - 00:08 **Speaker 1:** Because I scraped my knee falling for you.
+
+00:08 - 00:12 **Speaker 1:** Can I get your number for emergency contact?
+
+00:13 - 00:13 **Speaker 2:** Yes.
+
+00:14 - 00:21 **Speaker 1:** Hahaha!
+
+00:22 - 00:29 **Speaker 3:** Hi, welcome to another episode of ColdFusion. As far as technology goes, artificial intelligence is currently at the center of conversation.
+
+00:29 - 00:39 **Speaker 3:** But while everyone has been focused on that, in just the last three years, the field of robotics has experienced a silent revolution.
+
+00:39 - 00:44 **Speaker 3:** There's been advancements like I've never seen before, especially in the field of general-purpose humanoid consumer robots.
+
+00:45 - 00:54 **Speaker 3:** This is the world's first Humanoid Robot Olympics in Beijing, China. With robots from over 16 competing nations, events included soccer, track and field, and martial arts.
+
+00:54 - 01:05 **Speaker 3:** Although they're essentially schadenfreude entertainment for us humans, this event is just the latest demonstration of the sudden proliferation of humanoid robots.
+
+01:05 - 01:14 **Speaker 3:** Meanwhile, American company Figure is using AI and advanced dexterity to demonstrate that humanoid robots can, indeed, do useful work.
+
+01:15 - 01:21 **Speaker 3:** From sorting packages to folding clothes and working at the BMW factory in 20-hour shifts.
+
+01:21 - 01:29 **Speaker 3:** Helix, a humanoid robot by Figure, showcases its ability to perform household chores by autonomously loading laundry into a washing machine.
+
+01:29 - 01:38 **Speaker 3:** In this episode, we'll explore the latest in the field of robotics, complete with my interview with Carolina Parada, head of robotics at Google DeepMind.
+
+01:39 - 01:46 **Speaker 3:** So why am I doing a video on humanoid consumer robotics? Really, I just find robotics technology fascinating.
+
+01:46 - 01:54 **Speaker 3:** Yes, a lot of people do talk about further societal or social long-term implications that may or may not happen, but sometimes it's fun to just think of the technology in a vacuum.
+
+01:54 - 02:04 **Speaker 3:** What makes humanoid robots so interesting to me is that, unlike industrial robots which do pre-programmed repetitive tasks over and over again,
+
+02:04 - 02:11 **Speaker 3:** Humanoid robots, on the other hand, must adapt to and navigate dynamic environments in real time. It's a challenge that's extremely hard to solve.
+
+02:11 - 02:20 **Speaker 3:** This episode will be split into three parts. The first section will look at how far we've come. The second segment will focus on American robots.
+
+02:20 - 02:37 **Speaker 3:** And the third section will be the Chinese robot revolution. We'll look at the top companies, how their tech works, and the interesting different approaches from the Americans and Chinese. So with that out of the way, let's get straight into it.
+
+02:39 - 02:44 **Speaker 4:** I think you'll agree that AR-ROC is amazingly life-like in appearance.
+
+02:44 - 02:51 **Speaker 4:** AR-ROC is 6 feet 8 inches tall, weighs 275 pounds, and even has a small vocabulary.
+
+02:53 - 03:00 **Speaker 3:** As many watchers of this channel would know, I've done a few videos on the state-of-the-art of robotics since 2018. And we've come a long way in just the past 10 years.
+
+03:00 - 03:06 **Speaker 3:** These are some robot finalists from the DARPA Challenge in 2015. They were slow, unstable, and cost an arm and a leg, sometimes up to half a million dollars.
+
+03:06 - 03:09 **Speaker 3:** They were mostly bespoke designs from researchers.
+
+03:10 - 03:16 **Speaker 5:** It's easy to design a robot that can handle a specific task. There's police bots for bomb disposal and things like that.
+
+03:16 - 03:22 **Speaker 5:** Where we aren't is general-purpose robots that could do a lot of things really well.
+
+03:22 - 03:32 **Speaker 3:** Back then, getting a human robot to even walk was ridiculously hard. And for obvious reasons, the consumer robot market didn't even exist.
+
+03:33 - 03:35 **Speaker 3:** In fact, it was a futuristic but distant dream.
+
+03:36 - 03:44 **Speaker 3:** Now, today, for under $6,000, you can pick up this humanoid robot that can do acrobatics.
+
+03:44 - 03:49 **Speaker 3:** Sure, it's a bit wobbly, but come on, you gotta admit that it's a feat to mass-produce this.
+
+03:49 - 03:54 **Speaker 3:** The robot is called the R-1 and was released by the Chinese company Unitree a few months ago.
+
+03:54 - 04:02 **Speaker 3:** Many of you may not have heard of this robot or its company, and it is robots like this that showcase that the price drop in the lower end of humanoid robots has largely gone unnoticed.
+
+04:02 - 04:07 **Speaker 3:** But, if you're looking for something more capable, you can look towards Tesla's Optimus platform.
+
+04:08 - 04:16 **Speaker 3:** When it launches, whenever that may be, it's said to be aiming for a cost of less than 20k, but some estimates believe that it'll be closer to 60k based on the bill of materials.
+
+04:16 - 04:22 **Speaker 3:** So why these companies doing this? Well, one reason is that the global humanoid robot market is projected to reach $38 billion by 2035.
+
+04:23 - 04:30 **Speaker 3:** So, there's potentially a lot up for grabs. But wait, have you ever stopped to wonder why are humanoid robots suddenly everywhere?
+
+04:31 - 04:38 **Speaker 3:** Well, the timing of this explosion in popularity of both humanoid robots and generative AI isn't just a coincidence.
+
+04:39 - 04:47 **Speaker 3:** Think about it. Generative AI systems can see and recognize objects, images, text, or video, and even understand spoken natural language.
+
+04:48 - 04:48 **Speaker 3:** We call this multimodality.
+
+04:49 - 04:57 **Speaker 3:** Using the robot's cameras and microphones, in combination with LLMs, we can then get a crude approximation of human intelligence, or at least the mimicking of it anyway.
+
+04:58 - 05:06 **Speaker 3:** This helps the robot see and understand their environment better than has ever been possible before.
+
+05:07 - 05:13 **Speaker 3:** So we all know generative AI systems may get some things wrong when you're trying to extract precise information from a query, but for robotics,
+
+05:13 - 05:21 **Speaker 3:** It's good enough and it's been key in making the concept of humanoid robots drastically more feasible.
+
+05:22 - 05:31 **Speaker 3:** Robot foundation models built on Transformer Neural Networks combined with the generative AI revolution allow robots to perform with a lower failure rate, even though real-world training data is scarce.
+
+05:32 - 05:40 **Speaker 3:** We'll get to how that's done a bit more when we talk about America's efforts in the consumer robot space.
+
+05:41 - 05:48 **Speaker 3:** But now, as we move along in our journey, if we turn our attention to the state-of-the-art that's produced at scale, that would have to be Figure 02's robot.
+
+05:49 - 05:50 **Speaker 3:** With a hundred thousand robots planned to ship in the next four years.
+
+05:51 - 05:58 **Speaker 3:** And don't worry, we'll get to Boston Dynamics later. But the thing is, their robots really aren't for sale, at least in mass-production numbers.
+
+05:58 - 06:05 **Speaker 3:** Okay, so although I've done a video on Figure before, let's briefly zoom in here to just understand what the state-of-the-art is.
+
+06:06 - 06:11 **Speaker 3:** The first of the American robots is Figure 02. This robot can recognize and respond to natural language to carry out actions.
+
+06:12 - 06:18 **Speaker 3:** Its joints are powered by custom motors, giving the ability to carry up to 25 kilograms or 55 pounds.
+
+06:19 - 06:24 **Speaker 3:** Each hand features 16 degrees of freedom, and each finger has integrated motors and sensors.
+
+06:25 - 06:30 **Speaker 3:** It features six on-board cameras for 3D perception and environment mapping. It of course has speakers and microphones.
+
+06:31 - 06:38 **Speaker 3:** And Figure 02 has a 360-degree field of view, and that's thanks to cameras in its head, torso, and back.
+
+06:38 - 06:45 **Speaker 3:** And if you're wondering about a rough release date, CEO Brett Adcock said in a podcast:
+
+06:45 - 06:49 **Speaker 6:** "Within the next three years, we'll definitely have robots piloting at homes."
+
+06:50 - 06:56 **Speaker 3:** Figure 02's brain was powered by OpenAI, but the company switched to an in-house AI in 2025.
+
+06:56 - 07:01 **Speaker 3:** Now, Figure's robots are powered by the Helix system, a system that they're calling a Vision Action Model, or VLA.
+
+07:02 - 07:08 **Speaker 3:** VLA is a proprietary system which combines visual perception, language comprehension, and motor control into one.
+
+07:09 - 07:16 **Speaker 3:** This means that it can understand scenes, natural language instructions, and translate this data into real-time continuous robot actions.
+
+07:17 - 07:21 **Speaker 3:** Each robot has two GPUs with two systems.
+
+07:22 - 07:27 **Speaker 3:** System number two plans tasks at about eight operations per second, while System one executes them at 200 operations per second.
+
+07:28 - 07:34 **Speaker 3:** The company claims that each robot should be able to pick up nearly any small household object, even if it hasn't seen it before.
+
+07:35 - 07:41 **Speaker 3:** The AI brain Helix was trained on 500 hours of robot teleoperation episodes, each paired with auto-generated text descriptions.
+
+07:41 - 07:49 **Speaker 3:** For those who aren't aware, teleoperation is basically when a human controls a robot. The pairing of the text descriptions with the teleoperated video allows the robot to link language instructions with the right robot actions.
+
+07:50 - 07:57 **Speaker 3:** As for walking, Figure employed reinforcement learning in simulated environments, training thousands of virtual robots to walk naturally.
+
+07:58 - 08:03 **Speaker 3:** Onboard are NVIDIA RTX-based GPU modules, with three times more AI computing capability than Figure 01.
+
+08:04 - 08:08 **Speaker 3:** The battery runtime is about 5 hours per charge.
+
+08:09 - 08:14 **Speaker 3:** In recent demos, Figure 02 loaded towels, crouched to load a washing machine, and more.
+
+08:15 - 08:21 **Speaker 3:** And this was a blatant showcase of early domestic competence. Interesting.
+
+08:21 - 08:29 **Speaker 3:** Before we look at the rest of the robots from China and the US, we should ask ourselves a question: is it necessary to have humanoid robots at all?
+
+08:31 - 08:36 **Speaker 3:** Why not just make machines purpose-built for specific tasks? Well, either approach is equally valid, but humanoid robots do have some advantages.
+
+08:37 - 08:44 **Speaker 3:** The humanoid form is more socially acceptable. In elder care, for example, patients would rather, well, a human,
+
+08:45 - 08:51 **Speaker 3:** But after that, they'd probably find something that looks more human more relatable than a box on wheels or an industrial arm.
+
+08:52 - 09:00 **Speaker 3:** On the practical side, humanoids are designed to operate in environments built for humans. Climbing stairs, opening doors, and using tools. Things like that.
+
+09:01 - 09:07 **Speaker 3:** So, in theory, this means that you don't have to rebuild your home, office, or factory for these robots to work.
+
+09:07 - 09:12 **Speaker 3:** But is the humanoid form always the most practical solution? No, not necessarily.
+
+09:13 - 09:19 **Speaker 3:** A robot with wheels, for example, is faster and more energy-efficient on flat surfaces. A specialized arm could be stronger and more precise in a factory.
+
+09:20 - 09:27 **Speaker 3:** But what humanoid robots do have is versatility and familiarity. For many applications, the trade-off might be worth it. For others, maybe not.
+
+09:34 - 09:39 **Speaker 3:** In the United States, Tesla's Optimus robot has demonstrated tasks from sorting blocks to performing yoga poses.
+
+09:40 - 09:45 **Speaker 3:** Of course, Kim Kardashian has one and was playing Rock Paper Scissors with it.
+
+09:46 - 09:53 **Speaker 3:** A more recent demo shows Optimus taking out the trash, sweeping, and vacuuming, also using paper towels, stirring a pot, opening cabinets, and closing curtains.
+
+09:54 - 09:59 **Speaker 3:** And I think you can see the trend here, at least if the demos are anything to go by. It seems like these robots are destined for the home.
+
+10:00 - 10:07 **Speaker 3:** So for those online who say all I wanted in the future was for AI to do the boring chores while I handle the creative stuff, well you may just have your wish now.
+
+10:08 - 10:14 **Speaker 3:** The Optimus robot was trained using the same neural network used in Tesla's full self-driving system.
+
+10:15 - 10:20 **Speaker 3:** It was also trained on first-person videos of humans performing these actions.
+
+10:20 - 10:25 **Speaker 3:** Tesla employs a simulation-based learning approach, referring to this as "digital dreams."
+
+10:25 - 10:31 **Speaker 3:** And this gives the advantage of training Optimus exclusively in virtual environments, generating a massive amount of training data without any physical wear.
+
+10:32 - 10:40 **Speaker 3:** Perhaps most impressively, is the fact that every Optimus unit contributes to fleet learning, meaning that the entire network continuously improves as more robots gain experience.
+
+10:41 - 10:47 **Speaker 3:** Interestingly, during the training process, Tesla employees wearing motion capture suits perform tasks such as walking, lifting weights, and manipulating objects, all for the purpose of humanizing training data.
+
+10:48 - 10:54 **Speaker 3:** Over 50 operators have contributed hundreds of hours of mimic data, essential for robot learning.
+
+10:55 - 11:01 **Speaker 3:** Currently, inside the bot, are AMD and NVIDIA GPUs, but Tesla is aiming to develop its own in-house AI 5 and AI 6 chips.
+
+11:02 - 11:08 **Speaker 3:** Tesla aims to begin production of 5,000 to 10,000 units in 2025, with aspirations for 50,000 units by 2026.
+
+11:09 - 11:13 **Speaker 3:** The battery is said to last a full day of operation.
+
+11:24 - 11:32 **Speaker 3:** And now we come to the robotic goat. 10 years ago, Boston Dynamics' Atlas robot was far and away the most advanced humanoid robot the world had ever seen.
+
+11:33 - 11:38 **Speaker 3:** Atlas is known for its agility, from crawling, jumping, and rolling, to straight up parkour.
+
+11:51 - 12:00 **Speaker 3:** In 2024, in the wake of increasing competition, the company switched Atlas's actuators from hydraulic to fully electric.
+
+12:01 - 12:08 **Speaker 3:** Onboard, there's three AI models spread across three local computers. Now with improved 3D vision and NVIDIA Jetson and Isaac Groot hardware for real-time AI model execution, let's check out what Atlas is capable of now.
+
+12:12 - 12:19 **Speaker 7:** You're watching what could be a hugely significant step towards robots that are much better at navigating the messy real world and that can learn new skills very quickly.
+
+12:20 - 12:29 **Speaker 7:** Atlas, a humanoid robot from Boston Dynamics, recently learned to both walk and grab items using just a single artificial intelligence model.
+
+12:30 - 12:38 **Speaker 7:** Boston Dynamics together with the Toyota Research Institute developed the generalist AI model, which learns to control both the robot's arms and its legs from a range of example actions.
+
+12:39 - 12:44 **Speaker 7:** This is different from what you may have seen previously. Normally robots would use one AI model to walk, another to jump, and another to grasp items.
+
+12:45 - 12:52 **Speaker 7:** Most models also lack the ability to adapt. The model used to control this Atlas is both more general and it is showing some tantalizing signs of emergent behavior,
+
+12:53 - 12:59 **Speaker 7:** Like the ability to instinctively recover when it drops an item. This is a lot more exciting than it might seem.
+
+12:59 - 13:05 **Speaker 7:** While there is work to do, one of the researchers involved says the evidence so far suggests that the approach used to develop large language models will also work for robots.
+
+13:06 - 13:14 **Speaker 7:** It's changing everything, he says. Just as LLMs fed large amounts of text data sometimes exhibit unexpected abilities, like the ability to code,
+
+13:14 - 13:19 **Speaker 7:** roboticists hope that a similar strategy will produce robots that exhibit a lot of surprising new skills when getting things done.
+
+13:20 - 13:25 **Speaker 3:** In August of 2025, Boston Dynamics revealed their latest intelligence efforts.
+
+13:26 - 13:31 **Speaker 3:** In collaboration with the Toyota Research Institute, they're creating what they call a Large Behavioral Model. Here's how it works:
+
+13:32 - 13:36 **Speaker 3:** Collect behavioral data from teleoperation and in simulation.
+
+13:37 - 13:42 **Speaker 3:** Process, annotate, and curate the data in such a way that it can be incorporated into machine learning.
+
+13:43 - 13:49 **Speaker 3:** Train a neural network using all of the data across all of the tasks, and finally, evaluation.
+
+13:50 - 13:58 **Speaker 3:** I could talk a bit more about how it works, but I think it would be more interesting to see it in action. Here's a video of Atlas actively understanding natural language and performing actions.
+
+14:20 - 14:24 **Speaker 3:** It can also fold chairs, tie a rope, or stack cubes.
+
+14:25 - 14:31 **Speaker 3:** Today the Atlas robot has been put to work. One of its first jobs is to be deployed in the South Korean company Hyundai Motor Group's production sites.
+
+14:32 - 14:39 **Speaker 3:** Its job is to perform repetitive tasks in place of humans. Interestingly, Boston Dynamics was bought by Hyundai in 2021.
+
+14:40 - 14:48 **Speaker 3:** So as we continue, it's interesting to note that the robot's brains, that is, the AI chips and software, constitute approximately 80% of a humanoid robot's value.
+
+14:49 - 14:56 **Speaker 3:** And as mentioned, the US maintains a significant lead here. But the AI component of this also gives rise to something interesting.
+
+14:57 - 15:05 **Speaker 3:** Google's AI Gemini has been plopped into robotics hardware systems and somehow, it works with very little tuning.
+
+15:06 - 15:13 **Speaker 3:** I went and saw it myself at Google's I/O event earlier this year. At the event, I also had an interview with Carolina Parada, Senior Director and Head of Robotics at Google DeepMind.
+
+15:15 - 15:23 **Speaker 8:** Yeah, so I lead the Google DeepMind Robotics team, and I've been working with Google DeepMind Robotics for about seven years.
+
+15:24 - 15:35 **Speaker 8:** Yeah, we're super excited about this release. We have been working in AI for robotics since the team started about 10 years ago, so we've always believed that AI will really transform what's possible for robotics.
+
+15:36 - 15:47 **Speaker 8:** So, what you're seeing in that booth is Gemini Robotics, which is sort of our latest, most exciting model. And it's a Vision Language Action Model.
+
+15:48 - 15:53 **Speaker 8:** It's essentially enabling the robot to see what it sees in front of it, understand your request, and then take action directly.
+
+15:54 - 16:00 **Speaker 8:** So that means Gemini is actually moving the robot. And what's cool about that is that you can then take all of that multimodal intelligence that is already there and just simply extend it to a new language of actions in this case.
+
+16:01 - 16:09 **Speaker 8:** I would say we've always believed in this mode of having AI just understand the world and transfer that into actions, but it was, we were not really seeing signs of life until maybe around three years ago.
+
+16:10 - 16:16 **Speaker 8:** And then three years ago all of a sudden we started applying LLMs and now it was understanding semantics. Now you could understand when you say "I'm thirsty," and that was all you had to say.
+
+16:17 - 16:24 **Speaker 8:** We can now leverage the wave of improvement that's coming from foundation models. We just get that for free. A lot of what you saw today, we didn't work even that hard to get, it just flowed out.
+
+16:25 - 16:30 **Speaker 8:** Gemini today is the best model at understanding the physical world. We are working very hard to make it even stronger at understanding the physical world and then be applied directly to robotics.
+
+16:31 - 16:39 **Speaker 3:** The different strategies for the US and China when it comes to humanoid robots plays on both nations' strengths. America is leading in robot intelligence and quality.
+
+16:40 - 16:47 **Speaker 3:** Companies like OpenAI, Boston Dynamics, and NVIDIA have all come up with clever ways to effectively give robots AI brains.
+
+16:48 - 16:55 **Speaker 3:** China, on the other hand, is doing the same, but they're also getting into mass production pushed by the state.
+
+16:56 - 17:01 **Speaker 3:** This means that they can pump out robots much faster and with lower cost and ever-increasing capability.
+
+17:02 - 17:07 **Speaker 3:** While America still leads, let's take a look at the East to see what's happening.
+
+17:08 - 17:15 **Speaker 3:** But first, a word from today's sponsor. Now with the rise of AI and robots, many are taking matters into their own hands.
+
+17:16 - 17:22 **Speaker 3:** They're starting businesses, are going solo as freelancers. In 2023, Americans filed 5.5 million new business applications, the highest on record.
+
+17:23 - 17:30 **Speaker 3:** And this is making entrepreneurship in the US the hottest trend. It's no secret how overwhelming running a business can be, though.
+
+17:31 - 17:34 **Speaker 3:** Even freelancing as a one-man show is a challenge. So where on earth do you start?
+
+17:35 - 17:42 **Speaker 3:** Well, that's where our sponsor Odoo comes in. Odoo is an all-in-one business management software that helps businesses and advanced freelancers streamline their day-to-day business operations.
+
+17:43 - 17:50 **Speaker 3:** With over 45 integrated tools, Odoo covers everything from CRM, accounting, HR, project tracking, to inventory and e-commerce.
+
+17:51 - 17:58 **Speaker 3:** Let's say you're a small cafe. Odoo lets you build an e-commerce store for online sales, track orders through point of sale, send invoices, manage stock inventory, and sync it all with your finances.
+
+17:59 - 18:05 **Speaker 3:** No juggling five different apps or spreadsheets. It all works together automatically. It's powerful, flexible, and surprisingly affordable.
+
+18:06 - 18:13 **Speaker 3:** If you have a specific need, you can use their first app free for life, and the full suite starts at just $24.90 US per month per user.
+
+18:14 - 18:22 **Speaker 3:** More than 15 million users trust Odoo, from solo freelancers to full-fledged businesses like KPMG and Deloitte.
+
+18:23 - 18:32 **Speaker 3:** So if you want to run your business or a side hustle like a pro, check out Odoo by clicking the link in the description. Thanks to Odoo for sponsoring this segment of the video. And now, back to the story.
+
+18:38 - 18:43 **Speaker 3:** While America leads in software, innovation, and capabilities, China is going for scale and cost-effectiveness.
+
+18:44 - 18:51 **Speaker 3:** From the iPhone to electric cars, over the past 20 years, the country in the Far East has gained the capacity to make advanced hardware at rapid scale.
+
+18:52 - 18:59 **Speaker 3:** As the "world's factory," China already benefits from a vast supply chain and streamlined production.
+
+19:00 - 19:08 **Speaker 3:** The country has been the world's largest industrial robot maker for years, with sales reaching 90,000 units as far back as 2016,
+
+19:09 - 19:15 **Speaker 3:** and accounted for 30% of the global market that year. So they were more than prepared when it came to the humanoid robot boom.
+
+19:16 - 19:24 **Speaker 3:** The International Federation of Robotics reported that over half of all robots sold globally in 2023 were made in China, and that number has surely grown since.
+
+19:25 - 19:32 **Speaker 3:** The total value of humanoid robots produced in China is expected to reach approximately $616 million US this year.
+
+19:33 - 19:40 **Speaker 3:** It seems that in China, most robots are being used for entertainment purposes. Some do do work, and one can even change its own battery.
+
+19:41 - 19:48 **Speaker 3:** But as for the entertainment bots, you can't deny that it's pretty fun to watch. From robot boxing matches to a robot soccer league to a robot Olympics.
+
+19:49 - 19:56 **Speaker 3:** In a technical sense, these robots may not be as impressive as the cutting edge, but here's the thing: they're ubiquitous.
+
+19:57 - 20:03 **Speaker 3:** There's videos of children in China playing with their humanoid robots, and no one bats an eyelid anymore.
+
+20:04 - 20:12 **Speaker 3:** Chinese robotics firms like Unitree, Agibot, Galbot, Engine AI, and Leju Robotics are using China's growth in manufacturing to their advantage.
+
+20:13 - 20:18 **Speaker 3:** These companies are popping up everywhere. Engine AI's PM-01 performs front flips, while their SE-01 walks remarkably like a human.
+
+20:19 - 20:25 **Speaker 3:** Robot Extras' X-Bot L famously climbed the Great Wall of China. There's way too many Chinese companies to go into detail about each one, so let's just focus on the most popular.
+
+20:26 - 20:34 **Speaker 3:** Unitree's G1 model displays impressive balance, can do martial arts, and dance. They're the most viral robots at the moment due to their relatively low cost.
+
+20:35 - 20:41 **Speaker 3:** The G1 can walk, run at speeds reaching 7 kilometers an hour, jump, climb stairs, and even fold for easy transport.
+
+20:42 - 20:49 **Speaker 3:** Though this reviewer laments that even though its movements are impressive, it can't really do anything useful.
+
+20:50 - 20:57 **Speaker 3:** It's likely because he got the cheapest version, but it's also because the G1 is more of a research and development platform. It's not really consumer-ready just yet.
+
+20:58 - 21:05 **Speaker 3:** And on the other hand, the American robots aren't in the hands of everyday people, so we could be equally disappointed when the time comes for their release.
+
+21:06 - 21:11 **Speaker 3:** The G1 is mostly remote-controlled to execute pre-programmed actions. Like its American counterparts,
+
+21:12 - 21:19 **Speaker 3:** the G1 learns both from demonstration and reinforcement learning, and this enables it to refine its balance and movements over time.
+
+21:20 - 21:26 **Speaker 3:** As for the physical brain, most of the grunt comes from NVIDIA Jetson Origin modules. This enables the G1 to handle real-time AI perception processing.
+
+21:27 - 21:32 **Speaker 3:** The 9,000 milliamp-hour battery will give you about 2 hours of operation.
+
+21:33 - 21:39 **Speaker 3:** When programmed by professionals, the G1 has been used in factories for tasks like assembly. Also, it's been demonstrated in medical settings via remote control.
+
+21:40 - 21:47 **Speaker 3:** Units like the Uncle Bot have gained viral attention for its human-like behaviors. As for a less fun use, in Indonesia, they're being used to fight crime. Kind of.
+
+21:54 - 22:01 **Speaker 3:** So moving forward, an advantage that these companies have over US firms is massive state subsidization.
+
+22:02 - 22:08 **Speaker 3:** For example, in January of 2024, the city of Beijing launched a $1.4 billion state-backed robotics fund.
+
+22:09 - 22:15 **Speaker 3:** In July, Shanghai also announced a $1.4 billion fund, specifically for humanoid robots.
+
+22:16 - 22:23 **Speaker 3:** You can easily see how that kind of money can give a bunch of companies a head start. China's strategic manufacturing has led to a flood of robot patent filings.
+
+22:24 - 22:31 **Speaker 3:** 5,688 patents compared to the US's 1,483 over five years. And China as a whole is taking robotics seriously.
+
+22:32 - 22:40 **Speaker 3:** Part of the Made in China 2025 policy aims to increase global market share of Chinese-made robots from 31% to 50%.
+
+22:41 - 22:48 **Speaker 3:** Government initiatives like the Robot Industry Development Plan from 2016 to 2020 helped establish the infrastructure and expertise now being leveraged for humanoid robot production.
+
+22:49 - 22:56 **Speaker 3:** And this highlights the major difference between the US and China. In the US, capital investments in the private sector are leading the charge.
+
+22:57 - 23:03 **Speaker 3:** It results in better quality, but slower time to market. China is just blasting robots out all over the place.
+
+23:04 - 23:10 **Speaker 3:** So it's going to be interesting to see how this all plays out. And also, here's a question: if a functional humanoid robot got down to say $2,000 US, would you buy one?
+
+23:11 - 23:17 **Speaker 3:** That day will come sooner than you think. Let me know in the comment section below. Hey guys, thanks so much for watching the whole way through this episode.
+
+23:18 - 23:25 **Speaker 3:** It really does mean a lot. And thanks for your support over all these years. If you did enjoy this video, feel free to subscribe and otherwise, that's about it from me.
+
+23:26 - 23:33 **Speaker 3:** My name's Dagogo, I've been ColdFusion, and I'll catch you again soon for the next episode. Cheers.

@@ -791,6 +791,125 @@ def save_transcription_to_file(transcription_text: str, output_file_path_md: str
         import traceback
         traceback.print_exc()
 
+
+def process_single_file(audio_file_path: str, output_folder_path: str, metadata_level: str, 
+                       chunk_duration_minutes: int, overlap_seconds: int, 
+                       memory_system=None, audio_downloads_folder=None) -> bool:
+    """
+    Process a single audio file: chunk (if needed), transcribe, extract metadata, save, and clean up.
+    
+    Args:
+        audio_file_path: Path to the audio file
+        output_folder_path: Folder to save transcripts
+        metadata_level: 'basic' or 'enhanced'
+        chunk_duration_minutes: Duration for chunks
+        overlap_seconds: Overlap for chunks
+        memory_system: Optional TranscriptionMemory instance
+        audio_downloads_folder: Optional folder for finding .info.json files
+        
+    Returns:
+        bool: True if successful, False otherwise
+        
+    Raises:
+        GeminiQuotaExhaustedError: If API limit reached
+    """
+    audio_file_name = os.path.basename(audio_file_path)
+    files_to_transcribe = []
+    
+    try:
+        file_size_mb = os.path.getsize(audio_file_path) / (1024 * 1024)
+        print(f"\nProcessing: {audio_file_name} ({file_size_mb:.2f}MB)")
+
+        if file_size_mb > 30:
+            print(f"File is larger than 30MB. Chunking into smaller parts...")
+            chunked_files = chunk_audio_file(audio_file_path, chunk_duration_minutes, overlap_seconds)
+            files_to_transcribe.extend(chunked_files)
+            if chunked_files:  # Only delete original if chunking was successful
+                print(f"Deleting original large file: {audio_file_name}")
+                os.remove(audio_file_path)
+        else:
+            print("File is small enough to process directly")
+            files_to_transcribe.append(audio_file_path)
+
+        # Transcribe each part
+        for file_path in files_to_transcribe:
+            file_name = os.path.basename(file_path)
+            print(f"\nTranscribing: {file_name}")
+            
+            transcription_text = generate_transcription(file_path)
+            if transcription_text.startswith("Error during transcription:"):
+                print(f"Error: {transcription_text}")
+                continue
+
+            base_name = os.path.splitext(file_name)[0]
+            # Handle chunk naming for final output if needed, but usually we just process parts as separate notes for now
+            # OR better: if it was chunked, we might want to combine... 
+            # Current logic treats chunks as separate files which is fine for V1
+            
+            output_file_name_md = f"{base_name}.md"
+            output_file_path_md = os.path.join(output_folder_path, output_file_name_md)
+            output_file_name_txt = f"{base_name}.txt"
+            output_file_path_txt = os.path.join(output_folder_path, output_file_name_txt)
+
+            save_transcription_to_file(transcription_text, output_file_path_md, output_file_path_txt, file_name, metadata_level)
+            print(f"✓ Successfully processed {file_name}")
+
+            # Cleanup temporary chunk
+            if "_part" in file_name:
+                try:
+                    os.remove(file_path)
+                    print(f"Removed temporary chunk: {file_name}")
+                except Exception as e:
+                    print(f"Warning: Could not remove temporary chunk {file_name}: {e}")
+
+        # Post-processing for the original file (memory update & cleanup)
+        # Only if we successfully processed something
+        if files_to_transcribe:
+            base_name = os.path.splitext(audio_file_name)[0]
+            
+            # 1. Update memory
+            if memory_system and audio_downloads_folder:
+                info_file_path = os.path.join(audio_downloads_folder, f"{base_name}.info.json")
+                if os.path.exists(info_file_path):
+                    try:
+                        with open(info_file_path, 'r', encoding='utf-8') as f:
+                            video_info = json.load(f)
+                        
+                        # Calculate transcript paths
+                        transcript_files = []
+                        if len(files_to_transcribe) > 1: # Chunked
+                            for f in files_to_transcribe:
+                                bn = os.path.splitext(os.path.basename(f))[0]
+                                transcript_files.append(os.path.join(output_folder_path, f"{bn}.md"))
+                        else:
+                            transcript_files.append(os.path.join(output_folder_path, f"{base_name}.md"))
+
+                        memory_system.add_processed_video(video_info, transcript_files)
+                        
+                        # Delete .info.json
+                        os.remove(info_file_path)
+                        print(f"🗑️  Cleaned up info file: {base_name}.info.json")
+                    except Exception as e:
+                        print(f"⚠️  Could not update memory for {audio_file_name}: {e}")
+            
+            # 2. Delete original audio file if it still exists (e.g. wasn't chunked/deleted)
+            if os.path.exists(audio_file_path):
+                try:
+                    os.remove(audio_file_path)
+                    print(f"🗑️  Deleted audio file: {audio_file_name}")
+                except Exception as e:
+                    print(f"⚠️  Could not delete audio file {audio_file_name}: {e}")
+            
+            return True
+            
+    except GeminiQuotaExhaustedError:
+        raise # Propagate up
+    except Exception as e:
+        print(f"Error processing {audio_file_name}: {e}")
+        return False
+        
+    return True
+
 def main(memory_system=None, downloads_folder=None):
     parser = argparse.ArgumentParser(description="Chunk large audio files and transcribe all audio files in a folder.")
     parser.add_argument("audio_folder", help="Path to the folder containing audio files.")
@@ -836,104 +955,31 @@ def main(memory_system=None, downloads_folder=None):
         return
 
     print(f"Found {len(audio_files)} audio files to process")
-    files_to_transcribe = []
-
+    
     for audio_file_name in audio_files:
         audio_file_path = os.path.join(audio_folder_path, audio_file_name)
+        
         try:
-            file_size_mb = os.path.getsize(audio_file_path) / (1024 * 1024)
-            print(f"\nProcessing: {audio_file_name} ({file_size_mb:.2f}MB)")
-
-            if file_size_mb > 30:
-                print(f"File is larger than 30MB. Chunking into smaller parts...")
-                chunked_files = chunk_audio_file(audio_file_path, chunk_duration_minutes, overlap_seconds)
-                files_to_transcribe.extend(chunked_files)
-                if chunked_files:  # Only delete original if chunking was successful
-                    print(f"Deleting original large file: {audio_file_name}")
-                    os.remove(audio_file_path)
-            else:
-                print("File is small enough to process directly")
-                files_to_transcribe.append(audio_file_path)
-
-        except Exception as e:
-            print(f"Error processing file {audio_file_name}: {e}")
-            continue
-
-    print(f"\nTranscribing {len(files_to_transcribe)} audio files...")
-    for audio_file_path in files_to_transcribe:
-        try:
-            audio_file_name = os.path.basename(audio_file_path)
-            print(f"\nTranscribing: {audio_file_name}")
+            success = process_single_file(
+                audio_file_path,
+                output_folder_path,
+                metadata_level,
+                chunk_duration_minutes,
+                overlap_seconds,
+                memory_system,
+                audio_downloads_folder
+            )
             
-            transcription_text = generate_transcription(audio_file_path)
-            if transcription_text.startswith("Error during transcription:"):
-                print(f"Error: {transcription_text}")
-                continue
-
-            base_name = os.path.splitext(audio_file_name)[0]
-            output_file_name_md = f"{base_name}.md"
-            output_file_path_md = os.path.join(output_folder_path, output_file_name_md)
-            output_file_name_txt = f"{base_name}.txt"
-            output_file_path_txt = os.path.join(output_folder_path, output_file_name_txt)
-
-            save_transcription_to_file(transcription_text, output_file_path_md, output_file_path_txt, audio_file_name, metadata_level)
-            print(f"✓ Successfully processed {audio_file_name}")
-
-            # Per-file cleanup and memory update
-            # 1. Clean up temporary chunks if this was a chunked file
-            if "_part" in audio_file_name:
-                try:
-                    os.remove(audio_file_path)
-                    print(f"Removed temporary chunk: {audio_file_name}")
-                except Exception as e:
-                    print(f"Warning: Could not remove temporary chunk {audio_file_name}: {e}")
-            
-            # 2. Update memory for this file (if memory system provided and .info.json exists)
-            if memory_system and audio_downloads_folder:
-                info_file_path = os.path.join(audio_downloads_folder, f"{base_name}.info.json")
-                if os.path.exists(info_file_path):
-                    try:
-                        with open(info_file_path, 'r', encoding='utf-8') as f:
-                            video_info = json.load(f)
-                        
-                        # Add to memory with transcript file paths
-                        transcript_files = [output_file_path_md, output_file_path_txt]
-                        memory_system.add_processed_video(video_info, transcript_files)
-                        
-                        # Delete the .info.json file after adding to memory
-                        os.remove(info_file_path)
-                        print(f"🗑️  Cleaned up info file: {base_name}.info.json")
-                    except Exception as e:
-                        print(f"⚠️  Could not update memory for {audio_file_name}: {e}")
-            
-            # 3. Delete original audio file after successful processing
-            if audio_downloads_folder:
-                # Find and delete the original audio file (not chunks)
-                audio_extensions = ('.mp3', '.m4a', '.wav', '.ogg', '.flac', '.weba', '.webm', '.mp4')
-                for ext in audio_extensions:
-                    original_audio_path = os.path.join(audio_downloads_folder, f"{base_name}{ext}")
-                    if os.path.exists(original_audio_path):
-                        try:
-                            os.remove(original_audio_path)
-                            print(f"🗑️  Deleted audio file: {base_name}{ext}")
-                        except Exception as e:
-                            print(f"⚠️  Could not delete audio file {base_name}{ext}: {e}")
-                        break  # Only delete first matching file
-
         except GeminiQuotaExhaustedError as e:
-            # Gemini quota exhausted - stop application immediately
             print(f"\n❌ {e}")
             print("Application stopped.")
             sys.exit(1)
-
-        except Exception as e:
-            print(f"Error processing file {audio_file_name}: {e}")
-            continue
-
-        # Force garbage collection after each file
+        
+        # Force garbage collection
         gc.collect()
 
     print("\nAll files processed and transcribed.")
 
 if __name__ == "__main__":
     main()
+

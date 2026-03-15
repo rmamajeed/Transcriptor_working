@@ -1,0 +1,49 @@
+---
+title: 3Blue1Brown_Terence Tao continuing history’s cleverest cosmological measurements_20250223
+audio_file: 3Blue1Brown_Terence Tao continuing history’s cleverest cosmological measurements_20250223.mp3
+note_id: 4382e6f8-c352-4fb5-b486-03f499c7cdce
+date_processed: '2026-02-21'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+## Full Transcription
+
+
+
+**00:00 - 00:58: Speaker 1**
+This animation is zooming out by a factor of 10 every two seconds. Maybe you've seen things like this before, conveying the mind-boggling scale of our universe. But here, in this video, you and I are going to continue the saga through the many moments of delightful ingenuity throughout human history that led us to first discover how far away objects in the cosmos really are. Appreciating how we know these distances is to me more amazing than the distances themselves. This is part two of a collaboration with Terence Tao, and it's okay if you haven't yet seen part one; each video should be relatively self-contained. But for context, we left off with Kepler's ingenious method for deducing the shapes of all of the orbits of the planets around the sun. So, people knew what the solar system looked like, but they still didn't have an exact sense of scale. And this left astronomers hungry to measure any distance they could in this system, like maybe how far away a given planet is from Earth at a given moment, since that would be enough to lock everything else into place. Now, I'll admit, while I had vaguely learned about how this was done before, I definitely had not appreciated the cleverness of the details.
+
+**00:58 - 01:28: Terence Tao**
+You could measure distances to the planets like Venus. Take two measurements on different sides of the Earth. Around the time of Captain Cook, when they were traveling to discover Australia and so forth, part of the reason for this was a scientific mission. I mean, they wanted to know the distance to Venus and Mars and so forth. They wanted people to take precise measurements—one in Greenwich, in the UK, and one somewhere in the Southern Hemisphere at exactly the same time of the same object.
+
+**01:28 - 03:40: Speaker 1**
+The key idea here is that as you sail down to the Southern Hemisphere and you observe a given object up in the sky, its position in the sky, say relative to the background constellations, will appear to shift up as the angle of your line of sight slowly changes with your position. We call this parallax.
+
+**01:46 - 01:54: Terence Tao**
+It is the same parallax that we use for binocular vision. Our eyes are a certain distance apart, and so we can determine depth for any distance that's not too much larger than the distance between our eyes. It's just that now we figured out how to make two eyeballs on different sides of the Earth.
+
+**01:54 - 03:40: Speaker 1**
+Now, if you want to turn this into a measurement, you first need to understand this line right here, connecting the two different observation points, both its distance and its direction. Because people knew the size of the Earth and they could tell where they were on the Earth, that would be taken care of. Then the hard part is for the first observer to take a precise enough measurement of the viewing angle to this object. They need to deduce this angle here and for the second observer to do likewise. If you can do that, you have a triangle where you know all three of the angles and you also know one of the side lengths. This means with just a little bit of trigonometry, you can figure out any other side length, which, for example, tells you how far away this object is from one of the observers. Now, the way I'm drawing it here, it makes it look almost easy. But for the real-world measurement, you have to keep in mind just how far away everything is. If we zoom out so that they're both looking at something as far away as the moon, it would look something like this. But the moon, cosmologically speaking, is really quite close. So even if both of them are looking at the nearest planet, Venus, when it is at its absolute closest to Earth, it's around 39 million kilometers away, which is over 6,000 times the radius of the Earth. So zooming back in to those two observers, even if they were as far away as you could get them, one at the top of the Earth and another at the bottom of the Earth, these two lines of sight would be almost parallel. If you work out the little bit of trigonometry, if they're both looking at Venus at its absolute closest point, the difference in angle between these two lines is about one arcminute, which is one-sixtieth of a degree. So, if this is going to work, your measurements have to be extremely precise, and you have to be absolutely sure that both observers are really looking at the same thing at the same moment. Now, at the time, clocks were not good enough that they could actually just say, "At this specific moment, everyone looks up."

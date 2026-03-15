@@ -1,0 +1,896 @@
+---
+title: Varun Mayya_Why Indians Don't Attempt (And Stay Average Forever) ｜ KATA 4_20260110_part1
+audio_file: Varun Mayya_Why Indians Don't Attempt (And Stay Average Forever) ｜ KATA
+  4_20260110_part1.mp3
+note_id: db03579c-4313-45ae-ad16-e27fc7cfd6e0
+date_processed: '2026-03-07'
+classification:
+  primary_domain: Entrepreneurship
+  sub_domains:
+  - Startup Culture
+  - Personal Development
+  - Business Strategy
+  difficulty_level: Intermediate
+  content_type: Lecture
+entities:
+  people:
+  - name: Deepinder Goyal
+    role: Founder
+    contribution: Sharing his experiences and insights on entrepreneurship
+  - name: Mark Zuckerberg
+    role: CEO of Facebook
+    contribution: Mentioned as an example of a successful entrepreneur
+  - name: Steve Jobs
+    role: Co-founder of Apple
+    contribution: Quote mentioned on excuses and responsibility
+  - name: Kunal Shah
+    role: Founder of Cred
+    contribution: Mentioned as an example of a successful entrepreneur
+  works_cited: []
+  concepts_mentioned:
+  - Entrepreneurship
+  - Startup Culture
+  - Personal Development
+  - Business Strategy
+  - Risk-taking
+  - Failure
+  laws_theories_cited: []
+concepts:
+- name: Entrepreneurship
+  definition: The process of designing, launching, and running a new business
+  parent_concepts:
+  - Business
+  related_concepts:
+  - Startup Culture
+  - Personal Development
+  abstraction_level: Applied
+  confidence: 1.0
+- name: Startup Culture
+  definition: The values and practices that characterize startup companies
+  parent_concepts:
+  - Entrepreneurship
+  related_concepts:
+  - Innovation
+  - Risk-taking
+  abstraction_level: Practical
+  confidence: 1.0
+- name: Personal Development
+  definition: The process of improving one's skills, knowledge, and character
+  parent_concepts:
+  - Self-improvement
+  related_concepts:
+  - Mindset
+  - Motivation
+  abstraction_level: Theoretical
+  confidence: 1.0
+relationships:
+- source_concept: Entrepreneurship
+  target_concept: Risk-taking
+  relationship_type: supports
+  strength: 0.9
+  evidence: Deepinder Goyal's statement on the importance of taking risks
+  reasoning: Entrepreneurship often requires taking calculated risks to achieve success
+- source_concept: Startup Culture
+  target_concept: Innovation
+  relationship_type: derives_from
+  strength: 0.9
+  evidence: The emphasis on innovation in startup companies
+  reasoning: Startup culture often encourages innovation and experimentation
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Entrepreneurship
+  source_concept: Startup Culture
+  target_domain: Biology
+  target_concept: Ecosystem Development
+  insight: Both startup culture and ecosystem development rely on nurturing environments
+    for growth
+  explanation: Just as a startup requires a supportive ecosystem to thrive, biological
+    ecosystems need specific conditions to foster life. This analogy highlights the
+    importance of environmental factors in development. The structural similarity
+    lies in the interdependence of components within these systems.
+  potential_applications:
+  - Innovation hubs
+  - Sustainable ecosystems
+  confidence: 0.8
+  historical_example: The development of Silicon Valley as a tech hub mirrors the
+    growth of coral reefs in biology, both requiring specific conditions to flourish.
+- connection_type: principle_application
+  source_domain: Entrepreneurship
+  source_concept: Personal Development
+  target_domain: Psychology
+  target_concept: Self-Efficacy
+  insight: Personal development in entrepreneurship applies the psychological principle
+    of self-efficacy
+  explanation: Believing in one's ability to succeed is crucial for entrepreneurs,
+    as it is for individuals in psychological contexts. This principle transfers across
+    domains because it underpins motivation and resilience. The structural pattern
+    involves setting goals, overcoming obstacles, and learning from failures.
+  potential_applications:
+  - Mental health support
+  - Leadership training
+  confidence: 0.9
+  historical_example: The concept of self-efficacy, introduced by Albert Bandura,
+    has been applied in various domains, including education and health, to improve
+    outcomes.
+- connection_type: metaphor
+  source_domain: Entrepreneurship
+  source_concept: Entrepreneurial Journey
+  target_domain: Literature
+  target_concept: Hero's Journey
+  insight: The entrepreneurial journey can be seen as a form of the hero's journey,
+    a metaphor used in literature
+  explanation: Both involve a call to adventure, challenges, and transformation. This
+    metaphor helps in understanding the emotional and psychological aspects of entrepreneurship.
+    The structural similarity lies in the narrative arc of both journeys, including
+    the departure, initiation, and return.
+  potential_applications:
+  - Entrepreneurial mentoring
+  - Storytelling in marketing
+  confidence: 0.7
+  historical_example: Joseph Campbell's concept of the hero's journey has been applied
+    in various fields, including business and psychology, to describe transformative
+    experiences.
+bridge_concepts:
+- concept: Resilience
+  appears_in_domains:
+  - Entrepreneurship
+  - Psychology
+  - Biology
+  role: It bridges domains by being a key factor in survival and success across different
+    contexts
+  examples:
+  - Entrepreneurial resilience in the face of business failures
+  - Psychological resilience in coping with stress
+  - Biological resilience in adapting to environmental changes
+mental_models:
+- name: Systems Thinking
+  description: A holistic approach to understanding complex systems and their interactions
+  applied_to:
+  - Understanding startup ecosystems and their dependencies
+  transferable_to:
+  - Environmental conservation
+  - Economic policy-making
+analogies_used:
+- source_domain: Biology
+  source_concept: Evolution through Natural Selection
+  target_domain: Entrepreneurship
+  target_concept: Innovation through Market Selection
+  mapping:
+    Genetic Variation: Innovation
+    Selection Pressure: Market Demand
+  pedagogical_value: This analogy helps in understanding how market forces drive the
+    evolution of businesses and products, similar to how natural selection drives
+    the evolution of species.
+tags:
+  hierarchical:
+  - '#Entrepreneurship → #StartupCulture → #PersonalDevelopment'
+  topical:
+  - '#RiskTaking'
+  - '#Innovation'
+  - '#Mindset'
+  methodological:
+  - '#Lecture'
+  - '#Storytelling'
+  people:
+  - '#DeepinderGoyal'
+  - '#MarkZuckerberg'
+  - '#SteveJobs'
+  concepts:
+  - '#Entrepreneurship'
+  - '#StartupCulture'
+  - '#PersonalDevelopment'
+  temporal:
+  - '#2023'
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  Deepinder Goyal, the speaker, emphasizes the importance of taking risks and attempting
+  to achieve one''s goals, rather than just thinking about them or talking about them.
+  He introduces the concept of a "scouter level" which measures a person''s competence
+  and ability to add value, and explains that it can be increased by taking big swings,
+  facing challenges, and pulling off successful projects. Goyal also highlights the
+  difference between just believing in something and actually proving it, and notes
+  that people who can demonstrate their competence and take ownership of their work
+  are more likely to succeed and earn respect.'
+key_ideas:
+- idea: Here are the 3-5 key ideas discussed in the transcription text with a short
+    description of each
+  description: ''
+- idea: The Importance of Taking Attempts**
+  description: The speaker emphasizes that taking attempts and trying new things is
+    crucial for success, and that failure is a natural part of the learning process,
+    with the key idea being that one must take risks and attempt to achieve their
+    goals in order to gain competence and increase their "scouter level".
+- idea: Reading Competence**
+  description: The speaker discusses the concept of "reading competence", which refers
+    to the ability to measure one's own competence and the competence of others, and
+    how it is essential for achieving success in various fields, including business
+    and entrepreneurship, by understanding what one can and cannot do.
+- idea: The Scouter Levels**
+  description: The speaker introduces the concept of "scouter levels", which is a
+    framework for measuring one's competence and progress, with different levels ranging
+    from "NPCs" (no beliefs, no attempts) to "King Makers" (can move markets, industries,
+    or cultures with just a decision), providing a way to evaluate and improve one's
+    abilities.
+- idea: Overcoming Excuses and Fear of Failure**
+  description: The speaker stresses the importance of overcoming excuses and the fear
+    of failure, and instead taking personal responsibility and ownership of one's
+    actions and decisions, as a key aspect of achieving success and increasing one's
+    scouter level, by realizing that excuses stop mattering at a certain level and
+    that one must take action to achieve their goals.
+- idea: The Value of Skin in the Game**
+  description: The speaker highlights the value of having "skin in the game", or taking
+    personal risks and having a stake in the outcome of one's actions, as a key factor
+    in achieving success and increasing one's scouter level, by demonstrating a willingness
+    to take risks and face challenges head-on.
+---
+
+Full Transcription
+
+
+
+00:00 - 00:02 **Deepinder Goyal**: India as a nation is a very anti-attempt nation.
+
+00:03 - 00:05 **Deepinder Goyal**: We are so afraid of taking an attempt and being ridiculed that we don't even try.
+
+00:06 - 00:07 **Deepinder Goyal**: When I met Mark Zuckerberg recently,
+
+00:08 - 00:10 **Deepinder Goyal**: Do you know in their live demo like a bunch of their things failed?
+
+00:11 - 00:12 **Deepinder Goyal**: And you know what he told me, he's like,
+
+00:13 - 00:15 **Deepinder Goyal**: There's a Steve Jobs quote that everybody needs to know,
+
+00:16 - 00:18 **Deepinder Goyal**: Which is that somewhere between the janitor and the CEO, excuses stop mattering.
+
+00:19 - 00:21 **Deepinder Goyal**: There is a big difference between "I think I can do it" in your head
+
+00:22 - 00:23 **Deepinder Goyal**: versus doing it in real life.
+
+00:24 - 00:26 **Deepinder Goyal**: I would argue that the gap there is a few years.
+
+00:27 - 00:29 **Deepinder Goyal**: You cannot say, "I'll go to every network event and stand next to, you know,
+
+00:30 - 00:32 **Deepinder Goyal**: the CEO of some company and hopefully my reputation will increase." It doesn't work.
+
+00:33 - 00:34 **Deepinder Goyal**: The truth is that all success stories have luck involved,
+
+00:35 - 00:37 **Deepinder Goyal**: but luck only finds you after you attempt seriously.
+
+00:38 - 00:40 **Deepinder Goyal**: Indians massively overvalue good boy, good girl energy,
+
+00:41 - 00:43 **Deepinder Goyal**: and undervalue people who can actually do something.
+
+00:44 - 00:46 **Deepinder Goyal**: But then what I learned about the world is that opportunities are not given,
+
+00:47 - 00:49 **Deepinder Goyal**: you actually have to grind enough miracles,
+
+00:50 - 00:52 **Deepinder Goyal**: only then people start acknowledging and realizing you.
+
+00:53 - 00:55 **Deepinder Goyal**: You have to hang out with people who are okay with failing loudly.
+
+00:56 - 00:58 **Deepinder Goyal**: Failure cannot be demonized, whether in our company or anywhere else. Failure is the norm.
+
+00:59 - 01:06 [Video Outro Music/Visuals]
+
+01:07 - 01:10 **Deepinder Goyal**: Before we begin, I need to tell all the people online that, like I told you,
+
+01:11 - 01:14 **Deepinder Goyal**: if you post about this on Twitter or even on YouTube if you comment,
+
+01:15 - 01:17 **Deepinder Goyal**: we're going to take some of the best comments, especially if you do it with your real name,
+
+01:18 - 01:19 **Deepinder Goyal**: and we're going to do something really crazy with it.
+
+01:20 - 01:23 **Deepinder Goyal**: Just make sure you use hashtag Katta, hashtag K-A-T-T-A,
+
+01:24 - 01:26 **Deepinder Goyal**: because it'll help us find those comments later on.
+
+01:27 - 01:29 **Deepinder Goyal**: In the 16th episode, we have something really crazy we want to show you guys,
+
+01:30 - 01:32 **Deepinder Goyal**: and this is the way to participate.
+
+01:33 - 01:35 **Deepinder Goyal**: Anyway, let's start with today's Katta, which is Scouters.
+
+01:36 - 01:39 **Deepinder Goyal**: For the fourth Katta, I was supposed to do something very high production, but I decided not to do that.
+
+01:40 - 01:42 **Deepinder Goyal**: This is the easier format, let's just keep it information-dense.
+
+01:43 - 01:46 **Deepinder Goyal**: Today I want to talk about something which I think most people are really bad at,
+
+01:47 - 01:49 **Deepinder Goyal**: which I was very bad at when I was 25,
+
+01:50 - 01:53 **Deepinder Goyal**: and I think even today many of you in the room are not very good at.
+
+01:54 - 01:57 **Deepinder Goyal**: And you need to be good at this for two reasons.
+
+01:58 - 02:02 **Deepinder Goyal**: You need to be good at this when hiring to figure out who has how much potential,
+
+02:03 - 02:06 **Deepinder Goyal**: and on the other side, if you are looking for a job, if you are looking for raises, if you are looking for appraisals, etc. etc.,
+
+02:07 - 02:10 **Deepinder Goyal**: you need to know what is it that you need to have in order to actually get one.
+
+02:11 - 02:13 **Deepinder Goyal**: Okay? And the reason I titled this "Scouters"
+
+02:14 - 02:16 **Deepinder Goyal**: is because do you know what a scouter in Dragon Ball does?
+
+02:17 - 02:19 **Speaker 2**: Power levels!
+
+02:20 - 02:22 **Deepinder Goyal**: It gives you the power level of another person that you're looking at.
+
+02:23 - 02:25 **Deepinder Goyal**: And I believe in the real world there is something equal to this.
+
+02:26 - 02:28 **Deepinder Goyal**: It's not a specific number, right?
+
+02:29 - 02:32 **Deepinder Goyal**: But there is certainly a way you can measure, you know, just the value of another person,
+
+02:33 - 02:37 **Deepinder Goyal**: at least the value in terms of, you know, how much they can add value in terms of can they add value to the company in the ways that they're saying they can,
+
+02:38 - 02:41 **Deepinder Goyal**: you know, can they actually write checks, if it's an angel investor.
+
+02:42 - 02:45 **Deepinder Goyal**: Knowing how to use the scouter, you can tell does the person actually have the ability to write a check.
+
+02:46 - 02:48 **Deepinder Goyal**: If you're talking to a client, you get the idea does- can this person take the final decision.
+
+02:49 - 02:51 **Deepinder Goyal**: We learn about all that in today's episode called "The Scouters."
+
+02:52 - 02:54 **Deepinder Goyal**: It should have been called "Power Level," but I just went with the Dragon Ball reference
+
+02:55 - 02:57 **Deepinder Goyal**: so that everyone gets it. Next slide.
+
+02:58 - 03:00 **Deepinder Goyal**: So, the entire idea what we're going to learn today is
+
+03:01 - 03:03 **Deepinder Goyal**: learn how to read competence, gain competence.
+
+03:04 - 03:07 **Deepinder Goyal**: Okay, so how do you increase your own power level so that you get appraisals and raises at your companies,
+
+03:08 - 03:10 **Deepinder Goyal**: if you're online, and here, how do you get raises and appraisals here?
+
+03:11 - 03:13 **Deepinder Goyal**: And maladaptive behaviors in competence reading.
+
+03:14 - 03:16 **Deepinder Goyal**: Sometimes we get the read of other people's competence wrong. How do we do it accurately? Next slide.
+
+03:17 - 03:19 **Deepinder Goyal**: So, I see this on a lot of like funded startup founders' Twitter replies, right?
+
+03:20 - 03:22 **Deepinder Goyal**: Which is, "Bro, company profitable hai ya nahi hai?" etc.
+
+03:23 - 03:26 **Deepinder Goyal**: And it's almost like I used to be one of these people when I was very young, mistakenly.
+
+03:27 - 03:31 **Deepinder Goyal**: And it's not just because I've made friends with many of these founders that I changed my opinion.
+
+03:32 - 03:34 **Deepinder Goyal**: But I just feel like you don't know the game many of these founders are playing, right?
+
+03:35 - 03:38 **Deepinder Goyal**: And it's almost like you look at where you are at right now,
+
+03:39 - 03:41 **Deepinder Goyal**: and you see these founders completely out of your zone saying, "Oh, they're building something unprofitable,
+
+03:42 - 03:45 **Deepinder Goyal**: they've raised a lot of money, profit nahi ban raha hai."
+
+03:46 - 03:48 **Deepinder Goyal**: And then as sort of confirmation bias, you're looking for startups that have failed and said,
+
+03:49 - 03:51 **Deepinder Goyal**: "Look, they've raised so much money, they failed. I know better."
+
+03:52 - 03:55 **Deepinder Goyal**: But in reality, a lot of these founders are playing very different games, right?
+
+03:56 - 03:58 **Deepinder Goyal**: You know, if you went out and asked Kunal Shah, "You know, why are you not profitable?"
+
+03:59 - 04:02 **Deepinder Goyal**: and you look at his actual career history, he's built reasonably successful companies, right?
+
+04:03 - 04:05 **Deepinder Goyal**: His car collection alone would be worth more than like pretty much everyone in this room in some ways.
+
+04:06 - 04:10 **Deepinder Goyal**: So I think it's important to know this and important to know what games people are playing,
+
+04:11 - 04:14 **Deepinder Goyal**: and then judge them based on that game, right?
+
+04:15 - 04:18 **Deepinder Goyal**: There's a specific game being played here, which is "go for all or nothing,"
+
+04:19 - 04:22 **Deepinder Goyal**: and that's why a lot of companies raise a lot of money so that they end up in that monopoly position.
+
+04:23 - 04:26 **Deepinder Goyal**: And that's a very different game. It's an all-or-nothing game.
+
+04:27 - 04:30 **Deepinder Goyal**: It's like going to the, you know, to the cricket field and trying to hit a six every ball, right?
+
+04:31 - 04:34 **Deepinder Goyal**: And it's a very different game compared to the person trying to hit one run, one run, one run, one run.
+
+04:35 - 04:37 **Deepinder Goyal**: So anyway, next slide. And I want to tell you my story here in the reason,
+
+04:38 - 04:40 **Deepinder Goyal**: you know, when I realized this and how I realized this.
+
+04:41 - 04:43 **Deepinder Goyal**: I feel there are two startup Indias.
+
+04:44 - 04:46 **Deepinder Goyal**: There was a startup India that I was part of 10 years ago,
+
+04:47 - 04:50 **Deepinder Goyal**: where it's like all these unknown startups raising from tier 2, tier 3 VCs.
+
+04:51 - 04:54 **Deepinder Goyal**: Good people, nothing against the people, nothing against the VCs,
+
+04:55 - 04:57 **Deepinder Goyal**: but you know, unknown VCs, etc. etc.
+
+04:58 - 05:01 **Deepinder Goyal**: And then there's Startup 1, which is all these like, you know, the top startup names that come to your head, right?
+
+05:02 - 05:04 **Deepinder Goyal**: The Lenskarts of the world, the Zomatos of the world, the Creds of the world.
+
+05:05 - 05:08 **Deepinder Goyal**: And I just feel like I spent so much time in Startup India 2
+
+05:09 - 05:12 **Deepinder Goyal**: where I didn't have an intro into Startup India 1,
+
+05:13 - 05:16 **Deepinder Goyal**: or I hadn't performed anything enough of a miracle to get into Startup India 1,
+
+05:17 - 05:19 **Deepinder Goyal**: or I just wasn't in network.
+
+05:20 - 05:23 **Deepinder Goyal**: And therefore I looked at Startup India 1 with a lot of skepticism, right?
+
+05:24 - 05:27 **Deepinder Goyal**: Which is, "Oh, they're doing something wrong. They don't know what they're doing. They're not focused on profits," etc. etc.
+
+05:28 - 05:32 **Deepinder Goyal**: And there was a period in my life, I remember one specific year where I was running a profitable company.
+
+05:33 - 05:35 **Deepinder Goyal**: That year we were profitable, but the profit numbers were very small.
+
+05:36 - 05:39 **Deepinder Goyal**: And I was comparing the fact that, "Oh, we're at least profitable" compared to another company that had burnt 100 crores that year.
+
+05:40 - 05:42 **Deepinder Goyal**: But then now five years later, that company is doing very, very well.
+
+05:43 - 05:46 **Deepinder Goyal**: Right, so I've seen many situations like that.
+
+05:47 - 05:50 **Deepinder Goyal**: I'll tell you how I got into Startup 1.
+
+05:51 - 05:53 **Deepinder Goyal**: How I got into Startup 1 is by grinding, right?
+
+05:54 - 05:58 **Deepinder Goyal**: It's almost like since 25 I always knew I had the potential to be one of these big founders, right?
+
+05:59 - 06:01 **Deepinder Goyal**: And I was always like, "The world's just not giving me a chance. The world's just not giving me an opportunity."
+
+06:02 - 06:05 **Deepinder Goyal**: I'm sure some of you here have felt this, right? Which is, "I think I'm worth more than what I'm being paid.
+
+06:06 - 06:09 **Deepinder Goyal**: I'm just not getting the right opportunity or I'm under-valued."
+
+06:10 - 06:14 **Deepinder Goyal**: Yesterday I was having a call with, you know, a specific person that I was hiring and the person said,
+
+06:15 - 06:17 **Deepinder Goyal**: "I think I'm worth this much because I deserve it."
+
+06:18 - 06:21 **Deepinder Goyal**: And I always thought in my head that, look, I deserve it. I deserve to be part of Startup 1.
+
+06:22 - 06:24 **Deepinder Goyal**: I deserve to be able to raise lots of money and build big businesses and what not.
+
+06:25 - 06:27 **Deepinder Goyal**: I'm just not given the opportunity.
+
+06:28 - 06:31 **Deepinder Goyal**: But then what I learned about the world is that opportunities are not given.
+
+06:32 - 06:35 **Deepinder Goyal**: You actually have to grind enough and be visible enough and perform enough miracles,
+
+06:36 - 06:39 **Deepinder Goyal**: or, you know, perform enough work, whatever you say, you actually have to, you know, create that outcome.
+
+06:40 - 06:42 **Deepinder Goyal**: And only then people start acknowledging and realizing you.
+
+06:43 - 06:45 **Deepinder Goyal**: Right? And I think it's very important to understand this, right?
+
+06:46 - 06:49 **Deepinder Goyal**: Acknowledgment from some of the top founders or top people in your space,
+
+06:50 - 06:53 **Deepinder Goyal**: whoever you look up to, comes after you prove something, not when you think you have the potential to prove it.
+
+06:54 - 06:58 **Deepinder Goyal**: And I think the gap between you think you have the potential to you think you have proven it is far wider than people think it is.
+
+06:59 - 07:01 **Deepinder Goyal**: It's like the difference between having vegetables on a table and making a dish.
+
+07:02 - 07:05 **Deepinder Goyal**: Right? Everyone can buy the vegetable from a grocery store and put it on the table and say, "I think I can make a dish."
+
+07:06 - 07:08 **Deepinder Goyal**: But actually cooking is harder than you think it is. Next slide.
+
+07:09 - 07:11 **Deepinder Goyal**: So yeah, again, as Startup 1 maybe it was, maybe it was part of Startup 2 India,
+
+07:12 - 07:15 **Deepinder Goyal**: I think it was maybe COPE, I guess, whatever it is.
+
+07:16 - 07:19 **Deepinder Goyal**: That I thought that the other founders are not doing as well and I was doing something better or whatever.
+
+07:20 - 07:23 **Deepinder Goyal**: But I feel reading competence is very important in order to understand accurately where you stand.
+
+07:24 - 07:28 **Deepinder Goyal**: And I think everybody in this room has a misread. Some of you are under-confident, you under-value yourself.
+
+07:29 - 07:33 **Deepinder Goyal**: Some of you are over-confident, you think you're worth much better than you think you are because somebody else in some other startup is making slightly more
+
+07:34 - 07:36 **Deepinder Goyal**: and you think, "I am better than that person, therefore I deserve more."
+
+07:37 - 07:40 **Deepinder Goyal**: And I think reading competence is important because it helps you with everything in life.
+
+07:41 - 07:43 **Deepinder Goyal**: And reading competence starts with reading your own competence. Next slide.
+
+07:44 - 07:46 **Deepinder Goyal**: I'll tell you how people build competence.
+
+07:47 - 07:51 **Deepinder Goyal**: I'll tell you how your scouter level increases, starting from a grand total of zero, how does it go to a thousand, how does it go to 9000 and beyond.
+
+07:52 - 07:54 **Deepinder Goyal**: The path is: you believe in something, whatever it could be,
+
+07:55 - 07:57 **Deepinder Goyal**: and we'll give you some examples.
+
+07:58 - 08:00 **Deepinder Goyal**: You take a big swing at it with some personal risk.
+
+08:01 - 08:04 **Deepinder Goyal**: Okay? Now, the third part sometimes is you have good cards, sometimes you have bad cards.
+
+08:05 - 08:08 **Deepinder Goyal**: But let's say the odds are stacked against you, that people believe it's not going to work.
+
+08:09 - 08:12 **Deepinder Goyal**: Okay? Therefore, you know, a lot of people- you'll face skepticism and ridicule. "Oh, no chance this person's going to be able to do this."
+
+08:13 - 08:15 **Deepinder Goyal**: Right? And we've seen this a lot.
+
+08:16 - 08:18 **Deepinder Goyal**: And finally, somehow, magically pulling it off.
+
+08:19 - 08:23 **Deepinder Goyal**: And what you'll realize about some of the best entrepreneurs in the world, some of the best even employees in the world, everyone's been through this path.
+
+08:24 - 08:26 **Deepinder Goyal**: Every single person. And I like to call this "The Test."
+
+08:27 - 08:31 **Deepinder Goyal**: Okay? And when I was negotiating with somebody yesterday, this talent, the last company he worked at was unprofitable,
+
+08:32 - 08:34 **Deepinder Goyal**: the company he worked at before that didn't really turn too much of a profit.
+
+08:35 - 08:37 **Deepinder Goyal**: And the person's like, "I think I'm worth this much," and he gave me a figure, right?
+
+08:38 - 08:41 **Deepinder Goyal**: And I was like, you believe in this, but none of your outcomes prove this.
+
+08:42 - 08:45 **Deepinder Goyal**: And the minute you prove this outcome, you'll make far more than this.
+
+08:46 - 08:49 **Deepinder Goyal**: Right? And that's the hard part. How do you prove that what you believe in, you can actually execute it?
+
+08:50 - 08:52 **Deepinder Goyal**: Okay? So you might say, "Dude, I can take up this campaign for this specific company
+
+08:53 - 08:57 **Deepinder Goyal**: and get them this many views, or get them this much loyalty, or this much engagement," whatever that criteria for you.
+
+08:58 - 09:01 **Deepinder Goyal**: And nobody believes you, let's say, but we still give you that shot.
+
+09:02 - 09:05 **Deepinder Goyal**: And you take a big swing at it with personal risk, which means if this doesn't work out, I will get fired.
+
+09:06 - 09:08 **Deepinder Goyal**: I don't mind losing my job for this.
+
+09:09 - 09:11 **Deepinder Goyal**: And I met somebody from a very big gaming company recently, a publisher, right?
+
+09:12 - 09:15 **Deepinder Goyal**: And there was a guy who came in from the company, and I want to tell you his story, right?
+
+09:16 - 09:19 **Deepinder Goyal**: And he's like, "Yeah, we'd love to publish your game, we want to like chat about commercials and stuff."
+
+09:20 - 09:22 **Deepinder Goyal**: And I was open, I was just listening to him, and he's like, "Yeah, I can write this."
+
+09:23 - 09:25 **Deepinder Goyal**: We gave a specific number which we would be happy with, and we don't need to take that, so we were just like,
+
+09:26 - 09:27 **Deepinder Goyal**: "Only if we get the terms we want."
+
+09:28 - 09:31 **Deepinder Goyal**: But he said something very interesting, right? He said, "I can write this check, but I won't write it."
+
+09:32 - 09:34 **Deepinder Goyal**: I was like, "Why?" He's like, "I really need six months to think about whether I should write it or not."
+
+09:35 - 09:37 **Deepinder Goyal**: I was like, "Why?" He's like, "Here's the thing, in our company we have a rule
+
+09:38 - 09:40 **Deepinder Goyal**: that you're allowed to take any bet, the company trusts you in the beginning.
+
+09:41 - 09:44 **Deepinder Goyal**: But if you are wrong about this bet, even though investing in a company is like 99% chance of failure,
+
+09:45 - 09:47 **Deepinder Goyal**: anything could happen in the market because of which that company could fail.
+
+09:48 - 09:51 **Deepinder Goyal**: Still, in our company if we take a bet and you're wrong about it, you lose your job.
+
+09:52 - 09:55 **Deepinder Goyal**: And it's like- it's not even personal losing your job there, it's like you believed in this, you took a swing.
+
+09:56 - 09:59 **Deepinder Goyal**: As part of us giving you the power to take the swing, if you miss the swing, you lose your job.
+
+10:00 - 10:02 **Deepinder Goyal**: Therefore, personal risk. You have to create personal risk in the person taking a big swing.
+
+10:03 - 10:06 **Deepinder Goyal**: You give them power but you also say, "Bro, if you fail on the power, you drop."
+
+10:07 - 10:09 **Deepinder Goyal**: Okay? And having bad cards in many people's cases is, "Oh, I don't have a good machine,
+
+10:10 - 10:12 **Deepinder Goyal**: I don't have this, I don't have that." Everyone has excuses in life, right?
+
+10:13 - 10:16 **Deepinder Goyal**: Every single person has excuses. "I don't have access to funding, investors won't talk to me,
+
+10:17 - 10:19 **Deepinder Goyal**: this won't happen, that won't happen, blah blah blah."
+
+10:20 - 10:23 **Deepinder Goyal**: But actually you don't realize, in almost everyone's stories, unless they're very lucky and kids of like successful entrepreneurs or whatever,
+
+10:24 - 10:27 **Deepinder Goyal**: 99% of the time most people who you see in the public who are successful have had bad cards.
+
+10:28 - 10:31 **Deepinder Goyal**: And it could be anything. You might think they might have good cards in terms of wealth, but they might have bad cards in terms of health.
+
+10:32 - 10:34 **Deepinder Goyal**: Maybe the competitors are too strong. Anything can happen.
+
+10:35 - 10:37 **Deepinder Goyal**: So you're not supposed to have all the tools to pull it off, you're supposed to perform a miracle.
+
+10:38 - 10:40 **Deepinder Goyal**: Okay? And then of course, pulling it off, right?
+
+10:41 - 10:44 **Deepinder Goyal**: You said you'd do that campaign, you said you'd make that channel work, you said you'd make that business work.
+
+10:45 - 10:48 **Deepinder Goyal**: But if you pull it off, by definition till here people are allowed to be skeptical.
+
+10:49 - 10:51 **Deepinder Goyal**: The minute you pull it off, your power reading goes up.
+
+10:52 - 10:54 **Deepinder Goyal**: Because you know what you've displayed? You've displayed competence.
+
+10:55 - 10:58 **Deepinder Goyal**: And by the way, humanity loves such stories.
+
+10:59 - 11:02 **Deepinder Goyal**: Humanity loves, and the reason your power level goes up, and the reason people talk about you at that point,
+
+11:03 - 11:05 **Deepinder Goyal**: is humanity loves the stories where you have gone after a big swing and made it happen.
+
+11:06 - 11:09 **Deepinder Goyal**: And then you permanently level up.
+
+11:10 - 11:13 **Deepinder Goyal**: Then you get access to more capital, you get access to more talent, you get access to more things that you want.
+
+11:14 - 11:17 **Deepinder Goyal**: That's why a lot of people start off and say, "I'm going to build, you know, I'm going to do space travel or some deep tech or something like that."
+
+11:18 - 11:21 **Deepinder Goyal**: But often they find the better route to do that, and the route let's say a Deepinder Goyal has taken,
+
+11:22 - 11:25 **Deepinder Goyal**: is to first build a company, prove it that you can do it, earn everyone's trust and respect,
+
+11:26 - 11:28 **Deepinder Goyal**: then take a harder and harder and harder shot.
+
+11:29 - 11:32 **Deepinder Goyal**: And we've seen this with Elon Musk's career, right? Elon started by making a game,
+
+11:33 - 11:36 **Deepinder Goyal**: then he made, you know, payments company which, you know, if you look at it, so many people in India run payments companies.
+
+11:37 - 11:39 **Deepinder Goyal**: And we say, "Oh, India's not innovative, just payment company banaya." But Elon started there.
+
+11:40 - 11:44 **Deepinder Goyal**: And then so on and so forth till the point where you're like, "Well, I want to send rockets to Mars."
+
+11:45 - 11:48 **Deepinder Goyal**: So you take these bets time and time again, increase your power level.
+
+11:49 - 11:51 **Deepinder Goyal**: And the more the scouter level increases, the easier it is for you to get everything:
+
+11:52 - 11:55 **Deepinder Goyal**: money, team, if you're in the company for example, budgets.
+
+11:56 - 11:59 **Deepinder Goyal**: It's very easy once that scouter level increases, once your competence read increases. Next slide.
+
+12:00 - 12:02 **Deepinder Goyal**: If no swing is taken, which means you had an idea about the future,
+
+12:03 - 12:05 **Deepinder Goyal**: that next year, you know, AI avatars would be very big.
+
+12:06 - 12:09 **Deepinder Goyal**: But you don't take the swing, you just go out and say it, you make a video about it,
+
+12:10 - 12:13 **Deepinder Goyal**: right? You make a YouTube video about it, you put a Twitter thread about it.
+
+12:14 - 12:17 **Deepinder Goyal**: You gain some competence, it's called predictive competence, which is:
+
+12:18 - 12:21 **Deepinder Goyal**: "Hey, this guy was right about a couple of things, maybe he's going to be right about the third one." Okay?
+
+12:22 - 12:25 **Deepinder Goyal**: It's called predictive competence, you gain that slightly if you made a prediction about it but didn't take a swing. Okay?
+
+12:26 - 12:29 **Deepinder Goyal**: But believing in something deeply without ever attempting it also earns you a little competence.
+
+12:30 - 12:33 **Deepinder Goyal**: Let's say you truly believe in something. Let's say you're a person who truly believes in, let's say, some topic, let's say veganism.
+
+12:34 - 12:36 **Deepinder Goyal**: You truly believe in it. Okay? And you will never compromise on your principles.
+
+12:37 - 12:40 **Deepinder Goyal**: Over time, people will respect you even if they don't agree with you because they'll be like, "This guy stands for something.
+
+12:41 - 12:43 **Deepinder Goyal**: He's taken a stand for something and is not flip-flopping."
+
+12:44 - 12:47 **Deepinder Goyal**: Right? So you earn a little bit of competence there too.
+
+12:48 - 12:51 **Deepinder Goyal**: Okay? But this is the biggest trap because sometimes you can believe in absolutely garbage things
+
+12:52 - 12:54 **Deepinder Goyal**: and stick to it for the rest of your life, and because you've never taken a swing, you don't even know if that thing is true or false. Okay?
+
+12:55 - 12:58 **Deepinder Goyal**: If personal risk is low, if the kid of a billionaire decides, you know, to take a swing
+
+12:59 - 13:02 **Deepinder Goyal**: and let's say they actually manage to accomplish something, the status read is still lesser,
+
+13:03 - 13:05 **Deepinder Goyal**: a scouter read is still a little lesser, because other people can see "Oh, you did it, but you did it with lots of external help."
+
+13:06 - 13:09 **Deepinder Goyal**: Right? Your parents were rich, therefore they gave you, you know, half a billion dollars to go try this
+
+13:10 - 13:12 **Deepinder Goyal**: or a couple million dollars to go try this. Okay?
+
+13:13 - 13:15 **Deepinder Goyal**: Or if cards aren't that bad, if everyone knew you had an advantage going in,
+
+13:16 - 13:19 **Deepinder Goyal**: competence gained after a successful project is lower.
+
+13:20 - 13:23 **Deepinder Goyal**: So you still gain competence, people still respect you a little more, but it's lower.
+
+13:24 - 13:27 **Deepinder Goyal**: That's why if you're the kid of a very successful entrepreneur or like a rich person,
+
+13:28 - 13:30 **Deepinder Goyal**: it's important to take on harder and harder projects because it looks like you have bad cards.
+
+13:31 - 13:34 **Deepinder Goyal**: Right? So status read- the competence read is a little bit higher. Okay?
+
+13:35 - 13:38 **Deepinder Goyal**: And here's the coolest part what I've learned over the years.
+
+13:39 - 13:42 **Deepinder Goyal**: Even if your outcome is bad, even if you went there, you know, as a batsman and said,
+
+13:43 - 13:46 **Deepinder Goyal**: "I need to hit a six right now," and you swung and your wickets got hit and, you know, you're out.
+
+13:47 - 13:50 **Deepinder Goyal**: You still gain competence if you took a clean, high integrity attempt.
+
+13:51 - 13:54 **Deepinder Goyal**: So if inside the company let's say you did something and you tried your best,
+
+13:55 - 13:57 **Deepinder Goyal**: okay? And you gave it your all and then market- because of market factors it, you know, it fell flat.
+
+13:58 - 14:02 **Deepinder Goyal**: If you gave it a clean attempt, you still get some competence. And believe it or not, a lot of people-
+
+14:03 - 14:06 **Deepinder Goyal**: and we've seen this in our company, we've seen this in other companies as well, when they're starting to lose, let's say they took a- they believed in something.
+
+14:07 - 14:10 **Deepinder Goyal**: They said, "I definitely can do this," and they came in the company and they said, "I'm going to do this."
+
+14:11 - 14:14 **Deepinder Goyal**: Three months later they realize, "Oh shit, I'm not able to really do this."
+
+14:15 - 14:18 **Deepinder Goyal**: And then we've seen a lot of them either ask for a department switch or quit or whatever.
+
+14:19 - 14:21 **Deepinder Goyal**: That's not a clean attempt.
+
+14:22 - 14:25 **Deepinder Goyal**: The right way to do it in our company at least is to put your hand up and say,
+
+14:26 - 14:28 **Deepinder Goyal**: "I thought I could do this, I don't think I can, here's the reasons." Okay?
+
+14:29 - 14:32 **Deepinder Goyal**: "Or maybe here's the gaps in my own knowledge as to why I decided to take that swing and I was wrong.
+
+14:33 - 14:35 **Deepinder Goyal**: I'm going to call this a day and I'm going to shut it down cleanly."
+
+14:36 - 14:39 **Deepinder Goyal**: Right? And a lot of people don't do that, right? A lot of people don't actually take clean attempts because they just say,
+
+14:40 - 14:42 **Deepinder Goyal**: "Okay fine, not working for me at this company, let me just move on."
+
+14:43 - 14:46 **Deepinder Goyal**: Some people quit this company because they're just not able to do the project given to them. And we've seen this before. Next slide.
+
+14:47 - 14:50 **Deepinder Goyal**: Okay? And again, something I started this entire presentation with that I want to repeat
+
+14:51 - 14:53 **Deepinder Goyal**: is there is a big difference between "I think I can do it" in your head versus doing it in real life.
+
+14:54 - 14:57 **Deepinder Goyal**: I would argue that the gap there is a few years.
+
+14:58 - 15:01 **Deepinder Goyal**: And the minute you go from there to here, from the "I think I can do it" to "I've actually proven it,"
+
+15:02 - 15:05 **Deepinder Goyal**: it increases your confidence and, you know, as a company we now have to open our wallets because we don't want to lose you.
+
+15:06 - 15:09 **Deepinder Goyal**: Because now you have proven competence. But as a company if we feel like you feel you can do it, but there's no proof,
+
+15:10 - 15:13 **Deepinder Goyal**: then it always starts with skepticism and it's not just true for our company.
+
+15:14 - 15:17 **Deepinder Goyal**: I think it's true for basically every company in the world and even entrepreneurial kind of attempts, right?
+
+15:18 - 15:20 **Deepinder Goyal**: At Indus we have a name for this. It's called "The Test."
+
+15:21 - 15:24 **Deepinder Goyal**: Okay? The Test permanently- if you pass the test, you permanently increase your scouter level.
+
+15:25 - 15:27 **Deepinder Goyal**: You gain some improvements if you take a like a clean attempt. Okay?
+
+15:28 - 15:31 **Deepinder Goyal**: But if you fail, you fail. And finally you know your adjustment of yourself in your head of "I can do it"
+
+15:32 - 15:34 **Deepinder Goyal**: either goes down or goes up. Right? For in my life it was almost like
+
+15:35 - 15:38 **Deepinder Goyal**: I was like "I can do it" at 21 and I had like a very high opinion of myself, then it started falling.
+
+15:39 - 15:42 **Deepinder Goyal**: Then I had some success, it went up, then again it started falling, falling, falling, falling, falling, and then it again it went up.
+
+15:43 - 15:46 **Deepinder Goyal**: And I think the more attempts like this you take, the more you're able to judge what you can accurately do and what you can't.
+
+15:47 - 15:51 **Deepinder Goyal**: Right? And I think that's a lot of entrepreneurship, it's a lot of working in a company, it's a lot of life.
+
+15:52 - 15:54 **Deepinder Goyal**: To chew on exactly what you can chew on, but you won't know till you try. Next slide.
+
+15:55 - 15:58 **Deepinder Goyal**: And I'll tell you one thing, okay? It's very easy to take an attempt, fail, and then say,
+
+15:59 - 16:02 **Deepinder Goyal**: "Actually, you know, the reason I failed was because of that person, or that budget didn't come,
+
+16:03 - 16:05 **Deepinder Goyal**: or AC nahi tha office mein, ya, you know, anything." Like, you know, the world, right?
+
+16:06 - 16:08 **Deepinder Goyal**: Like, we all come up with infinite number of excuses.
+
+16:09 - 16:11 **Deepinder Goyal**: But I think there's a Steve Jobs quote that everybody needs to know in this company and even outside,
+
+16:12 - 16:15 **Deepinder Goyal**: which is that somewhere between the janitor and the CEO, excuses stop mattering.
+
+16:16 - 16:18 **Deepinder Goyal**: I'll tell you what this means. A janitor let's say somebody who's cleaning the bathroom here, right?
+
+16:19 - 16:22 **Deepinder Goyal**: They are- they're afforded an excuse. "Sir, I couldn't clean the room because the door was locked."
+
+16:23 - 16:25 **Deepinder Goyal**: Fair excuse, I'm willing to say, "Okay fine." But if you're let's say a CXO,
+
+16:26 - 16:28 **Deepinder Goyal**: let's say you're a VP of something, or a manager or something.
+
+16:29 - 16:32 **Deepinder Goyal**: Then you have multiple options. You can find the key, you can go ask where the key is,
+
+16:33 - 16:35 **Deepinder Goyal**: you can get a duplicate key made, worst case scenario you can call somebody from outside, break down the door.
+
+16:36 - 16:39 **Deepinder Goyal**: You can do anything, right? Like, you have so many tools at your disposable to break down the door.
+
+16:40 - 16:43 **Deepinder Goyal**: And we feel like with most pursuits, entrepreneurial or not,
+
+16:44 - 16:47 **Deepinder Goyal**: everybody has the ability to, you know, do it, especially if you're responsible for it. Okay?
+
+16:48 - 16:51 **Deepinder Goyal**: And I think the best kind of people are people who are like, "I tried, I failed, it's okay, but I tried and I failed because N number of reasons."
+
+16:52 - 16:55 **Deepinder Goyal**: Excuses just stop mattering because you have N number of ways to do it.
+
+16:56 - 16:59 **Deepinder Goyal**: The better thing to do if you feel like, you know, it's just not possible to do something, is to chew on less,
+
+17:00 - 17:03 **Deepinder Goyal**: is to take on a smaller problem and say, "I'm more confident about doing this," and go out and do it. Next slide.
+
+17:04 - 17:06 **Deepinder Goyal**: Okay? And I just want to tell you the scouter levels. There are scouter levels. Okay?
+
+17:07 - 17:10 **Deepinder Goyal**: Level zero is NPCs. No beliefs, no attempts, pure consumption.
+
+17:11 - 17:14 **Deepinder Goyal**: They don't say anything, they're just like- I mean, they don't take any attempts.
+
+17:15 - 17:18 **Deepinder Goyal**: Right? And this is- this happens to a lot of people after they become like just disillusioned with the world
+
+17:19 - 17:21 **Deepinder Goyal**: and they're just like "I don't want to do anything with the world, I want to be a hermit somewhere."
+
+17:22 - 17:24 **Deepinder Goyal**: So no beliefs, no attempts, pure consumption. They're sitting on reels scrolling.
+
+17:25 - 17:28 **Deepinder Goyal**: Level one is what I like to call "The Commentators," right?
+
+17:29 - 17:31 **Deepinder Goyal**: And you'll see India's filled with commentators. Okay?
+
+17:32 - 17:34 **Deepinder Goyal**: And it's a courage issue more than anything, because they have very strong opinions, but zero real attempts.
+
+17:35 - 17:38 **Deepinder Goyal**: And I've seen this in a lot in our company as well as we've gotten bigger, right?
+
+17:39 - 17:42 **Deepinder Goyal**: Which is, a person in a meeting will be like, "This needs to be done, that needs to be done," and then "Okay, do it."
+
+17:43 - 17:45 **Deepinder Goyal**: And then silence. Okay? And most of these people are burning their energy on Twitter, on Reddit.
+
+17:46 - 17:49 **Deepinder Goyal**: So, the way I describe it is high Twitter and Reddit, no P&L.
+
+17:50 - 17:53 **Deepinder Goyal**: Right? You know, there's really not much to say about them apart from the fact that they're commentators, right?
+
+17:54 - 17:57 **Deepinder Goyal**: And there are some very passionate commentators, but that still doesn't earn you scouter levels.
+
+17:58 - 18:01 **Deepinder Goyal**: Next is the local doers. Okay? Small attempts, something you've done, you've tried, you've taken initiative by yourself, got somewhere.
+
+18:02 - 18:05 **Deepinder Goyal**: Low personal risk, some wins. And we've seen this some with freelancers, with side hustlers, etc. etc.
+
+18:06 - 18:09 **Deepinder Goyal**: And these people still have some scouter level. Like, I've seen for example some kids who are freelancers on Instagram and YouTube and Twitter and what not.
+
+18:10 - 18:13 **Deepinder Goyal**: And a lot of the commentators will be making fun of them. But you don't realize, among every competent person in the country,
+
+18:14 - 18:17 **Deepinder Goyal**: we take the person who's done something more seriously than the person who's not done something.
+
+18:18 - 18:22 **Deepinder Goyal**: Even if the person who's not done something has like a very nicely written, you know, takedown of the of the person who's done something.
+
+18:23 - 18:27 **Deepinder Goyal**: The next is what I like to call "Founders." I actually want to replace the word founders with "Owners,"
+
+18:28 - 18:31 **Deepinder Goyal**: because you own whatever you're doing. You're a project owner.
+
+18:32 - 18:34 **Deepinder Goyal**: Which is, you're taking repeated high-risk attempts with skin in the game.
+
+18:35 - 18:38 **Deepinder Goyal**: Okay? I see a lot of people here, and it- like, at this point it confuses me, right?
+
+18:39 - 18:42 **Deepinder Goyal**: Where they're like- they want a full salary, comp exactly to market, or maybe even higher than market,
+
+18:43 - 18:46 **Deepinder Goyal**: and they want some equity, or some profit share, or some skin in the game.
+
+18:47 - 18:50 **Deepinder Goyal**: And it's like- kind of not possible to do both, because you are now remember the rules of taking this thing, right?
+
+18:51 - 18:53 **Deepinder Goyal**: There has to be some personal risk to you. But there are some people I've met in my life and even here who are willing to say,
+
+18:54 - 18:57 **Deepinder Goyal**: "Fine, I'll take on this campaign. It's high risk, you know, I have to work with this multinational brand and, you know, get them these results.
+
+18:58 - 19:01 **Deepinder Goyal**: The cards are stacked against me. I might not be able to do this.
+
+19:02 - 19:05 **Deepinder Goyal**: But I'll still try, and you know what? I'll reduce my salary to be able to take a share of if this works out." Right?
+
+19:06 - 19:09 **Deepinder Goyal**: And many of these founders and owners what you'll find is and they've cleverly hidden it over time, all of these people in India especially
+
+19:10 - 19:13 **Deepinder Goyal**: because social media only- like, we only start learning everybody's stories like 5-10 years ago.
+
+19:14 - 19:17 **Deepinder Goyal**: But if you actually go in their past, they have lots of failures.
+
+19:18 - 19:21 **Deepinder Goyal**: Because the only way to accurately know what you're capable of doing is by trying, is by attempting.
+
+19:22 - 19:24 **Deepinder Goyal**: And of course, the game is such that your first 10 attempts are not going to work.
+
+19:25 - 19:27 **Deepinder Goyal**: Your first 5-10 attempts are not going to work. Right? There's lots of people actually that try once,
+
+19:28 - 19:31 **Deepinder Goyal**: fail, and then say, "I don't want the public humiliation, I don't want the risk of this, etc." and never try again.
+
+19:32 - 19:34 **Deepinder Goyal**: So, usually after their first attempt you can tell whether they're going to become a founder or owner mindset or not.
+
+19:35 - 19:37 **Deepinder Goyal**: Usually after the first attempt you can tell. Okay?
+
+19:38 - 19:41 **Deepinder Goyal**: And the last one is "King Makers," right? And you can quickly read their power level
+
+19:42 - 19:45 **Deepinder Goyal**: because- it's very weird, right? And I've mentioned it as "can move markets, industries, or cultures with just a decision." Okay?
+
+19:46 - 19:48 **Deepinder Goyal**: And they have multiple successful events. And I'll tell you something very interesting about these people:
+
+19:49 - 19:51 **Deepinder Goyal**: failure doesn't mean anything to them. What I mean by that is they're so hedged against failure because if you try something, it works,
+
+19:52 - 19:54 **Deepinder Goyal**: if you try something, it works, you built so much social capital that a failure or two doesn't matter.
+
+19:55 - 19:58 **Deepinder Goyal**: Elon tries a new project and it doesn't work, your opinions of him is not going to change much.
+
+19:59 - 20:02 **Deepinder Goyal**: Because he has enough of a scouter level to take a little bit of a [hit].

@@ -1,0 +1,335 @@
+---
+title: Nikhil Kamath_The AI Tsunami is Here & Society Isn't Ready ｜ Dario Amodei x
+  Nikhil Kamath ｜ People by WTF_20260224_part3
+audio_file: Nikhil Kamath_The AI Tsunami is Here & Society Isn't Ready ｜ Dario Amodei
+  x Nikhil Kamath ｜ People by WTF_20260224_part3.mp3
+note_id: 3b76a72d-5ece-4c48-8feb-31c430399605
+date_processed: '2026-03-01'
+classification:
+  primary_domain: AI
+  sub_domains:
+  - Machine Learning
+  - AI Ethics
+  - Future of Work
+  difficulty_level: Intermediate
+  content_type: Discussion
+entities:
+  people:
+  - name: Dario Amodei
+    role: AI Expert
+    contribution: Shared insights on AI and its impact on society
+  - name: Nikhil Kamath
+    role: Interviewer
+    contribution: Asked questions and guided the conversation
+  works_cited: []
+  concepts_mentioned:
+  - AI Models
+  - Coding
+  - Software Engineering
+  - Human-Centered Tasks
+  - Critical Thinking
+  laws_theories_cited: []
+concepts:
+- name: AI Models
+  definition: Computer programs that can perform tasks that typically require human
+    intelligence
+  parent_concepts:
+  - Artificial Intelligence
+  related_concepts:
+  - Machine Learning
+  - Deep Learning
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Human-Centered Tasks
+  definition: Tasks that require human skills such as empathy, creativity, and critical
+    thinking
+  parent_concepts:
+  - Future of Work
+  related_concepts:
+  - AI Ethics
+  - Job Displacement
+  abstraction_level: Applied
+  confidence: 0.8
+- name: Critical Thinking
+  definition: The ability to analyze information, evaluate evidence, and form judgments
+  parent_concepts:
+  - Cognitive Skills
+  related_concepts:
+  - Problem-Solving
+  - Decision-Making
+  abstraction_level: Fundamental
+  confidence: 0.9
+relationships:
+- source_concept: AI Models
+  target_concept: Human-Centered Tasks
+  relationship_type: contradicts
+  strength: 0.7
+  evidence: Dario Amodei mentioned that AI models are becoming more capable of performing
+    tasks that were previously unique to humans
+  reasoning: The conversation implied that AI models may replace some human jobs,
+    but human-centered tasks will still be valuable
+- source_concept: Critical Thinking
+  target_concept: AI Models
+  relationship_type: supports
+  strength: 0.8
+  evidence: Dario Amodei emphasized the importance of critical thinking in a world
+    where AI models can generate information
+  reasoning: The conversation suggested that critical thinking is a key skill for
+    evaluating information and making decisions in an AI-driven world
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: AI
+  source_concept: AI Models
+  target_domain: Economics
+  target_concept: Complex Systems Modeling
+  insight: Both AI models and economic complex systems modeling rely on understanding
+    intricate relationships and predictive analytics.
+  explanation: The structural analogy lies in the use of complex algorithms and data
+    to predict outcomes in both domains. In AI, models are trained on data to make
+    predictions, while in economics, complex systems are modeled to understand and
+    predict market behaviors. This connection highlights the potential for cross-domain
+    learning in model development and predictive analysis.
+  potential_applications:
+  - Improved predictive modeling in economics using AI techniques
+  - Application of economic complex systems thinking to AI model development
+  confidence: 0.9
+  historical_example: The use of system dynamics in economics, pioneered by Jay Forrester,
+    parallels the development of complex AI models.
+- connection_type: principle_application
+  source_domain: AI
+  source_concept: Human-Centered Tasks
+  target_domain: Psychology
+  target_concept: Human Factors in Design
+  insight: The principles of human-centered design in AI can inform the understanding
+    of human factors in psychological design.
+  explanation: Both AI's human-centered tasks and psychology's human factors in design
+    focus on understanding human behavior and cognition to create more effective and
+    user-friendly systems. This principle can be applied across domains to enhance
+    design and user experience.
+  potential_applications:
+  - Enhanced user experience in AI systems through psychological insights
+  - Application of AI human-centered design principles to psychological research tools
+  confidence: 0.8
+  historical_example: The work of Donald Norman on user-centered design has influenced
+    both AI and psychological research.
+- connection_type: metaphor
+  source_domain: AI
+  source_concept: Critical Thinking
+  target_domain: Philosophy
+  target_concept: Logical Reasoning
+  insight: Critical thinking in AI can be metaphorically understood through the lens
+    of philosophical logical reasoning.
+  explanation: The process of critical thinking in AI, which involves analyzing information,
+    evaluating sources, and forming judgments, closely resembles the philosophical
+    practice of logical reasoning. This metaphor highlights the importance of rigorous
+    reasoning in both domains.
+  potential_applications:
+  - Improving AI critical thinking through philosophical logical reasoning frameworks
+  - Applying AI critical thinking methodologies to philosophical inquiry
+  confidence: 0.85
+  historical_example: Aristotle's work on logic and reasoning has foundational implications
+    for both philosophical inquiry and AI's development of critical thinking capabilities.
+bridge_concepts:
+- concept: Complexity
+  appears_in_domains:
+  - AI
+  - Economics
+  - Biology
+  role: Complexity is a bridging concept because it describes the intricate relationships
+    and behaviors found in complex systems across these domains.
+  examples:
+  - AI models dealing with complex data
+  - Economic systems exhibiting complex behaviors
+  - Biological systems showing complex interactions
+mental_models:
+- name: Systems Thinking
+  description: A mental model that involves understanding how different components
+    of a system interact and affect the overall behavior of the system.
+  applied_to:
+  - Understanding AI systems as part of larger technological and social ecosystems
+  transferable_to:
+  - Economics to understand market systems
+  - Biology to comprehend ecological systems
+analogies_used:
+- source_domain: Biology
+  source_concept: Evolution through Natural Selection
+  target_domain: AI
+  target_concept: Algorithmic Evolution
+  mapping:
+    Genetic Variation: Algorithmic Mutation
+    Selection Pressure: Fitness Function
+  pedagogical_value: This analogy helps in understanding how AI algorithms can evolve
+    over time through processes similar to natural selection, highlighting the potential
+    for adaptive improvement in AI systems.
+tags:
+  hierarchical:
+  - '#AI → #Machine Learning → #AI Models'
+  - '#Future of Work → #Job Displacement → #Human-Centered Tasks'
+  topical:
+  - '#AI Ethics'
+  - '#Critical Thinking'
+  methodological: []
+  people:
+  - '#Dario Amodei'
+  - '#Nikhil Kamath'
+  concepts:
+  - '#AI Models'
+  - '#Human-Centered Tasks'
+  temporal: []
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  Dario Amodei discusses the potential disruption of various industries by AI and
+  suggests that tasks that are human-centered, such as those involving relationships
+  and critical thinking, will be less likely to be automated. He also emphasizes the
+  importance of developing skills that complement AI, such as design, problem-solving,
+  and critical thinking, and notes that the ability to work effectively with AI models
+  will become increasingly valuable. Additionally, Amodei touches on the potential
+  for biotech and related fields, such as peptide-based therapies, to experience significant
+  growth and innovation in the coming years.'
+key_ideas:
+- idea: Here are 3-5 key ideas discussed in the transcription text, along with a short
+    description of each
+  description: ''
+- idea: AI's impact on human skills**
+  description: The conversation highlights the potential for AI to replace certain
+    human skills, such as coding, but also notes that critical thinking skills will
+    become increasingly important in a world where AI is prevalent.
+- idea: Emerging industries and opportunities**
+  description: Dario Amodei suggests that industries like biotech, particularly areas
+    like peptide-based therapies and cell-based therapies, may experience significant
+    growth and innovation in the coming years.
+- idea: The importance of data and data centers**
+  description: The discussion touches on the importance of data in the development
+    and deployment of AI models, and how countries may increasingly seek to control
+    and localize their own data, leading to a growth in demand for data centers around
+    the world.
+- idea: The need for education and training in AI**
+  description: Dario Amodei emphasizes the need for people to learn how to effectively
+    use and interact with AI models, and notes that his company, Anthropic, is working
+    to make AI more accessible and user-friendly through initiatives like their "Ministry
+    of Education".
+- idea: The potential for AI to drive significant societal change**
+  description: The conversation concludes with Dario Amodei reflecting on the potential
+    for AI to drive significant and potentially unpredictable changes in society,
+    and the importance of being open to new ideas and possibilities.
+---
+## Key Concepts
+
+**AI Models**  
+Computer programs that can perform tasks that typically require human intelligence
+
+**Human-Centered Tasks**  
+Tasks that require human skills such as empathy, creativity, and critical thinking
+
+**Critical Thinking**  
+The ability to analyze information, evaluate evidence, and form judgments
+
+## Cross-Domain Connections
+
+**AI → Economics**
+
+*Both AI models and economic complex systems modeling rely on understanding intricate relationships and predictive analytics.*
+
+The structural analogy lies in the use of complex algorithms and data to predict outcomes in both domains. In AI, models are trained on data to make predictions, while in economics, complex systems are modeled to understand and predict market behaviors. This connection highlights the potential for cross-domain learning in model development and predictive analysis.
+
+**AI → Psychology**
+
+*The principles of human-centered design in AI can inform the understanding of human factors in psychological design.*
+
+Both AI's human-centered tasks and psychology's human factors in design focus on understanding human behavior and cognition to create more effective and user-friendly systems. This principle can be applied across domains to enhance design and user experience.
+
+**AI → Philosophy**
+
+*Critical thinking in AI can be metaphorically understood through the lens of philosophical logical reasoning.*
+
+The process of critical thinking in AI, which involves analyzing information, evaluating sources, and forming judgments, closely resembles the philosophical practice of logical reasoning. This metaphor highlights the importance of rigorous reasoning in both domains.
+
+## Discussion Topics
+
+- **Here are 3-5 key ideas discussed in the transcription text, along with a short description of each:** 
+- **AI's impact on human skills**:** The conversation highlights the potential for AI to replace certain human skills, such as coding, but also notes that critical thinking skills will become increasingly important in a world where AI is prevalent.
+- **Emerging industries and opportunities**:** Dario Amodei suggests that industries like biotech, particularly areas like peptide-based therapies and cell-based therapies, may experience significant growth and innovation in the coming years.
+- **The importance of data and data centers**:** The discussion touches on the importance of data in the development and deployment of AI models, and how countries may increasingly seek to control and localize their own data, leading to a growth in demand for data centers around the world.
+- **The need for education and training in AI**:** Dario Amodei emphasizes the need for people to learn how to effectively use and interact with AI models, and notes that his company, Anthropic, is working to make AI more accessible and user-friendly through initiatives like their "Ministry of Education".
+- **The potential for AI to drive significant societal change**:** The conversation concludes with Dario Amodei reflecting on the potential for AI to drive significant and potentially unpredictable changes in society, and the importance of being open to new ideas and possibilities.
+
+## Full Transcription
+
+
+
+**Transcription:**
+
+00:00 - 00:19 **Dario Amodei:** We have, you know, I think a special and unique insight into, you know, how to use the- how to best use the AI models to write code. Um, so, you know, I think- I think- I think in the code space, you know, we've- we've become very strong- very strong competitors because this is something we use ourselves. But I don't think that gene- generalizes to every possible industry.
+
+00:20 - 00:54 **Nikhil Kamath:** Again, going back to my audience, which is the 20 or 25-year-old boy or girl in India, what industry do you think will get disrupted and what has a certain runway left? I'm asking from the lens of I'm trying to figure out what book to read, which college to go to, what skill set to learn, if I'm starting a startup today. What has some kind of a tailwind? For a short period of time is okay as well, but what has a tailwind?
+
+00:55 - 01:14 **Dario Amodei:** Yeah, I mean, you know, I would- I would think about tasks that are human-centered. Um, you know, tasks that involve relating to people. You know, I- you know, I think the stuff like code and software engineering is, you know, is becoming more and more kind of AI- AI focused. You know, things like math and science.
+
+01:15 - 01:25 **Nikhil Kamath:** Is that- is that coding or engineering? If I were to segregate coding and engineering to be two completely different things, is coding going away or is engineering element of software where you're an architect trying to figure out-
+
+01:26 - 02:30 **Dario Amodei:** I think coding is going away first, or coding is being, you know, done by the AI models first. And then the broader task of software engineering will take longer, but I think that is, you know, doing that end-to-end, I think that is going to happen as well, I would say. Um, but, you know, again, the elements of like, you know, design, or making something that's useful to users, or knowing what the demand is, or, you know, managing teams of like AI models, like, you know, those things uh uh may still be present. Again, like there's this comparative advantage is surprisingly powerful, right? Even if you're only doing like, you know, 5% of the task, like, you know, that 5% gets super amplified and levered, because it's like you're only doing 5% of the task, the AI does the other 95%, and so you become, you know, 20- 20 times more productive. Again, at some point you get to 99%, 99.9%, and then it becomes harder. But, um, I think there's- there's surprisingly much in that- in that sort of, um, you know, in that zone of comparative advantage. But I would really think about the things- the things that are human-centered. Like I think- I think there's-
+
+02:31 - 02:49 **Dario Amodei:** I think there's something to that. I think there's something to kind of the physical world or- or things that mix together human-centered, the physical world, one of those two, and analytical skills, that somehow tie them together, you know, as- similar to the radiologist example I gave.
+
+02:50 - 03:07 **Nikhil Kamath:** So what would I study? Say I'm actual use case, I'm 25 years old, I'm trying to pick a profession for myself. I want some kind of tailwind, my outcome is a capitalistic win in the next decade. What industry would I pick outside of something which has a physical interface?
+
+03:08 - 04:31 **Dario Amodei:** Yeah, again, anything where you're building on AI, like if AI is the tailwind, you know, if you can be part of some other- other part of the supply chain, you know, something in the semiconductor space, which, you know, I think is, you know, that's one example, you know, that has an element of kind of physical world and more traditional engineering, not- not software engineering. Um, you know, again, the very kind of human-centered professions, like, you know, that is- that is something I would- I would think in terms of. And I think the other thing I always say is like in- in the world in which, you know, AI can kind of generate anything and- and, you know, create anything, having basic critical thinking skills may be the most important thing to- to success. I worry about, you know, these AI models that- that generate images and videos, and we don't make, you know, models that generate images and videos in- in for many reasons, but, you know, this is one of them. Um, it's really hard to tell what's real from what's not. Um, and- and so, you know, a significant part of success may be having the street smarts, you know, not to get- not to get fooled by- by, you know, I mean hopefully we can crack down on and- and regulate some- some of this fake content, but- but, you know, assume we can't. Um, you know, critical thinking skills are going to be really important, and, you know, you don't want to fall for things that are- that are fake, you don't want to have false beliefs, you don't want to get scammed, like, you know, that's- that's really advice that I would give to someone.
+
+04:32 - 04:51 **Nikhil Kamath:** If every innovation in the history of humanity killed a core human skill, I'll give you an example. If calculators killed our ability to do arithmetic, if writing reduced the memory of human beings per se. What muscle is AI killing?
+
+04:52 - 06:07 **Dario Amodei:** So, you know, first of all, I'm- I'm not so sure. Like, you know, I- I still have- I still do math in my head quite a lot. I still find it useful to do math in my head even- you know, even- even without a calculator, just because it's like, you know, it's more integrated into my thought processes, right? You know, I- you know, I- I might want to say, "Oh yeah, you know, if like each user paid this amount, then, you know, then the revenue would be that," you know, I want to be able to close that loop in my head without having to, you know, without having to- to give the answer to a calculator. So I think a lot of these skills are still pretty relevant. Um, but, you know, I- I would say that if you don't use things carefully, that you can lose- you can lose important skills. Um uh and, you know, we- you know, I think we started to see it with, you know, students where, you know, it's like, you know, they have the AI like write the essay for them. It's basically just cheating on homework, so, you know, we shouldn't do that. You know, we did some studies around code and showed that, you know, depending on how you use the model, you know, we- we can see de-skilling in terms of writing code, right? There are different ways to use the model, and some of them don't cause de-skilling and some of them do. But, you know, definitely if folks are not thoughtful in how they use things, then- then de-skilling absolutely can happen.
+
+06:08 - 06:18 **Nikhil Kamath:** Do you think humans will become stupider as a race in the next decade? Because we are in a way exporting thinking and cognition to systems.
+
+06:19 - 06:45 **Dario Amodei:** Yeah. I- I think if we deploy- again, it's the machines of loving grace and adolescence of technology. I think if we deploy AI in the wrong way, if we deploy it carelessly, then yes, people could become stupider. Even if an AI is always going to be better than you at some thing, you can still learn that thing, right? You can still enrich yourself intellectually. And so that's- that's a choice we have to make as- as individual companies, as individual people, and as a society overall.
+
+06:46 - 07:49 **Nikhil Kamath:** Dario, do you have a view on open-sourced versus closed? I was looking at some companies like ZAI, GLM-5, or DeepSeek. If you spend all this money on IP creation, on research, if these guys are able to reverse prompt and engineer and get close to Anthropic-level answers. I'm not saying 100%, but I was seeing the GLM-5 numbers and they seemed quite good. Where does the IP- where does the IP value in the world of AI lie? And if I were to be building an application, can I make the assumption- it's a far-fetched extrapolation, but can I assume that eventually the AI model layers will get so democratized that I should pick open-sourced every time when I'm building an agent or an application layer? Because that helps me retain the- the revenue model that I might be working with.
+
+07:50 - 08:31 **Dario Amodei:** So I- there are a few things here. Um, one is, you know, a- a lot of these models, particularly the ones that come from China, are optimized for benchmarks and are distilled from uh, you know, from kind of the big US labs. Um, so, you know, there- there was a test recently where, you know, some of these models scored very highly on the usual suite benchmarks, the usual software engineering benchmarks. But then when someone made a held-back benchmark, like that, you know, had not been publicly measured, the models did a lot worse on that. Um, and- and so, you know, I think those models are optimized for benchmarks much more than uh, you know, for kind of real-world use.
+
+08:32 - 09:35 **Dario Amodei:** Um, but I think there's a broader point than that, which is that I think the- how things are being set up, the economics of the models are very different than any previous technology. What we find is that there is a very strong preference for quality. It's a bit like human employees, right? So, you know, it's like if- if, you know, if I said to you, "You can hire the best programmer in the world or the 10,000th best programmer in the world," I mean, they're both very skilled, but like I think anyone who's hired a large number of people has this intuition that like there's this like power law long-tail distribution of ability. And we find the same thing in the models, like within a range price doesn't matter that much if- if a- if a model is- is the best model, the most cognitively capable model. Um, uh price doesn't matter much, the form in which it's presented doesn't matter much. So I'm focused almost entirely just on having the smartest model and the best model for the task. Um, my view is that's the only thing that matters.
+
+09:36 - 10:05 **Nikhil Kamath:** Long term, geopolitics. If Anthropic were a restaurant, I would say the raw ingredients, the vegetables in this particular case is data. Do you think the long term- this was also pertinent to me the question because we're investing in a data center business which is Indian in nature. Do you think long term the world moves to a place where every country owns its data and you have to start paying more for the vegetables you use to cook?
+
+10:06 - 11:57 **Dario Amodei:** Yeah. So, I mean, I think- I think there are a few things. I, you know, I do think there will be demand to build data centers around the world, and we're like very supportive of that. Um uh I, you know, it's- data's getting kind of interesting because, you know, a- a lot of the data that we use today is RL environments that we train on, right? So, for example, when you train on math or agentic coding environments, um you're not really getting data, like you're getting some math problems and the model like experiments with trying the math problems. [Nikhil Kamath: "You mean it's more synthetic? You're creating the data?"] Yeah, you can think of it as synthetic data, or you can think of it as trial and error in environments. So I think data's becoming- static data's becoming less important and what we might call like dynamic data that the model creates itself is- for reinforcement learning is becoming more important. So, you know, I don't think data is- is quite the most central thing anymore, but it still matters. And, you know, I think to the extent that- that that is the case, you know, a lot of the data is just- just available- just kind of available on the open web. Although if you're trying to get data in certain languages, optimized for certain languages, that- that- that can be important. You know, I- I do think if data means like the data given to you by customers, like that, you know, you process the data for some other- for some other company, then countries will, and in the case of Europe already have, passed laws that say that that kind of customer- like, you know, personal proprietary- personal or proprietary data needs to stay within the boundaries of the- of the country. And that's one reason to kind of, you know, to build- to operate data centers around the world at different um um countries, and, you know, to kind of, you know, keep the- the model's performance of the- of the- of the inference in those countries.
+
+11:58 - 12:21 **Nikhil Kamath:** I really pushed Elon on this particular question. He was skeptical of answering it. But I asked him to pick one stock he would put money in, which is not his own, and he said Google. I'm going to ask you the question, and I know you're going to be skeptical in it as well. If Dario had $100 today and you had to make the binary decision of investing in a stock to win in capitalism, which stock would you pick?
+
+12:22 - 12:30 **Dario Amodei:** Yeah, I- I had better not answer that question because I know so much about so many public comp- like, I- I think I better not answer that question.
+
+12:31 - 12:38 **Nikhil Kamath:** Maybe answer the question for a industry that you're not involved in, which I'm guessing today is seldom the case because you're involved in most industries.
+
+12:39 - 13:10 **Dario Amodei:** Yeah, no, it's- it's really um I don't know. I- I'm positive on- like, I- I think biotech is about to have a Renaissance. Like ultimately we'll be- will be driven by AI. Um, you know, I'm not going to name a particular company, but- but, you know, nor will I say whether I think it's better to bet on the big pharma companies or like, you know, emerging smaller biotechs. Um, uh but- but like my- my instinct is we're about to cure a lot of diseases and so-
+
+13:11 - 13:13 **Nikhil Kamath:** Can you give me a subset of biotech that I should focus on?
+
+13:14 - 14:02 **Dario Amodei:** Yeah. Um, I think this idea of stuff that's more programmable and adaptive, you know, from the mRNA vaccines- although those are having trouble in the US for dumb reasons, but, you know, I'm very optimistic about the technology- to kind of the peptide-based therapies, right, where, you know, again, if you have a small molecule drug you're like- there's only so many degrees of freedom you have, and, you know, you kind of want to make one thing better, the other thing gets worse. Like peptides, it's- it has this almost digital property where you can say, "Oh, I'm going to substitute in, you know, this amino acid here and this amino acid there," and so it allows for more continuous optimization. So, you know, I- I think those kind- the- those kinds of areas, um, you know, I would be optimistic about, maybe also- maybe also cell-based therapies which is like a new- new- new-
+
+14:03 - 14:04 **Nikhil Kamath:** Stem cell?
+
+14:05 - 14:22 **Dario Amodei:** No, no. So- so things like- you know, like the CAR-T therapy where, you know, you- you know, you kind of genetically engineer your- like, you know, take- basically take some um, you know, cells out of your body, genetically engineer them to- to- to attack a particular cancer and put them back in the body.
+
+14:23 - 14:31 **Nikhil Kamath:** Do stem cell therapies work? I spent the whole of last week doing this. I was at a- at a hospital for three hours a day getting nebulizers and stem cells into my- my veins.
+
+14:32 - 14:39 **Dario Amodei:** I am- I am not up on the latest of- of- of stem cell therapies. You'd have to ask a currently practicing biologist.
+
+14:40 - 14:41 **Nikhil Kamath:** But peptides I think will blow up, right?
+
+14:42 - 14:46 **Dario Amodei:** I- I mean, you know, again, the design space is very broad.
+
+14:47 - 15:28 **Nikhil Kamath:** Right. When I tried to use Claude code for the first time, I did struggle to get it to work. It was for somebody who's very stupid and has no coding or programming knowledge, it's not- it's not very, very easy. I think there's a learning curve. I heard someone say it well, it's like even prompt engineering is like playing a piano, you can't sit and start playing it. To my audience, I think it becomes increasingly relevant where to learn how to set context, um how to prompt, how to use Claude code better for somebody like me who comes with zero knowledge. Um, can you recommend how one does that?
+
+15:29 - 16:50 **Dario Amodei:** Yeah. I mean, first of all, I would say, you know, we're trying- we're trying increasingly to kind of like make that learning curve easier. So like one of the things that caused us to release Claude cowork, um which is basically Claude code for non-coders is, you know, oh man, you know, like we were noticing a bunch of non-technical people who really wanted to use Claude code and were struggling through the command-line terminal um to do that, which, you know, it's- it's like- like coders use the command-line terminal all the time, but like non-coders, you know, it- it's just kind of like makes things unnecessarily complicated. Um, so, you know, cowork was designed to be more of a, you know, the- you know, the kind- of, you know, was powered by- by the Claude code engine on the back, but, you know, the idea was to kind of make it, um, you know, more um um more like user-friendly and and like easier to use. So we're- you know, we're definitely trying to introduce interfaces that kind of make it- make it easier. But I would, you know, I would also say, you know, that there's um, you know, like classes you can take that, you know, help you learn this thing. Now I think it's a very empirical science, you mostly learn by doing, but, you know, it's like Anthropic has its like, you know, part of the company that we call the Ministry of Education, and, you know, I think increasingly, you know, we'll put out videos on how to run effective agents and how to prompt models. You know, we've already done some of that and I think we're going to- we're going to ramp it up, because, you know, we do want everyone to be able to learn this.
+
+16:51 - 17:01 **Nikhil Kamath:** Any fleeting thought, last question, like you want to leave us with something that we should bear in mind? What does Dario know that Nikhil and all of Nikhil's people do not?
+
+17:02 - 18:44 **Dario Amodei:** Yeah, I mean, I don't know that I know that many things, you know, particularly now that the, you know, the implications of the technology are kind of out there. So I mean, you know, it can all be- I- I think most aspects of my worldview can be derived from what- from what's publicly visible now, from what we can see, you know, kind of- kind of outside in the world. But the thing I would say, and it's an experience I've had over and over again over the last 10 years, is, you know, there's- there's this temptation to believe, "Oh, you know, that can't happen, it would be too weird, it would be too big a change, like, you know, I'm sure people are on that, like, you know, it would be too crazy if that occurred, no one seems to think that'll happen." And, you know, over- over and over again just extrapolating the simple curve or trying to reason out what will happen, like leads you to these counter-intuitive conclusions that almost no one believes. Um, and- and, you know, it's almost like you can predict the future for free just by- you know, just by- just by saying, "Well, it's- it stands to reason that-," and, you know, you need some empirical knowledge, you need some intuition, you can't reason from pure- from pure logic. I think that's another type of mistake that I see people make. But the right combination of a few empirical observations, um, uh with, um, you know, just thinking from first principles can allow you to predict the future in ways that you know are publicly available. Anyone should be able to do, but that happens surprisingly rarely.
+
+18:45 - 18:44 **Nikhil Kamath:** Thank you, Dario, for doing this and hope to see you again soon.
+**Dario Amodei:** Thank you.
+**Nikhil Kamath:** Thank you. Cheers.
+**Dario Amodei:** All right.
+**Nikhil Kamath:** Yeah.
+**Dario Amodei:** Good. Was that okay?
+**Nikhil Kamath:** Yeah, seemed great.

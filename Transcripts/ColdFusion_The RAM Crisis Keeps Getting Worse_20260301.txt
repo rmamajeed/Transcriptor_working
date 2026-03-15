@@ -1,0 +1,178 @@
+---
+title: ColdFusion_The RAM Crisis Keeps Getting Worse_20260301
+audio_file: ColdFusion_The RAM Crisis Keeps Getting Worse_20260301.mp3
+note_id: 41fe31b9-cee1-468e-8778-690dcb2827ad
+date_processed: '2026-03-07'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Unknown
+  source_concept: Pattern recognition
+  target_domain: Machine Learning
+  target_concept: Deep learning algorithms
+  insight: Both recognize patterns in complex data
+  explanation: The process of identifying patterns in the unknown transcript mirrors
+    the function of deep learning algorithms in machine learning, which also aim to
+    recognize and classify patterns within large datasets. This structural analogy
+    highlights the potential for applying machine learning techniques to analyze and
+    understand the unknown transcript. Furthermore, the complexity of patterns in
+    both domains requires sophisticated methods for recognition and analysis.
+  potential_applications:
+  - Text analysis
+  - Image recognition
+  confidence: 0.9
+  historical_example: The development of neural networks in the 1940s laid the groundwork
+    for modern deep learning techniques
+- connection_type: principle_application
+  source_domain: Unknown
+  source_concept: Information encoding
+  target_domain: Computer Science
+  target_concept: Data compression
+  insight: Efficient encoding of information is crucial in both domains
+  explanation: The principle of efficiently encoding information to convey meaning
+    or store data is fundamental in both the unknown transcript and computer science.
+    Applying data compression algorithms from computer science could provide insights
+    into how information is structured and conveyed in the unknown transcript. This
+    principle application can help in understanding the complexity and organization
+    of the information presented.
+  potential_applications:
+  - Data storage optimization
+  - Communication protocol design
+  confidence: 0.8
+  historical_example: The work of Claude Shannon on information theory in the 1940s
+    has influenced both data compression techniques and our understanding of information
+    encoding
+- connection_type: metaphor
+  source_domain: Unknown
+  source_concept: Navigating complexity
+  target_domain: Ecology
+  target_concept: Ecosystem balance
+  insight: Both involve managing complex, interconnected systems
+  explanation: The metaphor of navigating through or understanding the unknown transcript
+    can be likened to managing and balancing an ecosystem. Both involve recognizing
+    and respecting the intricate relationships and feedback loops within complex systems.
+    This metaphorical connection suggests that principles from ecology, such as resilience
+    and adaptability, could be applied to understanding and interacting with the unknown
+    transcript.
+  potential_applications:
+  - Systemic risk analysis
+  - Sustainability planning
+  confidence: 0.7
+  historical_example: The concept of the 'balance of nature' in ecology has historical
+    roots and parallels in the management of complex human systems
+bridge_concepts:
+- concept: Complexity
+  appears_in_domains:
+  - Unknown
+  - Ecology
+  - Computer Science
+  role: It bridges domains by highlighting the need for systemic understanding and
+    management
+  examples:
+  - Ecosystems
+  - Algorithms
+  - Data structures
+- concept: Information
+  appears_in_domains:
+  - Unknown
+  - Computer Science
+  - Biology
+  role: It serves as a bridge by showing how information is fundamental to understanding
+    and describing systems
+  examples:
+  - Genetic code
+  - Digital data
+  - Cognitive processes
+mental_models:
+- name: Systems Thinking
+  description: A holistic approach to understanding complex systems and their interactions
+  applied_to:
+  - Analyzing the unknown transcript as a system
+  transferable_to:
+  - Ecology
+  - Computer Science
+  - Biology
+- name: First Principles
+  description: Breaking down complex systems into their fundamental components to
+    understand them
+  applied_to:
+  - Deciphering the unknown transcript
+  transferable_to:
+  - Physics
+  - Engineering
+  - Economics
+analogies_used:
+- source_domain: Music
+  source_concept: Composition
+  target_domain: Unknown
+  target_concept: Structuring the transcript
+  mapping:
+    Melody: Narrative thread
+    Harmony: Contextual relationships
+  pedagogical_value: This analogy helps in understanding the transcript's structure
+    and flow by relating it to the familiar concept of musical composition
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+
+Full Transcription
+
+
+
+---
+
+00:00 - 03:07 Dagogo Altraide: Hi, welcome to another episode of ColdFusion. Imagine walking into an electronics store a few years from now. The shelves are stocked, the displays still look familiar, but the prices make you pause. A laptop costs more than you expected. The release of a gaming console is postponed again. A phone upgrade quietly disappears from the lineup. And as a consumer, you don't immediately know why. There are no dramatic headlines, no single event you can point to, just a feeling that buying technology has become more complicated than it used to be. This future scenario is already beginning to unfold. It's the computer enthusiasts around the world who began to feel it first. But why is all of this happening? Well, behind the scenes, a critical component of modern computing is under pressure. It's called Random Access Memory, or RAM. It's the kind of hardware most people never think about, but it's vital to almost every electronic product we use. For the past few years, trillions of dollars have been flowing into AI data centers across the world. And for those data centers to run smoothly, one of the most valuable components is memory, or RAM. In this new AI gold rush, RAM has become the shovel. It's the one component that every single serious player needs to keep digging. According to multiple industry reports, OpenAI has already secured an estimated 40% of global high-bandwidth RAM. Right now, the shift in global RAM production is affecting computing, but if you're not a gamer and you think you're safe, think again. The price hikes will expand into a large array of electronic devices.
+
+01:31 - 01:58 Brian Sullivan: Artificial intelligence, and specifically the absolutely insatiable demand for HBM, or high-bandwidth memory, used in AI training hardware. Now, to be clear, HBM is not the same stuff that's in your laptop. It's a far different and more expensive product, but all memory shares the same wafer fabrication process, and it's a zero-sum game. Every wafer allocated to an HBM stack for an Nvidia GPU is a wafer not making it into the LPDDR on your next laptop.
+
+01:58 - 03:13 Dagogo Altraide: Meanwhile, Nvidia CEO Jensen Huang was in Seoul recently, reportedly chugging soju and demolishing Korean fried chicken with Samsung memory executives. The purpose of his visit was very clear: secure the RAM, lock it in, and make sure competitors don't get to it first. But why meet Samsung executives specifically? The South Korean company now makes more money selling RAM to data centers than it does selling phones. Other RAM manufacturers have decided to stop selling to consumers altogether. AI data centers are just that much more profitable. That detail matters. It shows where priorities are shifting. If that shift continues, every consumer product that depends on memory will feel the pressure. Phones, gaming consoles, TVs, laptops, you name it. On the other hand, the country that's best positioned to take advantage of this memory issue may not be the United States or South Korea, but China. In today's episode, we're going to take a look at how memory became the choke point of the AI era, the companies behind it, and why the next technology shock may arrive without a single line of code changing. Let's get into it.
+
+03:14 - 03:26 Newscaster: We see data centers as the most exciting asset class. Meta is building a two-gigawatt-plus data center that is so large it would cover a significant part of Manhattan.
+
+03:26 - 08:05 Dagogo Altraide: Take a look at this chart. It shows the price of DDR5 RAM over recent months. For a long time, prices barely moved; they even fell slightly. Then, very suddenly, at the start of last year, it went parabolic. If you've been trying to build a PC recently, you already know what's going on. One single 256 GB RAM kit can now cost more than a flagship GPU, in some cases, more than an RTX 5090. And that parabolic move is where the story begins. We'll come back to what really caused it later, but for now, let's look at what RAM really is. If you're watching this episode, you already know the basics, but here's a quick refresher. RAM is short-term working memory. It's where data sits while a computer is actively doing something: opening apps, loading game assets, editing video, even switching between browser tabs. All of that happens on RAM. As computers do more, RAM matters more. In AI data centers, however, RAM is mission-critical. The memory used to train and run large AI models operates under very different conditions from the RAM inside your laptop or gaming PC. These systems run consistently, sometimes for weeks at a time. A small error at home might freeze an app, but in a data center, that same error can crash the entire training run and waste millions of dollars in compute time. That's why servers rely on ECC memory, or error-correcting code RAM. Stability comes first; slightly higher latency is fine, but crashing is not. As AI demand surged, more manufacturing capacity began flowing towards server-grade memory. Who cares about consumer RAM? But there's a massive problem: only a few companies can make that sort of thing. At this point, you might be wondering something. There's so many brands of RAM you can buy, it doesn't look like the market is controlled by scarcity. Even though RAM sticks are sold under dozens of names, the most important part is the memory chip itself, those small black rectangles soldered onto the stick. And here's the key point: around 93% of those chips come from just three companies. They are Samsung, SK Hynix, and Micron.
+
+05:32 - 06:23 Brian Sullivan: I don't remember anybody forecasting that all of a sudden AI data centers would be buying up so much of the world's RAM that the rest of us would be scrounging for leftovers. These three companies control 93% of the world's supply of RAM. Of these three, one of them just said we're done with consumer business; we're just going to focus on enterprise now. We're going to focus on data centers because that's where the money is. And of the other two, Samsung and SK Hynix, they may have contributed as much as 40% of the world's entire supply of memory to a single project at OpenAI going on right now to create a massive set of AI infrastructure.
+
+06:23 - 08:05 Dagogo Altraide: When the world's electronics depend on just three companies, the system becomes fragile. One disruption, one miscalculation, and the whole thing starts to wobble. A tightly balanced supply meets a sudden series of shocks. As we mentioned earlier, in October 2025, OpenAI quietly locked up an estimated 40% of global DRAM production for its long-term AI infrastructure. Then, in late 2025, Micron announced that it was stepping away from consumer Crucial RAM and SSDs. Its focus was going to be AI and enterprise buyers. The leftover consumer stock was expected to sell out by early 2026, and with that single move, the entire market shook. What followed was a scramble. Other tech giants realized that the window was closing. In January, Korean media reported that US big tech companies were staying in long-term hotels around Pangyo and Pyeongtaek, desperately begging Samsung and SK Hynix for DRAM allocations. The situation was reportedly so dire that industry insiders were even calling them 'DRAM beggars'. Google reportedly tried to secure additional high-bandwidth memory, or HBM. This is a specialized form of RAM designed to sit right next to AI accelerators. In Google's case, those accelerators are TPUs, or Tensor Processing Units, Google's custom chips that power much of its AI training. The response they received was blunt: supply simply wasn't available. According to reports, the executives responsible for securing that memory were later fired. Microsoft didn't fare much better. Also in a panic, executives flew to South Korea to negotiate directly with SK Hynix, and the talks went badly. One executive reportedly stormed out of the meeting. This was the environment during the price spike that you saw earlier. So given everything happening across the supply chain, it leads to an obvious question: if demand is so high and prices are rising, why don't memory manufacturers simply make more chips?
+
+08:06 - 08:51 Brian Sullivan: Why don't they just make more? Well, for a couple of reasons. First, as I've alluded to before, the current fabs that are used to make cutting-edge chips have a finite capacity. They already run around the clock with some of the world's most finely tuned supply management and highly trained engineers overseeing their operation. It's not as simple as just adding a production shift or turning the machine up to 200%. Those are delicate operations, and if something goes wrong in the middle of a batch, it could be weeks or even months to build it again from scratch. So they're not going to change things all willy-nilly. And second is that even if they could boost production to meet demand, both SK Hynix and Samsung have publicly stated they don't plan to because they don't want to.
+
+08:52 - 11:41 Dagogo Altraide: That clip explains the core of the problem well. Once you accept that today's factories are already running flat out, the obvious follow-up is, why not just build new ones? This is where things slow down. People inside the industry are very clear about the timeline. One memory chip executive told Reuters that even after a company decides to expand, it still takes at least two years for new capacity to actually start producing chips. And that's the optimistic version where everything goes according to plan. In tech, two years is equivalent to the time between now and the Egyptian pyramids. Building a fab means committing billions of dollars today based on what you think the demand would look like several years from now. And who knows what AI demand would look like then? Everything could pan out, or it could be a bubble. Even Sam Altman, OpenAI CEO, has openly acknowledged that the current AI frenzy may turn out to be a bubble.
+
+09:43 - 10:30 Brian Sullivan: It's an interesting time for the world's most prominent AI CEO to say this. Late last week, Sam Altman had a dinner with various journalists, it was on the record, and the Verge published this quote. So Sam Altman said: 'When bubbles happen, smart people get overexcited about a kernel of truth. If you look at most of the bubbles in history, like the tech bubble, there was a real thing; tech was really important. The internet was a really big deal. People got overexcited. Are we in a phase where investors as a whole are overexcited about AI? My opinion is yes. Is AI the most important thing to happen in a very long time? My opinion is also yes.' That was Sam Altman saying we are in a bubble and investors are overexcited. He said elsewhere that he thinks some people will probably lose a lot of money.
+
+10:31 - 12:38 Dagogo Altraide: There's also plenty of early evidence to suggest that OpenAI themselves will struggle financially in the future, and that uncertainty matters. If AI demand cools faster than expected in the next two years, it makes little sense for memory manufacturers to pour billions of dollars into equipment now. They're being extra cautious because they've seen this movie before. In the mid-2010s, memory demand surged as smartphones went mainstream. This was especially true when cheap mobile data exploded in fast-growing markets like India. DRAM manufacturers ramped up production. They were convinced that the growth would last, but it didn't. Demand cooled, the market flipped into oversupply, and prices collapsed. It's a painful memory that still hangs over the industry. So instead of a sudden flood of new factories to meet demand, what you get is hesitation, careful commitments, and a lot of waiting. Under current conditions of increased demand, the impact is massive, and we're already starting to see it. By this point, the effects are no longer subtle. Inside the industry, executives have stopped speaking in hypotheticals. SK Group chairman Chey Tae-won said: 'These days, we're receiving many requests for memory supplies from so many companies that we're worried about how we'll be able to handle them all. If we fail to supply them, they could face a situation where they can't do business at all.' All of that pressure is already spiraling into the real world. According to Reuters, Japanese electronic retailers have begun limiting how many hard drives their consumers can buy. Chinese smartphone manufacturers are openly warning of price increases. Apple is already deep in it as well. They're reporting paying a 230% premium for the 12 GB LPDDR5X memory used in its iPhone 17 Pro models. Chips that once cost $25 to $29 are now closer to $70 each on every phone. PC makers are facing the same reality. Lenovo and HP are scrambling to secure memory supply as shortages are expected to last until 2027. Dell, Lenovo, and Framework have also announced price increases.
+
+12:39 - 13:00 Brian Sullivan: The RAM-pocalypse continues as RAM prices continue to rise. Dell, Lenovo, and Framework have all announced price increases and other changes due to DRAM shortage, with TrendForce even predicting that Dell and Lenovo may be going backwards and limiting devices to only 8 gigs of RAM.
+
+13:00 - 15:52 Dagogo Altraide: According to IDC research, in 2026, the whole PC market could decline by 4.9 to 8.9 percent, and smartphones 2.9 to 5.2 percent respectively. Consoles are under pressure too. PlayStation 6 and the next-generation Xbox could face delays. Nintendo has already lost around $14 billion in market value amid concerns over memory costs affecting the next Switch. Among the consumers, gamers are feeling it most. They rely on high-performance GPUs, but those GPUs are rumored to push towards $5,000 price tags.
+
+13:32 - 14:09 Brian Sullivan: A recent report indicates that Nvidia is going to be pushing the prices of RTX 5090 up to 5k. This is still an unconfirmed rumor from an insider source in South Korea. From what I can understand, that's kind of like boots on the ground that's talking about it right now, which is where this headline is stemming from. Previous price was 2k. This is over double. That's an awfully hard bargain there: 5,000 clams. I would imagine most sensible sane human beings on the planet would be pretty upset about that.
+
+14:10 - 15:52 Dagogo Altraide: Meanwhile, there's some dire warnings out there. The CEO of the fabless RAM designer Phison states that many consumer electronics manufacturers 'will go bankrupt or exit product lines' by the end of 2026 due to the AI memory crisis. He claims that mobile phone production will be reduced by 200 to 250 million units and PC and TV production will also be significantly reduced. We'll see if that pans out, but it does indicate some serious supply disruption. At this point, we need to talk about Nvidia. The company built its rise on gaming GPUs, but now sits at the center of the AI boom, and they're one of the biggest beneficiaries. According to the publication The Information, Nvidia will pause new gaming GPU releases for consumers in 2026 due to the shortage. It's a slap in the face for gamers. Meanwhile, their latest Blackwell systems are designed for data centers, not desktops. Each rack carries enormous amounts of memory, up to 864 GB, and that's because modern AI models demand it. Multiply that across hundreds of systems that companies like Anthropic and Microsoft want to deploy, and the effect is obvious: vast chunks of global memory supply disappear into data centers long before consumer hardware even gets a sniff. All of this leaves the market in an unusual place. The companies that built the modern tech stack are quietly reshuffling their priorities. To consumers, Nvidia feels like a modern Judas, but that's just the way it is. But there's also a glaring problem with the data center build-out itself. What happens in two to four years when the very chips that have ruined the global RAM supply are hopelessly outdated for their original purpose? It's a question worth asking. And then on top of this, you have all the clueless investors jumping in on the hype. Frankly, it's insane.
+
+15:52 - 16:49 Speaker 5: So the problem with data centers is everyone thinks that data centers are real estate, and a lot of people do real estate. Data centers are not real estate. The common joke in the industry now is someone says 'I'm going to have 100 megawatts of capacity for you and I'm going to have it in three months; are you willing to sign?' And then you ask a question like, 'Well, what's your uptime?' And they're like, 'I don't know, whatever the power grid is.' And you're like, 'Wait, what? Where are your generators?' 'Oh, I haven't ordered those; I'll order them now.' 'You know that there's a 90-month lead time on generators right now?' 'Oh, really?' The 9-0, 90. And then the next question is 'Where are you getting the water from?' 'Wait, data centers need water? I thought it was a bunch of chips. What do you mean water?' So there's a bunch of people who have no idea what they're doing going into it because they think it's real estate. And so those people are now building an oversupply of data centers, but they're not really building them; so they're fake data centers that people think are real.
+
+16:50 - 17:58 Dagogo Altraide: For now, there's no obvious release valve. But there is a dark horse in this story: China. Just as pressure mounts on traditional centers of chip production, China is only a few years behind the cutting edge. Could the giant from the East swoop in and change the RAM-pocalypse story? Possibly, but not overnight. China's leading DRAM challenger, CXMT, has recently announced that it's able to manufacture DDR5 memory. On paper that matters, but there is a catch: timing. Most analysts believe that CXMT is still two or three years away from reaching the scale, yields, and consistency needed to meaningfully shift global supply. By then, today's contracts will already be locked in. Those contracts matter more than most people realize. SK Hynix has reportedly sold through much of its production well into 2026. That means that even if AI demand cools or the bubble deflates, the memory is already spoken for. Buyers who locked in early will still be expected to take delivery, often at prices set during today's peak. So even with new players entering the field, relief arrives slowly, and when it does, it's not going to feel evenly distributed.
+
+17:59 - 18:50 Dagogo Altraide: So I've been covering neural networks on this channel for over a decade. Before ChatGPT and before the hype, I was really fascinated by the raw potential of this technology. But what we're seeing now just feels different: louder, messier, harder to justify. Between the water usage, the electricity demand, AI-induced psychosis, non-consensual generated images, and the growing flood of low-effort AI content, it's fair to pause and ask a difficult question: are the benefits of consumer-generated AI still worth the cost, especially when the fallout isn't abstract anymore? So what's your take on all of this? Do you think that the RAM shortage is just a necessary step to get to where we need to be, or have tech CEOs become a bit overzealous and this is all a big mistake? Let me know your thoughts in the comments section below.
+
+18:51 - 21:05 Dagogo Altraide: It's abundantly clear that AI is everywhere these days, whether we like it or not. But have you ever thought about how artificial intelligence works in the first place? Well, if you have, Brilliant is for you. I've found it a great way to learn or build on the skills you already have. Brilliant is a learning platform designed to help you master both math and coding through interactive step-by-step lessons and personalized practice. With Brilliant, you're not only learning by doing, you're also solving problems visually and interactively. I love the way it adjusts to how you learn, so you're always progressing at the right pace. Whether you're 10 years old or 110, it's designed for everyone from curious kids to adults. I love Brilliant's Scientific Thinking course. When you're working through these science lessons, you're actively solving problems step by step until the ideas genuinely make sense. That interactive approach makes a huge difference when compared to just passively watching a lecture or a video. Everything is carefully crafted by world-class educators from places like MIT, Harvard, Stanford, Caltech, and leading tech companies. With their expanded 2025 content library, there's more depth than ever, from everyday data reasoning and probability to advanced problem solving and the mathematics that underpins modern AI. So if you want to learn more or simply just brush up on your knowledge base, look no further than Brilliant. Stop building the habit of learning today, not for grades or credentials, but for the way it sharpens how you think, reason, and approach challenges. To learn for free on Brilliant for a full 30 days, head to brilliant.org/coldfusion, scan the QR code on the screen, or click the link in the description. Brilliant is also offering our viewers 20% off an annual premium subscription, which gives you unlimited daily access to everything on Brilliant. Thanks to Brilliant for supporting ColdFusion. Anyway, that's about it from me. My name is Dagogo, and you've been watching ColdFusion, and I'll catch you again soon for the next episode. Cheers, guys. Have a good one.

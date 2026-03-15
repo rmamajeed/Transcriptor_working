@@ -1,0 +1,306 @@
+---
+title: Two Minute Papers_New DeepSeek Research - The Future Is Here!_20260204
+audio_file: Two Minute Papers_New DeepSeek Research - The Future Is Here!_20260204.mp3
+note_id: da7d7eec-8638-402e-8b85-c8e61574d527
+date_processed: '2026-03-02'
+classification:
+  primary_domain: AI
+  sub_domains:
+  - Machine Learning
+  - Natural Language Processing
+  - Artificial General Intelligence
+  difficulty_level: Advanced
+  content_type: Explainer
+entities:
+  people:
+  - name: Dr. Károly Zsolnai-Fehér
+    role: Researcher/YouTuber
+    contribution: Explained DeepSeek research
+  works_cited:
+  - title: DeepSeek paper
+    author: DeepSeek researchers
+    year: 2023
+  - title: GPT-4 paper
+    author: OpenAI
+    year: null
+  concepts_mentioned:
+  - ChatGPT-like intelligence
+  - Group Relative Policy Optimization (GRPO)
+  - Reinforcement Learning
+  - Distillation
+  - Artificial General Intelligence
+  laws_theories_cited: []
+concepts:
+- name: Group Relative Policy Optimization (GRPO)
+  definition: A technique used to train AI models without an expensive teacher model
+  parent_concepts:
+  - Reinforcement Learning
+  related_concepts:
+  - Deep Learning
+  - Artificial Intelligence
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Reinforcement Learning
+  definition: A type of machine learning where an agent learns by interacting with
+    an environment
+  parent_concepts:
+  - Machine Learning
+  related_concepts:
+  - Deep Learning
+  - Artificial Intelligence
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Distillation
+  definition: A technique used to transfer knowledge from a large model to a smaller
+    model
+  parent_concepts:
+  - Machine Learning
+  related_concepts:
+  - Deep Learning
+  - Artificial Intelligence
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Artificial General Intelligence
+  definition: A type of artificial intelligence that can perform any intellectual
+    task
+  parent_concepts:
+  - Artificial Intelligence
+  related_concepts:
+  - Machine Learning
+  - Deep Learning
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: ChatGPT-like intelligence
+  definition: A type of artificial intelligence that can understand and generate human-like
+    text
+  parent_concepts:
+  - Natural Language Processing
+  related_concepts:
+  - Deep Learning
+  - Artificial Intelligence
+  abstraction_level: Theoretical
+  confidence: 0.9
+relationships:
+- source_concept: Group Relative Policy Optimization (GRPO)
+  target_concept: Reinforcement Learning
+  relationship_type: derives_from
+  strength: 0.9
+  evidence: DeepSeek paper
+  reasoning: GRPO is a technique used in reinforcement learning
+- source_concept: Distillation
+  target_concept: Artificial General Intelligence
+  relationship_type: supports
+  strength: 0.8
+  evidence: DeepSeek paper
+  reasoning: Distillation can be used to improve the performance of AI models
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: AI
+  source_concept: Group Relative Policy Optimization (GRPO)
+  target_domain: Economics
+  target_concept: Game Theory
+  insight: GRPO mirrors game theory's strategic decision-making
+  explanation: Both GRPO and game theory involve optimizing outcomes based on the
+    actions of multiple agents. In GRPO, agents learn policies relative to their group's
+    performance, while in game theory, players make strategic decisions based on the
+    actions of others. This structural analogy highlights the potential for applying
+    game theoretical principles to GRPO and vice versa.
+  potential_applications:
+  - Multi-agent systems
+  - Mechanism design
+  confidence: 0.9
+  historical_example: The prisoner's dilemma (1950) and its application to AI multi-agent
+    systems
+- connection_type: principle_application
+  source_domain: AI
+  source_concept: Reinforcement Learning
+  target_domain: Psychology
+  target_concept: Operant Conditioning
+  insight: Reinforcement learning parallels operant conditioning
+  explanation: Both reinforcement learning and operant conditioning rely on feedback
+    mechanisms to modify behavior. In reinforcement learning, agents learn from rewards
+    or penalties, while in operant conditioning, behaviors are reinforced or punished.
+    This principle of feedback-driven learning can be applied across domains to understand
+    how behaviors are shaped.
+  potential_applications:
+  - Behavioral modification
+  - Learning theory
+  confidence: 0.8
+  historical_example: B.F. Skinner's work on operant conditioning (1930s) and its
+    influence on AI research
+- connection_type: metaphor
+  source_domain: AI
+  source_concept: Distillation
+  target_domain: Education
+  target_concept: Knowledge Distillation
+  insight: Distillation in AI mirrors knowledge distillation in education
+  explanation: In AI, distillation involves transferring knowledge from a complex
+    model to a simpler one. Similarly, in education, knowledge distillation refers
+    to the process of simplifying complex concepts to make them more accessible. This
+    metaphor highlights the importance of simplifying and transferring knowledge in
+    both domains.
+  potential_applications:
+  - Curriculum design
+  - Teaching methods
+  confidence: 0.7
+  historical_example: The concept of pedagogical simplification ( ancient Greece)
+    and its modern applications in AI
+- connection_type: historical_precedent
+  source_domain: AI
+  source_concept: Artificial General Intelligence
+  target_domain: Philosophy
+  target_concept: The Turing Test
+  insight: The pursuit of AGI echoes the Turing Test's philosophical questions
+  explanation: The Turing Test (1950) raised questions about the nature of intelligence
+    and human-machine distinction. The pursuit of AGI revives these philosophical
+    debates, highlighting the need to re-examine what it means to be intelligent and
+    the potential consequences of creating intelligent machines.
+  potential_applications:
+  - Ethics of AI
+  - Philosophy of mind
+  confidence: 0.9
+  historical_example: Alan Turing's proposal of the Turing Test (1950) and its ongoing
+    influence on AI research
+- connection_type: structural_analogy
+  source_domain: AI
+  source_concept: ChatGPT-like intelligence
+  target_domain: Linguistics
+  target_concept: Language Models
+  insight: ChatGPT-like intelligence mirrors language models in linguistics
+  explanation: Both chatGPT-like intelligence and language models in linguistics rely
+    on complex statistical patterns to generate human-like language. This structural
+    analogy highlights the potential for applying linguistic principles to improve
+    chatGPT-like intelligence and vice versa.
+  potential_applications:
+  - Natural Language Processing
+  - Human-Computer Interaction
+  confidence: 0.8
+  historical_example: The development of language models in linguistics (1960s) and
+    their application to AI research
+bridge_concepts:
+- concept: Optimization
+  appears_in_domains:
+  - AI
+  - Economics
+  - Engineering
+  role: Optimization is a fundamental principle that bridges domains, enabling the
+    comparison of different systems and the identification of efficient solutions.
+  examples:
+  - Reinforcement learning in AI
+  - Game theory in economics
+  - Control theory in engineering
+- concept: Feedback Mechanisms
+  appears_in_domains:
+  - AI
+  - Psychology
+  - Biology
+  role: Feedback mechanisms are a crucial component of many systems, allowing for
+    adaptation and learning. They bridge domains by providing a common language for
+    understanding complex behaviors.
+  examples:
+  - Reinforcement learning in AI
+  - Operant conditioning in psychology
+  - Homeostasis in biology
+mental_models:
+- name: Systems Thinking
+  description: Systems thinking is a mental model that involves understanding complex
+    systems as interconnected components, analyzing their relationships, and recognizing
+    the dynamics of the system as a whole.
+  applied_to:
+  - Analyzing the behavior of multi-agent systems in AI
+  transferable_to:
+  - Understanding economic systems
+  - Modeling biological ecosystems
+- name: First Principles
+  description: First principles is a mental model that involves breaking down complex
+    systems into their fundamental components, understanding the underlying principles,
+    and reassembling them to gain insight into the system's behavior.
+  applied_to:
+  - Designing AI systems from first principles
+  transferable_to:
+  - Developing new materials in physics
+  - Understanding the fundamentals of human cognition in psychology
+analogies_used:
+- source_domain: Biology
+  source_concept: Evolution
+  target_domain: AI
+  target_concept: Reinforcement Learning
+  mapping:
+    Natural Selection: Reward Function
+    Genetic Variation: Exploration-Exploitation Trade-off
+  pedagogical_value: This analogy helps understand the concept of reinforcement learning
+    by drawing parallels with the process of evolution, where agents adapt to their
+    environment through a process of variation, selection, and retention.
+- source_domain: Economics
+  source_concept: Market Dynamics
+  target_domain: AI
+  target_concept: Multi-Agent Systems
+  mapping:
+    Supply and Demand: Agent Interactions
+    Market Equilibrium: Systemic Stability
+  pedagogical_value: This analogy facilitates the understanding of complex interactions
+    in multi-agent systems by comparing them to market dynamics, where the behavior
+    of individual agents contributes to the emergence of systemic properties.
+tags:
+  hierarchical:
+  - '#AI → #MachineLearning → #DeepLearning'
+  - '#AI → #NaturalLanguageProcessing → #ChatGPT'
+  topical:
+  - '#ArtificialIntelligence'
+  - '#MachineLearning'
+  - '#DeepLearning'
+  methodological:
+  - '#ReinforcementLearning'
+  - '#Distillation'
+  people:
+  - '#DrKárolyZsolnaiFehér'
+  concepts:
+  - '#GroupRelativePolicyOptimization'
+  - '#ChatGPTlikeIntelligence'
+  temporal:
+  - '#2023'
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  DeepSeek has released a groundbreaking open-source AI model that allows users to
+  create ChatGPT-like intelligence for free, marking a significant step towards making
+  AI research more accessible and reproducible. The model uses innovative techniques
+  such as Group Relative Policy Optimization, pause-to-think, and practice-over-theory
+  to achieve impressive results, including surpassing previous state-of-the-art models
+  in math problem-solving. The researcher, Dr. Károly Zsolnai-Fehér, highlights the
+  potential of these techniques not only for AI development but also for improving
+  human thinking and problem-solving skills.'
+key_ideas:
+- idea: Here are the 3-5 key ideas discussed in the transcription text, along with
+    a short description of each
+  description: ''
+- idea: Open-source AI model**
+  description: DeepSeek has released a new AI model that is open-source and free for
+    everyone to use, potentially revolutionizing the field of artificial intelligence
+    by making it more accessible and reproducible.
+- idea: Efficient training methods**
+  description: The DeepSeek model uses efficient training methods such as Group Relative
+    Policy Optimization (GRPO) and reinforcement learning, which allow it to learn
+    and improve quickly without the need for expensive and time-consuming traditional
+    training methods.
+- idea: Autonomous learning and improvement**
+  description: The DeepSeek model is capable of autonomous learning and improvement,
+    allowing it to learn from its own mistakes and adapt to new situations without
+    the need for human intervention or explicit guidance.
+- idea: Knowledge distillation**
+  description: The DeepSeek model uses knowledge distillation, a technique where a
+    large and complex model is used to train a smaller and more efficient model, allowing
+    for the creation of highly effective AI models that can run on limited hardware.
+- idea: Applicability to human learning**
+  description: The concepts and techniques used in the DeepSeek model, such as generating
+    multiple solutions and grading them against each other, can also be applied to
+    human learning and problem-solving, potentially leading to improved cognitive
+    abilities and more effective learning strategies.
+---
+
+Full Transcription
+
+
+
+
+00:00 [Dr. Károly Zsolnai-Fehér] Another long video here, so you fellow scholars know, something is going on. Okay, so DeepSeek did something huge. I think for the first time ever, we might have the full recipe to create ChatGPT-like intelligence. And it is out there in the open for free for everyone. Their new work, I think, might be the gold standard for open-source releases. Look, a year ago, they published a 20-page paper, and now, a year later, they extend to 80 pages. And this is not some filler material. This is gold. Why does that matter? You see, OpenAI keeps important parts of the ChatGPT recipe secret. We all know that it can do incredible things: get a gold medal at the biological Olympiad, or it can study with you. It passes the Bar exam, then looks at a screenshot and writes an app for you that looks just like it. It's a crazy world. Now, OpenAI publishes some research papers about their techniques, but for me, some of these feel more like marketing documents. They don't contain nearly enough information to be reproduced. Check this out: "Given the competitive landscape, this report contains no further details about the architecture, hardware, training compute, dataset construction, or training method." And this is not a media article criticizing OpenAI. These are their own words in their GPT-4 paper. So OpenAI in general is not very open. But you know, here I am with Two Minute Papers, and it's never two minutes, so who am I to say anything here? Although, I also don't sell shares for shareholders for billions of dollars either. Now, finally, the folks at DeepSeek gave us the secret sauce to create such a model. Science is supposed to be open and reproducible for the benefit of humanity. This is a great step towards that. So DeepSeek is a smart and free AI model that you can run yourself. It needs lots of hardware power, so I usually just rent a GPU on Lambda and do it. It is super fast, reliable, and private. I note that I don't have any relationship with the DeepSeek people whatsoever. Now, I'll tell you about five things from the paper that really surprised me, and I think will surprise you too. I apologize as I don't have footage for everything here, so in the video part you'll see some LLM things, some simulation stuff, not just figures from the paper, because I can't make a long video with just those. All right, first, generate options. This is going to be nasty, but efficient. Traditional AI assistants are often trained with a technique called PPO. It's like an expensive private teacher who grades every single sentence a student writes. The student is the AI being trained, and the teacher is a second equally huge AI model that critiques it. That's good, but it is also incredibly expensive and slow. But DeepSeek does not do that. DeepSeek fires the teacher. No more teacher. Bye! And here is where it gets brutal. Then the student gets one question and writes 16 different answers. Okay, that's crazy. Now what? Well, now we don't grade every sentence. We grade these answers against each other. We ask, "Did the code run?", "Was the answer correct?", and the best one gets a medal and the crappy ones get discarded. Okay, so why does this work? Well, it works because this process can be made very cheap, so you can run it on a massive scale. This technique is called GRPO, Group Relative Policy Optimization. No expensive teacher needed anymore. Two: Pause to think. Imagine a child taking a math test, always rushing through it and failing. Then she suddenly realizes, "Wait, let's stop, take a deep breath, double-check everything, and... wait a second. Aha! Now I am doing way better." Yes, an AI can have an "aha" moment. Amazing! But here's the kicker: no one told the child to do that. It learned it by itself. For the first time, I think, researchers watched an AI naturally learn to think before speaking. Something some human beings could also learn from. So it started generating words like "wait" or "let me recalculate." And over time, check this out: aha! It realizes that spending more time thinking leads to a higher score. So it started thinking longer and longer by itself. Absolutely amazing. Three: Practice over theory. In more technical terms, use pure reinforcement learning. Here's a question: how do you get better in chess? By reading a textbook or learning by playing millions of games? Well, I think the textbook is limited by human knowledge, but if you keep improving, playing against yourself has no limit. And DeepSeek here proved that you don't need the textbook. You don't need human examples to teach an AI to reason. Just give it the rules and let it play against itself. And wow! It evolved from a stuttering mess into a math genius, completely on its own. And it discovered new strategies humans never even taught it. Here you see how rapidly it improves over time using this scheme. And goodness, it quickly got better than humans at solving tough competition math problems. It started at around a 15% success rate and went up to nearly 80% in not that much time. And now, hold on to your papers, fellow scholars, because it was given zero examples of how to solve these. It found it out by itself. I think this is an absolute breakthrough. Four: Find a flashlight. But wait, it still benefits greatly from a gentle nudge in the right direction. Yes, you can start it from zero knowledge. It is absolutely possible. But in that case, weird things can happen. If you do that, sometimes the model starts speaking gibberish or switches between languages like crazy. That's insane. So scientists at DeepSeek say if you give it just a couple of examples as a guide, it will head off to the right direction immediately. If you want to find the treasure in a dark forest, you could wander randomly until you find it. But it's much faster with a flashlight. So look at R1-Zero versus R1. Interestingly, this concept did not help its mathematical knowledge that much—up two-ish percentage points, in one case even down, compared to the zero-knowledge guy. Why? Well, because mathematics needs abstract thinking. You can think in whatever language you want; as long as the answer is correct, the test doesn't care. But look at AlpacaEval. This contains natural language questions you need to answer. Now here, if you start switching between French and English, that's going to be a problem, bro. In these cases, a good kick in the ass at the start of the learning process does wonders. It more than tripled its performance. Insane! And now, five: Learn from giants. The star of the show. This is where we get incredible value: distillation. Dear fellow scholars, this is Two Minute Papers with Dr. Károly Zsolnai-Fehér. Imagine a Nobel Prize-winning physicist writing a "Physics for Dummies" book. You need the genius to write it, but not to read it. And that is the key. DeepSeek applied this exact logic to AI. They took their huge R1 AI and had it write 800,000 examples of how it thinks—essentially, a textbook. And then this textbook can be used to teach small and cheap models how to think similarly. Okay, now the question is: how smart are the small guys? Have a look. Whoo! This is kind of shocking. It beats the huge previous GPT-4o model nearly six times better on competition-level math questions. Nearly six times! And this is just seven billion parameters. This thing is tiny. This runs easily on many laptops, or even on your phone in the next couple of years. This used to be the state-of-the-art one and a half years ago. It needed billions and billions of dollars to train, and now you get something for free that is almost six times smarter on this data set. What a time to be alive! Now, here comes the kicker. These concepts we learned here are great to make an AI, yes. But you can also use them to improve yourself, too. Isn't that incredible? Just think about it. One: Group policy learning. Don't just settle for your first idea. Generate five different solutions to your problem, then grade them against each other. Pick a winner. Two: Pause to think. When you face a hard question, don't rush. Force yourself to say "wait" and double-check your logic. The extra time pays off. You saw it with the AI, too. Three: Practice over theory. Stop reading those endless tutorials. Yes, maybe read a bit; you need to learn the fundamentals. But you often learn a lot faster by doing the task and failing. This way, you can self-correct and learn a lot. So we can learn so much more than just AI stuff from this paper. It's incredible. And you can supercharge your own thinking this way. And scientists at DeepSeek put all this incredible wisdom into an AI, and look at what incredible things it can do. And to put all this knowledge out there in the open... I hope the other labs are taking notes. And whatever model you have from the giant labs today, you are going to be able to run yourself for free, forever, privately, in hopefully about one or two years. That is... I am out of words. These things cost billions to train, and we get them for free soon after. We are absolutely spoiled here. Now, of course, many of you wise fellow scholars know that we are not the first to come out with this video. I am sure you type whatever about DeepSeek, you will see dozens of videos published day one, often even day minus one. What are they about? Doesn't matter. Just be first and put a video out there. Just say some stuff and get all the ad revenue. Maybe do a video for things that don't even exist—that's day minus one. And then when it appears, you get all the views, and in 24 hours there's going to be some other drama or release, so just rinse and repeat. Yes, people do that. But we don't do that here. I took some more time to cook this so you fellow scholars get a better, higher-quality video. This is not great for getting views and money, but we are not maximizing money here. We are maximizing meaning. So if you think that this is the right way to do things, please subscribe, hit the bell, and leave a really kind comment. This helps the YouTube algorithm get you the good stuff, too. And check out Lambda in the description because it's amazing. And if you sign up through it, it helps us exist. Here you see me running the full DeepSeek AI model through Lambda GPU Cloud. 671 billion parameters running super fast and super reliably. This is insane. I love it, and I use it on a regular basis. Lambda provides you with powerful NVIDIA GPUs to run your own chatbots and experiments. Seriously, try it out now at lambda.ai/papers or click the link in the description.

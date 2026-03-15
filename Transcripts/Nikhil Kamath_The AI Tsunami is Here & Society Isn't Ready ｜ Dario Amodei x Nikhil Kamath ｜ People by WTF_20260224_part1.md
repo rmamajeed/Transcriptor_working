@@ -1,0 +1,331 @@
+---
+title: Nikhil Kamath_The AI Tsunami is Here & Society Isn't Ready ｜ Dario Amodei x
+  Nikhil Kamath ｜ People by WTF_20260224_part1
+audio_file: Nikhil Kamath_The AI Tsunami is Here & Society Isn't Ready ｜ Dario Amodei
+  x Nikhil Kamath ｜ People by WTF_20260224_part1.mp3
+note_id: 8a73caf0-eb05-4c58-9270-13f07749f353
+date_processed: '2026-03-01'
+classification:
+  primary_domain: AI
+  sub_domains:
+  - Machine Learning
+  - Artificial General Intelligence
+  - AI Safety
+  difficulty_level: Advanced
+  content_type: Discussion
+entities:
+  people:
+  - name: Dario Amodei
+    role: Founder of Anthropic
+    contribution: Discussed AI development and its implications
+  - name: Nikhil Kamath
+    role: Interviewer
+    contribution: Asked questions about AI and its impact
+  works_cited: []
+  concepts_mentioned:
+  - AI
+  - Machine Learning
+  - Scaling Laws
+  - Artificial General Intelligence
+  - AI Safety
+  laws_theories_cited:
+  - Scaling Laws
+concepts:
+- name: Scaling Laws
+  definition: The relationship between the size of a machine learning model and its
+    performance
+  parent_concepts:
+  - Machine Learning
+  related_concepts:
+  - Artificial General Intelligence
+  - AI Safety
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Artificial General Intelligence
+  definition: A type of AI that can perform any intellectual task
+  parent_concepts:
+  - AI
+  related_concepts:
+  - Machine Learning
+  - Scaling Laws
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: AI Safety
+  definition: The study of ensuring that AI systems are safe and beneficial
+  parent_concepts:
+  - AI
+  related_concepts:
+  - Artificial General Intelligence
+  - Scaling Laws
+  abstraction_level: Theoretical
+  confidence: 0.9
+relationships:
+- source_concept: Scaling Laws
+  target_concept: Artificial General Intelligence
+  relationship_type: supports
+  strength: 0.8
+  evidence: Dario Amodei's discussion of scaling laws and their potential to lead
+    to AGI
+  reasoning: The relationship between scaling laws and AGI is based on the idea that
+    increasing the size of a machine learning model can lead to significant improvements
+    in performance, potentially leading to the development of AGI
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: AI
+  source_concept: Scaling Laws
+  target_domain: Biology
+  target_concept: Allometric Scaling
+  insight: Both describe how systems grow in a predictable, non-linear manner
+  explanation: Scaling laws in AI describe how model performance improves with size,
+    similar to how allometric scaling in biology describes how organisms grow in relation
+    to their body size. Both demonstrate a power-law relationship between variables,
+    indicating a deeper structural connection. This connection could inform the development
+    of more efficient AI models by studying the scaling patterns in biological systems.
+  potential_applications:
+  - Efficient AI model development
+  - Biological system optimization
+  confidence: 0.9
+  historical_example: The study of allometric scaling in biology has led to significant
+    advancements in understanding complex systems, and similarly, scaling laws in
+    AI are crucial for the development of more powerful models.
+- connection_type: principle_application
+  source_domain: AI
+  source_concept: AI Safety
+  target_domain: Engineering
+  target_concept: Safety-Critical Systems
+  insight: Both prioritize the design of systems to minimize risk and ensure reliability
+  explanation: The principles of AI safety, such as robustness, transparency, and
+    accountability, are similarly applied in the design of safety-critical systems
+    in engineering. This includes systems like nuclear power plants, aerospace engineering,
+    and medical devices, where failure can have catastrophic consequences. The application
+    of these principles ensures that systems are designed with safety as a primary
+    consideration, reducing the risk of accidents and harm.
+  potential_applications:
+  - Design of reliable AI systems
+  - Safety protocols in critical infrastructure
+  confidence: 0.8
+  historical_example: The development of safety-critical systems in engineering has
+    been influenced by the study of failures and near-misses, similar to how AI safety
+    research focuses on mitigating potential risks and failures in AI systems.
+- connection_type: metaphor
+  source_domain: AI
+  source_concept: Artificial General Intelligence
+  target_domain: Economics
+  target_concept: General-Purpose Technologies
+  insight: Both represent versatile, transformative technologies with wide-ranging
+    impacts
+  explanation: The concept of Artificial General Intelligence (AGI) can be metaphorically
+    linked to general-purpose technologies in economics, such as the steam engine
+    or electricity. These technologies have the potential to revolutionize multiple
+    sectors and aspects of society, much like how AGI could fundamentally change many
+    areas of life and work. Understanding this metaphor can help in anticipating and
+    preparing for the broad societal impacts of AGI.
+  potential_applications:
+  - Societal impact assessment of AGI
+  - Economic forecasting for emerging technologies
+  confidence: 0.7
+  historical_example: The introduction of the steam engine and subsequent industrial
+    revolution transformed economies and societies, offering a historical precedent
+    for understanding the potential impacts of AGI.
+bridge_concepts:
+- concept: Complexity
+  appears_in_domains:
+  - AI
+  - Biology
+  - Engineering
+  role: Describes the intricate nature of systems, influencing their behavior and
+    development
+  examples:
+  - Neural networks in AI
+  - Ecosystems in biology
+  - Infrastructure systems in engineering
+mental_models:
+- name: Systems Thinking
+  description: A holistic approach to understanding complex systems, considering interactions
+    and interdependencies
+  applied_to:
+  - Analyzing AI safety and reliability
+  transferable_to:
+  - Biology
+  - Engineering
+  - Economics
+analogies_used:
+- source_domain: Biology
+  source_concept: Immune System
+  target_domain: AI
+  target_concept: AI Security
+  mapping:
+    Pathogens: Cyber threats
+    Immune response: Security protocols
+  pedagogical_value: Helps in understanding the adaptive and protective nature of
+    AI security mechanisms
+tags:
+  hierarchical:
+  - '#AI → #Machine Learning → #Scaling Laws'
+  - '#AI → #Artificial General Intelligence → #AI Safety'
+  topical:
+  - '#AI Development'
+  - '#AI Safety'
+  - '#Machine Learning'
+  methodological:
+  - '#Discussion'
+  - '#Interview'
+  people:
+  - '#Dario Amodei'
+  - '#Nikhil Kamath'
+  concepts:
+  - '#Scaling Laws'
+  - '#Artificial General Intelligence'
+  - '#AI Safety'
+  temporal:
+  - '#2023'
+summary: 'Here is a 2-3 sentence summary of the main points:
+
+
+  Dario Amodei, founder of Anthropic, discusses the rapid advancements in AI technology
+  and its potential to reach human intelligence level, but notes that there is a lack
+  of public awareness and recognition of the risks involved. He shares his own journey
+  from being a biologist to working in AI and founding Anthropic, and highlights the
+  company''s efforts to prioritize safety and security in AI development. Amodei also
+  emphasizes the need for regulation and responsible development of AI, and shares
+  his vision for a future where AI can be a positive force for humanity, as outlined
+  in his essays "Machines of Loving Grace" and "The Adolescence of Technology".'
+key_ideas:
+- idea: Here are the 3-5 key ideas discussed in the transcription text, along with
+    a brief description of each
+  description: ''
+- idea: The rapid advancement of AI and its potential impact on society**
+  description: The conversation highlights the rapid progress of AI technology, with
+    models like Claude approaching human-level intelligence, and the need for societal
+    awareness and preparedness for the potential risks and benefits that come with
+    it.
+- idea: The importance of safety, security, and regulation in AI development**
+  description: Dario Amodei emphasizes the need for proactive regulation and sensible
+    governance of AI technology to mitigate potential risks and ensure that the benefits
+    are shared by all, and discusses Anthropic's efforts to prioritize safety and
+    security in their AI development.
+- idea: The role of human judgment and values in shaping AI development**
+  description: The conversation touches on the importance of human values and judgment
+    in guiding AI development, with Dario Amodei discussing the need for a broader
+    conversation about the implications of AI and the importance of aligning AI systems
+    with human values and expectations.
+- idea: The potential for AI to augment human capabilities and transform industries**
+  description: The conversation also explores the potential for AI to enhance human
+    capabilities and transform industries, with the example of Claude being used to
+    write code and perform tasks in the financial services sector.
+- idea: The need for transparency and accountability in AI development**
+  description: Dario Amodei discusses the importance of transparency and accountability
+    in AI development, including the need for companies to be open about their AI
+    systems and for governments to play a role in regulating the technology to ensure
+    that it is developed and used responsibly.
+---
+## Key Concepts
+
+**Scaling Laws**  
+The relationship between the size of a machine learning model and its performance
+
+**Artificial General Intelligence**  
+A type of AI that can perform any intellectual task
+
+**AI Safety**  
+The study of ensuring that AI systems are safe and beneficial
+
+## Cross-Domain Connections
+
+**AI → Biology**
+
+*Both describe how systems grow in a predictable, non-linear manner*
+
+Scaling laws in AI describe how model performance improves with size, similar to how allometric scaling in biology describes how organisms grow in relation to their body size. Both demonstrate a power-law relationship between variables, indicating a deeper structural connection. This connection could inform the development of more efficient AI models by studying the scaling patterns in biological systems.
+
+**AI → Engineering**
+
+*Both prioritize the design of systems to minimize risk and ensure reliability*
+
+The principles of AI safety, such as robustness, transparency, and accountability, are similarly applied in the design of safety-critical systems in engineering. This includes systems like nuclear power plants, aerospace engineering, and medical devices, where failure can have catastrophic consequences. The application of these principles ensures that systems are designed with safety as a primary consideration, reducing the risk of accidents and harm.
+
+**AI → Economics**
+
+*Both represent versatile, transformative technologies with wide-ranging impacts*
+
+The concept of Artificial General Intelligence (AGI) can be metaphorically linked to general-purpose technologies in economics, such as the steam engine or electricity. These technologies have the potential to revolutionize multiple sectors and aspects of society, much like how AGI could fundamentally change many areas of life and work. Understanding this metaphor can help in anticipating and preparing for the broad societal impacts of AGI.
+
+## Discussion Topics
+
+- **Here are the 3-5 key ideas discussed in the transcription text, along with a brief description of each:** 
+- **The rapid advancement of AI and its potential impact on society**:** The conversation highlights the rapid progress of AI technology, with models like Claude approaching human-level intelligence, and the need for societal awareness and preparedness for the potential risks and benefits that come with it.
+- **The importance of safety, security, and regulation in AI development**:** Dario Amodei emphasizes the need for proactive regulation and sensible governance of AI technology to mitigate potential risks and ensure that the benefits are shared by all, and discusses Anthropic's efforts to prioritize safety and security in their AI development.
+- **The role of human judgment and values in shaping AI development**:** The conversation touches on the importance of human values and judgment in guiding AI development, with Dario Amodei discussing the need for a broader conversation about the implications of AI and the importance of aligning AI systems with human values and expectations.
+- **The potential for AI to augment human capabilities and transform industries**:** The conversation also explores the potential for AI to enhance human capabilities and transform industries, with the example of Claude being used to write code and perform tasks in the financial services sector.
+- **The need for transparency and accountability in AI development**:** Dario Amodei discusses the importance of transparency and accountability in AI development, including the need for companies to be open about their AI systems and for governments to play a role in regulating the technology to ensure that it is developed and used responsibly.
+
+## Full Transcription
+
+
+
+
+00:00 Dario Amodei: I've started playing with Claude. It's getting to that point where sometimes it surprises me by how much it knows me. I don't know if that makes sense. It is surprising to me that we are in my view so close to these models reaching the level of human intelligence and yet there doesn't seem to be a wider recognition in society of what's about to hit. It's as if this tsunami is coming at us and you know it's so close we can see it on the horizon and yet people are coming up with these explanations for oh it's not actually a tsunami, that's just a trick of the light. There hasn't been a public awareness of the risk.
+
+01:19 Speaker 2: What is India's role in all this? 
+
+01:21 Speaker 3: Many other companies come here as themselves as consumer company and they see India as a market, right, a place to obtain consumers. We actually see things a little bit differently.
+
+01:32 Speaker 2: What did you do before founding Anthropic?
+
+01:52 Dario Amodei: Yeah, so I was actually originally a biologist. I did my undergrad in physics, my PhD in biophysics and you know I wanted to understand biological systems so that I could cure disease. And the thing I noticed about studying biology was its incredible complexity. That, for example, if you look at the protein mass spec work that I did, right, trying to find protein biomarkers, it's just really incredible how much complexity there is, right. You have a given protein, it's like the RNA gets spliced in a whole bunch of different ways depending on where it is in the cell, then it gets post-translationally modified, phosphorylated, complexed with a whole bunch of other proteins. And I was starting to despair that it was too complicated for humans to understand. And then as I was doing this work on biology, I noticed a lot of the early work around AlexNet which was one of the first neural nets almost fifteen years ago now. And I said wow like you know AI is actually starting to work. It has some things in common with how the human brain works but you know has the potential to be larger and scale better and learn tasks like biology. Maybe this is ultimately going to be the solution to solving our problems of biology. So I went to work with Andrew Ng at Baidu, then I was at Google for a year, then I joined OpenAI a few months after it started and was basically led all of research there for several years. But then eventually myself and a few other of the employees just kind of had our own vision for how we wanted to make AI and what we wanted the company to stand for and so we went off and founded Anthropic. 
+
+03:45 Speaker 2: How was it, was it like a fork in how OpenAI was thinking into what Anthropic eventually did? 
+
+03:52 Dario Amodei: Yeah, you know I would say my conviction and the conviction of my co-founders when we founded Anthropic were two of them and I think one we were starting to convince OpenAI of, the other I was not I didn't feel that we were convincing of. So the first was the conviction in the scaling laws and the idea that if you scale up models, you give them more data, more compute, again there are few modifications like RL but not really very much. It's pretty close to pure scaling. You find that you know when you do that you find incredible increases in performance and you know I was finding that in like 2019 with GPT-2, you know when we just first saw the first glimmers of the scaling laws. And of course there were a lot of folks inside and outside who didn't believe it at all and we really made the case to leadership like this is important, this is going to be a big deal and I think they were kind of starting to believe us and ultimately went in that direction. And there was a second conviction I had which is look, if these models are going to be kind of general cognitive agents like general cognitive tools that match the capability of the human brain, we better get this right. The economic implications are going to be enormous, the geopolitical implications are going to be enormous, the safety implications are going to be enormous. It's going to transform how the world works. And so we need to do it in the right way. And you know I think despite a lot of kind of language verbiage about doing it in the right way, I was for a variety of reasons just not convinced that at the institution that I was at that there was a real and serious conviction to do it in the right way and so my view is always don't argue with someone else's vision, don't try to get someone to do things the way you want to. If you have a strong vision and you share that vision with a few other people you should just go off and do your own thing and then you're responsible for your own mistakes, you don't have to answer for anyone else's and maybe your vision works out, maybe it doesn't but at least it's yours.
+
+06:01 Speaker 2: Didn't OpenAI believe in scaling laws because they went down the same path themselves too right? 
+
+06:04 Dario Amodei: Well yeah we succeeded in... 
+
+06:06 Speaker 2: Can you explain what scaling laws are in very simple terms? 
+
+06:08 Dario Amodei: It's like if you want a chemical reaction to produce oxygen or start a fire or something like that, you need different ingredients and if you don't have enough of one ingredient the reaction stops but if you put ingredients together in proportion, you get your explosion or your fire or whatever. And for AI those ingredients are data, compute, the size of the AI model. And so the scaling laws just tell you that if you put in the ingredients to the chemical reaction, the ingredients of data and model size, that what you get out is intelligence. Intelligence is the product of the chemical reaction. 
+
+06:59 Speaker 2: And what is intelligence? 
+
+07:01 Dario Amodei: Intelligence as measured by the ability to translate language, or the ability to write code, or the ability to answer questions correctly about a story. Basically any cognitive task we can think of, any task that exists in text or in images, any task that you can do on a computer. 
+
+07:22 Speaker 2: How is the intelligence of today as you are describing it different from what a computer could do like five years ago? 
+
+07:29 Dario Amodei: Yeah, you know I would say well I mean for example five years ago a computer you could not ask a computer a question and have it write a one page essay on that question. You could not ask a computer to implement a feature in code and have it implement that feature in code. None of those things were possible. You could not generate an image, you could not generate a video, you could not analyze a video. You know I could get one of those videos of like a monkey juggling or something and say what's going on in this video, how many times did the ball change hands and right now you could get Claude or another AI model to give you an answer on that. And five years ago none of those things were possible.
+
+08:18 Speaker 2: I'm trying to figure out has the definition of intelligence changed per se? 
+
+08:23 Dario Amodei: Well you know what I would say is five years ago you could Google and there might be a website that would tell you a little bit about this right but you're just looking up some text that exists on the web, right. You know maybe it's not about how to get a monkey to juggle, maybe it's about how to get a seal to juggle. It's not quite exactly the same thing because maybe exactly the same thing doesn't exist. But as we see when people use these models, you can ask and you can actually get an intelligent response. You can ask a specific question and have the model write one page about it or you can give it a hypothetical, you know what if I had the monkey juggle clubs instead of balls or what if I did this thing and that information doesn't exist anywhere whereas the model is able to kind of think for itself and come up with an answer on its own. So it's something totally new, it's not just matching some of the text that exists on the internet. 
+
+09:31 Speaker 2: Fair. So this is more like a conversation so feel free to like talk about what you want to talk not necessarily related to the questions that I'm asking. You look very animated when you speak. Did you ever teach? 
+
+09:44 Dario Amodei: You know I was originally an academic and I thought that I might become a professor. You know I got my PhD, I went all the way to being a postdoc at Stanford Medical School and you know I was aiming to become a professor. So if I had become a professor, you know I would have done that. But you know as I mentioned I got interested in AI and to work in AI required a lot of computational resources and that was mostly happening in industry. So that took me off the academic path and into industry and of course ultimately through several steps led me to start a company but you know sometimes I think I'm still like a professor at heart. 
+
+10:27 Speaker 2: At this point Dario if AI is the most relevant thing in the world, if the world is realigning in a way and AI is determining who gets what and who doesn't get what, I'm talking about industries, you today are probably the most relevant person in the world if Anthropic in this last cycle, in this minute, is sitting on top of this pile. For somebody who was going on the path of being a teacher to have arrived to where you are today, are you best equipped for where you are today? 
+
+11:06 Dario Amodei: Well I mean first I would say a couple of things. You know I think there's a lot of folks who are relevant in different ways, right. You know even within industry there's the different layers of the stack, there's like the folks who make chips, there's the folks even earlier who make semiconductor manufacturing equipment, there's the folks who make models like us and then there are other players who make models, there's the folks who make kind of applications after the models, you know and then then there's a bunch of other folks who have a say. There's government, there's like civil society. So my hope isn't that there's just one tiny set of people that's relevant. I think we're trying to broaden the set of people who are relevant and turn it into a broader conversation. But you know I think at the same time your question is a fair one and one way I could interpret it is like you know there's a certain randomness to how you know kind of a few people end up leading these companies that kind of grow so fast and it seems like in the near future will power so much of the economy. And I've said openly publicly not for the first time that I'm at least somewhat uncomfortable with the amount of concentration of power that's happening here I would say almost overnight, almost by accident. And we think about that in a bunch of ways. One is we have an unusual governance structure, something called the long-term benefit trust. You know it's a body that kind of ultimately appoints the majority of the board members for Anthropic and is made up of financially disinterested individuals. So that's some check on what one single person is doing and then you know I think as always the government should play some role here. You know I've been an advocate of proactive although sensible that doesn't slow down the technology, sensible regulation of the technology because you know I think the people should have a say, like governments and the people who elect them should have a say in how this goes. So I actually think of a lot of what I'm trying to do is kind of trying to preserve a balance of power kind of against the natural grain of this technology.
+
+13:28 Speaker 2: For someone like me who's sitting on the outside and doesn't have a bone in this competition, when I watch OpenAI talk about how they were a not-for-profit company or how you are projecting humility in the conversation that you're having right now, or how the American companies are competing with the Chinese companies which are coming about, this projection of humility where it is for the larger good and not necessarily for how I view the world as companies with shareholders with investment in revenues and seeking profit, is this par for the course? Is this something you have to do? 
+
+14:12 Dario Amodei: So you know I would put it in the following way. You know I would say the philosophy of Anthropic from the beginning has been that we try not to make too many promises and we try to keep the ones that we make. So we set ourselves up as a for-profit but public benefit corporation with this LTBT governance and we've maintained that. We've said that our goal is to stay on the frontier of the technology but you know to work on the safety and security aspects of the technology. We've pioneered the science of interpretability, we've pioneered the science of alignment, I don't know if you saw but we recently released a constitution for Claude, the ability to align models in line with a constitution. And you know we've done a bunch of policy advocacy and warning about risks, right. Warning about risks is not in our commercial interest, right. Like people can come up with conspiracy theories but you know I will tell you saying that the models we build could be dangerous, whatever people might say that's not an effective marketing strategy and that's not the reason that we do it. And you know speaking up on when we disagree even with the US administration on policy matters, right, we've spoken up, right. We're willing to say you know we disagree on this issue like we've said that there should be regulation of AI when all the other companies and the administration have said there shouldn't be regulation of AI. And so that's both you know the regulation of AI holds us back commercially as a company even though I think it's the right thing to do and it's you know it's difficult to go against the government and the other companies and say this. We're really sticking our neck out. So we've taken a number of actions that you know I see as really putting our money where our mouth is here. I can't speak for the other companies, you know it's again it's quite possible that some people say these things and they don't really mean them but I wouldn't look at what people say, I would look at what people do.
+
+16:24 Speaker 2: If what you're saying gets the government to act via regulation, as the incumbent leaders in this space you get some kind of a regulatory capture where it becomes harder for the new people coming in as well right? 
+
+16:41 Dario Amodei: I don't agree with that at all. The regulation we've advocated for, for example SB 1047 in California, exempted everyone who makes under five hundred million dollars a year in revenue, right. SB 1047 was a transparency law which basically requires companies to show you know the safety and security tests that they've run and it exempts all companies under five hundred million in revenue. So it really only applies to Anthropic and three or four other companies. So it only applies to the companies that have the resources and everything that we've advocated for here not just SB 1047 but all the proposals that we've made, the ones that we've made in the past and the ones that we plan to make in the future have this character. We're constraining ourselves and a very small number of additional companies. People who say that need to look at the actual content of what we're proposing because it doesn't match that idea at all. 
+
+17:46 Speaker 2: Fair. I read your paper Machines of Loving Grace and the Adolescence of Technology and you seem to have had a 180 degree shift in perspective almost from optimism to skepticism over like two years from 2024 to 2026. Is there one moment in the last two years that changed this for you, did you see something change? 
+
+18:13 Dario Amodei: Yeah, I actually wouldn't agree with the question. I don't think I've had a shift in perspective. I think the positive side and the negative side are always something that I've held in my head and if you look at the history of you know the things that I've said I mean I've been talking about risks for a very long time, I've been talking about benefits for a very long time. You know it turns out that actually it takes me a while to write one of these essays, you know. They're really large as well, they're big essays. They're like thirty pages. Both of these it's taken me like I spent for each one I spent about a year having a kind of vague vision of the essay in my head and like trying to write it but like not fully succeeding at writing it and then you know in either case I had to be on vacation or somewhere where I could think where the business day-to-day business of running the company didn't occupy me and then I was finally able to kind of write the essay. So all of that is to say you know I started thinking about what would be in Adolescence of Technology almost the instant I finished Machines of Loving Grace because I was like oh you know I want to inspire people with the good vision but I also want to warn people with you know what can go wrong. And so it just took me a year to write it but really both visions were in my head and I think they're both you know I think they're both possible. They're two different visions of the future and obviously I want to get the Machines of Loving Grace one, right, you know I want to solve all the problems and have the positive vision but it's not a shift in perspective, it's me just you know finding the time to write the light and then the dark. 
+
+19:51 Speaker 2: But have you had a change of perspective?
+
+19:54 Dario Amodei: You know I would say overall I have I'm about where I was before. I have not gotten more positive or more negative. There may be some places where I've gotten more optimistic or things have gone better than expected. There may be places where I'm more pessimistic and where things have gone worse than expected but on average they sort of cancel each other out. I would say I feel very good about you know how things have gone with areas like interpretability. Interpretability is the science of seeing inside these neural nets you know as a human would you know look and see inside you know as we would scan a human brain with an MRI or a neural probe. I've been amazed at what we've been able to find. We've been able to find you know neurons that correspond to very specific concepts, neural circuits that correspond to you know keep track of how to do rhymes in poetry. And so we're starting to understand what these models do, right. We don't, we just train them in this kind of emergent way as you would build a snowflake but now we're starting to be able to look inside and understand them. I'm also very encouraged by some of the work on alignment and constitutions, you know making sure that models behave in the way that we want and expect them to. I think that's going pretty well. I felt pretty positive about that. I think I've felt maybe you know had been a bit disappointed or felt a bit more negative about some of the things that are more like in the you know in the kind of public awareness and the actions of wider society. You know it is surprising to me that we are you know in my view so close to these models reaching the level of human intelligence and yet there doesn't seem to be a wider recognition in society of what's about to hit. It's as if this tsunami is coming at us and you know it's so close we can see it on the horizon and yet people are coming up with these explanations for oh it's not actually a tsunami, it's you know that's just a trick of the light, it's something you know and I think along with that there hasn't been a public awareness of the risks and you know therefore governments haven't acted to address the risk. There's even an ideology that you know we should just try to accelerate as fast as possible which you know I understand the benefits of the technology, I wrote Machines of Loving Grace but I think there hasn't been an appropriate realization of the risks of the technology and there certainly hasn't been action. So I would say that the technical work on controlling the AI systems has gone maybe a little better than I expected and kind of the societal awareness has gone maybe a little worse than I expected. So I'm about where I was a few years ago. 
+
+22:41 Speaker 2: So in my own journey I am you know when something sounds complicated and I'm not a programmer I don't have a background in coding so I used a bunch of tools for things like research and a conversation both ways but I never tried to figure out if I could code using your tool for example. Recently I hired a developer just to like push me to sit for a couple of hours a day and teach me how to start becoming more familiar with it, largely because of you know something like FOMO like the fear of missing out on how the world is changing. So I started playing with Claude, I connected I used the connectors to connect my Google Drive, mail and calendar and a bunch of those things, I started using the co-work and then I started using Claude Code to write simple programs around the industry that I am in which is financial services. Basically to research stock markets and stuff. 
+
+23:48 Dario Amodei: We even have an optimized Claude for financial services. I don't know if you've tried that but we even have that. 
+
+23:53 Speaker 2: No. And then I went into Claude Bot which is now OpenClaude, I think Claude Bot became something else and now is OpenClaude and I set it up on a Mac Mini and connected it to a Telegram account and now I chat with it and I try and move files from A to B, work on a server on remote. It's getting to that point where I'm not talking about OpenClaude but even Claude with all the connectors sometimes it surprises me by how much it knows me. I don't know if that makes sense. 
+
+24:28 Dario Amodei: Yeah, you know one of my co-founders you know he was writing this diary with his kind of you know his thoughts and his fears and he fed it into Claude and you know he asked Claude to comment on it and Claude said here are some other fears you might have that that you know that you haven't written down. And Claude ended up being mostly right about those. So it really gave this eerie sense of like you know the model knows you the model knows you super well that you know that from a relatively small amount of information...

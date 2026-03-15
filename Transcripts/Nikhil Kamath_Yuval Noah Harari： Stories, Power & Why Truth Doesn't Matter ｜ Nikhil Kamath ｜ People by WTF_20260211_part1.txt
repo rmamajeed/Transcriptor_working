@@ -1,0 +1,121 @@
+---
+title: Nikhil Kamath_Yuval Noah Harari： Stories, Power & Why Truth Doesn't Matter
+  ｜ Nikhil Kamath ｜ People by WTF_20260211_part1
+audio_file: Nikhil Kamath_Yuval Noah Harari： Stories, Power & Why Truth Doesn't Matter
+  ｜ Nikhil Kamath ｜ People by WTF_20260211_part1.mp3
+note_id: ceb95132-32ad-4538-9f40-6b04b7a46f22
+date_processed: '2026-02-20'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+
+Full Transcription
+
+
+
+00:00 - 00:17 **[Non-speech]**
+00:17 - 00:30 **Yuval Noah Harari:** Very good morning to all of you. Thank you for joining me on this incredible channel, on a very important topic which we've decided to dedicate today's session on redefining Europe's place in the world.
+00:30 - 00:35 **BeerBiceps:** What do you think, Yuval, of what is happening in the world today?
+00:35 - 00:41 **Yuval Noah Harari:** Terrible. I mean, we are going back to kindergarten.
+00:41 - 00:52 **BeerBiceps:** Don't politicians say they believe in God because people vote for things that resemble them?
+00:52 - 01:03 **Yuval Noah Harari:** Uh, yes. Absolutely. I mean, you cannot be elected US president if you say that you are an atheist. Same for Russia maybe. I- I don't think in Russia you really get elected, but okay.
+01:03 - 01:12 **BeerBiceps:** Does it worry you to speak about Trump in a manner that you think 'Can I go into America again?'
+01:12 - 01:17 **Yuval Noah Harari:** It's worrying that we even have to raise this question.
+01:17 - 01:27 **BeerBiceps:** If religion were to be a story and many people wrote many stories, why did the stories of the religions we have today sell?
+01:27 - 01:34 **Yuval Noah Harari:** History is shaped by the human imagination, by fiction, and not just by truth.
+01:34 - 01:37 **BeerBiceps:** What truth?
+01:37 - 01:45 **Yuval Noah Harari:** The truth ultimately is one because reality is one. There is just one reality. Reality can be extremely complex.
+01:45 - 01:52 **BeerBiceps:** If I were, Yuval, a 25-year-old boy in India, what would you suggest I optimize for at this point of time?
+01:52 - 01:56 **Yuval Noah Harari:** My gut reaction is nobody has any idea.
+01:56 - 02:00 **BeerBiceps:** Do you believe there is a purpose to life? And if yes, what is it?
+02:00 - 02:11 **Yuval Noah Harari:** People think there is a big story, the drama of the universe. This is something I don't believe. I don't believe that the universe works like a story. Right. I think the ultimate reality...
+02:11 - 02:13 **[Non-speech]**
+02:13 - 02:59 **BeerBiceps:** Hi, Yuval. Thank you. How do I say your name?
+**Yuval Noah Harari:** Yuval.
+**BeerBiceps:** Yuval. Thank you for doing this. I have read many of your books and I'm quite the fan of how you write and how you think as well. For my audience back home in India, the young wannabe entrepreneurs, maybe we can begin by you introducing yourself a little bit, just for context.
+**Yuval Noah Harari:** Well, I'm basically a historian, but I'm the type of historian that thinks that history is not just the study of the past. History is the study of change, of how things change in the world. And so it means it's also the study of the present and the future.
+02:59 - 03:59 **BeerBiceps:** And how did you go from being a historian to being a thinker who is coming out with new thought and books? What what goes on in your mind while you write a book? Is it an idea that comes first?
+**Yuval Noah Harari:** Yes. I mean, usually I try to- to identify- I don't start with a plan 'Oh, I need to write a new book. So what should it be about?' I usually I have kind of ideas building up inside my mind and when they reach the point where- when- it feels like 'Ah, I actually have something new to say,' then I'll write a book.
+**BeerBiceps:** Sapiens I read. I think that was the first interaction I've had with any of your books. Brilliant book. I don't know if I remember all of it.
+**Yuval Noah Harari:** I won't test you. No.
+**BeerBiceps:** What what has stayed with you? That book is a little old now. What has stayed relevant from then to today?
+03:59 - 05:24 **Yuval Noah Harari:** I think the main point of Sapiens, which is as relevant today as ever, is that uh in hist- history is is shaped by the human imagination, by fiction, and not just by truth. That humans control the world because we know how to cooperate better than any other animal on the planet, and cooperation relies on storytelling, that so much of the world is run on fiction, is filled by- by fiction. It's most obvious in the case of religion, but even if you look at something like the economy, uh corporations, money, all of these things are stories that we invented. They did they don't have an objective existence outside our imagination. I think this was the most important message of- of Sapiens, trying to understand history as the product of the human imagination and of human fictions. And uh it's even more true today, I would say, than it was 10-15 years ago when I- when I wrote Sapiens.
+05:24 - 06:30 **BeerBiceps:** If religion were to be a story and many people wrote many stories, why did the stories of the religions we have today sell and kind of like permeate through time? What was so good about these stories? Or what what was the reason these stories did well and the others did not?
+**Yuval Noah Harari:** We don't know for sure. Um to some extent it can be accidental that you have hundreds and even thousands of different religious stories competing for human attention. And uh of- of course you need to pass a a certain- a certain level of attractiveness so humans will be interested in that story. But beyond that point, I belong to a school of historians that think that uh accidents and luck have an enormous impact on what is happening in history. Even on the biggest things, like why is Christianity the most widespread religion today in the world? Uh to some extent it's- it's just a- it's just luck.
+06:30 - 08:00 **BeerBiceps:** Luck and good storytelling.
+**Yuval Noah Harari:** Yeah. A combination. Of course. You needed- I mean, Christianity has a very compelling story. It has something that people really want to believe. You know, it- at deep down, if you ask yourself what is the- the- the crucial story that Christianity tells people, it is that you are loved by the god that created, that controlled the universe. That God loves you so much that he was willing to suffer and sacrifice himself for your sake. And that, you know, this is not like the love of a human that you always doubt. 'Yes, maybe they love me, but maybe they'll change their mind. Maybe they love me, but they don't really know who I am. If they can actually see what is happening inside my heart, inside deep down in my mind, they wouldn't love me.' No, no, no. This is the love of an omnipotent, omniscient creator God who knows everything about me and still loves me. This is such an attractive uh idea.
+08:00 - 09:41 **Yuval Noah Harari:** You know, the irony to some extent is that the more attractive an idea is, chances the the bigger the chance that it's not true. It's so easy for people to find evidence supporting the story they want to believe. So the more you want to believe a story, the more suspicious you should be about how easy it is for you to- to- to fall for it.
+**BeerBiceps:** Can you give me an example?
+**Yuval Noah Harari:** This is just- you know, everybody wants to believe that there is something after death. You know, this is universal in almost all religions in different forms. And the evidence is so meager. I wouldn't say there is zero evidence. I mean, people-
+**BeerBiceps:** There is evidence?
+**Yuval Noah Harari:** Let's- let's agree that whatever evidence there is is very, very shaky.
+**BeerBiceps:** What is the evidence? How can somebody prove there is life after death or not?
+**Yuval Noah Harari:** Oh, don't ask me. I- I don't believe it. But it this is maybe the most common thing that people believe throughout history. And again, I didn't want to say there is zero evidence because then the listeners will say 'Hey, I heard this story about somebody who was reincarnated and met his family from a pre-' and maybe there is a little bit of evidence. But compared to what you need to prove and compared to the influence of this idea on history, uh the evidence is so meager and yet so- so much influence in history.
+09:41 - 10:14 **Yuval Noah Harari:** You know, the other ironic thing- and and here I speak specifically about the Christian belief. They say that they believe it, but you look at their behavior. I don't know, you look at some of the leaders today in the world. Does Putin really believe that an- and he says he's a Christian. And as a Christian, this is what he- he's supposed to believe. A person who believes that an omnipotent God really loves him would go around starting wars, killing thousands, driving millions from their homes? Absolutely not. This is not the action of a man who feels loved.
+10:14 - 10:29 **BeerBiceps:** Don't politicians say they believe in God because people vote for things that resemble them?
+**Yuval Noah Harari:** Uh, yes. Absolutely. I mean, you cannot be elected US president if you say that you are an atheist. Right. Same for Russia maybe. I don't think in Russia you really get elected, but okay.
+10:29 - 10:41 **BeerBiceps:** Did you watch any of the politicians speak here this week?
+**Yuval Noah Harari:** I- I'm afraid I didn't have time. I- I read some of the transcripts of of the speeches, but I didn't have time to actually go and and listen to the speeches.
+10:41 - 12:09 **BeerBiceps:** What do you think, Yuval, of what is happening in the world today, geopolitically?
+**Yuval Noah Harari:** Terrible. I mean, we are going back to kindergarten to kind of the first, most basic lessons of politics and of human behavior. You now see the- the- the rise or the re-emergence of this view that the only thing that that exists, the only thing that really matters in the world is power, is force, and especially military force. You hear many leaders and many ordinary people now say this, that everything else is just facade, is just veneer, it it never really existed. The only thing that really happens in the world is power and all human relations are power relations, are power struggles. And if anybody tells you otherwise, this is just a trick they're they're using to gain power over you.
+**BeerBiceps:** Hasn't man always been like that from the beginning of evolution?
+**Yuval Noah Harari:** No. You always had people with this uh with this belief. You always had people who said these things. And the whole history of human spirituality and human philosophy is one long struggle against this very nihilistic and cynical view of the world.
+12:09 - 13:31 **Yuval Noah Harari:** If you read- I don't know- you read Plato's Republic, one of the key texts at least in the West of political thought, it starts with Socrates asking this one of the- the- the people in Athens 'What is justice?' And this guy tells him 'Oh, justice? Justice is when the- the- the strong do what they want. This is justice.' And the whole of Plato's Republic is- is an argument against that. And, you know, at the most basic human level, people should first of all ask themselves 'Is this how I live my life?' Your neighbors, your friends, your colleagues. Are you constantly in power struggles with all- you have no not a single real friend in the world? Like all the people outside your family, you're just in in some power struggle with them? I mean, if somebody really believes that, they have such a miserable life.
+**BeerBiceps:** I agree. But all is an overstatement. But most, would you say?
+**Yuval Noah Harari:** Even most, you know. I walk down the street, I'm not in a power struggle with- with people all the time. Um and it's the same all the way to the level of geopolitics, that this idea that countries cannot have friends, that, you know, United States and Europe...
+13:31 - 15:01 **Yuval Noah Harari:** I would say as a historian this was the greatest friendship in the world built over generations. I- I can understand if somebody comes and says 'Look, I don't see why tax- taxpayers in Texas and Iowa should pay for the defense of Germany and France.' Yeah. Completely reasonable. But then to stick your finger in their eye and say 'Okay, and because I'm stronger, I'll now take Greenland.' Why? What- you know- you- friendship is such- again, even in terms of power struggles. To have some real friends in the world, this is power. Throw this away for a bit of ice? What's- what's the rationale behind?
+**BeerBiceps:** But do you believe it's about the ice and about Greenland?
+**Yuval Noah Harari:** I don't understand. I'm not sure what it is about. I mean, could be different things. Could be a couple of things at the same time. Um one explanation is that he is taking seriously climate change. It's very hard to understand the Greenland thing if you don't believe in climate change. Um because climate change will make Greenland more important.
+**BeerBiceps:** Because the ice will melt.
+**Yuval Noah Harari:** The ice will melt. You'll have trade routes. You'll have per- perhaps you'll have easier access to- to some mineral wealth in- in Greenland. But it makes sense only if you believe in climate change and he says he doesn't believe in climate change. So what do you believe? Uh it could be just a- maybe the simplest explanation: he's a real estate tycoon.
+15:01 - 16:31 **Yuval Noah Harari:** This is real estate. He wants to plant his name somewhere. Like 'So I'm the president who brought Greenland to the US.' Maybe it's- it's as simple as that. Maybe the the one important thing to say about power is that ultimately human power is based on cooperation, not on force. Even if you want to build an army, how do you get thousands, millions of soldiers who don't know you personally to obey your- your commands? Now, if you think that you build an army just by getting someone to threaten the soldiers to obey you, how do you get those people who threaten the soldiers? Who threatens them? And who threatens them? It's endless.
+**BeerBiceps:** Storytelling.
+**Yuval Noah Harari:** Ultimately, to build an army or anything, a corporation, a country, you need people to really believe in some one- one story or the other. You need people to really believe in some system of morality, in some systems of laws, not just to be afraid. Nothing- you cannot build anything big in history, in the world, if you try to only base it on brute force, on coercion. And this is true again all the way to geopolitics, that to have a real friend in the world, that not when you're strong- when you're strong, it's easy to coerce others.
+16:31 - 17:53 **Yuval Noah Harari:** But if you're in crisis, you are on the floor, and get somebody then to come and help you. That's difficult. And between Europe and the US, you had this kind of friendship. You know, it it's a small thing, but it's still important. That, you know, after the US was attacked on September 11 and invaded or attacked Afghanistan, Denmark came to the- to the help to help the Americans.
+**BeerBiceps:** I heard Emmanuel Macron wearing- I watched him wearing really cool sunglasses and speaking the day before and I heard Trump last evening and again this morning. It feels like they're negotiating for something that is not being spoken about overall. I don't think it's about climate change or Greenland or the ice melting or the routes opening up. It feels like it's something else altogether, but that may be that's just my opinion of it.
+**Yuval Noah Harari:** What- what- what is your- your hypothesis? What- what's your guess? What is it about?
+**BeerBiceps:** Yeah. Like- you know when you're negotiating with someone, you anchor with something really expensive, so then they take the product which is less expensive in a store. Greenland seems to be anchoring in order to get the other person to take something else maybe.
+**Yuval Noah Harari:** Which is?
+**BeerBiceps:** More tariff acceptable.
+17:53 - 19:33 **BeerBiceps:** Which it doesn't seem to be right now.
+**Yuval Noah Harari:** Hmm. I don't know. I mean, again, I- I still don't see that these tariffs are doing anybody any good. Not the Americans and certainly not the rest of the world. Um and as a negotiation tactic, again, you are negotiating with your best friend. And you're doing something that really frightens and humiliates them. They will not forget that. Even if you get what you want in the short term. And what happened in the last- of course it's not just the last few weeks, it's the last few years. But the the Europeans will not forget that. And the the feeling that you get that- I don't know- your best friend is willing to- to stab you in in the back and and to- to step on you, to humiliate you, and then he says 'No, no, no. I was just joking.' But it didn't feel like joking at the moment. This is something that can ruin a friendship years ahead.
+**Yuval Noah Harari:** You know, trust. You- you need to work for years to build trust and you can lose it in a day. To take an example maybe from a different uh field of life. Think about finance. A bank- about, you know, let's say banks. Carpenters build tables, like this table some carpenter built it. Uh engineers build buildings and bridges. What do bankers build? Bankers build trust.
+19:33 - 21:03 **Yuval Noah Harari:** This is what they do throughout their life. That I trust them that if I will need that money, they will give it back to me. And then the banker goes and builds another trustful relationship with say some entrepreneur who wants to- to start a new company and she needs money. So the banker and the entrepreneur build a trust- trusting relationship and the banker lends basically my savings to that entrepreneur so she can start her company. Now, I don't know this entrepreneur, I wouldn't give her my money, I don't know her, I don't trust her. You have the banker in between, the banker has built a bridge of trust between me and the entrepreneur.
+**Yuval Noah Harari:** Now, suppose one day the banker, I don't know, goes on television and says 'I have no intention of- of giving back my- my bank will just take the money and run with it. We are not giving- if- if the custom- if my customers wants their money, there is no more money in the bank.' No banker would be so stupid. You've just dis- you've worked years to build trust with these people. Why destroy this trust? This is the basis for everything you do. And politics like banking is mostly- you can't trust everybody in politics of course. But this, if you finally managed to build a trustworthy relationship in politics, this is- your biggest asset.
+21:03 - 22:31 **BeerBiceps:** Could this be the problem with democratic politics where politicians have a finite tenure because friendships don't have to last forever but only three, four, five years at a time?
+**Yuval Noah Harari:** The basic idea of democratic politics and even of modern politics is that the relationships are between states, not between families or dynasties or people.
+**BeerBiceps:** That doesn't seem to be the case right now.
+**Yuval Noah Harari:** This is crumbling. This is another plank of trust that is collapsing in the world. Like I heard Trump some time ago talking about Putin invading Ukraine and people uh asked Trump 'How can you trust Putin when he broke so many promises previously?' And what was Trump's answer? He said 'Putin did not break his promises to me. He broke his promises to Obama. He broke his promises to Biden.' Now, this is, you know, this is going back to the Middle Ages. Modern politics is that it's not Putin making a promise to Obama, it's Russia making a promise to the US. It doesn't matter who the president is. The whole idea is you sign a- say a peace agreement, you sign it with another country. So even if the president changes, it still holds.
+**Yuval Noah Harari:** And this is again part of destroying the modern political system and going back to a medieval system in which it's relationships between dynasties. Um so it's now foreign relations increasingly is relations with the Trump family, not with United States, which is why so many countries are doing business with certain members of the Trump family in order to influence US foreign policy.
+22:31 - 22:58 **Yuval Noah Harari:** So this is really going back to the Middle Ages when relations are between dynasties and not between nations or countries.
+**BeerBiceps:** Yuval, you're originally Israeli. Does it worry you to speak about Trump in a manner that you think 'Can I go into America again?'
+**Yuval Noah Harari:** Uh, it's worrying that we even have to raise this question. If they don't allow me into the US, so they don't allow me. But my job as a public intellectual is to speak my mind.
+22:58 - 24:14 **Yuval Noah Harari:** If I can't do that, then I can't do my job. So why invite me to a- a podcast to- to- to hear me say things I don't really believe just in order to carry favor with some politician.
+**BeerBiceps:** Isn't that the media today? Everybody is saying what they don't believe, but-
+**Yuval Noah Harari:** No. Not everybody. This is, I think, the most d- again, this is goes back to this kind of cynical worldview. Everything is a power struggle, nobody cares about truth, everybody whatever they say is just some kind of manipulation. This is giving an open check for the real liars. Not every politician uh is engaged in- in- in this type of- of cynical manipulation.
+**Yuval Noah Harari:** And again, it's a sign of the time that more and more people say these things, that everybody lie, everybody is corrupt, which again basically says everything is just a power struggle and nobody cares about just as nobody cares about friendship, nobody really cares about the truth, which is a terrible thing to believe because do you really believe that about yourself? Like when you look in the mirror, do you see there somebody who doesn't care at all about the truth? And the thing about the truth is that, yes, you can gain a lot of power by- by lying.
+24:14 - 25:01 **Yuval Noah Harari:** But the price you pay is that ultimately you cannot be happy if you don't know the truth about yourself because if you don't know the truth about yourself and about the world, about life, then you don't know what are the true sources of misery in life. And if you don't know that, even if you become the most powerful person in the world, the richest person in the world, you will waste all your power and riches on solving the wrong problems because you don't know what actually makes you miserable.
+**BeerBiceps:** What is the truth, Yuval?

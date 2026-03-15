@@ -1,0 +1,403 @@
+---
+title: Veritasium_Asbestos is a bigger problem than we thought_20260217_part1
+audio_file: Veritasium_Asbestos is a bigger problem than we thought_20260217_part1.mp3
+note_id: 9dc41b83-d66d-43bc-ac64-adb831befaaa
+date_processed: '2026-02-23'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+
+Full Transcription
+
+
+
+---
+
+00:00 - 00:15 [Intro Music]
+
+00:15 - 00:18 Speaker 1: It's just everywhere. 
+
+00:18 - 00:19 Speaker 2: Whoa. 
+
+00:19 - 00:21 Speaker 1: This is really blue. 
+
+00:21 - 00:23 Speaker 2: You should come like this is so blue. 
+
+00:23 - 00:26 Speaker 1: Look at how many you're finding. 
+
+00:26 - 00:28 Speaker 2: I feel like Gollum.
+
+00:28 - 00:30 Speaker 1: Precious. 
+
+00:30 - 00:33 Speaker 2: If it weren't so dangerous, it'd be a fun activity to do. 
+
+00:33 - 00:34 Speaker 3: These are the big ones. 
+
+00:34 - 00:38 Speaker 1: But what about all the particles we can't see? 
+
+00:38 - 00:43 Speaker 2: This same kind of material was used in the construction of the World Trade Center buildings, and when the towers fell, it was pulverized to microscopic size and released into the air. 
+
+00:43 - 00:50 Speaker 1: The particles remained airborne for days and thousands of people unknowingly breathed them in. They buried themselves deep within people's lungs, wreaking havoc and causing all sorts of diseases.
+
+00:50 - 00:59 [Music]
+
+00:59 - 01:03 Speaker 2: We've known for decades that these particles are extremely dangerous. But when the towers fell, no one was warned. 
+
+01:03 - 01:08 Speaker 4: The concentrations are such that they don't pose a health hazard. 
+
+01:08 - 01:13 Speaker 1: And yet today, the diseases linked to that dust have killed more than twice as many people as the attacks themselves. 
+
+01:13 - 01:18 Speaker 2: Once we started looking, we kept finding this material in places we never expected. 
+
+01:18 - 01:21 Speaker 4: He was telling the newspapers...
+
+01:21 - 01:24 Speaker 2: People aren't just eating it and breathing it, they're mainlining it. In popular off-roading spots, in makeup, and even kids' toys. 
+
+01:24 - 01:28 Speaker 5: Say it ain't so, Mickey Mouse crayons. 
+
+01:28 - 01:31 Speaker 1: No, it's been detected in the dust around schools and homes. 
+
+01:31 - 01:33 Speaker 6: Five generations of people died up there. 
+
+01:33 - 01:37 Speaker 2: And instead of banning it outright, we let it spread. 
+
+01:37 - 01:41 [Music and Sound Effects]
+
+01:41 - 01:50 Speaker 2: Some countries are still importing hundreds of thousands of tons each year and it's estimated that by 2035, nearly 2.8 million people might die because of it.
+
+01:50 - 02:00 [Music]
+
+02:00 - 02:05 Speaker 2: This is a video about a deadly miracle material we can't stop using. 
+
+02:05 - 02:11 Speaker 2: This investigation is based on publicly available documents, recordings, and third-party sources. All of our links are in the description. Thank you to Ground News for sponsoring this video. More about them later. 
+
+02:11 - 02:18 [Music]
+
+02:18 - 02:24 Speaker 2: There is the story about the ancient Greeks from around the 2nd century AD. They had this golden lantern that would burn for a whole year without going out, all because of a very special wick that just wouldn't burn down. 
+
+02:24 - 02:29 Speaker 2: So, how did they develop this technology? Well, the truth is, they didn't. They found it. 
+
+02:29 - 02:35 Speaker 2: Imagine you're walking around 2000 years ago and you see this fluffy-looking stuff poking out the ground. It's got all of these fibers that you can pull apart and twist into shapes. 
+
+02:35 - 02:40 [Music]
+
+02:40 - 02:43 Speaker 1: First off, let's get a nice bundle. 
+
+02:43 - 02:45 Speaker 2: It looks like cotton. 
+
+02:45 - 02:46 Speaker 1: It looks like it would burn really well. Like it would just... 
+
+02:46 - 02:48 Speaker 2: Yeah, you could start a fire with it, right? 
+
+02:48 - 02:49 Speaker 1: All right. 
+
+02:49 - 02:50 Speaker 2: Okay. Let's see what happens. 
+
+02:50 - 02:52 [Laughter]
+
+02:52 - 02:54 Speaker 1: It's not burning. 
+
+02:54 - 02:58 Speaker 2: That's because this is actually a rock. It's a naturally occurring mineral. 
+
+02:58 - 03:03 Speaker 2: The core building block is simple. It's a silicon atom surrounded by four oxygen atoms. 
+
+03:03 - 03:08 Speaker 2: Now, silicon has four electrons in its outer shell, but it really wants eight. So each of the oxygens shares one electron with it. 
+
+03:08 - 03:14 Speaker 2: But oxygen doesn't share evenly since it's more electronegative than silicon. It pulls those shared electrons closer to itself. 
+
+03:14 - 03:19 Speaker 2: This leaves the oxygen side slightly negative and the silicon side slightly positive. Now there's an electrostatic attraction between these atoms which pulls the atoms closer together and strengthens this bond. 
+
+03:19 - 03:25 Speaker 2: The result is an incredibly stable pyramid-shaped unit called a silica tetrahedron. 
+
+03:25 - 03:31 Speaker 2: But if you look at the oxygens in these corner spots, they've only shared one electron, but they actually want two to complete their outer shell. 
+
+03:31 - 03:36 Speaker 2: So the corners link up with other silicon atoms to form more tetrahedra, and in this way, the structure just keeps growing. 
+
+03:36 - 03:41 Speaker 2: The bonds inside here are incredibly strong and stable, and because the atoms are already tightly bound to the oxygens inside the silicate structure, the oxygen in the air has nothing to react with. So the material doesn't burn. 
+
+03:41 - 03:48 [Music]
+
+03:48 - 03:52 Speaker 2: But overall, there's nothing special about these building blocks. More than 90% of the Earth's minerals are made from this stuff. Everything from quartz to clay. 
+
+03:52 - 03:58 Speaker 2: What makes this material special is how those units link up. 
+
+03:58 - 04:03 Speaker 2: Here, the tetrahedra have formed a sheet, and bonded to it, there is actually a second sheet made of magnesium atoms and hydroxyl groups, which are just an oxygen and a hydrogen stuck together. 
+
+04:03 - 04:09 Speaker 2: Now, the atomic spacings of these two layers are slightly different, so there's a tiny mismatch which causes tension between these layers, causing them to curl up. And you end up with these tiny scroll-like tubes. 
+
+04:09 - 04:14 Speaker 2: These tubes don't break down easily under heat. The structure stays stable up to around 600 degrees Celsius. 
+
+04:14 - 04:19 Speaker 1: So like all these individual fibers that you see running through here, those are all like these scrolls, more or less. 
+
+04:19 - 04:20 Speaker 2: Yes. 
+
+04:20 - 04:21 Speaker 1: What was that? 
+
+04:21 - 04:22 Speaker 2: What was that bend? 
+
+04:22 - 04:25 Speaker 1: That's just a place where I twisted the fiber with my tweezers. 
+
+04:25 - 04:26 Speaker 2: Ah, okay. 
+
+04:26 - 04:30 Speaker 2: And when you twist these fibers, they actually don't break. So it's literally a rock you can weave. 
+
+04:30 - 04:37 [Music]
+
+04:37 - 04:43 Speaker 2: And when you do, the fibers form a tangled layered structure. So if heat is introduced, it has to pass from fiber to fiber across many contact points with air filling the spaces between them. This reduces how quickly heat can spread through the material. 
+
+04:43 - 04:49 Speaker 2: Because of that, people started weaving it into things like theater curtains and insulation blankets for steam engines, even fireproof clothing. Essentially anywhere they didn't want something to catch fire. 
+
+04:49 - 04:54 Speaker 2: But by far the most important use came around in the 1800s. 
+
+04:54 - 05:01 Speaker 2: Between 1790 and 1870, the number of people living in urban areas in America jumped from 1 in 20 to around 1 in 4. 
+
+05:01 - 05:08 Speaker 2: So to accommodate this, people had to tack on extra floors onto existing buildings and courtyards would then be filled with makeshift extensions, effectively tightly packing all of these buildings together. 
+
+05:08 - 05:13 Speaker 2: Pretty much all these buildings were made out of wood. But the people inside still cooked with open flames, they used gas lamps, they lit candles. 
+
+05:13 - 05:17 Speaker 2: So one accident and an entire neighborhood could go up in flames. 
+
+05:17 - 05:21 Speaker 2: That reality hit New York City in December 1835 when within a span of just two days, three separate fires erupted in Manhattan. 
+
+05:21 - 05:27 Speaker 2: One bystander described what followed as an ocean of fire with roaring, rolling, burning waves. 
+
+05:27 - 05:32 Speaker 2: By the end, a third of a mile of Manhattan was engulfed, destroying nearly 700 buildings at a cost of $20 million. That's over $730 million of today's money. 
+
+05:32 - 05:38 Speaker 2: Similar catastrophes were happening in cities all over the world. Chicago, London, Hamburg, Tokyo. 
+
+05:38 - 05:42 Speaker 4: When will this appalling rate of destruction come to an end? 
+
+05:42 - 05:46 Speaker 2: The problem was that when a building burned, it spewed up embers into the air. These then got carried by the wind and landed onto other roofs, setting them alight. 
+
+05:46 - 05:51 [Sound of fire burning]
+
+05:51 - 05:56 Speaker 2: So 23 years after the great fire of New York, a 21-year-old named Henry Ward Johns set out to break that chain reaction by making roofs fireproof. 
+
+05:56 - 06:01 Speaker 2: But that's trickier than it sounds. Whatever his solution was, it had to be usable across an entire city. So cheap and easy enough to mass produce, durable enough to sit exposed on rooftops, baking in the summer sun, freezing in the winter, and most importantly, it was not allowed to ignite even when exposed to burning embers. 
+
+06:01 - 06:08 Speaker 2: Now Johns knew of a mineral that was already being spun into fireproof fabric. But only the long fibers were useful for thread. The shorter ones were actually swept aside as waste. 
+
+06:08 - 06:14 Speaker 2: Johns realized those scraps were exactly what he needed. Fireproof, tough, and most importantly, cheap. 
+
+06:14 - 06:21 Speaker 2: So he set up a makeshift lab in his basement apartment and started experimenting. He heated up tar in his tea kettle, smeared that onto cloth and then pressed in these tiny fibers. Then he wrung the whole thing through his wife's brand new clothes wringer, and when he tested it, it worked. It didn't burn. 
+
+06:21 - 06:29 Speaker 2: In 1868, Henry Ward Johns patented his invention, and by 1927, the company he built was generating $45 million in annual sales, more than $800 million in today's money. 
+
+06:29 - 06:37 Speaker 2: Soon people were using this fire-resistant stuff in all kinds of building materials. Across America, consumption grew from around 20,400 tons in 1900 to a peak of 803,000 tons in 1973. 
+
+06:37 - 06:40 [Music]
+
+06:40 - 06:46 Speaker 2: Because of that, pretty much every building in the US, public or private, commercial or residential, used some form of this material. 
+
+06:46 - 06:51 Speaker 2: During that same period, stronger building codes, safer heating systems, and other fire-resistant materials were also introduced. And it showed. During that time, fire-related deaths dropped around 80%. 
+
+06:51 - 06:56 Speaker 2: So this material likely helped save millions of lives worldwide. 
+
+06:56 - 07:02 [Music and Sound Effects]
+
+07:02 - 07:06 Speaker 2: Because it couldn't be destroyed by fire, the name the ancient Greeks gave it, it stuck around. They called it inextinguishable, or asbestos. 
+
+07:06 - 07:11 Speaker 5: Asbestos, the remarkable mineral. 
+
+07:11 - 07:16 Speaker 2: By the mid-20th century, asbestos was everywhere. Inside brake pads, toasters, ironing boards, hair dryers, surgical dressings, and blankets. 
+
+07:16 - 07:22 Speaker 2: You know, brewers filtered beer through it. One brand of toothpaste even used it for extra polish. The fake snow in department store windows and in movies like The Wizard of Oz, all of that's asbestos too. 
+
+07:22 - 07:27 Speaker 4: Unusual weather we're having. 
+
+07:27 - 07:33 Speaker 2: Sorry, Dorothy. It was such a big deal, Marvel even had a villain called Asbestos Lady. She'd set a fire to escape the police and she'd easily walk through it safe inside her asbestos bodysuit. 
+
+07:33 - 07:40 Speaker 2: To feed this demand, asbestos was pulled out of the ground on an enormous scale. Major mining operations spread across Canada, Russia, and South Africa, with global production peaking at approximately 4.8 million tons per year in 1977. 
+
+07:40 - 07:49 [Music]
+
+07:49 - 07:54 Speaker 2: But the reason asbestos ended up in so many different products is because it's actually a group of different minerals. 
+
+07:54 - 08:00 Speaker 2: That white fluffy stuff we tried to burn earlier, it's called chrysotile and it belongs to a mineral family known as the serpentines. But other types of asbestos looked completely different. 
+
+08:00 - 08:06 Speaker 2: For instance, there is also brown asbestos known as amosite. It forms thick fibers that almost look like wood splinters. Strong, stable, and highly heat-resistant. So it was perfect for putting into building materials like cement panels. 
+
+08:06 - 08:11 Speaker 2: This type belongs to a different mineral family, the amphiboles. 
+
+08:11 - 08:16 Speaker 2: Here, instead of forming sheets, the silica tetrahedra lock into rigid ladder-like chains. In amosite, iron and magnesium ions along with hydroxyl groups embedded in the structure bind those chains together, forming these long needle-like fibers. 
+
+08:16 - 08:21 Speaker 2: But tweak that chemistry just slightly so that now iron and sodium ions bind the chains and you get this, blue asbestos or crocidolite. 
+
+08:21 - 08:28 Speaker 2: These crystals split easily along their length and they create these fine flexible fibers that are still extraordinarily strong with tensile strengths comparable to high-grade steel wire. 
+
+08:28 - 08:34 Speaker 2: This type went into chemical-resistant insulation, shipyards, and even filters inside early gas masks. 
+
+08:34 - 08:36 Speaker 2: Oh, and there was another use, one that's hard to believe now. 
+
+08:36 - 08:42 Speaker 1: In this magic box I have right here is something that was manufactured right here in North Carolina. 
+
+08:42 - 08:44 Speaker 1: They're cigarettes, produced in the 1950s. 
+
+08:44 - 08:49 Speaker 1: And if you look at the filter, you see the filters are blue asbestos. 
+
+08:49 - 08:52 Speaker 2: This is Kent with the Micronite filter that was manufactured with crocidolite asbestos in the filter itself. 
+
+08:52 - 08:55 Speaker 1: So you're not only smoking, you were smoking it through a blue asbestos filter? 
+
+08:55 - 08:56 Speaker 2: Yes. 
+
+08:56 - 08:57 Speaker 1: What a deal. 
+
+08:57 - 09:02 Speaker 5: Only Kent has the revolutionary new Micronite filter you've heard so much about. Kent and only Kent filters best. 
+
+09:02 - 09:10 [Music and Sound Effects]
+
+09:10 - 09:18 Speaker 2: In the early 1900s, a young woman named Nellie Kershaw worked in a factory that spun asbestos fibers into threads. 
+
+09:18 - 09:23 Speaker 2: Every day she breathed in the dust that those machines threw into the air. So by her early 30s, she was so sick she could barely breathe. 
+
+09:23 - 09:28 Speaker 2: And when she finally decided to ask the factory for help, they refused. They said helping out workers would set a dangerous precedent. 
+
+09:28 - 09:31 Speaker 2: Nellie died shortly after, at the age of just 33. 
+
+09:31 - 09:40 Speaker 2: Nellie's case caught the attention of pathologist Dr. William Cooke. When he opened up her chest, her lungs were gray and scarred, almost blue-black like they had a huge internal bruise. And when his scalpel passed through them, they rasped. It was like scraping against sandpaper. 
+
+09:40 - 09:45 Speaker 2: The tissue was full of mineral grit and under the microscope, the cause was unmistakable, asbestos fibers lodged into the lung tissue. 
+
+09:45 - 09:50 Speaker 1: If we were to inhale some type of an asbestos fiber, I kind of always think of them as like little microscopic straight arrows that kind of just shoot down through the nose or the mouth and move down through the trachea. 
+
+09:50 - 09:56 Speaker 1: If we continue on going down here, we get smaller and smaller as we penetrate deeper into the lung tissue and then you get into these alveolar sacs. These asbestos fibers, they lodge in the tissue there. 
+
+09:56 - 10:01 Speaker 1: And lung secretions, enzymes, even white blood cells, they have a really hard time breaking those down. You end up with scarring deep inside the lungs. 
+
+10:01 - 10:06 Speaker 2: In 1924, Dr. Cooke published the first medical description of this condition, which became known as asbestosis. 
+
+10:06 - 10:11 Speaker 2: When these asbestos fibers lodge into the lungs, the body treats them like invaders. Specialized cells called macrophages move in, cells whose job it is to engulf and digest bacteria, dust, or debris. 
+
+10:11 - 10:16 Speaker 2: But asbestos fibers are too long and stiff to swallow. It's kind of like trying to eat a toothpick sideways. 
+
+10:16 - 10:21 Speaker 2: The macrophages keep trying and failing, and in the process, they release inflammatory chemicals that damage the surrounding lung tissue. 
+
+10:21 - 10:26 Speaker 2: So workers breathing in asbestos dust day after day accumulated more and more damage. 
+
+10:26 - 10:32 Speaker 2: When doctors sent by the British government examined hundreds of asbestos workers, they found that more than 25% already showed signs of lung disease. And for workers with over 20 years of exposure, that number was closer to 80%. 
+
+10:32 - 10:38 Speaker 2: So, in 1931, the government officially classified asbestos as a workplace hazard, making it one of the first industrial materials to be regulated for health risks. 
+
+10:38 - 10:44 Speaker 2: But the new rules only covered factories where asbestos was manufactured. They didn't extend to other workers like shipbuilders, miners, or construction workers who were regularly exposed to asbestos dust. 
+
+10:44 - 10:49 Speaker 2: Across the Atlantic, things weren't much better. There was no binding federal asbestos rules in the States, only a recommendation. 
+
+10:49 - 10:56 Speaker 2: The US Public Health Service suggested a temporary exposure limit of 5 million asbestos particles for a single cubic foot of air, which meant that a worker breathing normally could inhale over 300 million asbestos particles an hour and still be considered within guidelines. 
+
+10:56 - 11:03 Speaker 2: This became especially problematic for shipyard workers when World War II broke out. Ships were packed with asbestos insulation, so workers spent their days cutting and fitting asbestos in thick clouds of fibers. 
+
+11:03 - 11:10 Speaker 2: And according to the guidelines of the day, these levels met the official definition of safe working conditions. In fact, asbestos was still marketed as a magic material. 
+
+11:10 - 11:17 Speaker 2: A few years earlier, Time Magazine actually put Johns-Manville's president Lewis H. Brown on its April 3rd, 1939 cover. But, in the early 1960s, finally one doctor started connecting the dots on asbestos. 
+
+11:17 - 11:24 Speaker 2: Dr. Irving Selikoff was running a small clinic in Paterson, New Jersey, when the local asbestos workers union asked if their members could come and see him. 
+
+11:24 - 11:28 Speaker 2: Before long, he'd seen multiple workers with either severe lung scarring or more concerningly, an extremely rare cancer called mesothelioma. 
+
+11:28 - 11:34 Speaker 1: But mesothelioma is strongly associated with asbestos exposure and is cancer of those cells lining the inside of the chest cavity, and most commonly it's this pleural cavity. 
+
+11:34 - 11:39 Speaker 1: These pleural membranes are lined with mesothelial cells. Sometimes what happens is the fibers will work their way out of the lung tissue and directly get into this cavity here and they can literally pierce out the lungs. 
+
+11:39 - 11:44 Speaker 1: They cause constant irritation and over time, that can trigger cancerous changes in the cells that make those linings. 
+
+11:44 - 11:49 [Music]
+
+11:49 - 11:54 Speaker 2: Selikoff needed more data to understand the scale of the problem, but factory owners refused to share medical records from their workers with him. So Selikoff had to get creative. 
+
+11:54 - 12:01 Speaker 2: See, during World War II, many shipyard workers employed by the Navy underwent federal background checks. Thousands of these men had been working with asbestos to insulate ships, so using surviving FBI wartime personnel records, Selikoff began tracking them down and one by one painstakingly pieced together their medical histories. 
+
+12:01 - 12:06 Speaker 2: What emerged wasn't a handful of isolated tragedies, it was a pattern. 
+
+12:06 - 12:12 Speaker 2: That exposure proved deadlier than combat itself. 8.6 out of every 1000 servicemen were killed in action, whereas 14 out of every 1000 shipyard workers later died from asbestos-related cancers. 
+
+12:12 - 12:19 Speaker 2: Selikoff launched a formal investigation into hundreds of asbestos insulation workers, and what he found confirmed his fears. Widespread disabling asbestosis, dozens of cases of mesothelioma, lung cancer rates roughly seven times higher than expected, and a threefold increase in gastrointestinal cancers. 
+
+12:19 - 12:26 Speaker 2: In 1964, he organized a conference at the New York Academy of Sciences where for the first time, all this evidence was presented publicly, in one place and on the record. 
+
+12:26 - 12:29 Speaker 2: It marked the moment when asbestos stopped being seen as a modern miracle material and instead started being recognized as a public health crisis. 
+
+12:29 - 12:35 [Music]
+
+12:35 - 12:41 Speaker 2: But the asbestos industry fought back, trying to discredit Selikoff. Industry-funded research groups came out with papers minimizing the risk of exposure and framing Selikoff's findings as overblown. 
+
+12:41 - 12:46 Speaker 2: They started a coordinated PR effort to discredit him, trying to call him alarmist and starting a rumor that he wasn't even a real doctor, just because he got his medical degree out in Scotland. 
+
+12:46 - 12:53 Speaker 2: But Selikoff kept going. He kept publishing data on the devastating health effects of asbestos exposure. He worked 18-hour days, documenting every patient who wrote to him. He contacted policymakers, even world leaders, urging them to take action against asbestos. 
+
+12:53 - 12:57 Speaker 2: Now Selikoff, the legendary doctor who organized this conference in the 1970s, found that intravenous drugs were being contaminated by asbestos filtration. 
+
+12:57 - 13:00 Speaker 1: People aren't just eating it and breathing it, they're mainlining it. 
+
+13:00 - 13:06 Speaker 2: By the 1970s, no one could deny it any longer. Miners, factory workers, shipyard insulators, people who'd been exposed decades earlier during the asbestos boom were now turning up with multiple cancers in huge numbers. 
+
+13:06 - 13:12 Speaker 1: Asbestos exposure is linked to all sorts of different cancers. The lung tissue has lymphatic vessels in it, which you have them throughout your whole body. 
+
+13:12 - 13:17 Speaker 1: The asbestos fibers sometimes on their own can migrate into the lymphatic vessels. Sometimes the white blood cells will take it into the lymphatic system. Once you hit the lymphatic system, you have the potential to go anywhere in the human body. 
+
+13:17 - 13:23 Speaker 2: Autopsies have found fibers in nearly every organ in the body. The brain, bone marrow, spleen, intestines, pancreas, prostate, ovaries, thyroid, and liver. And in every tissue those fibers reach, they set off the same chain reaction. 
+
+13:23 - 13:29 Speaker 1: I'm imagining these white blood cells with personalities and they get all mad and frustrated because they can't engulf this asbestos fiber. They've coined this term called essentially "frustrated phagocytosis." 
+
+13:29 - 13:34 Speaker 1: They start releasing these things like reactive oxygen species. They can cause damage to surrounding cells and really important is damage to DNA. 
+
+13:34 - 13:40 Speaker 1: Those cells can start dividing out of control and they start to clump together and we start to call those clumps of cells "cancer." 
+
+13:40 - 13:45 Speaker 2: US courts were flooded with lawsuits against companies like Johns-Manville. The harm asbestos caused was well documented. The information was out there. Companies should have known their products were dangerous. 
+
+13:45 - 13:51 Speaker 2: They should know what's reasonably available in the public domain about the dangers of asbestos. If they can read asbestos patents, they can read asbestos pathology papers. 
+
+13:51 - 13:56 Speaker 2: But the companies denied it. What was needed was definitive evidence that the companies knew their products were killing their workers. 
+
+13:56 - 14:02 [Music]
+
+14:02 - 14:06 Speaker 2: Then an attorney, Carl Ash, noticed something strange in the 1974 report by this huge asbestos company called Raybestos-Manhattan. 
+
+14:06 - 14:11 Speaker 2: See, in this report, the company suggested that they had actually been investigating health hazards of asbestos since the 1930s. 
+
+14:11 - 14:16 Speaker 2: So Ash started digging. He filed a request for internal documents, and at first, the company claimed it couldn't find much. 
+
+14:16 - 14:23 Speaker 2: Then unexpectedly, Ash was handed a banker's box stuffed full of documents, meticulously kept by Raybestos-Manhattan's former president, Sumner Simpson. 
+
+14:23 - 14:29 Speaker 2: Back in 1935, a journal contacted Simpson because they wanted to write an article about asbestosis. 
+
+14:29 - 14:33 Speaker 2: Shortly after, Simpson himself reached out to Johns-Manville's lawyer, Vandiver Brown, saying, "I think the less said about asbestos, the better off we are." To which Brown replied, "I quite agree with you that our interests are best served by having asbestosis receive the minimum of publicity." 
+
+14:33 - 14:38 Speaker 2: The same papers also revealed that in the 1930s, Raybestos and Johns-Manville hired an external company, Saranac Laboratories, to do studies of asbestos on animals. 
+
+14:38 - 14:43 Speaker 2: But the companies insisted on controlling what from those studies will be made public. 
+
+14:43 - 14:48 Speaker 2: As a letter from Vandiver points out, "It is our further understanding that the results obtained will be considered the property of those who are advancing the required funds, who will determine whether, to what extent and in what manner they shall be made public." A clause to which Saranac Laboratories said yes. 
+
+14:48 - 14:55 Speaker 2: But after the lead researcher who was compiling all this evidence died in 1946, the companies agreed that nothing should be published that contained any objectionable material. Objectionable meaning any sort of indication that asbestos causes cancer. 
+
+14:55 - 15:01 Speaker 2: So when Saranac Laboratories finished their research, the companies took their report, edited it and just buried the evidence. Here's an original copy of that manuscript, and you can find whole sections just crossed out. 
+
+15:01 - 15:06 Speaker 2: Other documents were even more damaging. A Johns-Manville medical official later testified that up until 1971, the company had a policy of not telling their workers if their physicals showed signs of asbestosis or asbestos-related lung cancer. 
+
+15:06 - 15:13 Speaker 2: And in sworn testimony, a witness recalled a meeting they had in the early 1940s with the president of Johns-Manville, asking why they weren't warning workers about asbestos. As the witness recalls it, they asked, "Do you mean to tell me you would let them work until they drop dead?" To which the president replied, "Yes, we save a lot of money that way."
+
+15:13 - 15:20 [Music]

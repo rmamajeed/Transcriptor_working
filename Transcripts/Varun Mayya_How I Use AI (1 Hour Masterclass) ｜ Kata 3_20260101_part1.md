@@ -1,0 +1,303 @@
+---
+title: Varun Mayya_How I Use AI (1 Hour Masterclass) ｜ Kata 3_20260101_part1
+audio_file: Varun Mayya_How I Use AI (1 Hour Masterclass) ｜ Kata 3_20260101_part1.mp3
+note_id: 5f628b06-2e29-48ea-81ae-e779f67f5f33
+date_processed: '2026-03-03'
+classification:
+  primary_domain: AI
+  sub_domains:
+  - Machine Learning
+  - Natural Language Processing
+  - Human-Computer Interaction
+  difficulty_level: Intermediate
+  content_type: Lecture
+entities:
+  people:
+  - name: Varun Mayya
+    role: Lecturer
+    contribution: Discussed AI, writing, and clarity
+  - name: Shaurya
+    role: Participant
+    contribution: Participated in a thought experiment
+  - name: Rohit
+    role: Participant
+    contribution: Initially invited to participate in a thought experiment
+  - name: Divin
+    role: Participant
+    contribution: Shared his favorite ice cream flavor
+  works_cited: []
+  concepts_mentioned:
+  - AI
+  - Writing
+  - Clarity
+  - Context
+  - Genie Problem
+  - Human-Computer Interaction
+  laws_theories_cited: []
+concepts:
+- name: Genie Problem
+  definition: A problem where AI or humans take instructions too literally, filling
+    in context gaps with potentially undesirable outcomes
+  parent_concepts:
+  - AI
+  - Human-Computer Interaction
+  related_concepts:
+  - Context
+  - Clarity
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Clarity
+  definition: The quality of being clear and easy to understand, important for effective
+    writing and communication
+  parent_concepts:
+  - Writing
+  - Communication
+  related_concepts:
+  - Context
+  - Genie Problem
+  abstraction_level: Fundamental
+  confidence: 0.9
+- name: Context
+  definition: The circumstances or setting that provide meaning to a situation, important
+    for effective communication and AI interaction
+  parent_concepts:
+  - Communication
+  - Human-Computer Interaction
+  related_concepts:
+  - Clarity
+  - Genie Problem
+  abstraction_level: Theoretical
+  confidence: 0.9
+relationships:
+- source_concept: Genie Problem
+  target_concept: Clarity
+  relationship_type: supports
+  strength: 0.8
+  evidence: Varun Mayya's discussion on the importance of clarity in avoiding the
+    genie problem
+  reasoning: The genie problem highlights the need for clarity in communication to
+    avoid undesirable outcomes
+- source_concept: Context
+  target_concept: Clarity
+  relationship_type: equivalent_to
+  strength: 0.7
+  evidence: Varun Mayya's discussion on the importance of context in providing clarity
+  reasoning: Context and clarity are closely related, as context provides the setting
+    for clear communication
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: AI
+  source_concept: Genie Problem
+  target_domain: Economics
+  target_concept: Unintended Consequences of Technological Advancements
+  insight: The Genie Problem in AI parallels the unintended consequences of technological
+    advancements in economics, such as the Jevons Paradox.
+  explanation: Both the Genie Problem and the Jevons Paradox deal with the unforeseen
+    effects of increased efficiency or capability. In AI, the Genie Problem refers
+    to the potential misalignment of AI goals with human values, leading to unintended
+    consequences. Similarly, the Jevons Paradox describes how increased efficiency
+    in resource usage can lead to increased consumption, rather than decreased. This
+    structural analogy highlights the importance of considering secondary effects
+    in both domains.
+  potential_applications:
+  - Designing AI systems with value alignment
+  - Evaluating the broader impact of technological advancements
+  confidence: 0.9
+  historical_example: The Jevons Paradox, first described by William Stanley Jevons
+    in 1865, demonstrates the historical relevance of considering unintended consequences
+    in the context of technological progress.
+- connection_type: principle_application
+  source_domain: AI
+  source_concept: Clarity
+  target_domain: Communication Studies
+  target_concept: Clear Communication
+  insight: The importance of clarity in AI development mirrors the principles of effective
+    communication in human interactions.
+  explanation: Clarity is crucial in AI for ensuring that machine learning models
+    are interpretable and transparent. Similarly, in communication studies, clear
+    communication is essential for conveying ideas effectively and avoiding misunderstandings.
+    The principle of striving for clarity can be applied across both domains to improve
+    understanding and reduce errors.
+  potential_applications:
+  - Developing more interpretable AI models
+  - Improving human communication strategies
+  confidence: 0.8
+  historical_example: The work of George Orwell on clear writing and the importance
+    of precise language highlights the historical significance of clarity in communication.
+- connection_type: metaphor
+  source_domain: AI
+  source_concept: Context
+  target_domain: Linguistics
+  target_concept: Pragmatic Context
+  insight: The concept of context in AI can be metaphorically related to the pragmatic
+    context in linguistics, where understanding the situation and environment is crucial
+    for meaningful interpretation.
+  explanation: In AI, context is vital for machines to understand the nuances of human
+    language and behavior. Similarly, in linguistics, the pragmatic context refers
+    to the situational and environmental factors that influence the meaning of language.
+    This metaphorical connection emphasizes the importance of considering the broader
+    context in both AI and linguistics for accurate interpretation and response.
+  potential_applications:
+  - Improving natural language processing in AI
+  - Enhancing linguistic theories with contextual understanding
+  confidence: 0.7
+  historical_example: The philosophical works of Ludwig Wittgenstein on language games
+    and context highlight the early recognition of context's role in understanding
+    meaning.
+bridge_concepts:
+- concept: Feedback Loops
+  appears_in_domains:
+  - AI
+  - Economics
+  - Biology
+  role: Feedback loops serve as a mechanism for adjustment and learning in various
+    systems.
+  examples:
+  - AI systems adjusting to new data
+  - Economic systems responding to market changes
+  - Biological systems regulating homeostasis
+mental_models:
+- name: Systems Thinking
+  description: Considering complex systems as wholes, rather than focusing on individual
+    parts.
+  applied_to:
+  - Understanding AI systems and their potential impacts
+  transferable_to:
+  - Analyzing economic systems, biological ecosystems, and social structures
+analogies_used:
+- source_domain: Biology
+  source_concept: Immune System
+  target_domain: AI
+  target_concept: Adversarial Robustness
+  mapping:
+    Pathogens: Adversarial Attacks
+    Immune Response: Defensive Mechanisms
+  pedagogical_value: This analogy helps in understanding the concept of adversarial
+    robustness in AI by likening it to the biological immune system's response to
+    pathogens, highlighting the importance of adaptive defense mechanisms.
+tags:
+  hierarchical:
+  - '#AI → #Natural Language Processing → #Human-Computer Interaction'
+  topical:
+  - '#Clarity'
+  - '#Context'
+  - '#Genie Problem'
+  methodological:
+  - '#ThoughtExperiment'
+  people:
+  - '#VarunMayya'
+  concepts:
+  - '#GenieProblem'
+  - '#Clarity'
+  - '#Context'
+  temporal: []
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  Varun Mayya discusses the importance of clarity and context in communication, highlighting
+  that most AI and human employees take things too literally and fill in gaps with
+  their own understanding. He emphasizes the need for precise instructions and examples
+  to provide context, using the analogy of a "KD genie" that takes wishes literally,
+  and demonstrates how AI can be used to provide clarity and context in business planning.
+  By combining AI with human input and verification, Mayya shows how to create a detailed
+  and accurate business plan, and highlights the importance of meshing human and AI
+  capabilities to achieve success.'
+key_ideas:
+- idea: Here are 3-5 key ideas discussed in the transcription text
+  description: ''
+- idea: The importance of providing clear context**
+  description: The speaker emphasizes that most AI and human employees take things
+    too literally and will fill in missing context with their own understanding, which
+    can lead to mistakes. Providing clear and precise context is crucial to avoid
+    misunderstandings and ensure that tasks are completed correctly.
+- idea: The role of writing and prompting in providing context**
+  description: The speaker highlights the importance of writing and prompting in providing
+    context, and how it can help to clarify thinking and ensure that instructions
+    are understood correctly. Writing is seen as a way to abstract out context and
+    provide it to others, making it easier to work together and avoid mistakes.
+- idea: The potential of AI to augment human capabilities**
+  description: The speaker discusses the potential of AI to augment human capabilities,
+    particularly in areas such as research and analysis. AI can provide thorough and
+    detailed information, but human input is still necessary to provide context and
+    ensure that the information is accurate and relevant.
+- idea: The need for a meshed world where humans and AI work together**
+  description: The speaker argues that the future will be a meshed world where humans
+    and AI work together, with AI handling skill-based tasks and humans focusing on
+    soft skills such as building relationships and making decisions. This collaboration
+    will enable people to build businesses and create value in new and innovative
+    ways.
+- idea: The importance of setting up incentives and KPIs**
+  description: The speaker emphasizes the importance of setting up incentives and
+    KPIs to motivate and guide human behavior, particularly in a business setting.
+    AI can be used to design incentives and track progress, making it easier to manage
+    and optimize business operations.
+---
+## Key Concepts
+
+**Genie Problem**  
+A problem where AI or humans take instructions too literally, filling in context gaps with potentially undesirable outcomes
+
+**Clarity**  
+The quality of being clear and easy to understand, important for effective writing and communication
+
+**Context**  
+The circumstances or setting that provide meaning to a situation, important for effective communication and AI interaction
+
+## Cross-Domain Connections
+
+**AI → Economics**
+
+*The Genie Problem in AI parallels the unintended consequences of technological advancements in economics, such as the Jevons Paradox.*
+
+Both the Genie Problem and the Jevons Paradox deal with the unforeseen effects of increased efficiency or capability. In AI, the Genie Problem refers to the potential misalignment of AI goals with human values, leading to unintended consequences. Similarly, the Jevons Paradox describes how increased efficiency in resource usage can lead to increased consumption, rather than decreased. This structural analogy highlights the importance of considering secondary effects in both domains.
+
+**AI → Communication Studies**
+
+*The importance of clarity in AI development mirrors the principles of effective communication in human interactions.*
+
+Clarity is crucial in AI for ensuring that machine learning models are interpretable and transparent. Similarly, in communication studies, clear communication is essential for conveying ideas effectively and avoiding misunderstandings. The principle of striving for clarity can be applied across both domains to improve understanding and reduce errors.
+
+**AI → Linguistics**
+
+*The concept of context in AI can be metaphorically related to the pragmatic context in linguistics, where understanding the situation and environment is crucial for meaningful interpretation.*
+
+In AI, context is vital for machines to understand the nuances of human language and behavior. Similarly, in linguistics, the pragmatic context refers to the situational and environmental factors that influence the meaning of language. This metaphorical connection emphasizes the importance of considering the broader context in both AI and linguistics for accurate interpretation and response.
+
+## Discussion Topics
+
+- **Here are 3-5 key ideas discussed in the transcription text:** 
+- **The importance of providing clear context**:** The speaker emphasizes that most AI and human employees take things too literally and will fill in missing context with their own understanding, which can lead to mistakes. Providing clear and precise context is crucial to avoid misunderstandings and ensure that tasks are completed correctly.
+- **The role of writing and prompting in providing context**:** The speaker highlights the importance of writing and prompting in providing context, and how it can help to clarify thinking and ensure that instructions are understood correctly. Writing is seen as a way to abstract out context and provide it to others, making it easier to work together and avoid mistakes.
+- **The potential of AI to augment human capabilities**:** The speaker discusses the potential of AI to augment human capabilities, particularly in areas such as research and analysis. AI can provide thorough and detailed information, but human input is still necessary to provide context and ensure that the information is accurate and relevant.
+- **The need for a meshed world where humans and AI work together**:** The speaker argues that the future will be a meshed world where humans and AI work together, with AI handling skill-based tasks and humans focusing on soft skills such as building relationships and making decisions. This collaboration will enable people to build businesses and create value in new and innovative ways.
+- **The importance of setting up incentives and KPIs**:** The speaker emphasizes the importance of setting up incentives and KPIs to motivate and guide human behavior, particularly in a business setting. AI can be used to design incentives and track progress, making it easier to manage and optimize business operations.
+
+## Full Transcription
+
+
+
+00:00:00 - 00:01:12 **Varun Mayya**: You know GPT and Gemini today are better idea generators than human beings. Smart humans have three four good ideas. But after that all their ideas are generic. You cannot have a world where it's just AI or human. I think we're going to live in a very meshed world. So all the people saying look at me I'm so skilled they're going to be useless after some time. Let's start an error-free pancake business in Bangalore. And this time we're going to do it with AI. And it's very accurate. It'll give you the total costs, profit, break even, everything. The communication between you and your teams, only 30% is in your employee's heads. Your clarity as a leader or lack of it can make or break careers. One person is doing 90% of the work everybody else is not doing the work. A high performer doesn't want to work in a team like that. I think it's very important that you treat your employees like someone you are responsible for helping. Everyone can improve unless there's an attitude issue. Skill is the least likely of the reason you might lose your job. And this is not very far away. We're talking to your AIs all the time, they know enough about you. And therefore when you're telling your teammate some feedback you're like I don't need to write that email, the AI will write the email on my behalf because it knows me and it knows where this person is lacking. And you meet the best directors, best CEOs in the world they'll all tell you some version of this. Ladies and gentlemen, welcome back. For people online, this is a new session, it's going to be a new video. For people offline, we're doing two back-to-back because it'd been a long time since I'd done the last one. And it's very hard to get everybody's schedule at the same time in the same place at this point. So we spoke about the lightning way. Now I'm going to teach you how to implement the lightning way using AI. OK, let's go back to core concepts, core topics, AI, how to write better, how to think better, how to have clarity, how to do research better, everything. OK, no one's seen this deck. It's going to be useful. Let's begin. How to use clarity and AI to manage computers, people, lead, delegate, and think about teams. A little bit of the previous slide, a little bit of the previous deck, but now with computers. Ready? Let's go. Let's zero in on writing. How many of you are bad writers? It's OK, you can put your hand up. How many of you want to improve at writing? Everybody? Lovely. Writing is a type of thinking. There's a reason today with AI I can't upload like 10 documents of Varun Maya's old writing and say write like this person. It'll speak in the style of me. But it won't think. It won't end sentences the way I do because it can't extrapolate situations like I do because it's not thinking like me. It's mimicking my style, it's not mimicking my thinking. OK, writing is a type of thinking. It's active thinking, right? Next slide. I feel like most people's writing is unclear because their thinking is unclear. And I think it's very hard to have clear thinking. And it's very easy to convince yourself that you've started to think clearly. The only way you can tell if you've thought clearly or not is when you put it into action, when you've executed it, and it has led to results. OK? Next slide. Let's do an amazing thought experiment. I love doing this thought experiment. Rohit, come here. Come, come. Come. Have a big fun thought experiment. So Rohit runs Yash. Welcome, Rohit. OK. Rohit, I'm a genie. OK? I'm going to give you three wishes. But remember, I'm a KD genie. OK? I have my own ulterior motives. So what's your first wish? Come on. What's your first wish? He's buffering too much. Can someone? Go sit. Shaurya, you come here. It's fine. Come, come. Come. Watch time will drop. Come on. Shaurya.
+
+00:03:56 - 00:04:14 **Shaurya**: My wish is to like come up with incredible content ideas.
+
+00:04:14 - 00:04:22 **Varun Mayya**: OK, come up with incredible content ideas. Two other wishes. Come on. Why don't you just ask for unlimited money?
+
+00:04:22 - 00:04:24 **Shaurya**: I do want to ask.
+
+00:04:24 - 00:04:27 **Varun Mayya**: OK, why don't you ask me interesting things? I want to know all the secrets of the universe. Whatever it is.
+
+00:04:27 - 00:04:31 **Shaurya**: Yeah.
+
+00:04:31 - 00:04:41 **Varun Mayya**: OK, Shaurya wants to know all the secrets of the universe. He wants infinite content ideas, right? And what else?
+
+00:04:41 - 00:04:42 **Shaurya**: And infinite money.
+
+00:04:42 - 00:06:58 **Varun Mayya**: And infinite money. Sit down. I told you I'm a KD genie. OK? I'm not the average run-of-the-mill Aladdin genie. I'm a different genie. I'm evil. And most importantly, I take things too literally. That's the kind of genie I am. I take things too, I'm literal. I'm Reddit. OK? So as a genie, my job now is to take his wishes and translate it. So he first asked for infinite content ideas. So now I'm going to slam his brain and his synapses with infinite content ideas to the point where he can't stand still. OK, infinite like just flashy content ideas. What's the next thing you asked for? Secrets of the universe. So now I'm going to jam every single piece of the secrets of the universe into his brain at the same time so he's not, like he's hallucinating and crazy shit is happening. He wanted unlimited money, infinite money. So I'm now going to make him the owner, actually forget that, I'm just going to dump money on him so that he drowns. And some people have been sophisticated with me this experiment. They think I'm doing a gotcha. So they'll be like, I want to own like all the top companies in the world. Or some shit like that. And I'll always be like, well, if you owned all the top companies in the world and you had majority equity, what would happen immediately is the stock market would see that you have now owned all the companies in the world, they don't know who you are, so all the stocks will crash. Right? If suddenly some company that you had, ownership changed overnight, some what would the public do, they'd sell their stock. OK? Then you'd start getting sued. Some of these companies have lawsuits. So it becomes all the baggage of all the top companies in the world. And this is what I meant by KD genie. It's actually a literal genie. A literal genie means somebody who takes everything literally. Anything you say, they will execute exactly as you want it, exactly as you want it. And the only way to get the genie to execute exactly what you want is to be very precise. Bro, I want exactly $500,000 in exactly this bank account delivered through non-fraudulent means, you know, delivered for work and services from a big company that nobody would check, some like you'd have to be that literal if you wanted to work with the genie. Because the genie does the same thing AI does, no? A genie is filling in context for you. Right? When you say I want unlimited money, how does the genie know that unlimited money means only a billion dollars and only in these bank accounts and only through non-fraudulent means? Like money can't just appear in a bank account, just so you know. It needs to come from somewhere. Right? And that coming unless you're doing fraud. And that coming from somewhere, how does the genie solve that problem of, you know, your tax at the end of the year? Like, I always found it very strange. OK? So the reason I ran you through this thought experiment. Next slide. Most AI and human employees are exactly like the genie. It's a very good way to think about the problem. I told you, my job is to think of ways where you can model this in your head of why writing is important, OK? Which is that most people take things too literally. Not to the extreme of genie because, you know, they're not like they're not being KD, but to the extent of their context. OK? I'll give you a very good example of this. If you tell AI generate a picture of an ice cream, what color is the ice cream going to be? Some some people said white. Some people said chocolate. Brown. Somebody said raspberry, purple, whatever it is. It'll generate one of those colors. It's taking a random shot. OK? Now, if I asked you to ask your best friend, "Kiske liye ice cream lena hai, what flavor should I get?" What are the odds your friend best friend will get it right? 100%? OK, some people say 100%. What about the rest of you? Do you think your friends will get it right? Now, what about your co-workers? If I asked you about Divin, you work in the same office, what's his favorite ice cream color? I mean flavor.
+
+00:08:08 - 00:08:12 **Speaker 2**: Chocolate.
+
+00:08:12 - 00:08:14 **Varun Mayya**: Chocolate, is that true?
+
+00:08:14 - 00:10:01 **Divin**: No.
+
+**Varun Mayya**: Divin says no. Divin says no. Now, think about this. For a simple concept like ice cream flavor and color, he has put a different context for what he wants. Now imagine for work. Imagine how this is being compounded across work. It's exactly the genie problem, which is the genie is filling in random context. A KD genie will fill in negative context. A good genie will say, well, I will reroute money through these Singapore, Switzerland accounts and then finally bring it to your bank account and then make your tax everything easy for you so that you have all this money and then you're happy without any issues and liabilities. If I give you ownership in companies, then I'll figure out how to own make you own the companies while everybody in the stock market hallucinates that you are the rightful owner or something like that. It's a positive genie. It's filling in positive context for you. It's all the gaps that your in your in your dialogue, whatever gaps are there, it's filling with positive things, or it's filling with negative things. In the real world, it's not positive or negative things. It's somebody else's things. OK? Most AI and human employees can do whatever you ask, but if you don't provide enough context, they will do what is right for them but wrong for you. They will fill in context from what they know or understand. OK? Companies hire for experience and taste so that the employee can fill in poor context that the management gives. Like the worst you are at managing people, the more you need experience talent. Like with EOS, when we started the company, we started with completely inexperienced people. Well, some people were experienced from the scenes team from my past team, but most of it was inexperienced people because I was willing to sit down with the team and explain context. I was willing to sit down on every video and be like, "Yeh aise change karna hai, yeh aise change yeh karna hai, woh karna hai," whatever. We're willing to sit and do that. But I didn't have to do that with Okas. I'm like, "Bro, Okas, everything you do I agree with like it looks good." I don't have to fill in extra context for you. OK? Companies hire for experience and taste so that the employee can automatically fill in poor context. How to respond to clients is something that takes several years for people to learn. OK? But we hire from existing agencies sometimes for those talent. Why? Because they already know how to do this. I don't need to fill in that context. Correct? Do we agree with this? That's why management expects even skilled people to have experience. You could be really good at what you do, but if you don't have the context-filling ability, your taste matches the taste of the company, you're always going to do your own thing. OK? Next slide. Writing, now we're also going to use another word for writing called prompting. It's a more popular way of using writing, is the act of providing context. Remember we spoke about the fact that writing is clarity? Context is clarity. OK? What is in your head? And I would say between the communication between you and your teams, only 30% is in your employee's heads. Whereas with my leadership, because I've spent years with them now, it's been three years since I've been working with them, they know everything. They know my health issues. They know which kind of car I like. They know which where I want to buy a house. They know where my houses are. They know which trip I've gone to. They know which foods I like, which foods I don't like. Everything. We have so much shared context that if they needed to make a decision on my behalf, they can do it. Which by the way, they technically do at EOS at specific company level. Right? And it's vice versa. I can make if they're gone for let's say Rohit is gone for two weeks, I can easily make a decision on his behalf. I know how he thinks. So we are filling in each other's context from a business perspective. OK? And that's why years of experience in a business matters if you are picking up context that the new company that you're joining needs. Next slide. OK, now, what's the best way to give context? What is the best way to give context? Just give examples. For example, if I told you, "Bro, mujhe iska yeh audio hai, iska char file mein split karke bhej de," very low context. OK? But if I say, "I want you to pack each output file as a .wav in a folder called fixed_files and make sure each file is labeled on based on the date of the recording and the take number, example 01_05_23_take7.wav," then you know you know what the file order is, right? You know what the folder will have, what kind of file and files it'll have, what the names of those files are, and what you can expect in each of those files. Now, if I tell somebody else in my team you are going to be expecting this with these waves in this folder, makes life much easier. But you know how much time you guys waste right now sending each other files? Which which doesn't have any of this? Where you have not done the enough of the context-setting work. Right? So examples is the best way to make humans and computers understand what you want. So even when you're talking to the AI, if you give it enough examples, it will understand context. Next slide. OK? So Andy Grove, he there's this very famous example. He he asks a new line cook to make pancakes. OK? He forgets to say golden brown on both sides. OK? So the rookie flips it once and sends like one side is fully cooked, the other side is undercooked goo to the customer, and of course customer is like, "Bro, one side of the pancake is not brown. It sucks. I don't like this." The lesson is that the bottleneck is almost missing spec. Spec is that writing sheet, whatever needs to be done or explanation or instruction, not missing skill. Because missing skill, you can go watch a YouTube tutorial today on anything, right? Write precise checklists and run one-on-ones so that the line cook's mental model matches the boss's. OK? How do you make the mental alignment between the guy who's the cook and the boss? How do you make them in sync? How do you make them think like each other? OK? The experience after some experience between the two when they both work together for a while, there are fewer pancakes in the trash, but only because the veterans invented their own checklist in their heads. So if I work with you together and I don't write, over time you know how I'm thinking, OK? But that's only because we've worked together enough that such that you can fill context. It's not happened through a sheet. OK? And it's much slower than sending a sheet. OK, there are some people in some companies who'll who'll write a sheet on how what it's like to work with me. If you're joining my team, I will send you a document. This is what it's like to work with Rahul, or whoever it is. And I think that's amazing, right? Because you're setting so much context for the other person. Senior engineers aren't really three times faster coders. OK? It's better to think of them as context repair technicians. Right? You're basically your job is to find out what does the company need, what is the problem, I know the context of the codebase, I'm solving it faster. Right? You've already solved those problems many times so you know how to solve this authentication problem, for example. OK? You overpay them because management sucks and their briefs are actually underbaked. Right? You're sending a underbaked brief, and therefore you're having to pay this person extra to be able to do what you don't know what the company's confusion is. And I think the main reason we were able to be bootstrapped is we ran enough experiments before fully starting this out as a company such that we were like, OK, we know exactly what we want to do, so we don't need to hire other people. We don't need to hire people who we don't need as a company. Whereas other companies, they'll raise some money, seed-funded companies, they'll hire like 30 people. And they're like, "I have one role for everything." Like, why? Varun Mayya team editors like in a some way are meshed with me. OK? Now we've added some more people to the team, that's why there's a little bit of like long-form is not exactly what I wanted it to be. But I think with my old team, they have so much context, I don't need to give them further instructions. They know how to make that Heygen avatar talk, they know how to make it they know which what tonality I use, they know the kind of words I use, they know the the kind of words I don't use, they know what kind of angle we should go for, like they know everything. To the point where I would argue they can create content on my behalf, which is what happens, actually, on a daily basis. So you can get to that level. Where you made and because creating content is writing. It starts as writing. We've done 300-400 scripts together that they're just like, "I know. Now I know what what it takes to do this." Right? And I think in the beginning I gave express instructions. Now it's just like it's a fully automatic process. Right? So this meshing comes over time. But what I'm saying is by writing, you can abstract it out and you can not have to spend any time. You can do it on day one. Next slide. OK. So let's say we'll run this experiment. OK? Let's start an error-free pancake business in Bangalore. OK? And this time we're going to do it with AI. OK? Next slide. We're going to do a business. We're going to run an experiment of running a business in a totally different way from how every other business started. We're going to do it the way EOS was started. With lots of research and writing. OK? How many of you here work on actively on channels who have written channel briefs? Some of you guys have, right? Some of you do this work, but let's do it very technically. Let's run it through a process. Pehle let's do some research. What is the what is the scope for a pancake business in India? So we'll use, you know, now it's GPT-5, that time it was 03. By the way, I've written these decks many months ago. So let's start researching. Here's the context to the genie. I want to start a pancake business in Hebbal, Bangalore. I have 50K per month to spend on this, but I can spend a few months up front for equipment if needed. Can you deep research and tell me what I need to spend on and who to hire and how to get customers? OK, make me a number-dense business plan for one year. OK, ask see what all I'm asking for. What all am I asking for? I'm asking for I'm telling it my budget. This is my budget. This is all I can afford to spend. Make it work in this. Tell me who I need to hire. Tell me the space, everything. It I want you to think about everything I have not thought about. You fill in my context. And you know why I love deep research? You know why I think it's the one of the best tools ever invented? You know what it will do after this? Ask questions. It will ask you to fill in context. And I wish, you know, again, we you can't put the responsibility of this on the employee, but I would love if an employee just stood up and said, "Varun, great instructions. I have five more follow-up questions." Right? It'll never happen. Because that's not the employee's responsibility. Right? It's kind of the leader's responsibility. But but I think good leaders can also do this, right? Which is you only think about what the follow-up potential questions could be and ask those questions. OK? So the next thing after this, next slide, is it will say, "Thank you for sharing your budget and location. To create a detailed, number-dense one-year business plan for your pancake business in Hebbal, Bangalore, could you please clarify a few things?" And I wish every time you guys ever wrote something or gave any instruction, there was an AI that just popped up and said, "Good job, Manjyot. I have five questions for you." Right? And then added those questions to the bottom of the document that you were giving your employees. I just wish this happened. So do you plan to operate from a physical location? Because I'll tell you one thing. Like, we did a bit of proposal for a company recently, right? Same the follow-up questions were so expected. But I was just like, "I should have done the extra work and just, you know, put it through deep research to figure out what are the questions they'll ask because humans are not that special." Anyway, do you plan to operate from a physical location? What kind of pancakes are you planning to offer? Do you have existing equipment or will everything need to be purchased from scratch? What are your operating hours and days per week? Do you plan to run the business? Do you plan to cook yourself or hire a chef? Do you have preference for marketing channels? Would you do it through Instagram? Would you do food delivery apps? Would you do local events? OK? That's the thing. Deep research questions focus force you to think harder about context. And AI doesn't do this, the deep research part of AI does this. So it's the genie, but now with glasses and a tie where it's like, "Yo, yo, yo, before you before you give me that wish, would you like the money fraudulently or would you like it through legal means? Do you want to be drowned in money or do you want it in your bank account?" Like I wish there was an AI, I mean I wish people were like this, right? Next slide. And I think the cool thing here is now it will give you everything. OK? It will give you so it's given you how much it costs for kitchen appliances, utensils, furniture and fixing and AI is great for this. Like this is all like generic stuff that anybody can do, but AI is like very thorough about this. And it'll give you exact costs, etc., etc. How many of you think the costs given here are correct? They may be correct, they may not be correct. And here's where here's where I do what I like to call the AI bullshit test. Which is I now pick up the phone and I get clarity on all those costs. So if it's saying that my staff salary is 22,000 rupees, OK, for a let's say a person who's sitting in head cook of 15K making pancakes, I'd be like, "Hmm, let me go to a restaurant." So I'll go into a restaurant, I'll sit down. I'll be like, "Can I talk to the chef for a second?" And then I'll be like, "Sir, I'm doing a research project. I just want to know what your salary is." Right? Because I'm planning to hire somebody like you for my, you know, pancake business. And he'll give me a number and I'll write that number down. And sometimes, here it says 15K for a head cook, but I'll find out maybe in Bangalore in this area it's 30K. Whatever. I find a real I fill this slightly fake data with real data. But some data it gets right, like marketing. Right? It'll know Instagram ads it'll have a roughly good idea. So over time with AI I've figured out what is the correctness number that it spits out and what is the number I need to reference check. And ideally, you ref check everything. You call an expert in each and every one of these fields. Right? And it's not hard, right? Like for example if you want to find out how much the electricity bill is, there's someone in your family who'll be running some sort of business, who's done some electricity thing, someone who knows something about this. Call them and ask them. OK? And at the end of this, you will have a perfect list, for example everything with how much it costs to buy, you know, the pancake flour. You can just go Namdhari's down below and find out and and multiply it by how much you need. Within about a day you'll have all the edge cases covered because that's what deep research is for, with specific numbers of how much it costs for everything because you've done phone call. So that's why I believe that AI in the future, even for analysis, stuff like deep research, you need AI to give you all the edge cases and human to put in real number and avoid hallucination. Because this is going to be picking these numbers up from some blog post or something which will be five years ago. It won't be today's ka numbers. OK? Next slide. OK, and then it gives you a projection. Then you feed those numbers back in. You be like, "AI sir, you are wrong. Here's my updated list of numbers. Here's my notebook ka screenshot." OK? And then it will give you the total costs, profit, break even, everything. Right? And it's very accurate. Trust me we're I use this at a much higher level of scale than than this, right? And it works reasonably well. OK? Next slide. Then you pick up the phone and sell and hire the people. Then you do and this is why I believe like you cannot have a world where it's just AI or human. I think we're going to live in a very meshed world. Where AI is going to do the skill stuff, so all the people saying look at me I'm so skilled they're going to be useless after some time or less useful. But then there's going to be other people be like I can use the skill and do stuff with it. I can build a business or go out and run around or whatever it is. And those people who are doing both skilled and this other I don't know what you call it, soft skills, those people are going to do fantastically well in life. Right? You pick up the phone and sell and hire the people. So you pick up the phone, call different chefs, go through whatever sources there are to to call chefs. Everything. Like just do the hard work of talking to people. OK? Next slide. And then set up software for tracking and then design incentives and KPIs for each person. Remember the lightning way, previous episode? What do we speak about? Incentives. So everyone, if unless you want to be the kind of person like a Zumba trainer coming and saying, "Chef, you can do it! You can do it!" Unless you want to be that kind of person, you need to be the kind of person who's setting up incentives. The only way a company can do the only way we can do five things as a company, we do five different we have five different units, right? The only way we can do the five things and all five are profitable and running and the sixth one game dev thing is, you know, is making progress, the only way we can do it is everyone's incentives are set up. And the way I do it is I talk to OpenAI and I say, "Boss, design incentives for the talent with a clear incentive for profitability and making sure nobody wastes much. Does well on good sales. Please make it simple." See, I'm a stupid person. Right? I'm outsourcing everything to AI. It will give me the best incentive. And AI will go it's read all the books in the world, it knows what the best incentives are for human beings given the situation, and it'll come up with incentive. And I love this, right? Because it's like total monthly sales, if it's 70,000 or more, 5% of total sales are cut out as a bonus. Profitability: if cost of goods sold is less than 30% of sales, then 2% of the total sales goes. Efficiency: if food waste is less than 5%, then 1% of total sales goes as a bonus. Everything is beautifully defined. And then I have a software which actually tracks food waste, cost of goods sold, total monthly sales. And at the end of every month, I press a button and it tells me how much bonus they get. Right? No management required. No Zumba instructor required. OK? This is the way of the future. The genie is finally a good genie because you filled enough context. OK, the genie hasn't has stopped being a bad genie and KD genie and has now become a good genie. OK, next slide. OK, this deck is done. We'll do a recap of the last two classes and move to the next topic. Thank you.

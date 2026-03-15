@@ -1,0 +1,332 @@
+---
+title: Varun Mayya_How I Use AI (1 Hour Masterclass) ｜ Kata 3_20260101_part2
+audio_file: Varun Mayya_How I Use AI (1 Hour Masterclass) ｜ Kata 3_20260101_part2.mp3
+note_id: 52cf32f3-5af6-432e-9c34-5476ebb26b77
+date_processed: '2026-03-03'
+classification:
+  primary_domain: Business
+  sub_domains:
+  - Entrepreneurship
+  - Management
+  - Incentives
+  difficulty_level: Intermediate
+  content_type: Lecture
+entities:
+  people:
+  - name: Varun Mayya
+    role: Speaker
+    contribution: Discussed business design and incentives
+  works_cited: []
+  concepts_mentioned:
+  - Incentives
+  - Business Design
+  - Unreliable Narrators
+  - Performance Reporting
+  - AI Usage
+  laws_theories_cited: []
+concepts:
+- name: Incentives
+  definition: Rewards or penalties to motivate behavior
+  parent_concepts:
+  - Business Design
+  related_concepts:
+  - Performance Reporting
+  - Unreliable Narrators
+  abstraction_level: Applied
+  confidence: 0.9
+- name: Unreliable Narrators
+  definition: Individuals who provide misleading information
+  parent_concepts:
+  - Business Design
+  related_concepts:
+  - Incentives
+  - Performance Reporting
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Performance Reporting
+  definition: Regular updates on progress or achievements
+  parent_concepts:
+  - Business Design
+  related_concepts:
+  - Incentives
+  - Unreliable Narrators
+  abstraction_level: Practical
+  confidence: 0.9
+- name: AI Usage
+  definition: Utilization of artificial intelligence in business
+  parent_concepts:
+  - Business Design
+  related_concepts:
+  - Incentives
+  - Performance Reporting
+  abstraction_level: Applied
+  confidence: 0.9
+- name: Business Design
+  definition: The process of creating and organizing a business
+  parent_concepts: []
+  related_concepts:
+  - Incentives
+  - Unreliable Narrators
+  - Performance Reporting
+  - AI Usage
+  abstraction_level: Fundamental
+  confidence: 0.9
+relationships:
+- source_concept: Incentives
+  target_concept: Performance Reporting
+  relationship_type: supports
+  strength: 0.8
+  evidence: Incentives are designed to motivate behavior, and performance reporting
+    is used to track progress
+  reasoning: Causal relationship between incentives and performance reporting
+- source_concept: Unreliable Narrators
+  target_concept: Incentives
+  relationship_type: contradicts
+  strength: 0.7
+  evidence: Unreliable narrators can provide misleading information, which can negatively
+    impact incentives
+  reasoning: Unreliable narrators can undermine the effectiveness of incentives
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Business
+  source_concept: Incentives
+  target_domain: Psychology
+  target_concept: Motivation Theory
+  insight: Incentives in business mirror motivation theories in psychology
+  explanation: Both incentives in business and motivation theories in psychology aim
+    to understand what drives individuals to act in certain ways. They both deal with
+    the concept of rewards and punishments to influence behavior. Understanding the
+    structural analogy between these two can help in designing more effective incentives
+    in business by considering psychological principles of motivation.
+  potential_applications:
+  - Human Resource Management
+  - Marketing Strategies
+  confidence: 0.9
+  historical_example: The work of Frederick Herzberg on motivation theory (1950s)
+    can be seen as an early example of understanding human motivation, which has direct
+    implications for business incentives.
+- connection_type: principle_application
+  source_domain: Business
+  source_concept: Performance Reporting
+  target_domain: Education
+  target_concept: Assessment and Evaluation
+  insight: The principles of performance reporting in business can be applied to assessment
+    and evaluation in education
+  explanation: Both performance reporting in business and assessment in education
+    aim to measure outcomes and provide feedback for improvement. The principles of
+    clarity, transparency, and regularity in business performance reporting can be
+    applied to educational assessments to make them more effective and student-centered.
+  potential_applications:
+  - Educational Policy
+  - Teaching Methods
+  confidence: 0.8
+  historical_example: The No Child Left Behind Act (2001) in the U.S. is an example
+    of applying business-like performance metrics to education, highlighting the need
+    for careful consideration of such applications.
+- connection_type: metaphor
+  source_domain: Business
+  source_concept: Unreliable Narrators
+  target_domain: Literature
+  target_concept: Narrative Theory
+  insight: The concept of unreliable narrators in literature can inform the understanding
+    of deceptive practices in business
+  explanation: Just as literature explores how narrators can be unreliable, leading
+    to misunderstandings of the story, business can learn from this metaphor to recognize
+    and mitigate against deceptive practices. This involves understanding the narratives
+    presented by businesses and critically evaluating their trustworthiness.
+  potential_applications:
+  - Ethical Business Practices
+  - Consumer Protection
+  confidence: 0.85
+  historical_example: The Enron scandal (2001) demonstrates how a misleading narrative
+    can lead to catastrophic consequences, mirroring the literary concept of the unreliable
+    narrator.
+- connection_type: historical_precedent
+  source_domain: Business
+  source_concept: AI Usage
+  target_domain: Economics
+  target_concept: Jevons Paradox
+  insight: The Jevons Paradox can predict the impact of AI efficiency on consumption
+  explanation: The Jevons Paradox, which states that technological progress can lead
+    to increased consumption of a resource rather than less, can be applied to the
+    use of AI in business. As AI increases efficiency, it may lead to increased consumption
+    of resources rather than reduced, mirroring the paradox's prediction.
+  potential_applications:
+  - Sustainability Planning
+  - Resource Management
+  confidence: 0.9
+  historical_example: The historical example of the Jevons Paradox (1865), where increased
+    efficiency in coal use led to higher consumption, can inform predictions about
+    the impact of AI-driven efficiency on resource consumption.
+bridge_concepts:
+- concept: Feedback Loops
+  appears_in_domains:
+  - Business
+  - Biology
+  - Engineering
+  role: Feedback loops are crucial for adaptive systems, allowing them to respond
+    to changes and maintain homeostasis or achieve goals.
+  examples:
+  - Performance metrics in business
+  - Regulatory mechanisms in biology
+  - Control systems in engineering
+mental_models:
+- name: Systems Thinking
+  description: A holistic approach to understanding complex systems, focusing on the
+    interactions and interdependencies within the system.
+  applied_to:
+  - Analyzing business ecosystems
+  - Understanding organizational change
+  transferable_to:
+  - Environmental conservation
+  - Public health policy
+analogies_used:
+- source_domain: Biology
+  source_concept: Ecosystems
+  target_domain: Business
+  target_concept: Market Ecosystems
+  mapping:
+    Species: Companies
+    Niche: Market Segment
+  pedagogical_value: Helps in understanding the interconnectedness and interdependence
+    of companies within a market, similar to how species interact within an ecosystem.
+tags:
+  hierarchical:
+  - '#Business → #Entrepreneurship → #Incentives'
+  topical:
+  - '#Incentives'
+  - '#BusinessDesign'
+  - '#AIUsage'
+  methodological:
+  - '#CaseStudy'
+  - '#Lecture'
+  people:
+  - '#VarunMayya'
+  concepts:
+  - '#Incentives'
+  - '#UnreliableNarrators'
+  - '#PerformanceReporting'
+  temporal: []
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  The speaker discusses the importance of designing effective incentives and avoiding
+  "unreliable narrators" who may provide misleading information. They also emphasize
+  the value of clear reporting, writing, and using AI tools to streamline work and
+  provide references, allowing teams to work more efficiently and effectively. Additionally,
+  the speaker stresses the importance of enjoying the journey, having fun, and taking
+  responsibility as leaders, while also being mindful of the potential for burnout
+  and maintaining a long-term perspective.'
+key_ideas:
+- idea: Here are the 3-5 key ideas discussed in the transcription text with a short
+    description of each
+  description: ''
+- idea: Designing effective incentives**
+  description: The speaker discusses the importance of designing incentives that align
+    with the company's goals, such as bonuses for meeting sales targets or penalizing
+    food waste, to motivate employees and drive business success.
+- idea: Avoiding unreliable narration**
+  description: The speaker warns against relying on incomplete or misleading information,
+    such as output metrics, to evaluate employee performance, and instead emphasizes
+    the need to consider context and underlying factors that may be affecting performance.
+- idea: Leveraging AI and technology**
+  description: The speaker highlights the potential of AI and other technologies to
+    streamline workflows, generate ideas, and improve communication, and encourages
+    leaders to explore these tools to enhance their productivity and decision-making.
+- idea: Clear communication and feedback**
+  description: The speaker stresses the importance of clear and constructive feedback,
+    regular reporting, and transparent communication to ensure that employees are
+    aware of their strengths and weaknesses and can improve their performance.
+- idea: Maintaining a long-term perspective and work-life balance**
+  description: The speaker advises leaders to prioritize their own well-being and
+    enjoy the journey of building a successful company, rather than burning out in
+    pursuit of short-term goals, and to recognize that success often takes time and
+    perseverance.
+---
+## Key Concepts
+
+**Incentives**  
+Rewards or penalties to motivate behavior
+
+**Unreliable Narrators**  
+Individuals who provide misleading information
+
+**Performance Reporting**  
+Regular updates on progress or achievements
+
+**AI Usage**  
+Utilization of artificial intelligence in business
+
+**Business Design**  
+The process of creating and organizing a business
+
+## Cross-Domain Connections
+
+**Business → Psychology**
+
+*Incentives in business mirror motivation theories in psychology*
+
+Both incentives in business and motivation theories in psychology aim to understand what drives individuals to act in certain ways. They both deal with the concept of rewards and punishments to influence behavior. Understanding the structural analogy between these two can help in designing more effective incentives in business by considering psychological principles of motivation.
+
+**Business → Education**
+
+*The principles of performance reporting in business can be applied to assessment and evaluation in education*
+
+Both performance reporting in business and assessment in education aim to measure outcomes and provide feedback for improvement. The principles of clarity, transparency, and regularity in business performance reporting can be applied to educational assessments to make them more effective and student-centered.
+
+**Business → Literature**
+
+*The concept of unreliable narrators in literature can inform the understanding of deceptive practices in business*
+
+Just as literature explores how narrators can be unreliable, leading to misunderstandings of the story, business can learn from this metaphor to recognize and mitigate against deceptive practices. This involves understanding the narratives presented by businesses and critically evaluating their trustworthiness.
+
+## Discussion Topics
+
+- **Here are the 3-5 key ideas discussed in the transcription text with a short description of each:** 
+- **Designing effective incentives**:** The speaker discusses the importance of designing incentives that align with the company's goals, such as bonuses for meeting sales targets or penalizing food waste, to motivate employees and drive business success.
+- **Avoiding unreliable narration**:** The speaker warns against relying on incomplete or misleading information, such as output metrics, to evaluate employee performance, and instead emphasizes the need to consider context and underlying factors that may be affecting performance.
+- **Leveraging AI and technology**:** The speaker highlights the potential of AI and other technologies to streamline workflows, generate ideas, and improve communication, and encourages leaders to explore these tools to enhance their productivity and decision-making.
+- **Clear communication and feedback**:** The speaker stresses the importance of clear and constructive feedback, regular reporting, and transparent communication to ensure that employees are aware of their strengths and weaknesses and can improve their performance.
+- **Maintaining a long-term perspective and work-life balance**:** The speaker advises leaders to prioritize their own well-being and enjoy the journey of building a successful company, rather than burning out in pursuit of short-term goals, and to recognize that success often takes time and perseverance.
+
+## Full Transcription
+
+
+
+### Transcription of "What's the best way to design a new business? | EP 2 Part 3"
+
+**[00:00:00] Speaker 1:** monthly sales, if it's 70,000 or more, 5% of total sales are cut out as a bonus pool. Okay? And if you miss it, no sales bonus. Food cost percentage, so if you're less than 30% if you're not if you're wasting, then everyone keeps the sales bonus above, otherwise sales bonus is forfeited. So it's a double incentive. It's like the first incentive is if you hit a sales target, second one is you lose that bonus if you cheat, if if you're wasting too much food. And how you split the bonus is head cook is 60%, helper/cashier is 40%. That's it. This is how you design incentives. So I always feel like you can design an incentive and it'll be the 9th, or 10th, or 100th, or 1000th time that you're designing the same incentives that other smarter people have designed and all that information is here. Just give it to your exact context. Tell the genie everything about your situation, it'll give you good incentives.
+
+**[00:01:00] Speaker 1:** Next slide. Okay. Next thing in a situation like this, let's say we've started this company and we've started the pancake business and it's started running. The next thing you really need to watch out for is unreliable narrators. Okay? Which is a which is a problem that happens in every company, which is I was alerted like to work-life balance was an issue at YAS some time ago, some three, six months ago, something like that. So I checked into YAS a few months ago, maybe four months ago because it's been a few months since I made this deck and I random sampled four or five teams, okay? So new teams had two editors editing one shot a day. Okay, to give you context, VM editors edit a shot in 30 minutes. We do one shot in 30 minutes. Here, two people were taking two days, I mean, yeah, one day to edit one small shot. And I was like what is going on? Then I found that 50 to 60% of time was going in finding b-roll. So they're sitting on their computers, scrolling and finding b-roll.
+
+**[00:02:00] Speaker 1:** Okay? And they're not editing. So I'm like, don't you have already some of these templates and memes and cutouts? They're like, yeah, but every video requires us to go and find good b-roll that's for this specific video. One person had created a story that they were working too hard after I think seeing one of the night teams that arrives at night. Okay, and I think this is all unreliable narration. So a lot of people then will correlate and be like there are two editors working, nobody sees the inputs. They're like output-wise oh the guy was working at 8:00 in the night, 9:00 in the night. Whenever somebody misses their timelines, they they sit longer in the night and work. So somebody's like look sad guy working at 9:00 in the night. That person becomes an unreliable narrator. Okay because they're looking purely at output. Okay or what is happening right now without looking at why the person is sitting at 8:00 or 9:00 in the night. New editors and this is a very important at YAS which is something you'll figure out only if you run, you know, a services company at that scale, is new editors are 1/5th as fast as editors with one year of experience. Have you all noticed this? A new editor who just started, just finished let's say two-three months of AV cohort or just we hire from outside who's new, is not going to be as good as somebody who's worked one year at VM or two two years at VM, right? They're going to be much much much faster.
+
+**[00:03:00] Speaker 1:** Okay, and they find the expectations much harder to match. So a new editor will obviously find the expectation of one shot a day much harder to match even though it's fairly easy. At one year of experience, editors usually have a great work-life balance but unfair expectation at the zero years of experience. So somebody who just came in is not going to have as much work-life balance as an experienced person even though the output expected of one video a day is the same. And this is what I call a complicated situation. Because if you looked at it at as a low-context genie, they would just be like editors are being overworked. But when you look at it and be like two editors, one shot a day, you're like wait, really? No, I don't think it's that overworked. Maybe they just don't have enough experience. Right, and this I would say a lot of the company design was starting to move towards because we were we were hiring lots of editors, right? Because we were scaling a little bit quicker. A lot of the company design now became two editors working on one shot a day. I'm like this is a waste because in one year these guys are all going to get really, really, really good and then you're going to find that these people are now working half an hour a day.
+
+**[00:04:00] Speaker 1:** Right? Which is not optimal use of our time and not definitely not the worth the kind of salaries we're paying, right? So yeah, unreliable narration can make reporting and your incentives wrong. And this is important because in the pancake business this might happen. Right? Which is that food wasted is a very high incentive, no, to to show that the less food was wasted, or very high incentive to show higher monthly sales, sell it to random people like I'll give you an example, okay, with buildings this happens a lot. Do you know there are some buildings where they won't sell you a floor, they won't rent you a floor below a certain price? They're like if I sell it at this below this price, the valuation of my building falls and I'm a public company so my entire valuation falls, so I won't even sell you the rent you the floor. Do you know this is really common? This is like the most common like in my opinion scam in Bangalore. Right? Which is they won't rent you like the building would nobody would have rented the building for the last you know or forget about the building, even a floor they wouldn't have rented for the last five years and they don't care. They leave it empty because they're like the minute I sell it at 100 rupees per square feet if I sell it at 80 rupees, the valuation of the entire building becomes 80 rupees into number of floors, 12 floors, valuation of the building drops by that much and that reflects in my stock market price. So incentives fully wrong.
+
+**[00:05:00] Speaker 1:** Next slide. And I think a lot of this is also because we don't collect and report performance very well, right? So if you go back to the pancake business, everyone should be reporting what they've done. It's the easiest way, it's how a business runs on autopilot without you as the leader, zoomba leader telling the chef every day, please send me reports, please do this. You want to run on autopilot, do incentive and have them report. This is Ronith Magnani. You all familiar with Ronith Magnani? So Ronith sends, in my opinion, the best hiring reports. Like the best weekly hiring reports. Weekly hiring update week 20. Straight WhatsApp. Okay, total number of people hired, eight. Okay, so whatever week that was, this is many months ago. Out of which video editor seven, infographic designer freelance one, other role zero, number of people joining in the coming week 12, right? Of which video editors eight, scriptwriters two, two one full time, one intern, account manager one, infographic designer one. With 12 people joining in total I think this might be the highest week in terms of new joiners, just hoping there are no no-shows. And then he has notes. This week we didn't close any scriptwriter, manager, presenter, which is quite bad, lots of bottlenecks to be removed. This, if you did this across the entire company it would be fantastic.
+
+**[00:06:00] Speaker 1:** Next slide. And I think any irritating work you do right now, any part of your work which you feel is irritating, messy, this, that, whatever, you can do you can be scaled via writing, tool use, AI, and intent. Next slide. And here's the thing, right? Intent doesn't show up in KPIs. If you have a target, let's say I need to make five videos a month, your intent for how you know this thing you wanted doesn't show up in that KPI. It'll show up in performance. It'll show up in the output of the channel. Okay? So some of these can't easily be captured in KPI, right? Like how much does a person care about a company? It's very hard to capture this in number of videos made, the person could be brain dead or just hate the job and still do five videos a week. Next slide.
+
+**[00:07:00] Speaker 1:** Now I want to move a little bit away you know to talk from from from incentives and talk about how we just use AI AI across everything. I feel like you want clarity, the entire idea with writing is clarity, you can do a lot more than just writing at this point. You want something, let's say you're making a video about cows emitting methane, give me interesting funky thumbnail ideas. It'll give a bunch of thumbnail ideas. This is obvious, everyone knows how to use this. This is pretty easy. But then you can dump it on Nano Banana, these same outputs from GPT, get a bunch of outputs, see which one you like and send that to your team instead. Right? I wish my my top, you know, teammates would send me reference thumbnails and say can we go on one of these references similar style and then I pick one and then they do the next piece. Otherwise they'll make something and then we have to go back and be like hey this doesn't look good, we have to do something else. So this mood boarding I think can be done very well with AI and as a content company we use this a lot but we should use even more of this. Next slide.
+
+**[00:08:00] Speaker 1:** Right? One good example is in one of our videos we have a person having a panic attack. I think in the game we have you know one of the guys having like an attack, right? Like so I'm shooting a video where the main character has a panic attack, give me movie references for a panic attack including camera angles and shakes. So there might be you might have a creative who'll come and be like man, I've seen this movie, that, what. I'm like actually AI can do that for you, this referencing of, you know, material. It'll give you it says okay in Sopranos in the driveway collapse there's a panic attack this is what happens here's the camera cuts. And you have that for everything. For Iron Man 3 the dinner PTSD team scene you have the exact, you know, two-shot calm two-shot and then hidden edit to a shaky 35mm close-up with panic trigger word hits. Okay? So you can have all of these. So I just feel that you know you can spend more time watching these scenes in videos so you can look at these and then open YouTube and watch that exact scene or video and then you can also go to AI and say give me more niche sources. Okay? And it'll give you more niche sources. Or you can say movies from different languages.
+
+**[00:09:00] Speaker 1:** Maybe in Korean someone's done a great panic attack and you've never seen that, but AI can now reference that like surface that for you. Okay? And then you can share the scene reference with your teammates and DOP. Now you might think this is stealing, this is copying. But let me guarantee you, we've done so much work on content, we make thousands of videos, 2000 videos plus a month, everything is a reference of another thing. But with a twist. And when you execute it, when you execute this, let's say you see a nice panic attack scene in a Korean movie and you say I'm going to execute this with my camera because your background's going to be different, your camera's going to be different, the way you do it is going to be different, your output's going to look different from everything. Your just the act of executing on somebody else's idea makes it a totally different execution. And that becomes your style. And you meet the best directors, best CEOs in the world, they'll all tell you some version of this. So it's the same with edits and techniques, right? Find references.
+
+**[00:10:00] Speaker 1:** If you find a reference it makes your life so much easier otherwise you have unclear idea in your head that I'll make this snake animation or whatever but you have a reference be like I want to make something like this. And then you do it but when you execute it do it in your own style. And yeah GPT Gemini can give you ideas if you feed in the clip on how to make something different in the same with the same grassroot idea. You want snakes moving, put it in GPT be like how would I do this with lions? It might come up with an idea that lion heads go like this and whatever like you know GPT and Gemini today are better idea generators than human beings. Because maybe a human like smart humans have three, four good ideas, but after that all their ideas are generic. You can try this with anyone. They'll have three, four good ideas that they talk about all the time, the rest are all very generic. Whereas GPT has unlimited good ideas man, Gemini has unlimited good ideas if you prompt the genie the right way. If you just tell Genie give me idea, it's going to give you the most generic idea because it's filling in context and assuming you're a normie who wants normal ideas.
+
+**[00:11:00] Speaker 1:** But if you go in saying I want specifically a panic attack reference from Korean movies and find make then give me extensions on how you can make this even better or different ideas, different executions of the idea, it does a fantastic job. And I just feel like people haven't used this tool these tools enough. Important and we've spoken about this before, do not expect your teams to know what's in your head without references. So today you know this, right? You can go to VO3, you can give it one of these. Once you've done this this work you can put it in VO3, get the output, okay, whatever it is, whatever shot it is, and then replicate that shot in real life. You guys know you can do that, right? So GPT fine, sorry, VO3 fine could generate something that looks bad or not realistic, but you just need the camera angles and some reference, some idea you wanted in your head. Now the idea is in your head, now you can execute in real life with cameras, right? In fact you can now do this with Nano Banana, you can put in a script and be like generate comic book panel references for each frame. And it does a fantastic job. You have every frame, every shot, everything on a comic book type strip reel. So and it's only going to get better. So anyone saying oh it's not good ideas, that whatever AI whatever, like trust me I've seen most people's comments, I think comments are more slop than what AI generates at this point. And it's only getting better. Okay?
+
+**[00:12:00] Speaker 1:** Next slide. And of course you know when we did that scene we had some references created first for how it'll look, what the vibe we were going for, then we designed everything, right? Then we designed the actual cinematics. We already had the scene, so we fed the scene in Nano Banana and we said the scene looks like this, okay? The characters look like this. Can you please give us specific shots? Next slide. Yeah, references and writing helps us get people on the same stage. Writing doesn't mean writing is just words, but you can now add images and video and we are a video company so we should be using more of it. Next slide. Okay, I think like Ronith did, I think you should all write down your workloads and problem statements. This is a very useful exercise, which is what are your tasks ranked by priority? For example, Nitesh could say Channel A need to hire an editor, Channel B need to increase short-form to 20 videos a month from 10, Channel C editor A needs references, editor B needs training replacement, will give him one month and then deadline and clear expectations. You can email the low performance. The minute you have that you can start emailing people, right? You can email the low performer by the end of the next 60 days, you need to be editing a shot of this quality, send a link within eight hours. Editor A, B, and C of your years of experience can do this effortlessly, so you are lagging behind here.
+
+**[00:13:00] Speaker 1:** It's very clear expectation when somebody hasn't an email or verbally told exactly where they're lacking. Most people are just like doing things, they may be lacking, it's unclear, and then finally they get fired and they're like well what the hell. But if you give people expectation that I think you're lagging and this is the expect this is the quality I expect you to get to in this amount of time and you're clear about it, one month later they don't hit that, then you can actually let them go, right? You've been prudent about how you do it. So right now I feel you lag in the following areas: area 1, area 2. And remember you're writing this, okay? Idea idea and then show an ideal reference of what I want what I think where I think you can reach given your skill set. Suggestion for improvement point 1, point 2. And remember this, okay? I think it's very important that you treat your employees like someone you are responsible for helping. Everyone can improve unless there's an attitude issue. I told you skill is skill is the least likely of the reason you might lose your job in any company, not just here. If you have the right attitude you can pick up the skills as long as the company is not like bleeding money and needs to shut down in three months, there is time. Do not abuse people. I've seen this in YAS sometimes and I'm just like guys, I don't want you to do this.
+
+**[00:14:00] Speaker 1:** Everyone is human. And it's called the sunshine test. The sunshine test is if I took what you said and put it on a newspaper tomorrow, front page of a newspaper, would you be ashamed? Right? And sometimes you might say some things that you're not ashamed of. You're like, bro, I fired this person, it was the right reason, I don't care if it's printed on a newspaper, I'll stand by what I what I said or what I did. That's fine. But if it's something that you'd be afraid of that in a newspaper this would look bad, don't do it. Right? Just assume everything we do is public. Last month we did like maybe slightly less than a billion views across our channels. Right? So I think it's it's at such scale that let's just assume everything we do is public. Right? I think this is the right way to run a company. For for everyone, even if you're even if you're not doing content, I think it's a great way to run your company. Maintain high context if you're giving feedback and checking for improvement. Okay? Spend the time reviewing and know why something is good or bad. Be clear. Okay? Your clarity as a leader or lack of it can make or break careers. You don't understand how much power you guys have right now because the company is scaling. All of you have significant budgets as leaders. So if you are not clear, you are breaking somebody's career.
+
+**[00:15:00] Speaker 1:** Or you can make it. Or you can get them to where you are at and make them keep growing and improving and whatnot. It's in your hands. With great power, sorry to invoke Spider-Man, but with great power comes great responsibility. Weak managers are afraid to fire low performers and in exchange lose high performers. I would never someone like me would never work in a team where everybody else is a low performer and I'm doing like 90% It's like a group project, right? One person is doing 90% of the work, everybody else is not doing the work. You don't want to work like a high performer doesn't want to work in a team like that. They're just like what are you putting me through, I'd rather work in another place where I'm valued more. And you don't want to lose your high performers. You are as bad as your weakest link. Remember the cost of coordination, if there's somebody who's a mountain high cost of coordination, no point working with the person. Next slide. Okay, per day just to give you reference and this is not to brag or anything, this is all for what's the top end, what's the lower end, right? Like me, for example, me telling the world or Tanmay telling the world that he writes so many pages a day was very useful because people can now set a benchmark that that's what top looks like. I don't need to be there, but at least this much I need to write. So I'm writing about 20 emails a day, I do about 80 to 90 work WhatsApp messages on the average day. I get about 300 messages, but that's because more from me as a content creator that spam is there. And I get one to two, I do, I'm working on one to two Google Docs a day.
+
+**[00:16:00] Speaker 1:** Right? You can thrive on 1/10th of this. Right? So I assume you need to keep that current on your all your platforms going. Slack, WhatsApp, Google Docs, that's that's where electricity flows. Right? So you can keep that moving at 1/10th of this and you can really use AI to speed up and free up your time. You can use AI to set that context for you and ideally you work closely with an AI now, start talking to it enough now so it knows enough about you. So next time you're writing for somebody else you're like please you know expand this the way I would expand this. So it's filling in your context next time so you don't need to do the extra writing. And I can't wait for the day, and this is not very far away, where you're talking to your AIs all the time, they know enough about you and therefore when you are telling your teammates some feedback you're like I don't need to write that email, the AI will write the email on my behalf because it knows me and it knows where this person is lacking. That's the end goal. That's the hope with AI. And it'll get there at some point. Next slide. Lastly, and I know this has been a very, very long session because we've done two back-to-back, enjoy yourself and have fun. People forget that this is like a long sport, right? There's no point doing everything and burning out in three-four months.
+
+**[00:17:00] Speaker 1:** It's like how do you maintain your endurance over long period of time? And I think if you've seen the best companies in India, they've all been around for a long time. Maybe the company's been around for short time, like there's some companies like Emergent and all, it's growing very fast. You look at the founder's history, he's been grinding for a long time. Even us, you can say look you grew very fast in three years, but actually it's been a 10-year journey before that also, no? So all these journeys take a very, very long time. Everyone I know wants to be successful in their early 20s or mid 20s or, you know, early 30s, but it's okay if it takes time. Once you reach that destination you'll find everything boring. Right? It's better to enjoy the journey because the journey makes you so many memories over the long run. And I think the reason I really love AOS and a lot of employees come and tell me that they really love AOS, especially leadership, is because they're like this is the closest they would get to being backstage at WWE during the peak years. Everything you do is public. Every video you make will get thousands, tens of thousands, hundreds of thousands, millions of views and public is commenting on everything that you guys do. Good, bad, ugly, whatever it is. It's a great place to be and it's also a great responsibility. And responsibility we need to, you know, like I said, with great power comes great responsibility. I want us to apply that responsibility, but let's have fun and let's do it in a way that we enjoy ourselves over the long run, no no purpose burning out. Awesome. That's it guys. Thank you so much. And make sure you subscribe.

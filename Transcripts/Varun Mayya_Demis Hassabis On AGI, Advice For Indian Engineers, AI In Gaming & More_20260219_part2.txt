@@ -1,0 +1,143 @@
+---
+title: Varun Mayya_Demis Hassabis On AGI, Advice For Indian Engineers, AI In Gaming
+  & More_20260219_part2
+audio_file: Varun Mayya_Demis Hassabis On AGI, Advice For Indian Engineers, AI In
+  Gaming & More_20260219_part2.mp3
+note_id: fa941926-2c65-4b6e-97b5-b5be11e15a88
+date_processed: '2026-03-03'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+
+Full Transcription
+
+
+
+00:00 - 00:15 Abhay Karandikar: To prioritize resources which are you know priority areas for the country so there are these National missions like the AI mission, the semiconductor mission and quantum mission and things like that where there are deliverables that you are supposed to deliver on.
+
+00:15 - 00:30 Abhay Karandikar: But that again of course conflicts with the general attitude Academia has where you as Demis said just do blue-sky research. But I think on the whole we have been able to balance the two. So there are enough avenues for getting funding for basic research.
+
+00:30 - 00:45 Abhay Karandikar: And even with applied research, I think very interesting open research problems can come out of even pursuing applied research. So I think one can do the balance of the two.
+
+00:45 - 01:00 Abhay Karandikar: But funding in general needs to increase in India because we are still at about 0.7 percent of GDP. I think at least we should go to 2 percent. That would be much more comfortable and you know given our aspirations, I think that would be warranted also.
+
+01:00 - 01:15 Speaker 2: You know, I have a worry, right? Like a personal worry which is that 200 plus billion dollars of India's exports is IT services. And I read this post recently which is it's just XYZ amount of tokens, right?
+
+01:15 - 01:30 Speaker 2: And it's a worry because we have software engineers who are good but not great and we do have some great ones but some of them end up going abroad. But the ones that stay behind they are competing now against models that are just getting better at doing software.
+
+01:30 - 01:45 Speaker 2: Do you have advice for people in software right now who are working you know on these projects and seeing AI rapidly improve?
+
+01:45 - 02:00 Demis Hassabis: Look I think a lot of areas are going to get disrupted and changed. I think with change there are challenges but also come opportunities. So what I would recommend every engineer today wherever they are is to lean into these AI tools.
+
+02:00 - 02:15 Demis Hassabis: Get incredibly good at using them and I think there's a lot of untapped potential there for the youth of today wherever they are and what one engineer can do can probably be you know 10x of that.
+
+02:15 - 02:30 Demis Hassabis: I think new startups are going to happen that couldn't have been done before and and so in some ways it equalizes the playing field because everyone around the world has access to the same tools pretty much.
+
+02:30 - 02:45 Demis Hassabis: And so it's about everybody figuring out how best to integrate that into their workflows and then we'll see what the different new industries or new services come out of that. But I think there will be some new maybe higher level versions of the things that we do today.
+
+02:45 - 03:00 Speaker 2: So you're saying there might be a higher level version of software where you just prompt the thing. But you know for a lot of engineers in India it just feels like it's not it doesn't feel like the craft anymore because you just feel like you're writing in English.
+
+03:00 - 03:15 Demis Hassabis: Well maybe there'll be a different sort of craft. But first of all we're not there yet. But secondly I mean I remember when I was starting off in games we used to write it in assembler language. Okay, but then when I was writing Theme Park we then went to C, C++.
+
+03:15 - 03:30 Demis Hassabis: And of course now we have Python and all these even higher languages. So one could view this as a continual abstraction that is happening and I think that broadens actually the access to creativity to more people can try out their ideas and build their ideas.
+
+03:30 - 03:45 Demis Hassabis: So maybe it's a slightly different skill set that's needed but going back to this question of taste, I think that's going to increasingly become the valuable differentiator.
+
+03:45 - 04:00 Speaker 2: Amazing. So I have one last question for both of you which is what is something from your field or what you do every day that is very exciting to you right now but the world hasn't heard of yet and that you can potentially reveal without violating NDAs or whatever that we can look forward to a few years from now from both your fields.
+
+04:00 - 04:15 Abhay Karandikar: Well from what limited knowledge that I have I think what is going to surprise people is the progress in math. Because if you look at the general public math is always thought of as something inaccessible and populated by geniuses, which of course it's not.
+
+04:15 - 04:30 Abhay Karandikar: But I think when people see that AI is making these tremendous progresses in math they're going to be surprised I think. That such a difficult what was thought to be a difficult field can be you know cracked open by AI because you know it is based on axioms, it's based on definitions and it can be your predictions can be either proved right or wrong. So those make it much more accessible to AI than other fields.
+
+04:30 - 04:45 Demis Hassabis: I think for me the other thing I'm looking forward to is maybe AI in the physical world. So I think robotics is going to come of age in the next 2-3 years. Still a lot of things that have to be solved in my opinion but I think we're getting to the point where there will be some breakout moment.
+
+04:45 - 05:00 Demis Hassabis: I think also AI understanding the physical world. We've tried very hard to do that with Gemini as a multimodal model, probably the best in the world at that so that you could have an assistant that's maybe on your glasses and comes with you or on your phone and understands the world around you and the context around you.
+
+05:00 - 05:15 Demis Hassabis: Obviously we're seeing self-driving cars and things I think about to become a reality around the world. And then I'm excited about things like automated labs that maybe speed up again the discovery, scientific discovery, not just in theory but also in the practical realm too. So I think that's all going to come in the next maybe five years or so.
+
+05:15 - 05:30 Speaker 2: Very cool. I've seen a glimpse of that in the movie Transcendence where you just give AI a couple of hands and then it keeps you know improving itself. You know thank you so much for your time. I want to open the floor to the audience. I'm sure we have some questions from the audience. We'll take two or three and then we'll run it through the spam filter which is me and then take it to the people on stage.
+
+05:30 - 05:45 Audience Member 1: Hello. Mine's not a very technical question but you mentioned studying neuroscience as the only data point that you have for general intelligence, right? So we have all this talk of moving towards neuromorphic designs and everything but why do we want to move forward to an intelligence that is similar to ours?
+
+05:45 - 06:00 Audience Member 1: Not only does it lead to a loss of capital for a large percentage of people it also leads to a loss of identity, I feel. And also there are a lot of things that we are bad at which AI is already doing, like when you're in a needle in a haystack kind of situation you can ask it to do literature reviews or pull large amounts of data together to find something specific.
+
+06:00 - 06:15 Audience Member 1: Why not make an alternate intelligence that works in synchrony with ours instead of trying to replace human intelligence?
+
+06:15 - 06:30 Demis Hassabis: Yeah, so I want to be clear about this. It's not about replacing human intelligence. As I explained earlier, the thing about the human brain is it's the only thing you can think about as a Turing machine, approximate Turing machine if you want to think about it mathematically.
+
+06:30 - 06:45 Demis Hassabis: We have to understand what is true generality. So Turing showed that with a Turing machine and our brains I think most people would accept are some kind of approximate Turing machine. So you sort of need to if you are interested in general intelligence that can be applied across the board then it has to have that roughly that set of capabilities.
+
+06:45 - 07:00 Demis Hassabis: At least that's the only set that we know of. Other animals are not general enough, for example. So they don't have big enough prefrontal cortexes and so on. So that's it's not really about replacing humans, it's about understanding what is general intelligence.
+
+07:00 - 07:15 Demis Hassabis: I think that the tools and as to why the industry's doing that is because we find with these general tools they can transfer to the specialized domains. So it's probably going to be more efficient to develop a general structure that can be used in these more specialized domains than develop hundreds of specialized systems.
+
+07:15 - 07:30 Demis Hassabis: That's the economic that's why you're seeing the economic pressure to do that. So there's two different things there. One's a scientific question which I think is very valid of what is a general system and how would you answer that question and then the other is a more economic question.
+
+07:30 - 07:45 Audience Member 2: I have a question. How do we use AI to deepen first principles thinking without removing the struggle that builds real understanding? So do you have a framework or a steps which would make it easy for us?
+
+07:45 - 08:00 Demis Hassabis: I think it's down to the individual, you know. It's like the internet, computers, you can use them in ways that will degrade your thinking but you can also use them in ways, you know we were talking earlier about becoming a polymath.
+
+08:00 - 08:15 Demis Hassabis: Well today's a dream in a way with YouTube and all the information on the internet you have if for someone who wants to learn something very quickly up to say undergrad level. It's all there, like the best lecturers in the world, all of that. So that's one way you can use this technology.
+
+08:15 - 08:30 Demis Hassabis: Obviously with AI if you use it in a lazy way it'll make you worse at thinking, critical thinking and so on. But that's down to you as the individuals. No one can help you do that. The technology's sort of neutrally sitting there. You need to be smart enough to use these new technologies in ways that will enhance your thinking rather than make it worse.
+
+08:30 - 08:45 Audience Member 2: Yeah I get the point what you're trying to tell but also as you told we have so many resources for learning so we might get into the pool of learning from which resource and like listing down the resource. So what would be the better mindset for us to narrow down the resource and get into the learning pool?
+
+08:45 - 09:00 Demis Hassabis: I think the number one thing that you should do while you're in school and other things is work out how you learn. Learning to learn. That's the number one thing. I'm surprised that that is not taught more in schools and so on. Figure out how you learn best.
+
+09:00 - 09:15 Demis Hassabis: There isn't going to be one answer for everyone. You need to think that through, how you work best, what environment, what modes that you work and learn best in and then double down on that.
+
+09:15 - 09:30 Audience Member 2: Did something work for you like the art of how to learn?
+
+09:30 - 09:45 Demis Hassabis: It'd be a little bit yes but it's not possible probably to explain it in one minute, you know. So it's many things. It's just sort of developing the mind. For me actually it was games. I trained my mind on multiple games that exercise different parts of you know the thinking process and getting really good at at getting capable at that.
+
+09:45 - 10:00 Demis Hassabis: So it's kind of the way we developed AI for early days of DeepMind using games as a proving ground for testing out your own ideas.
+
+10:00 - 10:15 Audience Member 3: I have a question around memory. So amongst all the neurological aspects I find memory to be very intriguing. Like the way I mean hippocampus works and how we try to model episodic memory, semantic, the long-term, short-term. Like sometimes I get glimpses of what happened in my childhood.
+
+10:15 - 10:30 Audience Member 3: It's not about weighted averaging, right? It's some glimpses that remains and for example if you hear any keyword and that strikes something else for you and probably for someone else something else. How is foundation models trying to handle this problem? How are we planning to handle this because currently it's very systematic like something that you can interpret.
+
+10:30 - 10:45 Audience Member 3: But as far as I've seen memory is a very abstract concept. It's very difficult to understand how brain resolves it. What's your take on it?
+
+10:45 - 11:00 Demis Hassabis: Yeah, so I agree with you it's one of the most interesting things. That's why I studied memory as well and hippocampus as you probably know and imagination partly because machines in those days were very bad at those things. To some extent still are.
+
+11:00 - 11:15 Demis Hassabis: So we're kind of badly approximating the hippocampus at the moment with context window, right? So really the context window is more like working memory but because computer we only have working memories of you know seven digits plus or minus three digits or something. But of course a computer can have like Gemini, you know a million token context window.
+
+11:15 - 11:30 Demis Hassabis: But the problem is I think that's still not as good as episodic memory where you're instead of it's kind of brute force, right? You're remembering everything when in fact most tokens are irrelevant and you want to only remember the important things which is the way human memory works, right?
+
+11:30 - 11:45 Demis Hassabis: You remember the emotional things actually better than the neutral things, so both positive and negative. Maybe that's one of the functions of emotion. We don't need to remember everything we've seen today. We'll just remember some of the key moments that might be useful for learning or for future use or for imagining new or simulating new scenarios.
+
+11:45 - 12:00 Demis Hassabis: So I think even in the realm of AI and machines where we can have millions of you know or maybe tens of millions one day or billions of memory units, you still pay a cost of searching that memory, right?
+
+12:00 - 12:15 Demis Hassabis: So I think of our video models or our Project Astra which is supposed to work on glasses, you know can record maybe 20 minutes of maybe 20 minutes of video that's about a million tokens, right? First of all that's not a lot of time. Secondly, to then find something in that is quite expensive, right? Because you have to look through everything.
+
+12:15 - 12:30 Demis Hassabis: And so I think ironically one of the things we maybe are missing is forgetting, or if you want to talk about in computer science language, garbage collection, so that you actually compress what you're remembering and maybe consolidating it as well for those of you neuroscientists in the audience, you know, so that it's just efficient the things that you are remembering and you have to sort of search through.
+
+12:30 - 12:45 Speaker 2: I have a follow-up to that which is in high school biology I read that the amygdala in the hippocampus fired together, right? So like you said when you're very emotional you tend to remember things. Is there amygdala equivalent for LLMs?
+
+12:45 - 13:00 Demis Hassabis: Not at the moment, but maybe there should be. I don't think you'd want it to be like emotional amygdala like the human like we have. I think it would but maybe some value judgment at the point of writing the memory that makes some kind of value calculation on how useful will this memory be for future learning or future behavior probably would be pretty useful and something that we are researching.
+
+13:00 - 13:05 Speaker 2: Amazing. Thank you so much everyone for joining and of course to both of you for being on stage and giving us your time.

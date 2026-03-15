@@ -1,0 +1,463 @@
+---
+title: Veritasium_The Internet Was Weeks Away From Disaster and No One Knew_20260225_part1
+audio_file: Veritasium_The Internet Was Weeks Away From Disaster and No One Knew_20260225_part1.mp3
+note_id: baef30c9-0f7f-4346-b9db-e4c6cc4bcd6a
+date_processed: '2026-03-08'
+classification:
+  primary_domain: Computer Science
+  sub_domains:
+  - Operating Systems
+  - Software Development
+  - Cybersecurity
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: Richard Stallman
+    role: Researcher and Founder of Free Software Foundation
+    contribution: Developed the concept of free software and the General Public License
+  - name: Linus Torvalds
+    role: Computer Science Student and Creator of Linux
+    contribution: Created the Linux kernel and adopted the General Public License
+  works_cited: []
+  concepts_mentioned:
+  - Free Software
+  - Open-Source Software
+  - Linux
+  - Unix
+  - General Public License
+  - Cybersecurity
+  laws_theories_cited:
+  - Linus's Law
+concepts:
+- name: Free Software
+  definition: Software that is freely available and can be modified and shared by
+    anyone
+  parent_concepts:
+  - Software Development
+  related_concepts:
+  - Open-Source Software
+  - Linux
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: Linux
+  definition: An open-source operating system kernel
+  parent_concepts:
+  - Operating Systems
+  related_concepts:
+  - Unix
+  - Free Software
+  abstraction_level: Applied
+  confidence: 1.0
+- name: Cybersecurity
+  definition: The practice of protecting computer systems and networks from cyber
+    threats
+  parent_concepts:
+  - Computer Science
+  related_concepts:
+  - Linux
+  - Free Software
+  abstraction_level: Practical
+  confidence: 0.9
+relationships:
+- source_concept: Free Software
+  target_concept: Linux
+  relationship_type: supports
+  strength: 0.9
+  evidence: Linux is an example of free software
+  reasoning: Linux is built on the principles of free software
+- source_concept: Linux
+  target_concept: Cybersecurity
+  relationship_type: applies_to
+  strength: 0.8
+  evidence: Linux is used in many cybersecurity applications
+  reasoning: Linux's open-source nature makes it a popular choice for cybersecurity
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Computer Science
+  source_concept: Free Software
+  target_domain: Economics
+  target_concept: Public Goods
+  insight: Free software can be seen as a public good, non-rivalrous and non-excludable,
+    similar to public parks or national defense.
+  explanation: The concept of free software shares structural similarities with public
+    goods in economics, as both are non-rivalrous and non-excludable. This means that
+    one person's use of free software does not prevent another person from using it,
+    and it is difficult to exclude someone from using it. This analogy can help in
+    understanding the economic implications of free software and its potential to
+    create positive externalities.
+  potential_applications:
+  - Open-source software development
+  - Public goods provision
+  confidence: 0.9
+  historical_example: The GNU Project (1983) and the concept of public goods in economics
+    (Samuelson, 1954)
+- connection_type: principle_application
+  source_domain: Computer Science
+  source_concept: Cybersecurity
+  target_domain: Biology
+  target_concept: Immune System
+  insight: The principles of cybersecurity can be applied to the study of the immune
+    system, where the body's defense mechanisms can be seen as a complex system protecting
+    against pathogens.
+  explanation: The concept of cybersecurity in computer science can be applied to
+    the study of the immune system in biology. Both involve complex systems that protect
+    against threats, and both require a deep understanding of the underlying mechanisms
+    and potential vulnerabilities. This principle can help in developing new treatments
+    for diseases and improving our understanding of the immune system.
+  potential_applications:
+  - Immunology research
+  - Disease treatment development
+  confidence: 0.8
+  historical_example: The concept of immunology and the development of vaccines (Jenner,
+    1796) and cybersecurity practices (e.g., firewalls, 1980s)
+- connection_type: metaphor
+  source_domain: Computer Science
+  source_concept: Linux
+  target_domain: Sociology
+  target_concept: Community Development
+  insight: The development of Linux can be seen as a metaphor for community development,
+    where a diverse group of individuals come together to create something of value.
+  explanation: The development of Linux, an open-source operating system, can be seen
+    as a metaphor for community development in sociology. Both involve a diverse group
+    of individuals working together towards a common goal, sharing resources and expertise,
+    and creating something of value. This metaphor can help in understanding the social
+    dynamics of community development and the importance of collaboration.
+  potential_applications:
+  - Community development projects
+  - Collaborative software development
+  confidence: 0.7
+  historical_example: The development of Linux (1991) and the concept of community
+    development (e.g., the Settlement Movement, late 19th century)
+bridge_concepts:
+- concept: Modularity
+  appears_in_domains:
+  - Computer Science
+  - Biology
+  - Engineering
+  role: Modularity allows for the breakdown of complex systems into smaller, manageable
+    components, facilitating understanding, development, and maintenance.
+  examples:
+  - Software development
+  - Biological systems
+  - Mechanical engineering
+mental_models:
+- name: Systems Thinking
+  description: A holistic approach to understanding complex systems, considering the
+    interactions and interdependencies between components.
+  applied_to:
+  - Computer Science
+  - Biology
+  transferable_to:
+  - Economics
+  - Sociology
+analogies_used:
+- source_domain: Biology
+  source_concept: Epidemic spreading
+  target_domain: Computer Science
+  target_concept: Network effects
+  mapping:
+    Infected individuals: Connected nodes
+    Virus transmission: Information transmission
+  pedagogical_value: Helps in understanding the rapid spread of information and ideas
+    in complex networks.
+tags:
+  hierarchical:
+  - '#ComputerScience → #OperatingSystems → #Linux'
+  - '#ComputerScience → #SoftwareDevelopment → #FreeSoftware'
+  topical:
+  - '#Linux'
+  - '#FreeSoftware'
+  - '#Cybersecurity'
+  methodological: []
+  people:
+  - '#RichardStallman'
+  - '#LinusTorvalds'
+  concepts:
+  - '#FreeSoftware'
+  - '#Linux'
+  - '#Cybersecurity'
+  temporal: []
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  A hacker, Jia Tan, has been secretly working to compromise the Linux operating system
+  by exploiting a vulnerability in a small data compression tool called XZ, which
+  is maintained by Lasse Collin. XZ is a widely used dependency of OpenSSH, a secure
+  protocol for remote logins, and compromising it could give Jia access to millions
+  of computers on the internet. The story highlights the risks and challenges of the
+  open-source software development model, where a single vulnerable component can
+  put the entire ecosystem at risk.'
+key_ideas:
+- idea: Here are the 3-5 key ideas discussed in the transcription text with a short
+    description of each
+  description: ''
+- idea: The discovery of a fatal weakness in a crucial operating system**
+  description: A hacker uncovered a weakness in a key operating system that could
+    have allowed access to millions of internet servers, highlighting the vulnerability
+    of the internet's infrastructure.
+- idea: The importance of open-source software and collaboration**
+  description: The development of Linux and other open-source projects relies on the
+    collaborative efforts of many individuals, demonstrating the power of community-driven
+    software development and the need for secure and transparent coding practices.
+- idea: The risk of relying on unpaid volunteers to maintain critical software projects**
+  description: The story of Lasse Collin, who maintained the XZ compression tool for
+    20 years without pay, highlights the risks of relying on unpaid volunteers to
+    maintain critical software projects, which can lead to burnout and security vulnerabilities.
+- idea: The potential for malicious actors to exploit vulnerabilities in dependencies**
+  description: The plot to compromise OpenSSH through a dependency, such as XZ, demonstrates
+    the potential for malicious actors to exploit vulnerabilities in dependencies
+    to gain access to critical systems.
+- idea: The need for secure coding practices and authentication protocols**
+  description: The discussion of Secure Shell (SSH) and authentication protocols highlights
+    the importance of secure coding practices and authentication protocols in preventing
+    unauthorized access to systems and protecting against malicious actors.
+---
+## Key Concepts
+
+**Free Software**  
+Software that is freely available and can be modified and shared by anyone
+
+**Linux**  
+An open-source operating system kernel
+
+**Cybersecurity**  
+The practice of protecting computer systems and networks from cyber threats
+
+## Cross-Domain Connections
+
+**Computer Science → Economics**
+
+*Free software can be seen as a public good, non-rivalrous and non-excludable, similar to public parks or national defense.*
+
+The concept of free software shares structural similarities with public goods in economics, as both are non-rivalrous and non-excludable. This means that one person's use of free software does not prevent another person from using it, and it is difficult to exclude someone from using it. This analogy can help in understanding the economic implications of free software and its potential to create positive externalities.
+
+**Computer Science → Biology**
+
+*The principles of cybersecurity can be applied to the study of the immune system, where the body's defense mechanisms can be seen as a complex system protecting against pathogens.*
+
+The concept of cybersecurity in computer science can be applied to the study of the immune system in biology. Both involve complex systems that protect against threats, and both require a deep understanding of the underlying mechanisms and potential vulnerabilities. This principle can help in developing new treatments for diseases and improving our understanding of the immune system.
+
+**Computer Science → Sociology**
+
+*The development of Linux can be seen as a metaphor for community development, where a diverse group of individuals come together to create something of value.*
+
+The development of Linux, an open-source operating system, can be seen as a metaphor for community development in sociology. Both involve a diverse group of individuals working together towards a common goal, sharing resources and expertise, and creating something of value. This metaphor can help in understanding the social dynamics of community development and the importance of collaboration.
+
+## Discussion Topics
+
+- **Here are the 3-5 key ideas discussed in the transcription text with a short description of each:** 
+- **The discovery of a fatal weakness in a crucial operating system**:** A hacker uncovered a weakness in a key operating system that could have allowed access to millions of internet servers, highlighting the vulnerability of the internet's infrastructure.
+- **The importance of open-source software and collaboration**:** The development of Linux and other open-source projects relies on the collaborative efforts of many individuals, demonstrating the power of community-driven software development and the need for secure and transparent coding practices.
+- **The risk of relying on unpaid volunteers to maintain critical software projects**:** The story of Lasse Collin, who maintained the XZ compression tool for 20 years without pay, highlights the risks of relying on unpaid volunteers to maintain critical software projects, which can lead to burnout and security vulnerabilities.
+- **The potential for malicious actors to exploit vulnerabilities in dependencies**:** The plot to compromise OpenSSH through a dependency, such as XZ, demonstrates the potential for malicious actors to exploit vulnerabilities in dependencies to gain access to critical systems.
+- **The need for secure coding practices and authentication protocols**:** The discussion of Secure Shell (SSH) and authentication protocols highlights the importance of secure coding practices and authentication protocols in preventing unauthorized access to systems and protecting against malicious actors.
+
+## Full Transcription
+
+
+
+00:00:00.000 -> 00:00:11.833 Speaker 1: In 2021, a hacker uncovered a fatal weakness in the world's most important operating system. What would you do with a key that gets you into any server on the internet?
+00:00:11.833 -> 00:00:16.100 Speaker 2: Uh, is this live to the public right now? Yeah, it's live on the server.
+00:00:16.100 -> 00:00:18.966 Speaker 3: Look, I'm not pleased. I would like you to change it back.
+00:00:18.966 -> 00:00:24.400 Speaker 1: At the time, just about everyone believed that hacking this system was impossible, but they were wrong.
+00:00:24.400 -> 00:00:28.933 Speaker 4: Well, I can tell you how many systems would've been compromised, which would've been millions.
+00:00:28.933 -> 00:00:34.333 Speaker 5: I'm still surprised the mainstream news outlets haven't really covered this very much.
+00:00:34.333 -> 00:00:41.133 Speaker 1: How close did we come? We were weeks away from millions of internet servers being accessible to whoever crafted the backdoor.
+00:00:41.133 -> 00:00:50.166 Speaker 1: Anything from spying to ransom to taking down entire countries, you could've done it with this backdoor.
+00:00:50.166 -> 00:01:05.433 Speaker 1: This hacker had realized the entire operating system rested on a single part, maintained by a single person, and that by compromising that one part, they could infect almost any server on the internet. So how could we ever let ourselves get this vulnerable?
+00:01:05.433 -> 00:01:09.966 Speaker 1: Well, the story begins with a jammed printer.
+00:01:09.966 -> 00:01:13.433 Speaker 1: The AI lab was buzzing. They had just installed the Xerox 9700.
+00:01:13.433 -> 00:01:18.000 Speaker 1: It was one of the first ever commercial laser printers. It was a pretty big deal.
+00:01:18.000 -> 00:01:21.366 Speaker 1: The only problem was it kept jamming.
+00:01:21.366 -> 00:01:29.633 Speaker 6: You'd wait an hour figuring, I know it's going to be jammed. I'll wait an hour and go collect my printout. And then you'd see that it'd been jammed the whole time. Frustration of DeWazoo.
+00:01:29.633 -> 00:01:34.133 Speaker 1: Richard Stallman, a researcher at the lab, thought that he had a solution.
+00:01:34.133 -> 00:01:38.200 Speaker 1: Years earlier, he had solved a similar problem by coding a simple program that sent an alert whenever there was a jam.
+00:01:38.200 -> 00:01:42.500 Speaker 1: Now, it didn't fix the problem mechanically, but it did make sure that a jam wouldn't go unnoticed.
+00:01:42.500 -> 00:01:47.333 Speaker 1: He thought he could do a similar thing now. The only problem was that Xerox hadn't provided them the source code for the printer.
+00:01:47.333 -> 00:01:49.800 Speaker 1: And without it, Stallman couldn't write his code.
+00:01:49.800 -> 00:01:52.500 Speaker 1: So he tracked down the original developer.
+00:01:52.500 -> 00:02:00.933 Speaker 6: And I said, "Hi, I'm from MIT. Could I have a copy of the printer source code?" And he said, "No, I promised not to give you a copy."
+00:02:00.933 -> 00:02:05.100 Speaker 6: I was stunned. I was angry.
+00:02:05.100 -> 00:02:11.433 Speaker 6: All I could think of was to turn around on my heel and walk out of his room. Maybe I slammed the door.
+00:02:11.433 -> 00:02:22.066 Speaker 6: I thought about it later on, because I realized that I was seeing not just an isolated jerk, but a social phenomenon that was important and affected a lot of people.
+00:02:22.066 -> 00:02:27.200 Speaker 1: This social phenomenon had slowly invaded the world of computer research.
+00:02:27.200 -> 00:02:34.133 Speaker 1: In the late 60s, engineers at AT&T's Bell Labs invented an operating system called Unix, which they shared widely across universities and research labs.
+00:02:34.133 -> 00:02:37.333 Speaker 1: This was a time of freedom.
+00:02:37.333 -> 00:02:43.033 Speaker 1: But by the 80s, AT&T started going after Unix clone developers for copyright infringement.
+00:02:43.033 -> 00:02:46.333 Speaker 1: Later, they even sued the University of California at Berkeley.
+00:02:46.333 -> 00:02:51.600 Speaker 1: The tech landscape had shifted. They wanted to close off software development.
+00:02:51.600 -> 00:02:57.100 Speaker 1: Companies were now making their employees sign non-disclosure agreements, prohibiting them from ever sharing their code with other programmers.
+2:57.100 -> 00:03:02.133 Speaker 6: You see, this was my first encounter with a non-disclosure agreement, and I was the victim.
+00:03:02.133 -> 00:03:07.166 Speaker 6: And the lesson it taught me was that non-disclosure agreements have victims. They're not innocent. They're not harmless.
+00:03:07.166 -> 00:03:10.533 Speaker 1: Stallman wondered, maybe he could adapt to this new world?
+00:03:10.533 -> 00:03:19.433 Speaker 6: But I realized that that way I could have fun coding and I could make money. But at the end, I'd have to look back at my career and say, "I have spent my life building walls to divide people."
+00:03:19.433 -> 00:03:22.400 Speaker 6: And I would have been ashamed of my life.
+00:03:22.400 -> 00:03:32.400 Speaker 1: So Stallman chose a different path. He quit his job at MIT and in 1985 established the Free Software Foundation.
+00:03:32.400 -> 00:03:37.400 Speaker 1: And it worked to promote four basic freedoms: You should be free to run software for any purpose, free to study it, free to change it, and free to share it.
+00:03:37.400 -> 00:03:45.033 Speaker 1: Now, to ensure those freedoms, he created a legal license that developers could attach to their code, called the General Public License.
+00:03:45.033 -> 00:03:49.800 Speaker 1: And to stick it to AT&T, he started work on a project based on Unix, but built from the ground up so AT&T couldn't sue.
+00:03:49.800 -> 00:04:02.400 Speaker 1: He called the project GNU, a recursive acronym for "GNU is Not Unix." Now, to replicate a Unix system, the GNU project had to recreate three layers of functionality.
+00:04:02.400 -> 00:04:05.466 Speaker 1: They needed the utilities, which were the everyday tools and commands.
+00:04:05.466 -> 00:04:10.233 Speaker 1: The shell, which is the terminal that people use to interact with the machine.
+00:04:10.233 -> 00:04:15.566 Speaker 1: And finally, the kernel, which is the core that talks to the hardware and manages memory.
+00:04:15.566 -> 00:04:21.800 Speaker 1: Now, over the next seven years, the GNU project made much of that from scratch.
+00:04:21.800 -> 00:04:26.966 Speaker 1: They created the GCC code compiler, the Bash shell, and a host of other core utilities.
+00:04:26.966 -> 00:04:30.933 Speaker 1: But they were always missing one key component: the kernel.
+00:04:30.933 -> 00:04:40.066 Speaker 1: That changed in the fall of 1991 when Stallman visited the University of Helsinki to give a talk promoting the project.
+00:04:40.066 -> 00:04:46.400 Speaker 1: In the audience was a young computer science student who just happened to be building his own kernel from scratch.
+00:04:46.400 -> 00:04:52.466 Speaker 1: His version wasn't free, but after hearing Stallman speak, the student changed his mind and adopted the General Public License.
+00:04:52.466 -> 00:04:57.166 Speaker 1: At first, he wanted to call it "Free Unix" or "Freaks."
+00:04:57.166 -> 00:05:03.433 Speaker 1: But his friend thought that sounded terrible, so he renamed it after the student himself: Linus Torvalds. Linus Unix, well, that's how we got Linux.
+00:05:03.433 -> 00:05:08.333 Speaker 1: That kernel, combined with the other components from the GNU project, became a full operating system.
+00:05:08.333 -> 00:05:14.333 Speaker 1: Now, technically, Linux only refers to that kernel, but a lot of people use it to refer to the whole operating system. So GNU and Linux and whatever else.
+00:05:14.333 -> 00:05:22.400 Speaker 1: Because the code was open and free, and the projects built on it were too, a new model of software development took hold.
+00:05:22.400 -> 00:05:28.166 Speaker 1: Anyone could inspect the code, improve it, fix flaws, and generally just push development forward for everyone.
+00:05:28.166 -> 00:05:35.333 Speaker 1: So software split into two competing ideologies: proprietary closed-source systems controlled by companies, and open-source projects where the code was free.
+00:05:35.333 -> 00:05:43.166 Speaker 1: It's free in two ways. It's free as in you don't have to pay for it, but it's also free to change it in any way you want, and that seems to be the much more important aspect.
+00:05:43.166 -> 00:05:53.966 Speaker 1: People are happy to pay for technology, but so often do they run into some roadblocks where they have to file a support ticket with some large company. They may or may not get the help they need, and engineers are just itching to just fix it themselves.
+00:05:53.966 -> 00:06:01.333 Speaker 1: Developers could take that basic code, which was freely available, and then add on their own features relevant to their specific device.
+00:06:01.333 -> 00:06:04.400 Speaker 1: They didn't have to reinvent the wheel every time.
+00:06:04.400 -> 00:06:07.400 Speaker 1: So that's why Linux spread in all sorts of different applications.
+00:06:07.400 -> 00:06:14.466 Speaker 7: Hello, I'm a Mac. And I'm a PC. No one else! Hi. I'm Linux. There are an estimated 30 million Linux users out there. How long you been standing there? Long time.
+00:06:14.466 -> 00:06:23.966 Speaker 1: And it's not even just limited to computers. Your electronic vacuum is definitely Linux. Your camera is definitely Linux. Most TVs, most electronics are Linux.
+00:06:23.966 -> 00:06:28.333 Speaker 1: Linux even runs some of the most sensitive machines on the planet.
+00:06:28.333 -> 00:06:40.400 Speaker 1: You can assume that Linux is pretty much used in anything of high security need. Not necessarily because Microsoft, for instance, couldn't build something equally secure, but because usually there's secrecy involved in building, let's say, a new weapon system.
+00:06:40.400 -> 00:06:45.333 Speaker 1: And you don't necessarily want to have to work with some tech company. You don't want to involve more people than absolutely necessary.
+00:06:45.333 -> 00:06:50.066 Speaker 1: Of the top 500 supercomputers in the world, every single one runs Linux.
+00:06:50.066 -> 00:06:53.233 Speaker 1: It's used in the Pentagon and on US nuclear submarines.
+00:06:53.233 -> 00:07:01.833 Speaker 1: Every bank you can think of, really, manufacturers, hospitals, governments, defense organizations and things like that. They're all running Linux servers.
+00:07:01.833 -> 00:07:09.166 Speaker 1: Today, Linux is everywhere. Most people are familiar with Windows and macOS, but they are not the most popular operating systems in the world.
+00:07:09.166 -> 00:07:13.933 Speaker 1: No, they are dwarfed by systems running a Linux kernel.
+00:07:13.933 -> 00:07:18.966 Speaker 1: Android with over 3 billion devices is built on Linux.
+00:07:18.966 -> 00:07:23.833 Speaker 1: And it also powers the majority of internet servers in the world.
+00:07:23.833 -> 00:07:31.966 Speaker 1: There's no one company that could have imagined all the different cases where computers are used these days. And Linux, thanks to its adaptability where everyone can just tweak it in little ways to make it fit their use case, now covers all the use cases.
+00:07:31.966 -> 00:07:37.333 Speaker 1: But all of this, it all relies on one key assumption: that the code is secure.
+00:07:37.333 -> 00:07:46.433 Speaker 1: Now, there's a good reason to feel this way, because there are so many people looking at the code, there's this idea that bugs, either intentional or unintentional, won't be too deep to catch.
+00:07:46.433 -> 00:07:50.933 Speaker 1: It's known simply as Linus's Law, that with enough eyeballs, all bugs are shallow.
+00:07:50.933 -> 00:07:55.433 Speaker 1: But there's a big problem with this assumption.
+00:07:55.433 -> 00:08:03.966 Speaker 1: The open-source movement isn't one big project. It's an ecosystem. You need thousands of small tools and libraries, each doing a different job, like networking, security, or compression.
+00:08:03.966 -> 00:08:08.400 Speaker 1: Now, a lot of these projects start because one person wants to fix a specific problem.
+00:08:08.400 -> 00:08:14.333 Speaker 1: So they build it themselves. They're often unpaid, coding on nights and weekends just to make the tool work.
+00:08:14.333 -> 00:08:19.400 Speaker 1: If it's useful, one open-source project adopts it, then another.
+00:08:19.400 -> 00:08:26.433 Speaker 1: And suddenly, you have millions of machines all relying on one person's passion project.
+00:08:26.433 -> 00:08:34.400 Speaker 1: That's how the entire ecosystem can end up quietly resting on a project maintained by a single volunteer.
+00:08:34.400 -> 00:08:41.933 Speaker 1: There's a famous XKCD comic that captures this idea perfectly. But what happens when that block is compromised?
+00:08:41.933 -> 00:08:48.966 Speaker 1: In our story, our person isn't from Nebraska. No, Lasse Collin is from Finland.
+00:08:48.966 -> 00:08:52.933 Speaker 1: And he's been working on a small data compression tool called XZ since 2005.
+2:52.933 -> 00:08:57.966 Speaker 1: XZ is so good at compressing that it's now used in almost every major Linux distribution.
+00:08:57.966 -> 00:09:04.933 Speaker 1: For the past 20 years, almost all of the work of keeping the tool compatible with ever-evolving hardware, it's all fallen on Lasse.
+00:09:04.933 -> 00:09:10.433 Speaker 1: He's never been paid for it, but up until now, he's been okay with that.
+00:09:10.433 -> 00:09:14.933 Speaker 1: Recently, though, he's been under more and more pressure.
+00:09:14.933 -> 00:09:23.966 Speaker 1: Over one month and no closer to being merged. Not a surprise. Progress will not happen until there is a new maintainer. Submitting patches here has no purpose these days.
+00:09:23.966 -> 00:09:33.433 Speaker 1: The current maintainer lost interest or doesn't care to maintain anymore. Lasse responds, "I haven't lost interest, but my ability to care has been fairly limited, mostly due to long-term mental health issues, but also due to some other things."
+00:09:33.433 -> 00:09:41.933 Speaker 1: "It's also good to keep in mind that this is an unpaid hobby project." But it's not enough.
+00:09:41.933 -> 00:09:50.400 Speaker 1: "I'm sorry about your mental health issues, but it's important to be aware of your own limits. The community desires more. You ignore the many patches been rotting away on this mailing list. Right now you choke your repo."
+00:09:50.400 -> 00:09:56.100 Speaker 1: Lasse is burning out. But just when he thinks he can't handle it anymore...
+00:09:56.100 -> 00:09:59.433 Speaker 1: "Nice job to both of you for getting this feature as far as it is already."
+00:09:59.433 -> 00:10:04.433 Speaker 1: "Just trying to do my part as a helper elf." Signed, Jia Tan.
+00:10:04.433 -> 00:10:08.433 Speaker 1: For months, Jia's been taking some of the load off Lasse.
+00:10:08.433 -> 00:10:12.433 Speaker 1: He's been incredibly helpful. Now he offers to step up and take over as maintainer of the project.
+00:10:12.433 -> 00:10:17.366 Speaker 1: To Lasse, it sounds almost too good to be true.
+00:10:17.366 -> 00:10:22.466 Speaker 1: "As I've hinted in earlier emails, Jia Tan may have a bigger role in the project in the future."
+00:10:22.466 -> 00:10:27.466 Speaker 1: Finally, Lasse can step back and breathe after 20 years of hard work.
+00:10:27.466 -> 00:10:31.933 Speaker 1: But Jia is not who he appears to be.
+00:10:31.933 -> 00:10:43.166 Speaker 1: And he's identified Lasse Collin's XZ project as a weak link in the Linux ecosystem, one that could give him access to almost every computer on the internet.
+00:10:43.166 -> 00:10:48.466 Speaker 1: Today we take secure remote logins for granted. I mean, they've worked reliably for over 30 years.
+00:10:48.466 -> 00:10:55.933 Speaker 1: But it all started in 1995 at the Helsinki University of Technology, when a hacker captured thousands of usernames and passwords sent over the campus network in a sniffing attack.
+00:10:55.933 -> 00:11:03.966 Speaker 1: In hindsight, the problem's obvious. These login requests were being sent totally in plain text. So anyone who intercepted the data could just read it.
+00:11:03.966 -> 00:11:09.933 Speaker 1: When Tatu Ylönen, a computer researcher at the university, learned of the attack, he made it his mission to ensure that it would never happen again.
+00:11:09.933 -> 00:11:16.433 Speaker 8: Password sniffing was perhaps the most serious security issue on the internet back then.
+00:11:16.433 -> 00:11:21.933 Speaker 1: To do this, his solution needed to ensure two things. First, machines had to establish a secure connection.
+00:11:21.933 -> 00:11:30.433 Speaker 1: If both computers could agree on a shared secret code that they would use to scramble their data, then even if they were overheard, anyone without that secret code would just get gibberish.
+00:11:30.433 -> 00:11:35.333 Speaker 1: Now, you could agree on that shared secret ahead of time in person.
+00:11:35.333 -> 00:11:37.433 Speaker 9: Password.
+00:11:37.433 -> 00:11:44.966 Speaker 1: But on the internet, that's rarely practical. No, you have to agree on that shared secret ahead of time without ever having met, and also with someone listening in the entire time.
+00:11:44.966 -> 00:11:49.466 Speaker 1: It sounds really tricky, but there is a way to do it, and I can show you how using this jar of paint.
+00:11:49.466 -> 00:11:55.166 Speaker 1: First step is we agree on a shared public color. Let's pick this red. This is no secret, anyone can see this.
+00:11:55.166 -> 00:12:01.333 Speaker 1: Now, we each pick our own private color. I'm going to pick yellow, and he can pick whatever he wants.
+00:12:01.333 -> 00:12:05.100 Speaker 1: So we take our private color and then I'm going to mix that with the public color.
+00:12:05.100 -> 00:12:15.966 Speaker 1: It's worth saying now that these mixtures are assumed to be impossible to unmix. So even if you know this orange and you know this red, you can't exactly deduce the exact shade of yellow we used to create it.
+00:12:15.966 -> 00:12:20.333 Speaker 1: And this is important for the actual computer example later. Okay, so I'm going to send this over to Gregor.
+00:12:20.333 -> 00:12:26.933 Speaker 10: So, I've mixed in my secret color with the public, and I'm going to pass this to Henry.
+00:12:26.933 -> 00:12:35.433 Speaker 1: So Gregor sent me this, which looks like a sort of dark green sort of color. And what we're going to do now is we're going to mix it with my original private color.
+00:12:35.433 -> 00:12:44.400 Speaker 10: Okay, now that I have Henry's secret color mixed in with the public, I'm going to add some of my own.
+00:12:44.400 -> 00:12:54.433 Speaker 1: So we end up with this sort of distinct olive color. There's my yellow in there, I can see, and whatever Gregor had in his side. And the thing is, because each set of paints went through the same process, they both end up with this same olive green, even though we never shared our secret colors.
+00:12:54.433 -> 00:13:02.166 Speaker 1: So we end up with this shared secret color at the end that no one else can get. And that means that we can use it as our secret code when sending information.
+00:13:02.166 -> 00:13:13.933 Speaker 1: Now, in the real exchange, we use big public numbers instead of colors, but the idea is the exact same. Each side mixes in their own private number using some math that when you try to reverse it leads to a discrete log problem, which makes it practically impossible to unmix them.
+00:13:13.933 -> 00:13:18.433 Speaker 1: That way we solve the first problem. But there is another threat that's unaccounted for.
+00:13:18.433 -> 00:13:22.100 Speaker 1: Say a hacker, like Casper here, tries to sit in between us.
+00:13:22.100 -> 00:13:28.466 Speaker 1: Now, we can create a legitimate connection, so we end up with a shared secret code. And Casper can do the exact same thing with Gregor.
+00:13:28.466 -> 00:13:37.466 Speaker 1: Now, whenever I send a message, he can relay that to Gregor, he can change and modify and send his response back, and to each of us the connection looks legitimate, but Casper's sitting between us the whole time.
+00:13:37.466 -> 00:13:42.433 Speaker 1: He's a man in the middle. So I need a way of authenticating that Gregor is really who he says he is.
+00:13:42.433 -> 00:13:48.333 Speaker 1: Now, we could do this again by agreeing on a password ahead of time in person, but we need a practical way to do it over the internet.
+00:13:48.333 -> 00:13:51.933 Speaker 1: This was the second problem that Tatu had to solve.
+00:13:51.933 -> 00:14:00.433 Speaker 1: To make that happen, Gregor can take two really big prime numbers, which he keeps secret. He then multiplies them together to get an even bigger number, which he then makes public.
+00:14:00.433 -> 00:14:10.133 Speaker 1: Now, when I want to send Gregor a message, I just take that big public number and I scramble it in a way that only Gregor, who knows the two prime factors that make up that big public number, can successfully unscramble.
+00:14:10.133 -> 00:14:18.433 Speaker 1: For anyone else, getting those two prime factors is practically impossible. So as long as I know that big public number actually belongs to Gregor, I know that anything encrypted to that key can only be read by him.
+00:14:18.433 -> 00:14:26.433 Speaker 1: This is called RSA encryption. And it means that if I know the certificate is valid, then I accept the connection. And by authenticating Gregor, it foils our man in the middle, Casper Devious.
+00:14:26.433 -> 00:14:38.933 Speaker 1: Tatu Ylönen combined these two steps, securing the channel and authenticating the user, into a protocol for remote logins between machines. It gave you the same simple text shell people were used to, a plain terminal where you type commands.
+00:14:38.933 -> 00:14:43.933 Speaker 1: But now the connection was encrypted. He called it Secure Shell, or SSH.
+00:14:43.933 -> 00:14:47.166 Speaker 1: And it was immediately useful.
+00:14:47.166 -> 00:14:53.933 Speaker 1: Many Linux machines don't even have keyboards or monitors, especially not servers. So you want to be able to log in and control them remotely.
+00:14:53.933 -> 00:15:00.466 Speaker 1: So SSH was soon adopted on almost every machine that ran Linux. And as Linux spread, so too did SSH.
+00:15:00.466 -> 00:15:07.433 Speaker 1: Today, when you control a machine remotely, there's a good chance you're using SSH. SSH is literally the maintenance backbone of the entire internet.
+00:15:07.433 -> 00:15:13.433 Speaker 1: And the most widely used open-source SSH implementation is called OpenSSH.
+00:15:13.433 -> 00:15:17.333 Speaker 1: And because it's so popular, it's heavily protected.
+00:15:17.333 -> 00:15:26.466 Speaker 1: I mean, OpenSSH is probably one of the most closely examined projects out there because it's just so vitally important to the security of servers everywhere.
+00:15:26.466 -> 00:15:33.466 Speaker 1: Having a way to bypass the authentication in Secure Shell is like having the master key to the hotel. It lets you into every room.
+00:15:33.466 -> 00:15:38.933 Speaker 1: This is why Jia Tan wants a way into OpenSSH. But trying to hack it directly would be almost impossible.
+00:15:38.933 -> 00:15:47.433 Speaker 1: Lucky for Jia, the open-source model doesn't just mean that operating systems are stitched together from many programs, but that each of those programs is itself stitched together from other programs.
+00:15:47.433 -> 00:15:51.333 Speaker 1: Those are called dependencies.
+00:15:51.333 -> 00:15:58.133 Speaker 1: OpenSSH is one of the most scrutinized software packages, but that doesn't extend to all of its dependencies.
+00:15:58.133 -> 00:16:05.133 Speaker 1: Jia believes that if he can compromise a dependency of OpenSSH, he can sneak an exploit into the main project.
+00:16:05.133 -> 00:16:11.966 Speaker 1: And it just so happens that Lasse Collin's compression tool XZ is linked through a chain of these dependencies.
+00:16:11.966 -> 00:16:18.433 Speaker 1: Now, Lasse's original goal with XZ was to find a better way to compress data on Linux.
+00:16:18.433 -> 00:16:24.433 Speaker 1: That data could be anything: code, an image, text. But what was important to Lasse was that once you compressed and decompressed it, it had to come back exactly the same.
+00:16:24.433 -> 00:16:27.433 Speaker 1: The method had to be lossless.
+00:16:27.433 -> 00:16:35.433 Speaker 1: Let me give you an example. We're going to take the lyrics to Rick Astley's hit "Never Gonna Give You Up," and we're going to try to compress it.
+00:16:35.433 -> 00:16:42.133 Speaker 1: Now, say we take this and we represent it as a stream of characters, and each one gets a fixed-width 8-bit code.
+00:16:42.133 -> 00:16:45.333 Speaker 1: Now, that works, but it's inefficient.
+00:16:45.333 -> 00:16:53.966 Speaker 1: If we go through this stream and just count up how often each symbol appears, you'll notice there's a pattern. Some appear more frequently, like "n" with 430 uses, and some barely at all, like "j" with 1 use.
+00:16:53.966 -> 00:17:01.333 Speaker 1: To save space, why don't we give the ones that appear more frequently shorter codes? And the rarer ones, well, they can afford to be long.
+00:17:01.333 -> 00:17:08.333 Speaker 1: But how do we do that? So, let's start by counting up how often each symbol appears and sorting that from most frequent to least frequent.
+00:17:08.333 -> 00:17:15.133 Speaker 1: We take the two least frequent symbols and join them together into a pair. We then treat that pair as a new combined symbol whose frequency is the sum of the two it represents.
+00:17:15.133 -> 00:17:18.433 Speaker 1: We can then reinsert that back into the list.
+00:17:18.433 -> 00:17:28.100 Speaker 1: Then, we do it again. We take the two least frequent items, combine them, and then reinsert them back into the list. And we do that over and over again until we get this massive structure, called a Huffman tree.
+00:17:28.100 -> 00:17:34.933 Speaker 1: Now, to get our codes, we just walk the tree. A step right is a 1, a step left is a 0.
+00:17:34.933 -> 00:17:41.400 Speaker 1: So, for example, to get "r," we just go right, left, left, right. So the code is 1-0-0-1.
+00:17:41.400 -> 00:17:51.133 Speaker 1: So what you'll notice is the more commonly occurring symbols naturally appear at the top of the tree, so they get shorter codes, while the ones that appear less frequently are at the bottom of the tree.
+00:17:51.133 -> 00:18:00.433 Speaker 1: This system works well, but it also has a weakness. In our "Never Gonna Give You Up" example, it always encodes "N-E-V-E-R" space.
+00:18:00.433 -> 00:18:03.433 Speaker 1: It doesn't realize that this whole chunk repeats.
+00:18:03.433 -> 00:18:09.166 Speaker 1: So what if instead of looking at symbols, we looked at those chunks? Now, they don't have to be words, they could be parts of words or even longer. They just have to be patterns that repeat.
+00:18:09.166 -> 00:18:15.133 Speaker 1: So let's scan through the text but keep a rolling dictionary of what we've just seen.
+00:18:15.133 -> 00:18:23.966 Speaker 1: Then as we move forward, we can check whether the next chunk has already appeared. And if it has, we don't need to write that chunk again. We just write a code with two numbers: how far back to look and how many characters to copy.
+00:18:23.966 -> 00:18:31.933 Speaker 1: Now, when we decompress, we can just read along, and whenever we hit one of these codes, we jump back, copy the matching chunk, and paste it into place.
+00:18:31.933 -> 00:18:38.966 Speaker 1: Two scientists, Lempel and Ziv, published this algorithm in 1977. So it became known as LZ77.
+00:18:38.966 -> 00:18:45.333 Speaker 1: But some of these symbols and pointers show up more often than others. They actually have their own frequencies.
+00:18:45.333 -> 00:18:52.433 Speaker 1: So we can feed that whole stream into another Huffman tree to get a second layer of compression.
+00:18:52.433 -> 00:19:00.933 Speaker 1: And in our demo, it actually gets the file down 85% smaller than the original. This might look new, but you've almost certainly used it yourself.
+00:19:00.933 -> 00:19:07.433 Speaker 1: It's called Deflate, but it's better known for the files it creates: .zip. If you've ever clicked "close" on this before, you've definitely used it.
+00:19:07.433 -> 00:19:12.433 Speaker 1: But Huffman only uses the overall frequency of a chunk repeating.
+00:19:12.433 -> 00:19:23.133 Speaker 1: Real data isn't just random chunks. In our example, after "never gonna," you might get "give you up," "let you down," or "run around and desert you."
+00:19:23.133 -> 00:19:30.400 Speaker 1: You might get "make you cry," you might get "say goodbye," or "tell a lie and hurt you." Each one has its own probability.
+00:19:30.400 -> 00:19:35.333 Speaker 1: And you can represent these probabilities with a mathematical tool called a Markov chain.
+00:19:35.333 -> 00:19:43.933 Speaker 1: The algorithm can then encode the stream of data so that the more probable next chunks cost few bits and the less probable ones cost more.
+00:19:43.933 -> 00:19:51.966 Speaker 1: If you combine that with a much bigger search window so it can point much further back in memory, then you get the Lempel-Ziv-Markov chain algorithm, or LZMA.
+00:19:51.966 -> 00:20:00.100 Speaker 1: LZMA was developed by Igor Pavlov around 1998, and it often beats much more familiar methods.
+00:20:00.100 -> 00:20:05.400 Speaker 1: In many cases it can shrink files to about 70% of the size of a typical .zip.
+00:20:05.400 -> 00:20:10.933 Speaker 1: Lasse took this elegant compression algorithm and made it work on Linux.
+00:20:10.933 -> 00:20:16.433 Speaker 1: And he called it XZ, not because it stood for anything, but just because it sounded cool.
+00:20:16.433 -> 00:20:25.100 Speaker 1: I'm using XZ quite a lot. I think XZ is a wonderful project. There are lots of different ways of compressing data. Some of them are fast but they don't compress very well, and some of them are slow but they get extremely good compression.
+00:20:25.100 -> 00:20:31.966 Speaker 1: But across Linux, projects are constantly shipping the same files and updates to millions of machines.
+00:20:31.966 -> 00:20:39.933 Speaker 1: So XZ is perfect. You compress something once, then you get a smaller file to download forever.
+00:20:39.933 -> 00:20:49.133 Speaker 1: Lasse released XZ in 2009, and over the next decade and a half, it went from a niche tool to the common choice whenever a project needed effective lossless compression.
+00:20:49.133 -> 00:20:55.933 Speaker 1: So XZ quietly spread everywhere, eventually becoming a dependency of OpenSSH.
+00:20:55.933 -> 00:21:01.433 Speaker 1: So it was some point in about February 2024, and Jia Tan, he emails me. He's got all of these new features in the new version of XZ.
+00:21:01.433 -> 00:21:05.933 Speaker 1: He wins Rich over almost immediately.
+00:21:05.933 -> 00:21:19.466 Speaker 4: So I get to talk to hundreds of contributors all the time and I do get a feel for them. And I feel, you know, are they good coders, which is what I really care about? Are they conscientious people? Are they helpful? Do they respond to bug reports quickly?
+00:21:19.466 -> 00:21:28.466 Speaker 4: And in all of the dimensions, Jia Tan would be a very good contributor because he's obviously a good coder, he's very responsive, he's very keen. And I love all that.
+00:21:28.466 -> 00:21:35.433 Speaker 1: All indications are that Jia is a great contributor, and this puts Rich at ease. So he lets his guard down.
+00:21:35.433 -> 00:21:44.966 Speaker 1: And that's often where the problem start on the internet. You can't keep your guard up forever. But lucky for us, with today's sponsor NordVPN, you don't have to.
+00:21:44.966 -> 00:21:56.466 Speaker 1: NordVPN's Threat Protection Pro blocks dangerous websites before they load. It stops malicious downloads and it strips out trackers and intrusive ads automatically.
+00:21:56.466 -> 00:22:04.466 Speaker 1: And it works even when you're not connected to the VPN. So a lot of these attacks never get the chance to start.

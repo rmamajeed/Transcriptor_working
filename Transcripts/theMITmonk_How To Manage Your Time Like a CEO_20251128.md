@@ -1,0 +1,371 @@
+---
+title: theMITmonk_How To Manage Your Time Like a CEO_20251128
+audio_file: theMITmonk_How To Manage Your Time Like a CEO_20251128.mp3
+note_id: 719b3a86-b772-4c50-8b7a-753e590acce4
+date_processed: '2026-02-21'
+classification:
+  primary_domain: Productivity
+  sub_domains:
+  - Time Management
+  - Leadership
+  - Personal Development
+  difficulty_level: Intermediate
+  content_type: Lecture
+entities:
+  people:
+  - name: Dion Almaer
+    role: Speaker
+    contribution: Sharing time management system
+  - name: Jack Dorsey
+    role: CEO of Twitter and Square
+    contribution: Example of effective time management
+  - name: Elon Musk
+    role: CEO of multiple companies
+    contribution: Example of effective time management
+  - name: Taylor Swift
+    role: Musician and entrepreneur
+    contribution: Example of adapting to different roles
+  - name: Marshall Goldsmith
+    role: Author and speaker
+    contribution: Quote on changing habits
+  - name: Brian Chesky
+    role: Founder of Airbnb
+    contribution: Example of adapting to different zones
+  - name: Eric Schmidt
+    role: Former CEO of Google
+    contribution: Concept of being a 'most expensive router'
+  - name: Steve Jobs
+    role: Co-founder of Apple
+    contribution: Example of trust management
+  - name: Jony Ive
+    role: Former chief design leader at Apple
+    contribution: Example of trust management
+  works_cited: []
+  concepts_mentioned:
+  - Time management
+  - Productivity
+  - Leadership
+  - Trust management
+  - Delegation
+  - Roles
+  - Zones
+  laws_theories_cited: []
+concepts:
+- name: Time management
+  definition: The process of planning and controlling how much time to spend on different
+    activities
+  parent_concepts:
+  - Productivity
+  related_concepts:
+  - Leadership
+  - Delegation
+  abstraction_level: Practical
+  confidence: 1.0
+- name: Roles
+  definition: Different levels of responsibility and expertise, including maker, marker,
+    and multiplier
+  parent_concepts:
+  - Time management
+  related_concepts:
+  - Delegation
+  - Trust management
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: Zones
+  definition: Different states of being, including wartime and peacetime, that require
+    different approaches to time management
+  parent_concepts:
+  - Time management
+  related_concepts:
+  - Roles
+  - Delegation
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: Trust management
+  definition: The process of building and maintaining trust with others, including
+    teammates and partners
+  parent_concepts:
+  - Leadership
+  related_concepts:
+  - Delegation
+  - Time management
+  abstraction_level: Practical
+  confidence: 1.0
+- name: Delegation
+  definition: The process of assigning tasks and responsibilities to others
+  parent_concepts:
+  - Time management
+  related_concepts:
+  - Roles
+  - Trust management
+  abstraction_level: Practical
+  confidence: 1.0
+relationships:
+- source_concept: Time management
+  target_concept: Roles
+  relationship_type: supports
+  strength: 1.0
+  evidence: The speaker discusses how different roles require different approaches
+    to time management
+  reasoning: The speaker provides examples of how different roles, such as maker,
+    marker, and multiplier, require different time management strategies
+- source_concept: Roles
+  target_concept: Delegation
+  relationship_type: supports
+  strength: 1.0
+  evidence: The speaker discusses how different roles require different levels of
+    delegation
+  reasoning: The speaker provides examples of how different roles, such as maker,
+    marker, and multiplier, require different levels of delegation
+- source_concept: Zones
+  target_concept: Time management
+  relationship_type: influences
+  strength: 1.0
+  evidence: The speaker discusses how different zones, such as wartime and peacetime,
+    require different approaches to time management
+  reasoning: The speaker provides examples of how different zones require different
+    time management strategies
+cross_domain_insights:
+- connection_type: principle_application
+  source_domain: Productivity
+  source_concept: Time management
+  target_domain: Economics
+  target_concept: Resource allocation
+  insight: Effective time management in productivity mirrors the principle of optimal
+    resource allocation in economics.
+  explanation: Both involve maximizing output given limited inputs, whether it's time
+    or capital. This principle can be applied across domains to improve efficiency.
+    The concept of scarcity, fundamental in economics, also underpins the need for
+    effective time management in productivity.
+  potential_applications:
+  - Project management
+  - Business strategy
+  confidence: 0.9
+  historical_example: The concept of the 'Pareto principle' (20% of efforts leading
+    to 80% of results) applies in both productivity and economics.
+- connection_type: structural_analogy
+  source_domain: Productivity
+  source_concept: Zones
+  target_domain: Urban planning
+  target_concept: Zoning regulations
+  insight: Productivity 'zones' for task management have a structural analogy in urban
+    planning's zoning regulations.
+  explanation: Both concepts involve dividing space (or time) into dedicated areas
+    for specific activities to enhance efficiency and reduce conflict. In productivity,
+    this might mean dedicating certain hours to focused work, similar to how urban
+    planning zones areas for residential, commercial, or industrial use.
+  potential_applications:
+  - Workplace design
+  - Time blocking
+  confidence: 0.8
+  historical_example: The Garden City movement in urban planning, which aimed to separate
+    residential and industrial areas, parallels the idea of separating tasks into
+    different 'zones' in productivity.
+- connection_type: metaphor
+  source_domain: Productivity
+  source_concept: Trust management
+  target_domain: Computer science
+  target_concept: Access control
+  insight: Managing trust in teams has a metaphorical connection to access control
+    in computer systems.
+  explanation: Both involve granting the right level of access or responsibility to
+    entities (team members or users) based on their trustworthiness or clearance level.
+    This metaphor can help in designing trust management systems in productivity that
+    are as robust as those in computer science.
+  potential_applications:
+  - Team building
+  - Security protocols
+  confidence: 0.85
+  historical_example: The principle of least privilege, which dictates that users
+    should only have the minimum levels of access necessary to complete their tasks,
+    has applications in both trust management in productivity and access control in
+    computer systems.
+- connection_type: principle_application
+  source_domain: Productivity
+  source_concept: Delegation
+  target_domain: Biology
+  target_concept: Cellular differentiation
+  insight: Delegation in productivity parallels the biological principle of cellular
+    differentiation.
+  explanation: Both involve the specialization of tasks or functions to achieve greater
+    efficiency and effectiveness. In biology, cells differentiate to perform specific
+    roles; in productivity, tasks are delegated to those best suited to complete them,
+    allowing for a more efficient use of resources.
+  potential_applications:
+  - Task assignment
+  - Organizational design
+  confidence: 0.8
+  historical_example: The division of labor concept by Adam Smith has a biological
+    counterpart in how cells in an organism divide labor through differentiation.
+bridge_concepts:
+- concept: Scalability
+  appears_in_domains:
+  - Productivity
+  - Economics
+  - Computer Science
+  role: Scalability is crucial for growth and efficiency in various domains, from
+    managing tasks and projects to designing economic systems and computer networks.
+  examples:
+  - Scaling a business
+  - Scalable networking protocols
+  - Scaling personal productivity
+mental_models:
+- name: Systems Thinking
+  description: A holistic approach to understanding complex systems, considering how
+    different components interact and affect the overall performance of the system.
+  applied_to:
+  - Understanding productivity as a system where time management, roles, zones, trust
+    management, and delegation interact
+  transferable_to:
+  - Economics
+  - Biology
+  - Computer Science
+analogies_used:
+- source_domain: Transportation
+  source_concept: Traffic management
+  target_domain: Productivity
+  target_concept: Task management
+  mapping:
+    Traffic flow: Work flow
+    Roads: Task paths
+  pedagogical_value: Helps in understanding how managing tasks can be similar to managing
+    traffic flow, optimizing routes and minimizing congestion.
+tags:
+  hierarchical:
+  - '#Productivity → #TimeManagement → #Leadership'
+  topical:
+  - '#TimeManagement'
+  - '#Leadership'
+  - '#TrustManagement'
+  methodological:
+  - '#Storytelling'
+  - '#ExampleBased'
+  people:
+  - '#DionAlmaer'
+  - '#JackDorsey'
+  - '#ElonMusk'
+  concepts:
+  - '#Roles'
+  - '#Zones'
+  - '#Delegation'
+  temporal:
+  - '#Present'
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  To manage time like the top 1%, one needs to understand their role, zone, and non-negotiable
+  tasks, and apply the 3-2-1 system, which consists of three roles (maker, marker,
+  multiplier), two zones (wartime and peacetime), and one non-negotiable task that
+  only they can do. Effective time management is not just about managing time, but
+  also about managing attention and trust, and delegating tasks to others while providing
+  context and clarity. By applying this system and focusing on building trust, individuals
+  can make time for what matters to them and achieve their goals.'
+key_ideas:
+- idea: Here are the 3-5 key ideas discussed in the transcription text
+  description: ''
+- idea: The 3-2-1 system**
+  description: A time management system that consists of three roles (maker, marker,
+    and multiplier), two zones (wartime and peacetime), and one non-negotiable task
+    that only you can do, which helps individuals prioritize their time and attention
+    effectively.
+- idea: Role identification**
+  description: Understanding the role you're playing (maker, marker, or multiplier)
+    is crucial to managing your time effectively, as each role requires a different
+    approach to time management and attention.
+- idea: Zone awareness**
+  description: Recognizing whether you're in a wartime or peacetime zone can help
+    you adjust your role and time management strategy, with wartime requiring more
+    hands-on involvement and peacetime allowing for more delegation and strategic
+    focus.
+- idea: Trust management**
+  description: Effective delegation and time management require building and managing
+    trust with team members, which involves coaching, providing context, and unblocking
+    others rather than controlling or micromanaging.
+- idea: Stewarding time**
+  description: Ultimately, good time management is about stewarding the time you have
+    to make time for what matters to you personally, and recognizing that your time
+    is finite and should be used to bring joy and happiness.
+---
+## Key Concepts
+
+**Time management**  
+The process of planning and controlling how much time to spend on different activities
+
+**Roles**  
+Different levels of responsibility and expertise, including maker, marker, and multiplier
+
+**Zones**  
+Different states of being, including wartime and peacetime, that require different approaches to time management
+
+**Trust management**  
+The process of building and maintaining trust with others, including teammates and partners
+
+**Delegation**  
+The process of assigning tasks and responsibilities to others
+
+## Cross-Domain Connections
+
+**Productivity → Economics**
+
+*Effective time management in productivity mirrors the principle of optimal resource allocation in economics.*
+
+Both involve maximizing output given limited inputs, whether it's time or capital. This principle can be applied across domains to improve efficiency. The concept of scarcity, fundamental in economics, also underpins the need for effective time management in productivity.
+
+**Productivity → Urban planning**
+
+*Productivity 'zones' for task management have a structural analogy in urban planning's zoning regulations.*
+
+Both concepts involve dividing space (or time) into dedicated areas for specific activities to enhance efficiency and reduce conflict. In productivity, this might mean dedicating certain hours to focused work, similar to how urban planning zones areas for residential, commercial, or industrial use.
+
+**Productivity → Computer science**
+
+*Managing trust in teams has a metaphorical connection to access control in computer systems.*
+
+Both involve granting the right level of access or responsibility to entities (team members or users) based on their trustworthiness or clearance level. This metaphor can help in designing trust management systems in productivity that are as robust as those in computer science.
+
+## Discussion Topics
+
+- **Here are the 3-5 key ideas discussed in the transcription text:** 
+- **The 3-2-1 system**:** A time management system that consists of three roles (maker, marker, and multiplier), two zones (wartime and peacetime), and one non-negotiable task that only you can do, which helps individuals prioritize their time and attention effectively.
+- **Role identification**:** Understanding the role you're playing (maker, marker, or multiplier) is crucial to managing your time effectively, as each role requires a different approach to time management and attention.
+- **Zone awareness**:** Recognizing whether you're in a wartime or peacetime zone can help you adjust your role and time management strategy, with wartime requiring more hands-on involvement and peacetime allowing for more delegation and strategic focus.
+- **Trust management**:** Effective delegation and time management require building and managing trust with team members, which involves coaching, providing context, and unblocking others rather than controlling or micromanaging.
+- **Stewarding time**:** Ultimately, good time management is about stewarding the time you have to make time for what matters to you personally, and recognizing that your time is finite and should be used to bring joy and happiness.
+
+## Full Transcription
+
+
+
+---
+
+00:00 [Dion Almaer] If you want to manage your time like the top 1%, you need to stop following the same old productivity advice and start using a system that rewires your brain. As a CEO, board member, and investor at some of the fastest-growing companies, my life was a firefight for years. Every second mattered. I had to make time for what drives results, cut distractions, and stay in control when things got chaotic. Today, I'll share a simple system I use. Borrow what works for you so you can make time for what matters to you. 
+
+00:53 [Dion Almaer] But before you apply this system, there's one question that can help you cut through the avalanche of online advice. Everyone has the same 168 hours per week, right? Why do the top performers get dramatically more done without burning out? Jack Dorsey can run Twitter and Square simultaneously in the same week you and I have. Elon Musk runs more than two companies—same number of hours. These CEOs don't manage time; they manage their attention. If you're just focused on the tactics of managing time, like batching and prioritizing and time-blocking, that's great, but you will still miss the big picture. It's about applying what I call the 3-2-1 system. 
+
+01:29 [Dion Almaer] Here's how to do it. The first part of the system is the three roles. Most people fail at productivity because they're playing the wrong game for their level. Taylor Swift is a perfect example. In the early days, she wrote songs and she recorded songs. Today, she has to write, produce, record, perform, make music videos, run business operations, do philanthropy, and manage brand partnerships, all of it while managing a global tour schedule. The time management system that worked for her early on would kill her productivity today because her game has changed and her role has changed. How she manages her time has to be completely reinvented. Marshall Goldsmith says the right thing: "What got you here won't get you there." Habits that tend to work in simple phases of life actively harm you when you graduate to a role that demands complex responsibilities. That's what CEOs learn the hard way. If you want to manage your time like the 1% elite, you have to understand the role you're playing right now. 
+
+02:35 [Dion Almaer] And there are three roles: maker, marker, multiplier. First, maker. This is relevant when you're juggling a handful of priorities or if you're an individual contributor. Your role mostly requires that you do everything yourself—stay in late, stay in your lane, heads down, deep work, details, diligence. You have clear deliverables, clear timelines. Your time management has to build with that role in mind. Now, there are tons of folks I know around the world who love staying in that role throughout their entire career, in tech, in finance, in pharma, research, several other verticals, and it's a totally acceptable path for time management and career management if that's what lights you up. 
+
+03:22 [Dion Almaer] But then some of you will want to graduate from maker to marker role. Now you have to manage 10 to 20 priorities in life all at once. You start managing a team. Maybe you have a life partner or a family. So in this phase, you can't touch every single thing on your own every single time, and you shouldn't. Think of it this way: you are transitioning from the maker to the marker mode. Everybody else in your team will produce research, code, business plans, whatever they're working on, but you are the marker, you're the editor. You give feedback, you give comments to refine their work. You don't take their work and start rewriting. You build processes that automate everything. You're doing, and you're also delegating—that's the mix. The challenge in this phase is to understand what you can delegate and where you have to invest your own time. Anything that's mission-critical to your project, your company, or your brand—that's where you need to be totally hands-on. 
+
+04:25 [Dion Almaer] And from there, you graduate to the third role, the multiplier role. That's when you have 30, 40, 50 responsibilities, you're managing a very large team. In this phase, you have to become what Eric Schmidt calls the "most expensive router," because your job is not to create, your job is not to review what other people create; your job is to recruit, orchestrate, and align your team. You focus on connecting people, you make strategic bets, you route requests from one corner to the other corner of your team. You have to stop obsessing over every little detail and focus on the big picture. Taylor Swift, again, is a great example. Her early career was about being a maker. Today, she is a maker in music, but she is a multiplier across the rest of her life. 
+
+05:15 [Dion Almaer] The core insight here is that if you don't know what role you're playing, you'll manage your time the wrong way. Delegating when you're a maker and micromanaging when you're a multiplier are both recipes for failure. You, of course, have to come up with tricks and techniques to manage your time better, but only after you know what role you're in. Otherwise, your calendar will fill fast with the wrong things and you won't get anything done, or, more alarmingly, no one around you will get anything done either. 
+
+05:58 [Dion Almaer] But the way you manage your attention is not just about the role you play; it's also about which zone you're in. The second part of the system is about two zones. Airbnb's founder almost killed the company by following textbook time management advice. So from 2016 to 2020, Airbnb's founder Brian Chesky did what every business school, every business book, and every VC will tell you to do: hire great people and get out of their way, let them do their magic. Nothing wrong with that advice because when he was doing that, the business was growing. Brian was enjoying the multiplier role. 
+
+06:40 [Dion Almaer] But around year 2020, Airbnb's growth started slowing down, costs started exploding, COVID had changed the dynamic of every business, including Airbnb. Chesky had to make a difficult decision: step in, get his hands back on the wheel, and steer the ship through the icebergs. He removed layers of leadership to make the company lean and flat, he got deeply involved in product in every critical decision, every important detail, and the result? The company delivered over 500 product improvements in just three years. Airbnb went back to being a profitable company. That's how the zones affect your time management and your priorities. There are two zones: wartime and peacetime. When Airbnb was collapsing, that was wartime. That's when you have to roll up your sleeves and get in there. Once the company stabilizes, step back again, become a multiplier. 
+
+07:37 [Dion Almaer] The key insight is that your zone dictates your role. Wartime zone can force you to move from a multiplier to a marker, or from a marker to a maker. Your system has to be this dynamic. You've gotta know which zone you're in and act accordingly. When you're building a startup or when you're in a tough market or swimming in the red ocean with sharks, it's wartime, and when you're in wartime, all bets are off. 
+
+08:11 [Dion Almaer] But even if you master your role and your zone, there is one final piece that separates the top 1% from everyone else. The third and final piece of the system is the one non-negotiable. I've seen many CEOs struggle with this until one brutal question changes everything. When I served as the CEO of our AI company a few years ago, I had a great team, the timing was great, and we had a great product. So we were one of the top 20 fastest-growing tech companies in the US, according to Deloitte Fast 500, and we were absolutely in wartime zone. Every day was just plain chaos, and every night I would stay up wondering if we can hire the right people fast enough, whether our customers were delighted to have us as their partners. And then I started realizing that I was becoming a bottleneck in every decision. I had to ask myself that one question: what is the one thing that only I can do? That one thing I should focus on while I delegate everything else? 
+
+09:18 [Dion Almaer] And I thought about it, and I realized that we were growing because of our mission. If I could focus on building relationships with our people and with our customers, then I could articulate our mission even more clearly. I focused on that one thing: relationships. On recruiting, on culture, on internal communication, on customer partnership, every touchpoint that helped me build the relationships. The rest of it, I delegated. I still had daily standups with our C-level team, we had our weekly leadership meeting, product meetings, tech meetings, finance meetings. That's the operating rhythm of the company, and you need that to build the execution muscle. But for me personally, my proactive focus was on that one thing that I couldn't delegate, which was building mission-driven relationships. Now, I'm not sharing this to show off or anything, but to showcase how you can put your CEO hat on. Your 3-2-1 system is about three roles, two zones, one non-negotiable. 
+
+10:32 [Dion Almaer] You have identified your one non-negotiable, but how do you actually delegate everything else without it all falling apart? The best leaders don't manage time; they manage trust. Steve Jobs and Jony Ive are the gold standard when it comes to this. Jony Ive was the chief design leader at Apple, and he designed iPod and iPhone, iPad, Apple Watch. These were complex tasks, right? The designs had to be tasteful, but they had to keep in mind the cost—cost of manufacturing, cost of supply chain, all of that. So Steve Jobs and Jony would meet every day for lunch, and then they could go for a walk, and they would talk about business, design, aesthetics, art. Steve would ask deep questions, he would review everything; every detail mattered to him. 
+
+11:23 [Dion Almaer] But here's the thing: Jony never felt micromanaged. Why? Because Steve Jobs was there as a partner, not as a boss. He was in the details to learn everything, not to control everything. And that's what most people miss when they move from doing to delegating, because leading is not about time management, it's about trust management. You review things but to coach, you connect but to provide context, you step in but to unblock others. So your time management, outside of your own deep work, is spent on developing and managing trust. 
+
+12:05 [Dion Almaer] And how do you find the right rhythm for delegation? It depends on three things. If your teammate is new to the task, work alongside them; build trust by giving comfort. If they have some experience, guide them closely, review steps; but build trust by giving clarity. And if they're experts, step in to unblock; build trust by giving context. That's what Steve Jobs was doing with Jony Ive. If new hires get too much freedom, they will fail. And if experienced people get micromanaged, they will quit. You lose both ways. So that's trust management. Trust speeds up everything. 
+
+12:44 [Dion Almaer] And remember, you don't need to be a CEO or a founder to apply any of these ideas, right? You can still apply to your calendar, with your teammate, to your roommate, your partner, your spouse, your kids, whoever. So here's what I would invite you to do this week: pick any of the following—define your role, name your zone, write your one non-negotiable, or delegate one repeatable task. And remember the eternal principle: you cannot control time, you can only steward the time you have. In the end, good time management helps you make time for what matters to you personally, things that bring you joy and happiness, because your time is finite. If you like this video, I hope you find time for another one here that I think you will enjoy. See you next week. Thank you, and I love you.

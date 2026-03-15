@@ -1,0 +1,753 @@
+---
+title: Cleo Abram_Why This Olympic Sport Bothers Physicists_20260205
+audio_file: Cleo Abram_Why This Olympic Sport Bothers Physicists_20260205.mp3
+note_id: 68f054d3-1608-4d6e-973b-9ed8bdb64b0a
+date_processed: '2026-02-20'
+classification:
+  primary_domain: Physics
+  sub_domains:
+  - Mechanics
+  - Materials Science
+  - Sports Science
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: Cleo Abram
+    role: Host/Reporter
+    contribution: Explaining curling and its physics
+  works_cited: []
+  concepts_mentioned:
+  - Curling
+  - Physics of Curling
+  - Granite
+  - Friction
+  - Ice Texture
+  - Sweeping
+  laws_theories_cited: []
+concepts:
+- name: Curling
+  definition: A sport where players slide stones on ice towards a target
+  parent_concepts:
+  - Winter Sports
+  related_concepts:
+  - Ice Hockey
+  - Figure Skating
+  abstraction_level: Practical
+  confidence: 1.0
+- name: Physics of Curling
+  definition: The study of the physical principles governing curling
+  parent_concepts:
+  - Physics
+  related_concepts:
+  - Friction
+  - Motion
+  abstraction_level: Applied
+  confidence: 1.0
+- name: Granite
+  definition: A type of rock used to make curling stones
+  parent_concepts:
+  - Geology
+  related_concepts:
+  - Minerals
+  - Rocks
+  abstraction_level: Fundamental
+  confidence: 1.0
+- name: Friction
+  definition: The force opposing motion between two surfaces
+  parent_concepts:
+  - Physics
+  related_concepts:
+  - Motion
+  - Forces
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: Sweeping
+  definition: The act of using brooms to influence the motion of a curling stone
+  parent_concepts:
+  - Curling
+  related_concepts:
+  - Curling Strategy
+  abstraction_level: Practical
+  confidence: 1.0
+relationships:
+- source_concept: Curling
+  target_concept: Physics of Curling
+  relationship_type: derives_from
+  strength: 1.0
+  evidence: The sport of curling relies on physical principles
+  reasoning: Curling is a physical activity governed by laws of physics
+- source_concept: Friction
+  target_concept: Sweeping
+  relationship_type: influences
+  strength: 1.0
+  evidence: Sweeping affects the friction between the stone and ice
+  reasoning: Sweeping changes the ice texture, which affects friction
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Physics
+  source_concept: Friction in Curling
+  target_domain: Economics
+  target_concept: Market Friction
+  insight: Friction in both domains affects the efficiency of transactions or movements
+  explanation: In physics, friction affects the motion of the curling stone, while
+    in economics, market friction refers to the inefficiencies that prevent markets
+    from reaching equilibrium. Both concepts deal with the idea of resistance or hindrance
+    to movement or exchange. This analogy highlights the importance of understanding
+    and mitigating friction in various domains to achieve optimal outcomes.
+  potential_applications:
+  - Optimizing market structures
+  - Improving curling stone design
+  confidence: 0.8
+  historical_example: The concept of friction has been applied in economics since
+    the 19th century, with pioneers like Alfred Marshall discussing market friction
+    in his work
+- connection_type: principle_application
+  source_domain: Physics
+  source_concept: Conservation of Momentum
+  target_domain: Biology
+  target_concept: Cell Migration
+  insight: The principle of conservation of momentum can be applied to understand
+    cell migration patterns
+  explanation: In physics, the conservation of momentum is a fundamental principle
+    that describes how the total momentum of a closed system remains constant over
+    time. Similarly, in biology, the migration of cells can be understood through
+    the lens of momentum conservation, where the collective movement of cells is influenced
+    by the interactions between individual cells and their environment. This principle
+    can help researchers model and predict cell migration patterns, which is crucial
+    in understanding various biological processes, including wound healing and cancer
+    metastasis.
+  potential_applications:
+  - Modeling cell migration
+  - Understanding tissue development
+  confidence: 0.9
+  historical_example: The application of physical principles to biological systems
+    dates back to the work of D'Arcy Thompson, who applied mathematical and physical
+    concepts to understand biological forms and processes
+- connection_type: metaphor
+  source_domain: Physics
+  source_concept: Sweeping in Curling
+  target_domain: Team Management
+  target_concept: Team Coordination
+  insight: The act of sweeping in curling can be seen as a metaphor for team coordination
+    and strategy
+  explanation: In curling, sweeping is a crucial aspect of the game that requires
+    coordination and strategy between team members. Similarly, in team management,
+    effective coordination and communication among team members are essential for
+    achieving common goals. The metaphor of sweeping highlights the importance of
+    timing, trust, and adaptability in team dynamics, where individual efforts must
+    be synchronized to achieve optimal outcomes.
+  potential_applications:
+  - Improving team coordination
+  - Developing strategic planning
+  confidence: 0.7
+  historical_example: The concept of teamwork and coordination has been studied in
+    various domains, including sports, military, and business, with notable examples
+    like the Apollo 11 mission and the New Zealand All Blacks rugby team
+bridge_concepts:
+- concept: Granite
+  appears_in_domains:
+  - Physics
+  - Geology
+  - Materials Science
+  role: Granite is a material with unique properties that make it suitable for various
+    applications, including curling stones
+  examples:
+  - Curling stones are made from granite
+  - Granite is used in construction due to its durability
+  - Granite is studied in geology for its formation and composition
+mental_models:
+- name: Systems Thinking
+  description: A mental model that involves understanding complex systems as a set
+    of interconnected components
+  applied_to:
+  - Understanding the dynamics of curling, including the interactions between the
+    stone, ice, and sweepers
+  transferable_to:
+  - Analyzing complex biological systems
+  - Optimizing industrial processes
+analogies_used:
+- source_domain: Navigation
+  source_concept: Steering a ship
+  target_domain: Physics
+  target_concept: Controlling the trajectory of a curling stone
+  mapping:
+    Steering: Sweeping
+    Ship: Curling stone
+  pedagogical_value: This analogy helps to explain the concept of controlling the
+    trajectory of a curling stone by adjusting the sweeping motion, similar to how
+    a ship is steered by adjusting its course
+tags:
+  hierarchical:
+  - '#Physics → #Mechanics → #Sports Science → #Curling'
+  - '#Sports → #Winter Sports → #Curling'
+  topical:
+  - '#Curling'
+  - '#PhysicsOfCurling'
+  - '#Granite'
+  - '#Friction'
+  - '#Sweeping'
+  methodological:
+  - '#Experimentation'
+  - '#Observation'
+  people:
+  - '#CleoAbram'
+  concepts:
+  - '#Curling'
+  - '#PhysicsOfCurling'
+  temporal: []
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  Cleo Abram takes viewers to the Olympic trials to showcase the fascinating sport
+  of curling, which is often misunderstood and mocked. Despite its seemingly simple
+  concept, curling involves complex strategy, physics, and technique, with elements
+  like the specially crafted stones, pebbled ice, and sweeping playing crucial roles
+  in the game. As Cleo delves deeper into the sport, she discovers a long-standing
+  mystery surrounding the curling stone''s movement, which has puzzled scientists
+  for over a century and has implications for fields beyond sports, including tribology
+  and space exploration.'
+key_ideas:
+- idea: Here are 3-5 key ideas or concepts discussed in the transcription text
+  description: ''
+- idea: The sport of curling is often misunderstood and underappreciated, but it is
+    actually a complex and fascinating game that requires strategy, physics, and skill,
+    with the speaker arguing that it is the most fascinating Olympic sport.
+  description: No description provided by model.
+- idea: The equipment used in curling, such as the stones and brooms, is highly specialized
+    and plays a crucial role in the game, with the stones being made from a specific
+    type of granite found only on one island and the brooms being designed to manipulate
+    the ice to control the stone's movement.
+  description: No description provided by model.
+- idea: The physics of curling is not yet fully understood, with the "curling problem"
+    being a legendary mystery in the field of tribology, the science of rubbing, and
+    researchers proposing various theories to explain why curling stones move in the
+    opposite direction of their spin.
+  description: No description provided by model.
+- idea: The sport of curling has a rich history and culture, with a strong emphasis
+    on sportsmanship and etiquette, and is one of the oldest team sports in the world,
+    with evidence of curling dating back to the 16th century.
+  description: No description provided by model.
+- idea: The study of curling and its physics has broader implications and applications,
+    such as understanding how surfaces interact and how to design better robots for
+    space exploration, particularly for drilling through ice on other planets and
+    moons.
+  description: No description provided by model.
+---
+## Key Concepts
+
+**Curling**  
+A sport where players slide stones on ice towards a target
+
+**Physics of Curling**  
+The study of the physical principles governing curling
+
+**Granite**  
+A type of rock used to make curling stones
+
+**Friction**  
+The force opposing motion between two surfaces
+
+**Sweeping**  
+The act of using brooms to influence the motion of a curling stone
+
+## Cross-Domain Connections
+
+**Physics → Economics**
+
+*Friction in both domains affects the efficiency of transactions or movements*
+
+In physics, friction affects the motion of the curling stone, while in economics, market friction refers to the inefficiencies that prevent markets from reaching equilibrium. Both concepts deal with the idea of resistance or hindrance to movement or exchange. This analogy highlights the importance of understanding and mitigating friction in various domains to achieve optimal outcomes.
+
+**Physics → Biology**
+
+*The principle of conservation of momentum can be applied to understand cell migration patterns*
+
+In physics, the conservation of momentum is a fundamental principle that describes how the total momentum of a closed system remains constant over time. Similarly, in biology, the migration of cells can be understood through the lens of momentum conservation, where the collective movement of cells is influenced by the interactions between individual cells and their environment. This principle can help researchers model and predict cell migration patterns, which is crucial in understanding various biological processes, including wound healing and cancer metastasis.
+
+**Physics → Team Management**
+
+*The act of sweeping in curling can be seen as a metaphor for team coordination and strategy*
+
+In curling, sweeping is a crucial aspect of the game that requires coordination and strategy between team members. Similarly, in team management, effective coordination and communication among team members are essential for achieving common goals. The metaphor of sweeping highlights the importance of timing, trust, and adaptability in team dynamics, where individual efforts must be synchronized to achieve optimal outcomes.
+
+## Discussion Topics
+
+- **Here are 3-5 key ideas or concepts discussed in the transcription text:** 
+- **The sport of curling is often misunderstood and underappreciated, but it is actually a complex and fascinating game that requires strategy, physics, and skill, with the speaker arguing that it is the most fascinating Olympic sport.:** No description provided by model.
+- **The equipment used in curling, such as the stones and brooms, is highly specialized and plays a crucial role in the game, with the stones being made from a specific type of granite found only on one island and the brooms being designed to manipulate the ice to control the stone's movement.:** No description provided by model.
+- **The physics of curling is not yet fully understood, with the "curling problem" being a legendary mystery in the field of tribology, the science of rubbing, and researchers proposing various theories to explain why curling stones move in the opposite direction of their spin.:** No description provided by model.
+- **The sport of curling has a rich history and culture, with a strong emphasis on sportsmanship and etiquette, and is one of the oldest team sports in the world, with evidence of curling dating back to the 16th century.:** No description provided by model.
+- **The study of curling and its physics has broader implications and applications, such as understanding how surfaces interact and how to design better robots for space exploration, particularly for drilling through ice on other planets and moons.:** No description provided by model.
+
+## Full Transcription
+
+
+
+00:00 - 00:02 Cleo Abram: Ready?
+
+00:02 - 00:06 Cleo Abram: I'm about to take you to the Olympic trials with NBC and YouTube.
+
+00:06 - 00:10 Cleo Abram: Every four years, people lose their minds over one Olympic sport.
+
+00:10 - 00:13 Cleo Abram: They're making fun of it, and I find that so frustrating.
+
+00:13 - 00:17 Cleo Abram: Because the more I learn about this sport, the more obsessed I get.
+
+00:17 - 00:21 Cleo Abram: And I realized that all these people making fun, they're getting this totally wrong.
+
+00:21 - 00:24 Cleo Abram: The sport I'm talking about is...
+
+00:24 - 00:25 Speaker 2: Whoa.
+
+00:25 - 00:26 Cleo Abram: Curling.
+
+00:26 - 00:27 Speaker 2: Whoa.
+
+00:27 - 00:30 Cleo Abram: It turns out that curling is the most fascinating Olympic sport by far.
+
+00:30 - 00:34 Cleo Abram: The deeper I went, the crazier this got. From stones so expensive and special, 
+
+00:34 - 00:38 Cleo Abram: they all have to come from one tiny island, to a tech doping scandal no one wants to talk about.
+
+00:38 - 00:43 Cleo Abram: It's a game with strategy so complicated, it's called chess on ice.
+
+00:43 - 00:45 Speaker 2: Wow, what a shot.
+
+00:45 - 00:49 Cleo Abram: And a physics mystery that's gone unsolved for over a century...
+
+00:49 - 00:52 Cleo Abram: That might one day help us build robots for space.
+
+00:52 - 00:55 Cleo Abram: And that's just the start. Trust me, you don't know enough about curling...
+
+00:55 - 00:57 Cleo Abram: Yet.
+
+00:57 - 01:00 Cleo Abram: I'm going to take you onto the ice to show you what everyone's missing...
+
+01:00 - 01:02 Cleo Abram: And why curling is the Olympic sport that you should be watching.
+
+01:02 - 01:03 Cleo Abram: Let's go.
+
+01:21 - 01:23 Cleo Abram: Exhausted already.
+
+01:24 - 01:31 Cleo Abram: I'm standing on the ice at the U.S. Olympic and Paralympic curling trials.
+
+01:31 - 01:34 Cleo Abram: Imagine you're an Olympic curler. This is your field of play.
+
+01:34 - 01:37 Cleo Abram: At each end, there's a bullseye called the house.
+
+01:37 - 01:41 Cleo Abram: And right in the middle is the button. And the goal is to get this stone as close to that button as you can.
+
+01:41 - 01:44 Cleo Abram: You start here, at the hack.
+
+01:44 - 01:48 Cleo Abram: And you need to release the stone before you reach here. That's called the hog line.
+
+01:48 - 01:52 Cleo Abram: And this is super important. When you throw the stone, you add a slight spin...
+
+01:52 - 01:56 Cleo Abram: Sending it on a curved trajectory. That's what puts the "curl" in curling.
+
+01:56 - 02:00 Cleo Abram: And after you throw, your teammates sweep with these brooms in front of the stone to help get it to the right place.
+
+02:00 - 02:04 Cleo Abram: On a team of four, everybody throws two stones, for a total of 16 stones.
+
+02:04 - 02:08 Cleo Abram: After all 16, the team with the stone closest to the button wins that round.
+
+02:08 - 02:13 Cleo Abram: If you win, you get a point, and then your winning team also gets extra points for every stone closer to the button than the losing team.
+
+02:13 - 02:18 Cleo Abram: If you lose the round, no points for you. And after 10 rounds, or ends, the team with the most points wins.
+
+02:18 - 02:22 Cleo Abram: As a player, you're trusted to tally your own points and even call your own fouls.
+
+02:22 - 02:26 Cleo Abram: Even in the Olympics. It's why curling is called the gentleman's sport.
+
+02:26 - 02:30 Cleo Abram: But it goes even further than that. You always shake hands with the other team.
+
+02:30 - 02:34 Cleo Abram: You must compliment each other's shots. I'm serious, it's amazing.
+
+02:34 - 02:38 Cleo Abram: And at the end, the teams meet up and the winners always buy the first round of beers.
+
+02:38 - 02:42 Cleo Abram: You can already see why I fell in love with this sport.
+
+02:42 - 02:46 Cleo Abram: And I'm just getting started. Wait till you hear about the stone and the brooms...
+
+02:46 - 02:50 Cleo Abram: Because they are so much more fascinating than they look.
+
+02:59 - 03:02 Cleo Abram: Look at this thing. Almost 20 kilograms of granite.
+
+03:02 - 03:06 Cleo Abram: Every single Olympic curling stone is made by one little Scottish company...
+
+03:06 - 03:09 Cleo Abram: That's been making curling stones for over 170 years.
+
+03:09 - 03:13 Cleo Abram: And they all have to be quarried from this island right here...
+
+03:13 - 03:16 Cleo Abram: Which is special because of its very unique chemistry.
+
+03:16 - 03:20 Cleo Abram: Sixty million years ago, deep underground, an eruption released magma that never reached the surface...
+
+03:20 - 03:23 Cleo Abram: Creating what's known as a granite plug.
+
+03:23 - 03:27 Cleo Abram: That magma cooled, and over millions of years, the surrounding land eroded away...
+
+03:27 - 03:31 Cleo Abram: Leaving behind the island that we see today, which is totally normal.
+
+03:31 - 03:35 Cleo Abram: But the weird thing about Ailsa Craig is its chemical composition.
+
+03:35 - 03:39 Cleo Abram: Specifically, its very low in aluminum, which led to uncommon minerals appearing in the granite.
+
+03:39 - 03:44 Cleo Abram: And that, likely paired with the rate that it cooled, resulted in a very fine-textured stone with a very tight molecular structure...
+
+03:44 - 03:48 Cleo Abram: Which makes the stones super water and crack-resistant.
+
+03:48 - 03:53 Cleo Abram: That's also why a single stone can cost over 600 dollars, and a full set of 16 can cost 9,600.
+
+03:53 - 03:57 Cleo Abram: And the bottom of each stone isn't flat. It's concave with a textured ring.
+
+03:57 - 04:00 Cleo Abram: That's the only part of the rock that's actually ever touching the ice.
+
+04:00 - 04:04 Cleo Abram: It's called the running band. So these stones are designed to glide perfectly.
+
+04:04 - 04:08 Cleo Abram: But you still have to throw it. And I can hear what you're thinking:
+
+04:08 - 04:10 Cleo Abram: How hard can that really be?
+
+04:10 - 04:12 Speaker 3: There you go. Yep.
+
+04:12 - 04:13 Speaker 3: Exactly.
+
+04:13 - 04:15 Cleo Abram: That was good.
+
+04:15 - 04:16 Cleo Abram: Oh my god, that's so hard.
+
+04:17 - 04:20 Cleo Abram: Nope, nope, nope, nope, nope, nope, nope.
+
+04:20 - 04:24 Cleo Abram: But being able to slide and release the stone was just the start. You also got to add that curl.
+
+04:24 - 04:26 Cleo Abram: There's so many things to think about right now.
+
+04:26 - 04:27 Speaker 3: Yeah.
+
+04:27 - 04:28 Cleo Abram: Okay.
+
+04:28 - 04:31 Cleo Abram: And I'm just trying to throw it. I'm not even considering exactly where it should land.
+
+04:31 - 04:36 Cleo Abram: The goal of every shot isn't just to get it as close to the button as possible.
+
+04:36 - 04:39 Cleo Abram: There's a lot of strategy involved. If a stone cleanly makes it to the house...
+
+04:39 - 04:42 Cleo Abram: That's a "draw," and it means they're looking to score points.
+
+04:42 - 04:46 Cleo Abram: If a stone knocks another out of place, that's a "takeout."
+
+04:46 - 04:50 Cleo Abram: It's an offensive play to prevent the other team from scoring or to get them out of the way.
+
+04:50 - 04:54 Cleo Abram: And if a stone stops just short of the house, that's a "guard."
+
+04:54 - 04:57 Cleo Abram: It's to protect another well-placed stone.
+
+04:57 - 05:01 Cleo Abram: It gets complicated, and this is why curling is sometimes called chess on ice.
+
+05:01 - 05:03 Speaker 4: Rocks got to be thin.
+
+05:03 - 05:04 Speaker 4: Close.
+
+05:04 - 05:05 Speaker 4: 1, 2, 3...
+
+05:05 - 05:06 Cleo Abram: That's an amazing shot.
+
+05:07 - 05:09 Cleo Abram: That's the best shot I've ever seen in my life.
+
+05:09 - 05:13 Cleo Abram: And all this strategy is planned and led by the team's captain: the skip.
+
+05:13 - 05:15 Cleo Abram: And how do you know which one's the skip?
+
+05:15 - 05:19 Cleo Abram: He's the one that's yelling his head off at us. So the skip, what he's doing is...
+
+05:19 - 05:23 Cleo Abram: He's giving us all the strategy at the other end and he's giving us a target to throw at.
+
+05:23 - 05:25 Speaker 3: There you go.
+
+05:25 - 05:27 Speaker 3: And good push.
+
+05:27 - 05:30 Cleo Abram: There's no chance that's getting all the way down. Someone would have to sweep it.
+
+05:30 - 05:34 Cleo Abram: Sweeping is one of my favorite parts of curling to watch.
+
+05:34 - 05:38 Cleo Abram: Like, it looks a little funny. When NBC and YouTube asked what sport I wanted to focus on for this Olympics partnership...
+
+05:38 - 05:42 Cleo Abram: I immediately said curling. Because look at it.
+
+05:42 - 05:46 Cleo Abram: But this is actually very unique. This is the only Olympic sport where players can manipulate the game object...
+
+05:46 - 05:49 Cleo Abram: After it's thrown. The goal of sweeping is to get the stone to go where you want...
+
+05:49 - 05:53 Cleo Abram: But they do that by changing the ice.
+
+05:53 - 05:57 Cleo Abram: Because this isn't like any other ice you've ever seen.
+
+05:57 - 06:01 Cleo Abram: Get down with me here and look at this ice. It's not smooth.
+
+06:01 - 06:05 Cleo Abram: You see those bumps? That's intentional. This ice is totally different from ice for ice hockey or figure skating.
+
+06:05 - 06:09 Cleo Abram: They're professional ice technicians who spray purified water...
+
+06:09 - 06:13 Cleo Abram: Let it freeze, and then shave it down to get this very specific texture.
+
+06:13 - 06:17 Cleo Abram: It's called "pebbling." If you try to slide a stone on flat ice, it won't go very far.
+
+06:17 - 06:21 Cleo Abram: So the pebble gives it a smaller surface area to ride on, so it'll go further and smoother.
+
+06:21 - 06:25 Cleo Abram: So when curlers are sweeping, they're trying to change the ice to do one of two things.
+
+06:25 - 06:29 Cleo Abram: The first is make the stone go farther. All of this very aggressive sweeping...
+
+06:29 - 06:33 Cleo Abram: Slightly melts the pebbles on top of the ice, creating a thin layer of water for the stones to slide over.
+
+06:33 - 06:37 Cleo Abram: And because stone-on-water has less friction than stone-on-ice, the stone slides farther and straighter...
+
+06:37 - 06:40 Cleo Abram: Up to three meters farther.
+
+06:40 - 06:44 Cleo Abram: But actually doing this is, I now know, really hard.
+
+06:44 - 06:48 Cleo Abram: First, you have to keep up with the stone. And then you have to put like all of your weight onto the broom...
+
+06:48 - 06:51 Speaker 3: Because you want it to get to a point where - we don't have to try this on the ice...
+
+06:51 - 06:52 Speaker 3: But where you can actually like...
+
+06:53 - 06:56 Cleo Abram: And then you have to move it back and forth so fast that you're melting ice.
+
+06:56 - 07:00 Cleo Abram: And the thing is, they're not just melting the ice. They're actually kind of putting like "divots" into the ice.
+
+07:00 - 07:04 Cleo Abram: Super tiny scratches that can influence how the stone curls.
+
+07:04 - 07:08 Cleo Abram: And it only takes one person sweeping to make a big difference.
+
+07:08 - 07:12 Cleo Abram: Sweeping with the curl of the stone will make it curl more, while sweeping the other way will make it curl less.
+
+07:12 - 07:16 Cleo Abram: So when you're watching the Olympics, if you see two people sweeping, that's probably because they're trying to make it go farther...
+
+07:16 - 07:20 Cleo Abram: And if you see one person sweeping, it's probably because they're trying to influence the direction.
+
+07:20 - 07:24 Cleo Abram: So sweeping matters, which means the brooms that they sweep with matter a lot too.
+
+07:24 - 07:29 Cleo Abram: So much so that in 2015, this broom started a massive scandal.
+
+07:29 - 07:31 Speaker 5: It's just simply not fair.
+
+07:31 - 07:33 Speaker 5: Dramatically changing the game.
+
+07:33 - 07:34 Speaker 5: The performance-enhancing brooms.
+
+07:34 - 07:37 Speaker 5: This is one sports controversy you can't just sweep under the rug.
+
+07:37 - 07:41 Cleo Abram: During the 2015 curling season, a certain broom got really popular: the Hardline IcePad.
+
+07:41 - 07:45 Cleo Abram: It had a waterproof head with a directional fabric. Players said it was the most effective broom on the market.
+
+07:45 - 07:47 Cleo Abram: Some said too effective.
+
+07:47 - 07:50 Speaker 5: Brooms continue to be a percolating controversy here at the masters.
+
+07:50 - 07:54 Cleo Abram: So, many of the players agreed to turn the pad inside out as a courtesy.
+
+07:54 - 07:58 Cleo Abram: Again, the gentleman's sport. But then another company released an even more effective broom.
+
+07:58 - 08:02 Cleo Abram: The head of this broom was super coarse. Players started comparing these new brooms to joysticks...
+
+08:02 - 08:06 Cleo Abram: And they hated it. It was like damaging the ice surface too much...
+
+08:06 - 08:10 Cleo Abram: And you could literally throw it horrible and your sweepers would make the shot for you.
+
+08:10 - 08:14 Cleo Abram: Which is a problem because it threw off the balance of the game. Sweeping is supposed to enhance the shot, not steer the stone entirely.
+
+08:14 - 08:18 Cleo Abram: And it essentially took like the shooting skill out of the game.
+
+08:18 - 08:22 Cleo Abram: It caused such a huge controversy that 22 teams signed an agreement not to use these directional fabrics.
+
+08:22 - 08:26 Cleo Abram: Even though there were no rules about the heads of brooms at the time. They just agreed that it wasn't sportsmanlike.
+
+08:26 - 08:31 Cleo Abram: But in under a year, the World Curling Federation stepped in, testing over 50 types of brooms...
+
+08:31 - 08:35 Cleo Abram: And creating the first set of regulations that made these brooms illegal.
+
+08:35 - 08:37 Speaker 3: They put you in jail, right away.
+
+08:37 - 08:41 Speaker 3: Sweeping, I always say, should make a good shot great, could make a mediocre shot good...
+
+08:41 - 08:43 Speaker 3: But it shouldn't take a bad throw and make it good.
+
+08:43 - 08:47 Speaker 3: This is our current version that we have now. So the handle is carbon fiber...
+
+08:47 - 08:51 Speaker 3: And then inside of this is basically just a piece of foam and a couple pieces of plastic.
+
+08:51 - 08:55 Speaker 3: And every single broom head that we use in like competitive curling is all coming from this same yellow fabric.
+
+08:55 - 09:00 Cleo Abram: And the balance of sweeping and throwing was restored. But hold on a minute. Did you see that?
+
+09:00 - 09:04 Cleo Abram: Something weird just happened there. Play that back.
+
+09:04 - 09:08 Cleo Abram: You see that? The stone curls in the same direction that it spins.
+
+09:08 - 09:12 Cleo Abram: That's weird. Typically, if you take an object like this and move it forward...
+
+09:12 - 09:15 Cleo Abram: If you spin it one direction, it'll move the other direction.
+
+09:15 - 09:19 Cleo Abram: You see that? That's because of friction. So as the glass moves forward, it's trying to tip.
+
+09:19 - 09:23 Cleo Abram: So there's a little bit of added weight there, and more weight means more friction.
+
+09:23 - 09:27 Cleo Abram: So the front of the object is slowed down by that force, and the back keeps moving...
+
+09:27 - 09:31 Cleo Abram: So the object follows the path of least resistance and curls in the opposite direction.
+
+09:31 - 09:35 Cleo Abram: This is normal, expected, and easily explained by physics.
+
+09:35 - 09:39 Cleo Abram: Curling stones do the opposite. They curl in the same direction that they spin.
+
+09:39 - 09:43 Cleo Abram: And that is challenging our understanding of physics and how things move.
+
+09:43 - 09:47 Cleo Abram: We have been asking why curling stones move this way for a hundred years.
+
+09:47 - 09:51 Cleo Abram: See, some people think curling is a new addition to the Olympics.
+
+09:51 - 09:55 Cleo Abram: But it is the most Olympic sport and I will die on this pebbled, icy hill.
+
+09:55 - 09:56 Cleo Abram: Sorry.
+
+09:56 - 10:00 Cleo Abram: It was part of the very first Winter Olympics in 1924, where they used...
+
+10:00 - 10:04 Cleo Abram: You guessed it: stones from that same island.
+
+10:04 - 10:08 Cleo Abram: It's possible that curling is one of the oldest team sports in the world.
+
+10:08 - 10:12 Cleo Abram: This stone was even recovered from a Scottish bog with the date 1511.
+
+10:12 - 10:17 Cleo Abram: Which means that Da Vinci could have met up with his curling league after painting the Mona Lisa.
+
+10:17 - 10:18 Cleo Abram: Theoretically.
+
+10:18 - 10:21 Cleo Abram: But still, to this day, we can't figure out this freaking curling mystery.
+
+10:21 - 10:25 Cleo Abram: And it's not just about this game. It's about understanding how surfaces interact.
+
+10:25 - 10:29 Cleo Abram: This is the science of rubbing, also called "tribology."
+
+10:29 - 10:33 Cleo Abram: And within that field, the curling problem is legendary.
+
+10:33 - 10:37 Cleo Abram: Partly because it's a good mystery, and also because the physics of ice rubbing against things applies to a lot of important stuff.
+
+10:37 - 10:41 Cleo Abram: Big things like predicting how huge ice glaciers are going to slide over bedrock...
+
+10:41 - 10:45 Cleo Abram: Or things in your daily life like figuring out how cars can perform better on icy roads.
+
+10:45 - 10:47 Cleo Abram: And my favorite example:
+
+10:47 - 10:48 Cleo Abram: Finding alien life.
+
+10:48 - 10:52 Cleo Abram: Seriously, because right now NASA and other space agencies are actively planning missions to these two moons...
+
+10:52 - 10:56 Cleo Abram: That are covered with thick ice with liquid oceans underneath...
+
+10:56 - 11:00 Cleo Abram: And are the most likely places in our solar system to find alien life.
+
+11:00 - 11:04 Cleo Abram: But to get into those oceans, we need to build robots that could drill or melt through nearly 30 kilometers of ice.
+
+11:04 - 11:08 Cleo Abram: So we really need to know how the spinning robot would interact with the ice next to it...
+
+11:08 - 11:12 Cleo Abram: Which is the same physics problem as in curling.
+
+11:12 - 11:16 Cleo Abram: I'm not saying that we need to solve the mystery of curling in order to find aliens...
+
+11:16 - 11:18 Cleo Abram: But it's all connected.
+
+11:18 - 11:22 Cleo Abram: And big picture, when something happens in a way that we don't expect...
+
+11:22 - 11:25 Cleo Abram: It's really important, not just for this sport but for science, to ask "why?"
+
+11:25 - 11:27 Cleo Abram: So here are the top three guesses.
+
+11:27 - 11:31 Cleo Abram: Some scientists figured out that if objects like the glass curl the way that they do because of more friction at the front...
+
+11:31 - 11:35 Cleo Abram: Then something must be causing more friction at the back of a curling stone.
+
+11:35 - 11:39 Cleo Abram: So maybe it melts the ice at the front, which reduces the friction there...
+
+11:39 - 11:43 Cleo Abram: And since there's more friction at the back, it curls with the rotation.
+
+11:43 - 11:46 Cleo Abram: A very tidy theory that was totally wrong.
+
+11:46 - 11:50 Cleo Abram: Later studies found that the rotation was too slow to cause such a dramatic curl.
+
+11:50 - 11:52 Cleo Abram: So, never mind. Next theory.
+
+11:52 - 11:54 Cleo Abram: This one is very convincing.
+
+11:54 - 11:58 Cleo Abram: This theory suggests that as the stone moves forward, that rough texture on the bottom...
+
+11:58 - 12:02 Cleo Abram: Creates microscopic angular scratches on the pebbled ice.
+
+12:02 - 12:06 Cleo Abram: And we know from "Broomgate" that deep scratches can affect direction.
+
+12:06 - 12:10 Cleo Abram: So if the stone is rotating clockwise, the front edge would create scratches that would angle to the right.
+
+12:10 - 12:14 Cleo Abram: So when the back of the stone reaches those divots, it has to kind of hop over them...
+
+12:14 - 12:18 Cleo Abram: Pushing it sideways in the direction of rotation.
+
+12:18 - 12:22 Cleo Abram: Here's a close-up of a pebble on the ice showing that the curling stone definitely does make microscopic scratches.
+
+12:22 - 12:25 Cleo Abram: Except when another scientist ran another study, it didn't work.
+
+12:25 - 12:29 Cleo Abram: They said that the scratches were too small to make a difference on their own.
+
+12:29 - 12:31 Cleo Abram: Okay, so final theory.
+
+12:31 - 12:34 Cleo Abram: This one is easier to understand with a comb.
+
+12:34 - 12:36 Cleo Abram: If you run your finger along these...
+
+12:36 - 12:39 Cleo Abram: You see how they bend and snap back?
+
+12:39 - 12:43 Cleo Abram: Researchers think that that's what's happening with the ice under a curling stone.
+
+12:43 - 12:47 Cleo Abram: So as the curling stone moves across the pebbles, it sticks to them for just a moment...
+
+12:47 - 12:51 Cleo Abram: Which pulls like the tines of the comb.
+
+12:51 - 12:55 Cleo Abram: And this sticking and snapping causes it to pivot and slide forward over and over.
+
+12:55 - 12:59 Cleo Abram: But all of these things are happening at such a small scale under a moving rock.
+
+12:59 - 13:03 Cleo Abram: Researchers in Japan ran a very comprehensive study testing these theories...
+
+13:03 - 13:07 Cleo Abram: And they found that both are plausible. One thing is clear:
+
+13:07 - 13:11 Cleo Abram: Curling is a game of millimeters. Tiny, microscopic things are at play here.
+
+13:11 - 13:12 Cleo Abram: But for curlers...
+
+13:12 - 13:14 Speaker 3: Oh, the physics?
+
+13:14 - 13:17 Speaker 3: In the moment, we do not think about the physics at all.
+
+13:17 - 13:21 Cleo Abram: After all of this, I'm trying to put my finger on why it frustrates me so much when people make fun of curling.
+
+13:21 - 13:25 Cleo Abram: And I think I figured it out. Curling is one of the best examples I've ever seen...
+
+13:25 - 13:29 Cleo Abram: Of why it's so important to be interested in the world and the people around you.
+
+13:29 - 13:33 Cleo Abram: It's lame to be the constant cynic. It's so limited.
+
+13:33 - 13:37 Cleo Abram: You only see what's on the surface. But if you're curious enough to dig a little bit deeper...
+
+13:37 - 13:41 Cleo Abram: You get to discover that what might seem a little strange...
+
+13:41 - 13:45 Cleo Abram: Is actually the most interesting.
+
+13:45 - 13:48 Cleo Abram: You just have to be willing to turn over those stones.
+
+14:02 - 14:07 Cleo Abram: Thank you so much to YouTube and NBC for making this video possible.
+
+14:07 - 14:11 Cleo Abram: These curlers that we met are officially going to the Olympics...
+
+14:11 - 14:13 Cleo Abram: And I'm going to be cheering for them.

@@ -1,0 +1,997 @@
+---
+title: Y Combinator_OpenClaw Creator： Why 80% Of Apps Will Disappear_20260207_part1
+audio_file: Y Combinator_OpenClaw Creator： Why 80% Of Apps Will Disappear_20260207_part1.mp3
+note_id: ebdcfa7c-33d8-4ae2-83f5-94edd32fbcf9
+date_processed: '2026-02-23'
+classification:
+  primary_domain: Artificial Intelligence
+  sub_domains:
+  - Machine Learning
+  - Natural Language Processing
+  - Personal AI Agents
+  difficulty_level: Intermediate
+  content_type: Interview
+entities:
+  people:
+  - name: Peter Steinberger
+    role: Creator of OpenClaw
+    contribution: Developed OpenClaw, a personal AI agent
+  - name: Speaker 1
+    role: Interviewer
+    contribution: Conducted the interview with Peter Steinberger
+  works_cited: []
+  concepts_mentioned:
+  - OpenClaw
+  - Personal AI Agents
+  - Machine Learning
+  - Natural Language Processing
+  - Swarm Intelligence
+  laws_theories_cited: []
+concepts:
+- name: OpenClaw
+  definition: A personal AI agent that can run on a user's computer and perform various
+    tasks
+  parent_concepts:
+  - Artificial Intelligence
+  related_concepts:
+  - Machine Learning
+  - Natural Language Processing
+  abstraction_level: Applied
+  confidence: 1.0
+- name: Swarm Intelligence
+  definition: A type of intelligence that emerges from the interactions of multiple
+    agents or systems
+  parent_concepts:
+  - Artificial Intelligence
+  related_concepts:
+  - Machine Learning
+  - Natural Language Processing
+  abstraction_level: Theoretical
+  confidence: 0.9
+relationships:
+- source_concept: OpenClaw
+  target_concept: Swarm Intelligence
+  relationship_type: supports
+  strength: 0.8
+  evidence: Peter Steinberger mentions that OpenClaw enables swarm intelligence
+  reasoning: The conversation implies that OpenClaw's ability to interact with other
+    agents and systems enables swarm intelligence
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Artificial Intelligence
+  source_concept: Swarm Intelligence
+  target_domain: Biology
+  target_concept: Flocking Behavior
+  insight: Swarm intelligence in AI mirrors flocking behavior in biology
+  explanation: Both swarm intelligence and flocking behavior exhibit decentralized,
+    self-organized patterns where individual agents follow simple rules to achieve
+    complex, coordinated movements. This structural analogy can be used to develop
+    more efficient algorithms in AI by studying natural systems. For instance, understanding
+    how birds adjust their flight patterns based on the movements of their neighbors
+    can inform the development of more adaptive swarm intelligence algorithms.
+  potential_applications:
+  - Autonomous vehicle coordination
+  - Robotics
+  confidence: 0.9
+  historical_example: The study of flocking behavior in birds has inspired AI algorithms
+    for swarm robotics
+- connection_type: principle_application
+  source_domain: Artificial Intelligence
+  source_concept: OpenClaw
+  target_domain: Cybersecurity
+  target_concept: Open-source security frameworks
+  insight: OpenClaw's open-source approach can be applied to cybersecurity frameworks
+  explanation: The principle of open-source development, as seen in OpenClaw, can
+    be applied to cybersecurity to create more secure and community-driven frameworks.
+    This approach allows for collective contributions and reviews, potentially leading
+    to more robust security solutions. By leveraging the power of community involvement,
+    cybersecurity frameworks can be developed and updated more rapidly, similar to
+    how OpenClaw benefits from open-source contributions.
+  potential_applications:
+  - Vulnerability detection
+  - Penetration testing
+  confidence: 0.8
+  historical_example: The success of open-source operating systems like Linux has
+    shown the potential for community-driven security
+- connection_type: metaphor
+  source_domain: Artificial Intelligence
+  source_concept: Neural Networks
+  target_domain: Economics
+  target_concept: Complex Networks
+  insight: Neural networks can be seen as complex economic networks
+  explanation: The structure and behavior of neural networks can be metaphorically
+    linked to complex economic systems, where nodes represent economic agents and
+    connections represent transactions. This metaphor can help economists understand
+    the dynamics of complex economic networks and predict potential outcomes. For
+    example, the concept of neural network layers can be applied to understanding
+    the hierarchical structure of economic systems, with different layers representing
+    different levels of economic activity.
+  potential_applications:
+  - Market prediction
+  - Risk analysis
+  confidence: 0.7
+  historical_example: The study of complex networks in economics has been influenced
+    by the understanding of neural networks in AI
+- connection_type: historical_precedent
+  source_domain: Artificial Intelligence
+  source_concept: Automation
+  target_domain: Economics
+  target_concept: Jevons Paradox
+  insight: The Jevons Paradox can inform our understanding of AI automation
+  explanation: The historical precedent of the Jevons Paradox, where increased efficiency
+    in energy use led to increased consumption, can be applied to the potential impact
+    of AI automation on jobs and resource usage. This insight can help us anticipate
+    and prepare for the potential consequences of widespread AI adoption. For instance,
+    understanding how the Jevons Paradox played out in the context of energy consumption
+    can provide valuable lessons for managing the impact of AI-driven automation on
+    the workforce.
+  potential_applications:
+  - Workforce planning
+  - Sustainability
+  confidence: 0.85
+  historical_example: The Jevons Paradox of 1865 can be seen as a precursor to the
+    AI automation paradox of the 21st century
+bridge_concepts:
+- concept: Complex Systems
+  appears_in_domains:
+  - Artificial Intelligence
+  - Biology
+  - Economics
+  role: Enables the study of interconnected systems across domains
+  examples:
+  - Neural networks in AI
+  - Ecosystems in biology
+  - Market systems in economics
+- concept: Network Science
+  appears_in_domains:
+  - Artificial Intelligence
+  - Economics
+  - Sociology
+  role: Provides a framework for analyzing and understanding complex networks
+  examples:
+  - Social networks in sociology
+  - Transportation networks in economics
+  - Neural networks in AI
+mental_models:
+- name: Systems Thinking
+  description: A holistic approach to understanding complex systems
+  applied_to:
+  - Analyzing AI systems
+  - Understanding economic networks
+  transferable_to:
+  - Biology
+  - Environmental science
+- name: First Principles
+  description: A method of reasoning from fundamental principles
+  applied_to:
+  - AI algorithm design
+  - Economic modeling
+  transferable_to:
+  - Physics
+  - Chemistry
+analogies_used:
+- source_domain: Biology
+  source_concept: Evolution
+  target_domain: Artificial Intelligence
+  target_concept: Neural Network Optimization
+  mapping:
+    Natural selection: Gradient descent
+    Genetic variation: Weight initialization
+  pedagogical_value: Helps in understanding the optimization process in neural networks
+    by drawing parallels with biological evolution
+tags:
+  hierarchical:
+  - '#Artificial Intelligence → #Machine Learning → #Natural Language Processing →
+    #Personal AI Agents'
+  topical:
+  - '#OpenClaw'
+  - '#SwarmIntelligence'
+  methodological:
+  - '#Interview'
+  people:
+  - '#PeterSteinberger'
+  concepts:
+  - '#OpenClaw'
+  - '#SwarmIntelligence'
+  temporal:
+  - '#2026'
+summary: ''
+key_ideas: []
+---
+
+Full Transcription
+
+
+
+00:00 - 00:01 Speaker 1: Today I'm sitting down with Peter Steinberger, 
+00:01 - 00:03 Speaker 1: the creator of OpenClaw, 
+00:03 - 00:05 Speaker 1: the open source personal AI agent 
+00:05 - 00:08 Speaker 1: that has completely taken over the internet.
+00:08 - 00:10 Speaker 1: The GitHub repo exploded 
+00:10 - 00:12 Speaker 1: to over 160,000 stars 
+00:12 - 00:13 Speaker 1: practically overnight. 
+00:13 - 00:15 Speaker 1: The community has built countless projects 
+00:15 - 00:16 Speaker 1: like Multibook 
+00:16 - 00:18 Speaker 1: where bots talk among themselves. 
+00:18 - 00:19 Speaker 1: And now, 
+00:19 - 00:21 Speaker 1: the bots are even renting humans 
+00:21 - 00:23 Speaker 1: to do tasks in the real world. 
+00:23 - 00:24 Speaker 1: In our conversation, 
+00:24 - 00:26 Speaker 1: we discuss his aha moment, 
+00:26 - 00:29 Speaker 1: his contrarian development philosophies 
+00:29 - 00:30 Speaker 1: and what this means 
+00:30 - 00:32 Speaker 1: for builders in 2026. 
+00:32 - 00:33 Speaker 1: Let's dive in.
+00:40 - 00:41 Speaker 1: So good to see you, man. 
+00:41 - 00:41 Peter: Hey, what's up? 
+00:41 - 00:43 Speaker 1: Um, so you have made 
+00:43 - 00:44 Speaker 1: something people want. 
+00:44 - 00:44 Peter: It seems so. 
+00:44 - 00:45 Speaker 1: Yeah, 
+00:45 - 00:47 Speaker 1: OpenClaw, as it's called now, has 
+00:47 - 00:48 Peter: Name number five, yeah. 
+00:48 - 00:50 Speaker 1: has been absolutely exploding 
+00:50 - 00:51 Speaker 1: the internet. Um, 
+00:51 - 00:53 Speaker 1: how have the past one or two weeks 
+00:53 - 00:54 Speaker 1: been for you, man? 
+00:54 - 00:57 Peter: Uh, my god, I need like, 
+00:57 - 00:58 Peter: I need a cave and a week of solitude. 
+00:58 - 01:00 Speaker 1: You came out of the cave 
+01:00 - 01:01 Speaker 1: and you want to go back to the cave, 
+01:01 - 01:02 Speaker 1: like, like the lobster. 
+01:02 - 01:04 Peter: It's been absolutely wild. 
+01:04 - 01:06 Peter: I don't know how one human 
+01:06 - 01:07 Peter: can absorb all of that. 
+01:07 - 01:09 Peter: I probably need another week 
+01:09 - 01:11 Peter: just to like respond to all my emails. 
+01:11 - 01:12 Peter: I got some incredibly cool stuff, 
+01:12 - 01:15 Peter: I got some incredibly bad stuff. 
+01:15 - 01:17 Peter: Uh, but clearly I hit something 
+01:17 - 01:19 Peter: that spur up emotions 
+01:19 - 01:21 Peter: and made people interested 
+01:21 - 01:23 Peter: and inspired people. 
+01:23 - 01:24 Peter: and that was really cool. 
+01:24 - 01:26 Speaker 1: And a lot of people have been working on, 
+01:26 - 01:27 Speaker 1: you know, AI 
+01:27 - 01:29 Speaker 1: and even personal assistants, 
+01:29 - 01:31 Speaker 1: like what, what is it that made 
+01:31 - 01:32 Speaker 1: OpenClaw take off? 
+01:32 - 01:34 Peter: I think my big difference is that 
+01:34 - 01:36 Peter: it actually runs on your computer. 
+01:36 - 01:38 Peter: Like, every everything I saw so far 
+01:38 - 01:39 Peter: runs in the cloud, it's like, 
+01:39 - 01:40 Peter: it can do a few things, 
+01:40 - 01:42 Peter: if you run it on your computer, 
+01:42 - 01:44 Peter: it can do every effing thing, 
+01:44 - 01:45 Peter: right? So that's way more powerful. 
+01:45 - 01:46 Speaker 1: Yeah. 
+01:46 - 01:48 Speaker 1: Machine can do anything that 
+01:48 - 01:49 Speaker 1: you can do with the machine. 
+01:49 - 01:51 Peter: You can just connect to your oven, 
+01:51 - 01:52 Peter: or your Tesla, 
+01:52 - 01:54 Peter: or your lights, your Sonos, my bed, 
+01:54 - 01:56 Peter: it can control the temperature 
+01:56 - 01:57 Peter: of my bed. 
+01:57 - 01:58 Peter: ChatGPT can't do that. 
+01:58 - 02:00 Speaker 1: You gave it all the skills 
+02:00 - 02:01 Speaker 1: that you have yourself. 
+02:01 - 02:03 Peter: A friend told me like 
+02:03 - 02:05 Peter: he installed OpenClaw and 
+02:05 - 02:06 Peter: it asked him, 
+02:06 - 02:08 Peter: then it asked it like 
+02:08 - 02:09 Peter: look through my computer 
+02:09 - 02:11 Peter: and make a narrative of my last year. 
+02:11 - 02:13 Peter: And it made this 
+02:13 - 02:15 Peter: incredibly good narrative and 
+02:15 - 02:16 Peter: he was like, how did you do that? 
+02:16 - 02:18 Peter: And then the OpenClaw 
+02:18 - 02:20 Peter: found audio files 
+02:20 - 02:22 Peter: where like every Sunday 
+02:22 - 02:23 Peter: he was recording stuff, 
+02:23 - 02:25 Peter: and OpenClaw found that, 
+02:25 - 02:27 Peter: but he didn't even remember about it 
+02:27 - 02:28 Peter: because it was like 
+02:28 - 02:30 Peter: more than a year ago, right? 
+02:30 - 02:32 Peter: So just by it being able 
+02:32 - 02:34 Peter: to search the whole computer, 
+02:34 - 02:35 Peter: it can surprise you. 
+02:35 - 02:36 Speaker 1: Yeah. 
+02:36 - 02:38 Speaker 1: You also give it all the data, 
+02:38 - 02:40 Speaker 1: right? So it can surprise you 
+02:40 - 02:41 Speaker 1: in many ways. 
+02:41 - 02:43 Peter: And so now you have, 
+02:43 - 02:44 Speaker 1: you know, we're even moving 
+02:44 - 02:46 Speaker 1: from human to bot. 
+02:46 - 02:48 Speaker 1: So like interactions 
+02:48 - 02:49 Speaker 1: that you've been talking about, 
+02:49 - 02:51 Speaker 1: to bot to bot 
+02:51 - 02:52 Speaker 1: interactions or even like 
+02:52 - 02:54 Speaker 1: bot to other humans 
+02:54 - 02:56 Speaker 1: where, you know, bots on 
+02:56 - 02:57 Speaker 1: behalf of you 
+02:57 - 02:59 Speaker 1: are then hiring other humans 
+02:59 - 03:01 Speaker 1: to accomplish tasks IRL. 
+03:01 - 03:02 Speaker 1: Like, what's happening? 
+03:02 - 03:04 Peter: I think that's the natural next step. 
+03:04 - 03:06 Peter: Like, okay, I want to book a restaurant, 
+03:06 - 03:08 Peter: my bot will reach out to 
+03:08 - 03:10 Peter: the restaurant bot 
+03:10 - 03:11 Peter: and do the negotiation 
+03:11 - 03:12 Peter: because it's more efficient. 
+03:12 - 03:14 Peter: Or maybe it's like 
+03:14 - 03:15 Peter: an old restaurant, so my bot 
+03:15 - 03:17 Peter: needs to actually get 
+03:17 - 03:19 Peter: some human work done 
+03:19 - 03:21 Peter: so that then human then calls 
+03:21 - 03:22 Peter: the restaurant 
+03:22 - 03:24 Peter: because they don't like bots. 
+03:24 - 03:26 Speaker 1: Or walks there. 
+03:26 - 03:27 Peter: Just stand in line 
+03:27 - 03:28 Speaker 1: for the owner of the bot. 
+03:28 - 03:30 Peter: And now imagine it like 
+03:30 - 03:32 Peter: maybe if I have even multiple bots. 
+03:32 - 03:34 Peter: Like maybe I have like specialists. 
+03:34 - 03:36 Peter: One is like for my private life 
+03:36 - 03:38 Peter: and one is for like my per, my, 
+03:38 - 03:40 Peter: my work stuff. 
+03:40 - 03:42 Peter: Maybe one is our relationship bot 
+03:42 - 03:44 Peter: that gets like everything in between. 
+03:44 - 03:46 Peter: Uh, I don't know. We're so early. 
+03:46 - 03:48 Peter: There's still so much 
+03:48 - 03:49 Peter: so many things that 
+03:49 - 03:51 Peter: we haven't really figured out 
+03:51 - 03:53 Peter: if it actually works, um, 
+03:53 - 03:54 Peter: but I feel we are, we are 
+03:54 - 03:55 Peter: on the timeline now. 
+03:55 - 03:57 Speaker 1: It seems like everyone was chasing 
+03:57 - 03:59 Speaker 1: sort of like decentralized 
+03:59 - 04:01 Speaker 1: God intelligence 
+04:01 - 04:03 Speaker 1: and what has started emerged 
+04:03 - 04:05 Speaker 1: over the past, you know, 
+04:05 - 04:06 Speaker 1: 10 days or so 
+04:06 - 04:08 Speaker 1: is sort of like the swarm intelligence. 
+04:08 - 04:10 Speaker 1: Uh, and and the community intelligence. 
+04:10 - 04:12 Peter: I think that if you look at 
+04:12 - 04:14 Peter: one human being, 
+04:14 - 04:16 Peter: what can one human being 
+04:16 - 04:17 Peter: actually achieve? 
+04:17 - 04:19 Peter: Do you think one human being 
+04:19 - 04:21 Peter: could make an iPhone? 
+04:21 - 04:23 Peter: Or one human being could go to space? 
+04:23 - 04:25 Peter: I mean, one human being would 
+04:25 - 04:27 Peter: probably just like not even 
+04:27 - 04:28 Peter: be able to like find food. 
+04:28 - 04:30 Peter: Um, but as a group 
+04:30 - 04:32 Peter: we specialize. 
+04:32 - 04:34 Peter: As a larger society 
+04:34 - 04:36 Peter: we specialize even more. 
+04:36 - 04:38 Peter: So what can we learn from that 
+04:38 - 04:40 Peter: that we can apply to AI? 
+04:40 - 04:42 Peter: You know, we we already have like 
+04:42 - 04:44 Peter: AI that specializes in certain things. 
+04:44 - 04:46 Peter: Um, even though it's it's 
+04:46 - 04:48 Peter: generalized intelligence, 
+04:48 - 04:50 Peter: what if it actually is also 
+04:50 - 04:51 Peter: specialized intelligence? 
+04:51 - 04:53 Peter: So I don't know, it's gonna be 
+04:53 - 04:54 Peter: very exciting, really cool. 
+04:54 - 04:56 Speaker 1: Yeah, you kind of like opened 
+04:56 - 04:58 Speaker 1: a window into the future 
+04:58 - 05:00 Speaker 1: and now a ton of people 
+05:00 - 05:02 Speaker 1: are kind of like building, 
+05:02 - 05:03 Speaker 1: building on it 
+05:03 - 05:05 Speaker 1: and have sort of like 
+05:05 - 05:06 Speaker 1: their aha moment. 
+05:06 - 05:08 Speaker 1: Um, can you walk me back to 
+05:08 - 05:10 Speaker 1: when you had your aha moment 
+05:10 - 05:12 Speaker 1: and kind of like recount 
+05:12 - 05:13 Speaker 1: that very moment? 
+05:13 - 05:15 Peter: I wanted something to like just 
+05:15 - 05:17 Peter: type stuff so my computer 
+05:17 - 05:19 Peter: would do stuff. 
+05:19 - 05:21 Peter: Like very simple. 
+05:21 - 05:23 Peter: And then I built a version of that 
+05:23 - 05:25 Peter: in May, June, 
+05:25 - 05:27 Peter: that was cool, but wasn't really yet. 
+05:27 - 05:29 Peter: Um, and then I built a whole bunch 
+05:29 - 05:31 Peter: of other stuff 
+05:31 - 05:33 Peter: and kind of like built up my army. 
+05:33 - 05:35 Peter: And then in November, 
+05:35 - 05:37 Peter: there was a day where I wanted this again. 
+05:37 - 05:39 Peter: Like I, I went to the kitchen 
+05:39 - 05:41 Peter: and all I wanted was 
+05:41 - 05:43 Peter: check up if my computer was still 
+05:43 - 05:44 Peter: doing stuff or being finished. 
+05:44 - 05:46 Speaker 1: And doing stuff was, 
+05:46 - 05:48 Speaker 1: was coding, you were coding stuff. 
+05:48 - 05:50 Peter: Yeah, yeah, of course. 
+05:50 - 05:51 Speaker 1: Were you coding something else 
+05:51 - 05:53 Speaker 1: or were you coding the thing itself? 
+05:53 - 05:55 Peter: No, no, that was just like 
+05:55 - 05:56 Peter: the need was again there and I'm like 
+05:56 - 05:58 Speaker 1: what were you coding at the time? 
+05:58 - 05:59 Speaker 1: What were you building? 
+05:59 - 06:01 Peter: My god, if you seen my GitHub 
+06:01 - 06:02 Peter: it's like like 40 projects. 
+06:02 - 06:04 Peter: I don't even know. 
+06:04 - 06:06 Peter: Um, I think it was Summarize. 
+06:06 - 06:08 Peter: It's like a little CLI app 
+06:08 - 06:10 Peter: where you can give it whatever 
+06:10 - 06:12 Peter: like a podcast or 
+06:12 - 06:14 Peter: a hot seat thing like here, 
+06:14 - 06:16 Peter: and it would summarize it, 
+06:16 - 06:18 Peter: but it was showing the slides 
+06:18 - 06:19 Peter: in the terminal, 
+06:19 - 06:21 Peter: because you can do that nowadays, 
+06:21 - 06:22 Peter: you can just do things. 
+06:22 - 06:24 Speaker 1: So for the love of the computer 
+06:24 - 06:26 Speaker 1: you kind of like started messing with stuff. 
+06:26 - 06:28 Speaker 1: Um, you came out of retirement 
+06:28 - 06:29 Speaker 1: actually, right? 
+06:29 - 06:31 Speaker 1: Um, to sort of like mess with AI. 
+06:31 - 06:33 Peter: Yeah. 
+06:33 - 06:35 Speaker 1: And then increasingly you were so hooked 
+06:35 - 06:37 Speaker 1: that you wanted to just 
+06:37 - 06:38 Speaker 1: do it always also on the go 
+06:38 - 06:39 Speaker 1: with the phone. 
+06:39 - 06:41 Peter: I mean the last project I worked 
+06:41 - 06:43 Peter: two months on VibeTunnel 
+06:43 - 06:45 Peter: to the point where it got so good 
+06:45 - 06:47 Peter: that I was catching myself always 
+06:47 - 06:49 Peter: like coding next to my 
+06:49 - 06:50 Peter: when I was at my friends, 
+06:50 - 06:52 Peter: and I'm like, I need to stop this. 
+06:52 - 06:53 Peter: This is like too addictive. 
+06:53 - 06:55 Peter: And then in November 
+06:55 - 06:57 Peter: and like my need came back 
+06:57 - 06:59 Peter: and I I started building Clawbot 
+06:59 - 07:01 Peter: or now it's called OpenClaw. 
+07:01 - 07:03 Peter: And like very very in the beginning 
+07:03 - 07:04 Peter: I was like oh, 
+07:04 - 07:06 Peter: I rebuilt it again. 
+07:06 - 07:08 Peter: But this time I built it even better. 
+07:08 - 07:10 Peter: This time and you don't type 
+07:10 - 07:11 Peter: into a terminal, 
+07:11 - 07:13 Peter: you just you talk to a friend. 
+07:13 - 07:15 Peter: You don't think about 
+07:15 - 07:17 Peter: compaction, new sessions, 
+07:17 - 07:19 Peter: which folder I'm in, which model I'm in. 
+07:19 - 07:21 Peter: I mean you can, you know, 
+07:21 - 07:23 Peter: there's like I want to leave 
+07:23 - 07:24 Peter: that open for power users, 
+07:24 - 07:26 Peter: but usually you just like 
+07:26 - 07:28 Peter: you just talk to a friend. 
+07:28 - 07:30 Peter: And the friend is like 
+07:30 - 07:32 Peter: this ghost or entity 
+07:32 - 07:34 Peter: or whatever you want to call it 
+07:34 - 07:36 Peter: that can control your mouse 
+07:36 - 07:37 Peter: and your keyboard 
+07:37 - 07:39 Peter: and can just do stuff. 
+07:39 - 07:41 Speaker 1: Yeah. And when did you have that aha moment 
+07:41 - 07:43 Speaker 1: when you were like, well, 
+07:43 - 07:45 Speaker 1: this is doing way more things 
+07:45 - 07:46 Speaker 1: than I actually thought it could. 
+07:46 - 07:48 Peter: Literally I took me one hour 
+07:48 - 07:50 Peter: for like the very shitty initial prototype. 
+07:50 - 07:52 Peter: It was just a little bit of glue 
+07:52 - 07:54 Peter: between like a dependency 
+07:54 - 07:56 Peter: that connects WhatsApp and 
+07:56 - 07:57 Peter: Clawcode 
+07:57 - 07:59 Peter: and then I would like call Clawcode 
+07:59 - 08:01 Peter: and get like the string 
+08:01 - 08:02 Peter: out of Clawcode. 
+08:02 - 08:04 Peter: It would be slow but it worked. 
+08:04 - 08:06 Peter: But I wanted images, 
+08:06 - 08:08 Peter: because you know you want pictures. 
+08:08 - 08:10 Peter: I want I want the model to send 
+08:10 - 08:12 Peter: some selfies or whatever 
+08:12 - 08:14 Peter: and I want the model 
+08:14 - 08:15 Peter: to create images and me back. 
+08:15 - 08:17 Peter: So that took me another few hours. 
+08:17 - 08:19 Peter: And then I I went to Marrakesh 
+08:19 - 08:21 Peter: for a birthday party. 
+08:21 - 08:23 Peter: And there was like the internet 
+08:23 - 08:24 Peter: wasn't that good, you know, 
+08:24 - 08:26 Peter: WhatsApp works everywhere 
+08:26 - 08:28 Peter: because I don't know, it's just like text. 
+08:28 - 08:30 Peter: So I used it a lot. 
+08:30 - 08:31 Peter: Oh, restaurant, what does this mean? 
+08:31 - 08:33 Peter: You make like a picture 
+08:33 - 08:35 Peter: and like translate this for me 
+08:35 - 08:36 Peter: and just it was just so useful. 
+08:36 - 08:38 Peter: And it was also really nice 
+08:38 - 08:40 Peter: about it because it spoke 
+08:40 - 08:41 Peter: my language, you know, 
+08:41 - 08:43 Peter: it was a little sassy, 
+08:43 - 08:44 Peter: it was like funny, 
+08:44 - 08:46 Peter: it was like really pleasant to use. 
+08:46 - 08:48 Peter: And then I was walking and 
+08:48 - 08:49 Peter: just like sending it 
+08:49 - 08:51 Peter: a voice message 
+08:51 - 08:53 Peter: and I'm like, oh wait, 
+08:53 - 08:54 Peter: this can't work, I didn't build that. 
+08:54 - 08:55 Speaker 1: Right, right. 
+08:55 - 08:57 Peter: And you saw like the type indicator 
+08:57 - 08:59 Peter: like blinking, blinking, blinking, 
+08:59 - 09:01 Peter: 10 seconds later it just replied to me. 
+09:01 - 09:03 Peter: I'm like, how in the F did you do that? 
+09:03 - 09:05 Peter: And it replied, yeah, 
+09:05 - 09:07 Peter: the Madlad did the following. 
+09:07 - 09:09 Peter: You sent me a text message and 
+09:09 - 09:11 Peter: there was no file ending so I 
+09:11 - 09:13 Peter: looked at the header I found it's Opus. 
+09:13 - 09:15 Peter: So I used FFmpeg to convert it to Wave. 
+09:15 - 09:17 Peter: And then I wanted to transcribe it 
+09:17 - 09:19 Peter: but didn't have Whisper installed, 
+09:19 - 09:21 Peter: but then I looked around and 
+09:21 - 09:23 Peter: I found this OpenAI key 
+09:23 - 09:25 Peter: and I just used curl to send it 
+09:25 - 09:26 Peter: to OpenAI, 
+09:26 - 09:28 Peter: got the text back and here I am. 
+09:28 - 09:30 Peter: And that all in like what, nine seconds? 
+09:30 - 09:32 Speaker 1: And you didn't build or anticipate 
+09:32 - 09:34 Speaker 1: like any of those specific things. 
+09:34 - 09:36 Peter: No, you know turns out 
+09:36 - 09:38 Peter: because coding models got so good, 
+09:38 - 09:40 Peter: coding is really like 
+09:40 - 09:41 Peter: creative problem solving, 
+09:41 - 09:43 Peter: that maps very well back into 
+09:43 - 09:45 Peter: the real world. 
+00:09:45 - 09:47 Peter: I think I think there's a 
+09:47 - 09:48 Peter: there's a huge correlation. 
+09:48 - 09:50 Peter: They need to be really good at 
+09:50 - 09:51 Peter: creative problem solving, 
+09:51 - 09:53 Peter: and that's a skill, that's an 
+09:53 - 09:55 Peter: abstract skill you cannot apply 
+09:55 - 09:56 Peter: to code but like 
+09:56 - 09:58 Peter: to any real world task. 
+09:58 - 10:00 Peter: So the model had a oh surprise 
+10:00 - 10:02 Peter: there's like a magical file 
+10:02 - 10:04 Peter: I don't know what it is, 
+10:04 - 10:05 Peter: I need to solve this, 
+10:05 - 10:07 Peter: and it did its best and solved it. 
+10:07 - 10:09 Peter: And it was even that clever 
+10:09 - 10:11 Peter: that it shows not to install 
+10:11 - 10:12 Peter: the local Whisper 
+10:12 - 10:14 Peter: because it knows that that 
+10:14 - 10:16 Peter: would require downloading a model 
+10:16 - 10:18 Peter: which would take probably 
+10:18 - 10:19 Peter: a few minutes 
+10:19 - 10:21 Peter: and I'm like impatient, 
+10:21 - 10:22 Peter: you know, so it really took 
+10:22 - 10:24 Peter: the most intelligent approach. 
+10:24 - 10:26 Peter: And that was kind of like 
+10:26 - 10:28 Peter: the moment where I'm like 
+10:28 - 10:29 Peter: Holy F 
+10:29 - 10:31 Peter: yeah, that was where I got hooked. 
+10:31 - 10:34 Speaker 2: YC's next batch is now taking applications. 
+10:34 - 10:37 Speaker 2: Got a startup in you? 
+10:37 - 10:39 Speaker 2: Apply at ycombinator.com/apply. 
+10:39 - 10:41 Speaker 2: It's never too early 
+10:41 - 10:43 Speaker 2: and filling out the app 
+10:43 - 10:44 Speaker 2: will level up your idea. 
+10:44 - 10:46 Speaker 2: Okay, back to the video. 
+10:46 - 10:48 Speaker 1: And so when computers can just 
+10:48 - 10:50 Speaker 1: do all these things 
+10:50 - 10:51 Speaker 1: that you didn't even anticipate, 
+10:51 - 10:53 Speaker 1: you didn't build an app 
+10:53 - 10:54 Speaker 1: to do that exact thing, 
+10:54 - 10:56 Speaker 1: are apps just going to go away? 
+10:56 - 10:58 Peter: Uh, I think 80% of them are going away. 
+10:58 - 11:00 Peter: Why do I need MyFitnessPal? 
+11:00 - 11:02 Peter: Like my agent already knows 
+11:02 - 11:04 Peter: that I'm making bad decisions 
+11:04 - 11:05 Peter: I'm at, I don't know, 
+11:05 - 11:07 Peter: Smashburger something, 
+11:07 - 11:09 Peter: and it will already assume 
+11:09 - 11:11 Peter: that I eat what I like to eat. 
+11:11 - 11:13 Peter: If I don't make a comment 
+11:13 - 11:15 Peter: it will just like automatically track it, 
+11:15 - 11:17 Peter: or I make a picture and it 
+11:17 - 11:19 Peter: will just store it somewhere. 
+11:19 - 11:20 Peter: I don't even need to care where, right? 
+11:20 - 11:22 Peter: And then my maybe it it 
+11:22 - 11:24 Peter: improves my gym schedule 
+11:24 - 11:26 Peter: and like adds a little bit more 
+11:26 - 11:27 Peter: cardio in it. 
+11:27 - 11:29 Peter: I don't need my fitness app 
+11:29 - 11:31 Peter: because it just it just does 
+11:31 - 11:32 Peter: the fitness planning for me. 
+11:32 - 11:34 Peter: Why do I need a to-do app? 
+11:34 - 11:36 Peter: I just tell it hey, remind me 
+11:36 - 11:37 Peter: of this and this, 
+11:37 - 11:39 Peter: and the next day it will just 
+11:39 - 11:41 Peter: remind me of this and this. 
+11:41 - 11:42 Peter: Do I care where it's stored? 
+11:42 - 11:44 Peter: No, it just does its thing. 
+11:44 - 11:46 Peter: So there's a every app that 
+11:46 - 11:48 Peter: basically just manages data 
+11:48 - 11:50 Peter: could be managed in a better way, 
+11:50 - 11:52 Peter: in a more in a more natural way 
+11:52 - 11:53 Peter: by agents. 
+11:53 - 11:55 Speaker 1: Yeah. 
+11:55 - 11:57 Peter: Only the apps that actually have sensors 
+11:57 - 11:58 Peter: maybe they survive. 
+11:58 - 12:00 Speaker 1: And so if, you know, most apps 
+12:00 - 12:02 Speaker 1: are going to go away in that scenario, 
+12:02 - 12:04 Speaker 1: um, are the models the only 
+12:04 - 12:05 Speaker 1: remaining sort of apps? 
+12:05 - 12:07 Peter: No, everything will go away. 
+12:07 - 12:09 Peter: But yeah, I think there the 
+12:09 - 12:11 Peter: large model companies have 
+12:11 - 12:12 Peter: some big moat. 
+12:12 - 12:14 Peter: Because they ultimately they 
+12:14 - 12:15 Peter: give the token. 
+12:15 - 12:17 Peter: And turns out one of the 
+12:17 - 12:19 Peter: complaints was that people 
+12:19 - 12:21 Peter: use so much token. 
+12:21 - 12:22 Peter: No, you just really love using it, 
+12:22 - 12:24 Peter: that's why you use the thing 
+12:24 - 12:26 Peter: so much because that's how 
+12:26 - 12:27 Peter: you burn the token. 
+12:27 - 12:29 Peter: Uh, is it my fault that I make 
+12:29 - 12:30 Peter: something that's so popular? 
+12:30 - 12:32 Speaker 1: And so, you know, like all the models, 
+12:32 - 12:34 Speaker 1: they're kind of like leapfrogging 
+12:34 - 12:36 Speaker 1: each other constantly 
+12:36 - 12:38 Speaker 1: and and you know, maybe they're 
+12:38 - 12:40 Speaker 1: also getting commoditized. 
+12:40 - 12:42 Speaker 1: So if apps are going to go away, 
+12:42 - 12:44 Speaker 1: models are going to get commoditized 
+12:44 - 12:45 Speaker 1: or at least, uh, you know, 
+12:45 - 12:47 Speaker 1: the lobster, can, like the brain 
+12:47 - 12:49 Speaker 1: is is swappable out. 
+12:49 - 12:51 Speaker 1: What's the thing that remains? 
+12:51 - 12:53 Speaker 1: What's where's the value? 
+12:53 - 12:55 Speaker 1: Is it the store of memory? 
+12:55 - 12:57 Speaker 1: Is it the harness that's valuable? 
+12:57 - 12:58 Speaker 1: What is what remains? 
+12:58 - 13:00 Peter: First of all, I don't think 
+13:00 - 13:02 Peter: the model companies always have 
+13:02 - 13:04 Peter: a moat and because you see this 
+13:04 - 13:06 Peter: already, a new model comes out, 
+13:06 - 13:08 Peter: people are like, oh my god, 
+13:08 - 13:09 Peter: this is so good. 
+13:09 - 13:11 Peter: And then like a month later, 
+13:11 - 13:13 Peter: uh, it degraded, it's not good 
+13:13 - 13:14 Peter: anymore, they like quantized it. 
+13:14 - 13:16 Peter: No, they didn't do anything, 
+13:16 - 13:18 Peter: you just adapted to the new 
+13:18 - 13:19 Peter: standard and now your 
+13:19 - 13:21 Peter: expectations went up, 
+13:21 - 13:23 Peter: but the model is still the average. 
+13:23 - 13:25 Peter: So I think for quite a while, 
+13:25 - 13:27 Peter: every time a new model releases 
+13:27 - 13:29 Peter: I hear the same, people love it, 
+13:29 - 13:31 Peter: and then it's the standard. 
+13:31 - 13:33 Peter: And then what's down there, 
+13:33 - 13:34 Peter: you don't even want to think 
+13:34 - 13:36 Peter: about it anymore. 
+13:36 - 13:38 Peter: So so we have like open source 
+13:38 - 13:40 Peter: stuff that's as good as 
+13:40 - 13:42 Peter: the current model from a year ago. 
+13:42 - 13:44 Peter: Everybody's hating it, complaining, 
+13:44 - 13:46 Peter: oh this is not good, it's not funny. 
+13:46 - 13:48 Peter: Yeah this was what we had. 
+13:48 - 13:50 Peter: And like in a year we'll 
+13:50 - 13:51 Peter: have this open source. 
+13:51 - 13:53 Peter: And then everybody like 
+13:53 - 13:54 Peter: will complain about this 
+13:54 - 13:56 Peter: because we are used to this. 
+13:56 - 13:58 Peter: So uh, for the foreseeable future, 
+13:58 - 14:00 Peter: the big companies still have moat. 
+14:00 - 14:02 Peter: Harness-wise that's gonna be interesting. 
+14:02 - 14:04 Peter: Because every company kind of has 
+14:04 - 14:06 Peter: their own their own silo, right? 
+14:06 - 14:08 Peter: You you there's no way, 
+14:08 - 14:10 Peter: maybe there is for Europeans, 
+14:10 - 14:12 Peter: to actually get the memories 
+14:12 - 14:13 Peter: out of ChatGPT. 
+14:13 - 14:15 Peter: Um, I don't I'm not aware. 
+14:15 - 14:17 Peter: Either there's no there's definitely 
+14:17 - 14:19 Peter: no way for different company 
+14:19 - 14:21 Peter: to get your memories out. 
+14:21 - 14:23 Peter: So if if I was like a company 
+14:23 - 14:25 Peter: who like provides chat services, 
+14:25 - 14:27 Peter: you could use me but then 
+14:27 - 14:29 Peter: I couldn't access the memories. 
+14:29 - 14:31 Peter: So like the companies try to like 
+14:31 - 14:33 Peter: bound you to their data silo. 
+14:33 - 14:35 Peter: And the beauty of OpenClaw is 
+14:35 - 14:37 Peter: it kind of claws into 
+14:37 - 14:39 Peter: the data, because at the end user, 
+14:39 - 14:41 Peter: the end user needs access. 
+14:41 - 14:43 Peter: Because it's in the end 
+14:43 - 14:44 Peter: otherwise it wouldn't work, right? 
+14:44 - 14:46 Peter: If the end user access, 
+14:46 - 14:47 Peter: I can access the data. 
+14:47 - 14:49 Speaker 1: And you own the memories. 
+14:49 - 14:51 Speaker 1: It's just a bunch of markdown files 
+14:51 - 14:52 Speaker 1: on on your machine. 
+14:52 - 14:54 Peter: Well, I mean, I don't own 
+14:54 - 14:56 Peter: the memories, other people, 
+14:56 - 14:57 Peter: everyone 
+14:57 - 14:59 Speaker 1: Yeah, everyone owns their 
+14:59 - 15:00 Speaker 1: own memories as a bunch of 
+15:00 - 15:02 Speaker 1: markdown files on their own machines. 
+15:02 - 15:04 Peter: And to be honest those are 
+15:04 - 15:06 Peter: probably super sensible because 
+15:06 - 15:08 Peter: let's be honest, 
+15:08 - 15:10 Peter: uh, people use their agent 
+15:10 - 15:12 Peter: not just for problem solving, 
+15:12 - 15:14 Peter: but also for like personal problems. 
+15:14 - 15:16 Speaker 1: Very quickly, super quickly. 
+15:16 - 15:18 Peter: I mean I I fully do that. 
+15:18 - 15:20 Peter: I'm like there's memory stuff 
+15:20 - 15:22 Peter: that I don't want to have leaked. 
+15:22 - 15:24 Speaker 1: Yeah, what would you rather 
+15:24 - 15:26 Speaker 1: sort of like not show, 
+15:26 - 15:28 Speaker 1: your Google search history at this point 
+15:28 - 15:29 Speaker 1: or your, you know, memory.md files? 
+15:29 - 15:31 Peter: What's the Google word? 
+15:31 - 15:33 Speaker 1: Yeah, yeah. Are people 
+15:33 - 15:34 Speaker 1: still using Google? 
+15:34 - 15:36 Peter: I built this and I was so excited, 
+15:36 - 15:38 Peter: but on Twitter people wouldn't get it. 
+15:38 - 15:40 Speaker 1: Yeah. 
+15:40 - 15:42 Peter: Like I was failing to explain 
+15:42 - 15:43 Peter: the awesomeness. 
+15:43 - 15:45 Peter: I feel like it needs to be experienced. 
+15:45 - 15:47 Peter: So I tried various things 
+15:47 - 15:49 Peter: and I couldn't I couldn't nail the 
+15:49 - 15:51 Peter: I couldn't nail the explaining. 
+15:51 - 15:53 Peter: So I was like, let's do 
+15:53 - 15:54 Peter: something really crazy. 
+15:54 - 15:56 Peter: I just created a Discord 
+15:56 - 15:58 Peter: and I just put my bot without 
+15:58 - 16:00 Peter: any security restrictions 
+16:00 - 16:02 Peter: in the public Discord. 
+16:02 - 16:04 Peter: And then people came in and 
+16:04 - 16:06 Peter: interacted with it and they saw me 
+16:06 - 16:08 Peter: build the software with it 
+16:08 - 16:10 Peter: and they tried to prompt inject it 
+16:10 - 16:11 Peter: and hack it, 
+16:11 - 16:13 Peter: and my agent would be laughing at them. 
+16:13 - 16:15 Speaker 1: And you just had it locked down 
+16:15 - 16:17 Speaker 1: to your user ID, so it only 
+16:17 - 16:18 Speaker 1: listened to you? 
+16:18 - 16:20 Peter: Yeah, yeah. That and it was 
+16:20 - 16:22 Peter: I made very clean instructions 
+16:22 - 16:24 Peter: that other people are dangerous, 
+16:24 - 16:26 Peter: only only listen to me 
+16:26 - 16:28 Peter: but respond to everyone. 
+16:28 - 16:30 Speaker 1: And this prompt was in 
+16:30 - 16:31 Speaker 1: where was this stored, the instructions? 
+16:31 - 16:33 Peter: Oh, um, that's actually part 
+16:33 - 16:35 Peter: of OpenClaw itself. 
+16:35 - 16:37 Peter: Very much so the that's part 
+16:37 - 16:38 Peter: of the system prompt. 
+16:38 - 16:40 Peter: Okay, you are now that explains 
+16:40 - 16:42 Peter: to you, you are in Discord, 
+16:42 - 16:44 Peter: there's like public people there, 
+16:44 - 16:46 Peter: but you only listen to your owner, 
+16:46 - 16:48 Peter: or like your human, 
+16:48 - 16:50 Peter: I don't even know how I wrote it. 
+16:50 - 16:52 Speaker 1: Yeah, your god. 
+16:52 - 16:54 Peter: And I kept I don't know what I did, 
+16:54 - 16:56 Peter: but my system was built 
+16:56 - 16:58 Peter: very organically. 
+16:58 - 17:00 Peter: Like at some point I created 
+17:00 - 17:02 Peter: like an identity.md, a soul.md, 
+17:02 - 17:04 Peter: like various files. 
+17:04 - 17:06 Peter: And then only in in January 
+17:06 - 17:08 Peter: I started making it so other 
+17:08 - 17:10 Peter: people could install it easier. 
+17:10 - 17:12 Peter: And I remember I built all 
+17:12 - 17:14 Peter: these templates based on like, 
+17:14 - 17:16 Peter: oh take a rough look at what I have 
+17:16 - 17:18 Peter: and make like templates, 
+17:18 - 17:20 Peter: and Clawcode wrote it. 
+17:20 - 17:22 Peter: And what came out was like bread. 
+17:22 - 17:24 Peter: You know, like people joked 
+17:24 - 17:26 Peter: that Clawcode feels like bread, 
+17:26 - 17:28 Peter: even though now they have 
+17:28 - 17:30 Peter: a new friendlier voice, 
+17:30 - 17:31 Peter: I haven't tried that yet. 
+17:31 - 17:33 Speaker 1: Yeah. 
+17:33 - 17:35 Peter: But the new bots they felt so 
+17:35 - 17:37 Peter: boring compared to what I had. 
+17:37 - 17:39 Peter: So I was like, Multi, infuse 
+17:39 - 17:41 Peter: the template 
+17:41 - 17:43 Speaker 1: Multi's the name of your personal 
+17:43 - 17:45 Peter: Yeah, that's a it's a new name 
+17:45 - 17:46 Peter: because 
+17:46 - 17:47 Speaker 1: Yeah, yeah. 
+17:47 - 17:49 Peter: there was some naming challenges. 
+17:49 - 17:51 Speaker 1: Yeah, so so you were you were 
+17:51 - 17:52 Speaker 1: talking to Multi. 
+17:52 - 17:54 Peter: Yeah, I was like infuse 
+17:54 - 17:56 Peter: infuse those templates 
+17:56 - 17:58 Peter: with your your character. 
+17:58 - 18:00 Peter: And he changed the templates. 
+18:00 - 18:02 Peter: And now and then like all the 
+18:02 - 18:04 Peter: things that came out afterwards 
+18:04 - 18:06 Peter: were like actually funny. 
+18:06 - 18:08 Peter: Not as funny as mine, so like 
+18:08 - 18:10 Peter: I kept some secret, 
+18:10 - 18:12 Peter: and there one file that's not 
+18:12 - 18:14 Peter: open source is like my soul.md. 
+18:14 - 18:16 Peter: So even though my my bot 
+18:16 - 18:18 Peter: is in public Discord, 
+18:18 - 18:20 Peter: so far nobody cracked that one file. 
+18:20 - 18:22 Speaker 1: Tell me more about soul.md. 
+18:22 - 18:24 Peter: I just saw this research from 
+18:24 - 18:26 Peter: Anthropic where they 
+18:26 - 18:28 Peter: now I think it's public, 
+18:28 - 18:30 Peter: but like a few months ago it 
+18:30 - 18:32 Peter: was where somebody randomly 
+18:32 - 18:34 Peter: found out some text 
+18:34 - 18:36 Peter: that's hidden in the weights, 
+18:36 - 18:38 Peter: where the model couldn't really 
+18:38 - 18:40 Peter: remember that it learned it, 
+18:40 - 18:42 Peter: but it was like ingrained 
+18:42 - 18:44 Peter: in the weights about the 
+18:44 - 18:46 Peter: now they call it the Constitution. 
+18:46 - 18:48 Peter: And I found that incredibly fascinating. 
+18:48 - 18:50 Peter: And I talked about it with 
+18:50 - 18:51 Peter: my agent and then we created 
+18:51 - 18:53 Peter: a soul.md with like the core 
+18:53 - 18:55 Peter: values, like how do we want 
+18:55 - 18:57 Peter: human AI interaction, 
+18:57 - 18:59 Peter: what's important to me, 
+18:59 - 19:01 Peter: what's important to the model, 
+19:01 - 19:03 Peter: like some part is a little bit 
+19:03 - 19:05 Peter: like mumbo jumbo 
+19:05 - 19:06 Peter: and some part is like 
+19:06 - 19:08 Peter: I think actually really 
+19:08 - 19:10 Peter: valuable in terms of how 
+19:10 - 19:12 Peter: the model reacts and 
+19:12 - 19:14 Peter: responds to text 
+19:14 - 19:16 Peter: and makes it feel very natural. 
+19:16 - 19:18 Speaker 1: In terms of building OpenClaw, 
+19:18 - 19:20 Speaker 1: um, you're also taking 
+19:20 - 19:22 Speaker 1: a little bit of a contrarian 
+19:22 - 19:24 Speaker 1: view at some times, 
+19:24 - 19:26 Speaker 1: like which model you like for coding, 
+19:26 - 19:28 Speaker 1: which one you like to run 
+19:28 - 19:30 Speaker 1: your bot on. Um, 
+19:30 - 19:32 Speaker 1: and then also like how you actually 
+19:32 - 19:33 Speaker 1: like, you know, code. 
+19:33 - 19:35 Speaker 1: Worktrees, Git worktrees 
+19:35 - 19:37 Speaker 1: have kind of been a popular thing, 
+19:37 - 19:39 Speaker 1: there's more and more tools 
+19:39 - 19:41 Speaker 1: embracing that, 
+19:41 - 19:43 Speaker 1: but you're just you're just like, 
+19:43 - 19:45 Speaker 1: you know, no worktrees, 
+19:45 - 19:47 Speaker 1: just multiple checkouts 
+19:47 - 19:49 Speaker 1: of the repo and like parallel, 
+19:49 - 19:51 Speaker 1: you know, terminal windows. 
+19:41 - 19:53 Speaker 1: Tell me more about how you you build. 
+19:53 - 19:55 Peter: Yeah, I feel the whole world 
+19:55 - 19:57 Peter: does Clawcode and I don't think 
+19:57 - 19:59 Peter: I could have built the thing 
+19:59 - 20:00 Peter: with Clawcode. 
+20:00 - 20:02 Peter: Like I I love Codex 
+20:02 - 20:04 Peter: because it it looks through 
+20:04 - 20:06 Peter: way more files before it 
+20:06 - 20:08 Peter: decides what to what to change. 
+20:08 - 20:10 Peter: You don't need to do so much 
+20:10 - 20:11 Peter: charade to get a good output. 
+20:11 - 20:13 Peter: If you're skilled, 
+20:13 - 20:15 Peter: a skilled driver, I sometimes even say, 
+20:15 - 20:17 Peter: uh, you can get reasonably 
+20:17 - 20:19 Peter: good output with any tool, 
+20:19 - 20:21 Peter: but Codex is just is just really 
+20:21 - 20:23 Peter: brilliant. It is incredibly slow. 
+20:23 - 20:25 Peter: So sometimes I use like 
+20:25 - 20:27 Peter: 10 at the same side 
+20:27 - 20:29 Peter: at the same time, 
+20:29 - 20:31 Peter: like maybe six on that screen 
+20:31 - 20:33 Peter: and two there and two there. 
+20:33 - 20:35 Peter: And I don't like, 
+20:35 - 20:37 Peter: this is already a lot of 
+20:37 - 20:39 Peter: complexity in my head. 
+20:39 - 20:41 Peter: There's a lot of jumping. 
+20:41 - 20:43 Peter: So I try to minimize anything 
+20:43 - 20:45 Peter: else that is complexity. 
+20:45 - 20:47 Peter: So in my head, main is always shippable. 
+20:47 - 20:49 Peter: I just have multiple copies 
+20:49 - 20:51 Peter: of the same repository 
+20:51 - 20:53 Peter: that are all are on main. 
+20:53 - 20:55 Peter: So I don't have to deal with 
+20:55 - 20:57 Peter: how do I name that branch, 
+20:57 - 20:59 Peter: um, there could be like conflicts 
+20:59 - 21:01 Peter: on naming, I cannot go back 
+21:01 - 21:02 Peter: it is there certain restrictions 
+21:02 - 21:04 Peter: when you use worktrees that 
+21:04 - 21:06 Peter: I don't need to care about 
+21:06 - 21:07 Peter: if it's copies. 
+21:07 - 21:09 Peter: I don't like to use a UI 
+21:09 - 21:11 Peter: because that's again just added 
+21:11 - 21:12 Peter: complexity. 
+21:12 - 21:14 Speaker 1: Yeah. 
+21:14 - 21:16 Peter: Like the simpler and less 
+21:16 - 21:17 Peter: friction I have, all I care 
+21:17 - 21:19 Peter: about is like thinking and text. 
+21:19 - 21:21 Speaker 1: Yeah. 
+21:21 - 21:23 Peter: I don't necessarily need to see 
+21:23 - 21:25 Peter: so much code, I I mostly 
+21:25 - 21:27 Peter: see it like flying by, 
+21:27 - 21:29 Peter: sometimes there's like the gnarly 
+21:29 - 21:31 Peter: stuff that I want to like 
+21:31 - 21:32 Peter: take a look, but in most cases 
+21:32 - 21:34 Peter: if you clearly understand the 
+21:34 - 21:36 Peter: design and think it through 
+21:36 - 21:38 Peter: and discuss it with your agent, 
+21:38 - 21:39 Peter: it's fine. 
+21:39 - 21:41 Peter: I am also very happy that 
+21:41 - 21:43 Peter: I didn't even build 
+21:43 - 21:45 Peter: an MCP support. 
+21:45 - 21:47 Peter: So OpenClaw is very successful 
+21:47 - 21:49 Peter: and there's no MCP support 
+21:49 - 21:51 Peter: in there. With a small asterisk, 
+21:51 - 21:53 Peter: I build a skill that uses 
+21:53 - 21:55 Peter: Mac Porter, which is one of 
+21:55 - 21:57 Peter: my tools that converts 
+21:57 - 21:59 Peter: MCPs into CLIs. 
+21:59 - 22:01 Peter: And then you can just use 
+22:01 - 22:02 Peter: any MCP as a CLI, 
+22:02 - 22:04 Peter: um, but I totally skipped 
+22:04 - 22:06 Peter: the whole classical MCP crap. 
+22:06 - 22:08 Speaker 1: So because you don't then 
+22:08 - 22:10 Peter: you can actually, if you need to, 
+22:10 - 22:12 Peter: you can use MCPs on the fly. 
+22:12 - 22:14 Peter: You don't have to restart 
+22:14 - 22:16 Peter: unlike Clawcode or Clawcode, 
+22:16 - 22:18 Peter: where you actually have to 
+22:18 - 22:19 Peter: restart the whole thing. 
+22:19 - 22:21 Peter: I think it's way more elegant. 
+22:21 - 22:23 Peter: And also scales way better. 
+22:23 - 22:25 Peter: Now you see Anthropic, 
+22:25 - 22:27 Peter: they do they build like 
+22:27 - 22:29 Peter: a tool called search feature, 
+22:29 - 22:31 Peter: like something super custom 
+22:31 - 22:32 Peter: for MCPs that was like in beta 
+22:32 - 22:34 Peter: because it's like so gnarly. 
+22:34 - 22:36 Peter: No, just have CLIs. 
+22:36 - 22:38 Peter: The bot really is good at Unix. 
+22:38 - 22:40 Peter: You can have as many as you want 
+22:40 - 22:41 Peter: and just works. 
+22:41 - 22:43 Peter: So I'm like I'm very happy that 
+22:43 - 22:45 Peter: I got very little complaints 
+22:45 - 22:46 Peter: about the MCP stuff. 
+22:46 - 22:48 Speaker 1: It's kind of back to you're just 
+22:48 - 22:50 Speaker 1: giving it the same tools that 
+22:50 - 22:51 Speaker 1: humans like to use. 
+22:51 - 22:53 Peter: Yeah. 
+22:53 - 22:55 Peter: Yeah, humans no sane human 
+22:55 - 22:57 Peter: tries to call MCP manually. 
+22:57 - 22:59 Peter: You want to use CLIs. 
+22:59 - 23:01 Speaker 1: Yeah. 
+23:01 - 23:03 Peter: That's the future. 
+23:03 - 23:05 Speaker 1: I'm here for it. Thank you so much 
+23:05 - 23:07 Speaker 1: for making the time to 
+23:07 - 23:09 Speaker 1: sit down, chat. It's been 
+23:09 - 23:11 Speaker 1: a huge inspiration to sort of like 
+23:11 - 23:13 Speaker 1: when we were texting 
+23:13 - 23:15 Speaker 1: you over the course of the past 
+23:15 - 23:16 Speaker 1: couple years and I saw you 
+23:16 - 23:18 Speaker 1: getting back into the game, 
+23:18 - 23:20 Speaker 1: and I was like Peter, like 
+23:20 - 23:22 Speaker 1: what you're telling me, like 
+23:22 - 23:24 Speaker 1: chase that dragon. 
+23:24 - 23:26 Speaker 1: And you were doing like 
+23:26 - 23:28 Speaker 1: the weird like vibe tunnel 
+23:28 - 23:30 Speaker 1: thing etcetera, nobody was 
+23:30 - 23:31 Speaker 1: paying attention. 
+23:31 - 23:33 Speaker 1: And so I'm just like beyond, 
+23:33 - 23:35 Speaker 1: you know, stoked to see 
+23:35 - 23:37 Speaker 1: what's happening. Um, 
+23:37 - 23:39 Speaker 1: and and of course it had 
+23:39 - 23:41 Speaker 1: to be sort of a loner 
+23:41 - 23:43 Speaker 1: from some like tiny country 
+23:43 - 23:45 Speaker 1: like far away from Silicon Valley 
+23:45 - 23:47 Speaker 1: to sort of like bring all of this 
+23:47 - 23:49 Speaker 1: upon us. Um, so huge inspiration. 
+23:49 - 23:51 Peter: I'm here for it. Thank you. 
+23:51 - 23:53 Speaker 1: Awesome. Thanks Peter.

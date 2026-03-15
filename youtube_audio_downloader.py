@@ -95,6 +95,7 @@ class YouTubeAudioDownloader:
             'nocheckcertificate': True,
             # Standard browser User-Agent to match typical cookies
             'user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'writeinfojson': True,  # Save metadata to .info.json for memory system
         }
 
         # Add cookie file if it exists
@@ -284,14 +285,24 @@ class YouTubeAudioDownloader:
                     }
                 
                 # Extract video entries
-                entries = playlist_info.get('entries', [])
+                # yt-dlp returns a generator for entries sometimes, need to convert to list
+                if 'entries' in playlist_info:
+                    entries = list(playlist_info['entries'])
+                else:
+                    entries = []
+                    
                 videos = []
                 
                 for entry in entries:
                     if entry:  # Some entries might be None for private/deleted videos
-                        video_url = f"https://www.youtube.com/watch?v={entry.get('id', '')}"
+                        # Handle different ID formats
+                        video_id = entry.get('id')
+                        if not video_id:
+                            continue
+                            
+                        video_url = f"https://www.youtube.com/watch?v={video_id}"
                         videos.append({
-                            'id': entry.get('id', ''),
+                            'id': video_id,
                             'title': entry.get('title', 'Unknown Title'),
                             'url': video_url,
                             'duration': entry.get('duration', 0),
@@ -300,20 +311,18 @@ class YouTubeAudioDownloader:
                 
                 return {
                     'success': True,
-                    'playlist_title': playlist_info.get('title', 'Unknown Playlist'),
-                    'playlist_url': playlist_url,
-                    'total_videos': len(videos),
-                    'videos': videos
+                    'videos': videos,
+                    'title': playlist_info.get('title', 'Unknown Playlist')
                 }
                 
         except Exception as e:
-            error_msg = f"Playlist info extraction error: {str(e)}"
-            self.logger.error(error_msg)
+            self.logger.error(f"Error extracting playlist info: {str(e)}")
             return {
                 'success': False,
-                'error': error_msg,
-                'playlist_url': playlist_url
+                'error': str(e)
             }
+                
+
 
     def download_playlist_with_memory(self, playlist_url, memory_system, max_downloads=None, auto_skip=True):
         """

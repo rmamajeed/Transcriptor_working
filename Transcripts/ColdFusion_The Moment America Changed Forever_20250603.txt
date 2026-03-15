@@ -1,0 +1,650 @@
+---
+title: ColdFusion_The Moment America Changed Forever_20250603
+audio_file: ColdFusion_The Moment America Changed Forever_20250603.mp3
+note_id: e5efa32f-3e77-46a1-91e9-c398dcb52b72
+date_processed: '2026-03-08'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+
+Full Transcription
+
+ No additional dialogue, introductory phrases, or completion messages will be included.
+
+00:00 - 00:01
+Speaker 1: Hi, welcome to another episode of ColdFusion.
+
+00:02 - 00:03
+Speaker 1: Did President Bill Clinton sell out America's economic future?
+
+00:04 - 00:05
+Speaker 1: Let's see.
+
+00:06 - 00:08
+Speaker 1: In the mid-90s, America seemed unstoppable.
+
+00:09 - 00:10
+Speaker 1: The US economy flourished.
+
+00:11 - 00:12
+Speaker 1: Inflation and unemployment were low.
+
+00:13 - 00:14
+Speaker 1: Budgets were balanced.
+
+00:15 - 00:16
+Speaker 1: and crime was falling.
+
+00:17 - 00:18
+Speaker 1: In the 90s, America really was the place to be.
+
+00:19 - 00:21
+Speaker 1: Then, with just one signature in 2000,
+
+00:22 - 00:23
+Speaker 1: President Bill Clinton changed everything.
+
+00:24 - 00:26
+Speaker 1: China received permanent trade status and an entry into the World Trade Organization, or WTO.
+
+00:27 - 00:32
+Speaker 1: With a stroke of his pen, China would be brought into the rest of the global economy, free to trade with the world with little to no barriers.
+
+00:33 - 00:36
+Speaker 1: But this also meant that the US couldn't bully China.
+
+00:37 - 00:40
+Speaker 1: They couldn't threaten them with economic restrictions for Tibetan human rights violations or aggressive moves against Taiwan.
+
+00:41 - 00:43
+Speaker 1: as mentioned by this 1999 New York Times article.
+
+00:44 - 00:48
+Speaker 1: At this time, it was all about influencing China through positive economic means rather than punishment.
+
+00:49 - 00:52
+Speaker 1: On that fateful day, Bill Clinton would state:
+
+00:53 - 00:57
+Bill Clinton: We continue to have serious disagreements with China on human rights, on proliferation and other issues.
+
+00:58 - 1:00
+Bill Clinton: We'll continue to press our views and protect our interests.
+
+1:01 - 1:04
+Bill Clinton: This deal will not change China or our relationship with China overnight.
+
+1:05 - 1:08
+Bill Clinton: Bringing China into the WTO is a win-win decision.
+
+1:09 - 1:12
+Bill Clinton: It will protect our prosperity and it will promote the right kind of change in China.
+
+1:13 - 1:15
+Speaker 1: On the surface, it made sense.
+
+1:16 - 1:18
+Speaker 1: Why should China be exempt from the global economy?
+
+1:19 - 1:21
+Speaker 1: It would even mean cheaper products for American consumers.
+
+1:22 - 1:24
+Speaker 1: But even at the time, there were voices of dissent within America.
+
+1:25 - 1:28
+Speaker 1: The people that could see what this deal meant were furious.
+
+1:29 - 1:31
+Speaker 1: and it culminated in the famous Battle of Seattle of 1999.
+
+1:32 - 1:43
+Protesters: The whole world is watching! The whole world is watching! The whole world is watching!
+
+1:44 - 1:49
+Speaker 1: Five days, 60,000 people, tear gas, rubber bullets, broken windows, police brutality, and millions of dollars in property damages.
+
+1:50 - 1:56
+Speaker 1: until the WTO demonstrations in Seattle.
+
+1:57 - 2:02
+Speaker 1: Thousands of anti-globalization demonstrators blocked the streets around the convention center, and things escalated quickly.
+
+2:03 - 2:06
+Speaker 1: A small group of disruptive protesters would not consult with the police.
+
+2:07 - 2:14
+Speaker 1: The Seattle really to me, uh, marked uh, the beginning of like a whole new era in the way police dealt with uh, protests.
+
+2:15 - 2:18
+Speaker 1: Over the next 25 years, a set of dominoes would fall.
+
+2:19 - 2:22
+Speaker 1: The very economic fabric of America and the world would be changed forever.
+
+2:23 - 2:27
+Speaker 1: In many ways, it planted the seeds of today's chaotic trade war and devastated whole communities across the Midwest and south of America.
+
+2:28 - 2:31
+Speaker 1: But back in the year 2000, the deal looked great.
+
+2:32 - 2:34
+Speaker 1: A plan for a globalized economy had finally come true.
+
+2:35 - 2:38
+Speaker 1: But the thing was, it was less of a plan and more of an experiment.
+
+2:39 - 2:42
+Speaker 1: And now, we're finally starting to see the results.
+
+2:43 - 3:11
+[Music playing]
+
+3:12 - 3:14
+Speaker 1: But before we get started, just some quick housekeeping.
+
+3:15 - 3:19
+Speaker 1: ColdFusion episodes are now available on Spotify, so you can watch them there if you prefer.
+
+3:20 - 3:23
+Speaker 1: After the Second World War, the US was the undisputed king of production.
+
+3:24 - 3:27
+Speaker 1: By 1945, more steel was produced in the state of Pennsylvania alone than Germany and Japan combined.
+
+3:28 - 3:32
+Speaker 1: For the next few decades, the US were the manufacturers of the world.
+
+3:33 - 3:36
+Speaker 1: By the 90s, some American jobs did start leaving to Asia, but China was a small fry.
+
+3:37 - 3:41
+Speaker 1: only producing 3 to 4 percent of the world's factory output.
+
+3:42 - 3:44
+Speaker 1: But then things would change.
+
+3:45 - 3:48
+Speaker 1: After a series of internal economic reforms, China was about to grow rapidly.
+
+3:49 - 3:52
+Speaker 1: By 1996, they were outproducing both Italy and France.
+
+3:53 - 3:56
+Speaker 1: Germany would be swallowed in 2001 and the growth of China couldn't be ignored.
+
+3:57 - 4:00
+Speaker 1: As the 20th century closed, optimism about globalization peaked.
+
+4:01 - 4:04
+Speaker 1: World leaders believed removing barriers to trade would foster global stability and wealth.
+
+4:05 - 4:09
+Speaker 1: President Bill Clinton championed integrating China into the World Trade Organization, arguing it would democratize China and benefit American businesses by opening vast new markets.
+
+4:10 - 4:13
+Speaker 1: Many believed that this had worked in the past, in places like South Korea and Taiwan.
+
+4:14 - 4:15
+Speaker 1: So, why not China?
+
+4:16 - 4:19
+Bill Clinton: Our products will gain better access to China's market in every sector from agriculture to telecommunications to automobiles.
+
+4:20 - 4:23
+Bill Clinton: But China gains no new market access to the United States.
+
+4:24 - 4:28
+Speaker 1: In 1945 when the war was over, 23 countries came together with an agreement to establish a sort of referee to make sure countries shared their goods in a fair and even manner.
+
+4:29 - 4:32
+Speaker 1: This referee would eventually become the World Trade Organization.
+
+4:33 - 4:37
+Speaker 1: In the decades that followed, tariffs, which often exceeded 40% before the WTO, gradually reduced.
+
+4:38 - 4:41
+Speaker 1: Global powers hoped to prevent the kind of economic isolation that led to the Great Depression and hence World War II.
+
+4:42 - 4:45
+Speaker 1: So Clinton inherited a post-World War II vision of global trade built around big institutions and everyone playing by the rules.
+
+4:46 - 4:49
+Speaker 1: Integrating China was his final step. A gamble aimed at democratizing a growing power, but critics warned from day one that Clinton's optimism might blind him to the reality of global economics.
+
+4:50 - 4:54
+Speaker 1: But once signed, the decision entwined the US and China's economies. The nations were now conjoined economic twins.
+
+4:55 - 4:58
+Speaker 1: The result played out right in front of our eyes. Now with China in the mix, world trade flipped on its head.
+
+4:59 - 5:02
+Speaker 1: America was transformed from a manufacturing powerhouse into a consumer dependent nation.
+
+5:03 - 5:06
+Speaker 1: China was driving America's consumption with a sea of manufactured goods.
+
+5:07 - 5:11
+Speaker 1: Americans, however, did enjoy cheaper goods for a while, but what was the long-term cost?
+
+5:12 - 5:15
+Speaker 1: Labor unions, economists, and members of Congress warned Clinton that American manufacturers would not be able to compete with China.
+
+5:16 - 5:19
+Speaker 1: They pointed out that this would cost American jobs.
+
+5:20 - 5:23
+Speaker 1: They stressed that China had no real labor standards.
+
+5:24 - 5:30
+Speaker 1: But the deal went forward anyway. On October 10th, 2000, Clinton signed the United States-China Relations Act.
+
+5:31 - 5:36
+Speaker 1: Unfortunately for many, all of those fears were quickly proven right.
+
+5:37 - 5:42
+Speaker 1: What was initially celebrated as a diplomatic and economic triumph, has aged into one of the most consequential and divisive decisions of modern American history.
+
+5:43 - 5:46
+Speaker 1: Clinton's signature almost immediately triggered an economic migration.
+
+5:47 - 5:50
+Speaker 1: American companies rushed overseas, particularly to China.
+
+5:51 - 5:54
+Speaker 1: The attraction of significantly cheaper labor was too strong to resist.
+
+5:55 - 5:58
+Speaker 1: What company could resist cutting production costs by more than half?
+
+5:59 - 6:02
+Speaker 1: Jobs that were once secure in American factories vanished rapidly.
+
+6:03 - 6:08
+Speaker 1: And for the first time since 1947 when records began, capital investment in manufacturing, that is, plant equipment and manufacturing technology, actually declined in the 2000s.
+
+6:09 - 6:13
+Speaker 1: Nothing symbolized this shift better than Levi Strauss.
+
+6:14 - 6:18
+Speaker 1: For factory workers like Clara Flores and others in San Antonio, Texas, working at Levi was the job of a lifetime.
+
+6:19 - 6:23
+Speaker 1: Crafting Levi's blue jeans, a classic symbol of American culture since the Gold Rush of the 1800s.
+
+6:24 - 6:26
+Speaker 1: Quoting: "Wherever you went, it was the same Levi's blue jeans." Endquote.
+
+6:27 - 6:31
+Speaker 1: But in 2003, Clara and hundreds of her colleagues in San Antonio were laid off.
+
+6:32 - 6:35
+Speaker 1: Levi's closed its last US factories, moving production overseas in search of cheaper labor.
+
+6:36 - 6:39
+Speaker 1: By 2005, Senator Bernie Sanders and other critics of the policies were already sounding the alarm, saying:
+
+6:40 - 6:53
+Bernie Sanders: The question that the American people have to ask is why it is that corporate America, with the active support of the President of the United States and the congressional leadership, is selling out the American people and making China the economic superpower of the 21st century?
+
+6:54 - 7:00
+Speaker 1: Some people may not like his other policies, but he was certainly right here. Levi's jeans wasn't alone. Between 2000 and 2010, America lost 6 million jobs.
+
+7:01 - 7:04
+Speaker 1: Nearly one third of its entire manufacturing sector.
+
+7:05 - 7:08
+Speaker 1: For just 10 years, that's a literal guttering.
+
+7:09 - 7:13
+Speaker 1: The devastation was felt greatly across the Midwest, in entire communities built around manufacturing were decimated.
+
+7:14 - 7:38
+Speaker 1: [Interviews with residents of former steel mill towns describing the collapse and decline of their cities.]
+
+7:39 - 7:42
+Speaker 1: Rust belt cities saw factories shutter, local economies collapse, and the opioid epidemic take root, a topic which we've covered previously.
+
+7:43 - 7:46
+Speaker 1: Families who once enjoyed stable middle class lifestyles were plunged into uncertainty.
+
+7:47 - 7:51
+Speaker 1: The America of the 21st century was now a consumer and service-based economy.
+
+7:52 - 7:56
+Speaker 1: The data backs this up. In 1999, the US had a trade deficit with China of about 68 billion.
+
+7:57 - 8:01
+Speaker 1: By 2008, the trade deficit had ballooned to over 240 billion.
+
+8:02 - 8:06
+Speaker 1: By 2022, it had reached nearly 400 billion. Meanwhile, corporations reaped massive profits.
+
+8:07 - 8:11
+Speaker 1: Lower production costs and access to the Chinese market were a godsend.
+
+8:12 - 8:16
+Speaker 1: China was becoming the world's marketplace and the lynchpin for most supply chains.
+
+8:17 - 8:22
+Speaker 1: It worked so well that by the 2010s, the country was becoming a technological and economic superpower.
+
+8:23 - 8:26
+Speaker 1: This outsourcing wasn't just about labor costs. China was indeed smart and used their good fortune to plan for the future.
+
+8:27 - 8:31
+Speaker 1: The Far East nation invested heavily in infrastructure, education, and industrial policy.
+
+8:32 - 8:36
+Speaker 1: Over time, China's manufacturing capabilities became so advanced and so efficient that even well-funded US firms could not compete.
+
+8:37 - 8:41
+Speaker 1: Ironically, American companies now often lack the complex manufacturing expertise on the scale of China.
+
+8:42 - 8:46
+Speaker 1: An iPhone made in the US doesn't exactly fit in with our picture of the 21st century.
+
+8:47 - 8:52
+Speaker 1: Now we always think that most things are made in China. It's not the cheap, poor quality factory it was 20 years ago.
+
+8:53 - 8:56
+Speaker 1: Globalization had a lofty promise: shared prosperity. But instead, what it created was dependence.
+
+8:57 - 9:02
+Speaker 1: A new global system heavily reliant on China. So for the US, what happens when a country is dependent on its now ascending geopolitical rival for everyday goods?
+
+9:03 - 11:01
+[Music playing]
+
+11:02 - 11:05
+Speaker 1: Today America is stuck with Clinton's legacy.
+
+11:06 - 11:10
+Speaker 1: A giant trade deficit, a fragile economy, and rising tensions with China.
+
+11:11 - 11:14
+Speaker 1: Clinton's gamble effectively hollowed out America's manufacturing base and eroded the middle class.
+
+11:15 - 11:19
+Speaker 1: The manufacturing jobs before China's takeover used to pay decently with a lower barrier to entry.
+
+11:20 - 11:23
+Speaker 1: Now services make up 80% of the American economy.
+
+11:24 - 11:26
+Speaker 1: The wages in service job fields can vary widely.
+
+11:27 - 11:31
+Speaker 1: In the wake of growing public discontent, the US government began pushing back.
+
+11:32 - 11:36
+Speaker 1: Under Trump's first administration, a limited trade war with China was launched.
+
+11:37 - 11:39
+Speaker 1: There were targeted tariffs on hundreds of billions of dollars worth of goods.
+
+11:40 - 11:44
+Speaker 1: And although this next point is mostly forgotten now because everyone is so divided, this was actually a bipartisan issue.
+
+11:45 - 11:48
+Speaker 1: Left or right, everyone agreed.
+
+11:49 - 11:53
+Speaker 1: In fact, President Biden largely continued this approach, even expanding tariffs in some areas, such as electric vehicles and semiconductors.
+
+11:54 - 11:59
+Speaker 1: And now in Trump's second term, he's approaching the issue well, differently.
+
+12:00 - 12:05
+Speaker 1: Like a bull in a China shop, he introduced chaotic and sweeping tariffs across the globe, but particularly against China.
+
+12:06 - 12:10
+Speaker 1: The aim was to make Chinese imports more expensive, to give American companies a helping hand in the market.
+
+12:11 - 12:14
+Speaker 1: As we all know, the consequences have been dramatic.
+
+12:15 - 12:18
+Speaker 1: Aside from the uncertainty, the main problem is that a lot of goods touch China in some way.
+
+12:19 - 12:24
+Speaker 1: So if the tariffs do stick, American consumers will have to pay higher prices for everyday goods.
+
+12:25 - 12:28
+Speaker 1: Basically the reverse of what happened with Clinton.
+
+12:29 - 12:32
+Speaker 1: And businesses will struggle with unpredictable supply chains.
+
+12:33 - 12:37
+Speaker 1: But the thing is, America may be dependent on China, but to an extent, China also needs America.
+
+12:38 - 12:41
+Speaker 1: With the uncertainty of tariffs, Chinese manufacturers once flush with foreign demand now grapple with excess inventory and plummeting exports.
+
+12:42 - 12:46
+Speaker 1: In fact, there's a lot of manufacturing plants already sitting on tons of products with no clear plan on where else to put it.
+
+12:47 - 12:53
+Chinese factory manager: If this trade war continues, half of our domestic textile factories will go out of business. At this point, it's only about keeping the machines running. Making a profit no longer matters. No one knows when this war will end.
+
+12:54 - 12:59
+Speaker 1: Senior economists say that China has to search for smaller markets. However, that's easier said than done.
+
+13:00 - 13:14
+Economist Gary Ng: He believes that China's industrial sector will feel the most significant downward pressure on prices. If global demand remains weak, leading to a sharp drop in global commodity prices, these two factors will further intensify the downward pressure on Chinese goods prices. Gary Ng, a senior economist at a French foreign trade bank said, China's problem is more related to demand because it has an overcapacity issue. Losing overseas markets will put pressure on Chinese companies' profit margins and increase domestic competition. The risk of deflation may continue for another year or two. This means that the CCP's countermeasures are essentially ineffective and are only worsening the ongoing deflation, which is deepening Beijing's long-standing economic dilemma. Domestic demand is weak and industrial overcapacity has led companies to engage in fierce price wars to secure orders.
+
+13:15 - 13:18
+Speaker 1: Tariffs also make it hard to plan. You can't forecast a lot of things accurately.
+
+13:19 - 13:22
+Speaker 1: Companies have to pause or cancel orders or beg and plead with vendors.
+
+13:23 - 13:27
+Speaker 1: The US and China are now stuck in a mutually destructive loop.
+
+13:28 - 13:32
+Speaker 1: This dependency leaves the US vulnerable in times of crisis. During the pandemic, America painfully realized that they relied on their economic rival for essential goods from microchips to medicine.
+
+13:33 - 13:37
+Speaker 1: America has made some strides to bring the highest tech chip manufacturing back to the States, but it's still early days.
+
+13:38 - 13:41
+Speaker 1: And then there's the intellectual property theft. Apparently, it's rampant.
+
+13:42 - 13:47
+Speaker 1: William Evania, director of the National Counterintelligence and Security Center has gone on record saying:
+
+13:48 - 13:51
+William Evania: Quoting: "We've never seen the likes of economic espionage that we've seen in the past 24 months, and a majority of that has come from the Communist Party of China." Endquote.
+
+13:52 - 13:57
+Speaker 1: But the bottom line is that neither country can easily untangle itself without causing massive disruptions.
+
+13:58 - 14:02
+Speaker 1: And yet, political pressure in both nations continues pushing towards decoupling, dragging the global economy into uncertainty.
+
+14:03 - 14:06
+Speaker 1: Initially, Clinton's policy delivered real benefits.
+
+14:07 - 14:11
+Speaker 1: Consumers enjoyed lower prices on everything from electronics to clothing. Inflation stayed low for years.
+
+14:12 - 14:15
+Speaker 1: American companies gained unprecedented access to new massive markets in China.
+
+14:16 - 14:21
+Speaker 1: American farmers boosted agricultural exports to China dramatically, increasing by 700% from 2000 to 2017.
+
+14:22 - 14:23
+Speaker 1: This directly benefited rural communities.
+
+14:24 - 14:27
+Speaker 1: Yet beneath these immediate gains lurked devastating long-term damage.
+
+14:28 - 14:31
+Speaker 1: Massive job losses, industries moving out, and a dangerous dependency.
+
+14:32 - 14:36
+Speaker 1: Although the truth is even more nuanced. Manufacturing regions in the Midwest were indeed destroyed.
+
+14:37 - 14:41
+Speaker 1: But some data suggests that the effect of China's manufacturing on the USA ended in 2010.
+
+14:42 - 14:43
+Speaker 1: and the trend no longer continues.
+
+14:44 - 14:48
+Speaker 1: If anything, the 2008 crisis did nearly as much damage as China's competition did.
+
+14:49 - 14:53
+Speaker 1: Critics say that Clinton's gamble was naive and economically devastating.
+
+14:54 - 14:58
+Speaker 1: It made America dependent on China, but there's something that people forget.
+
+14:59 - 15:02
+Speaker 1: Remember those agricultural exports to China we just talked about?
+
+15:03 - 15:08
+Speaker 1: Well, in the last fiscal year, the United States exported around 25.7 billion dollars worth of agricultural products to China.
+
+15:09 - 15:13
+Speaker 1: In other words, China still heavily relies on the US to feed its people.
+
+15:14 - 15:18
+Speaker 1: They've managed to gain large quantities of food like soy from countries like South America, primarily Brazil.
+
+15:19 - 15:23
+Speaker 1: But currently, if this fight continues, the long-term sustainability is in question.
+
+15:24 - 15:26
+Speaker 1: Could China fight long-term without potentially starving its people?
+
+15:27 - 15:31
+Speaker 1: In all of this, it's important to recognize that Clinton wasn't alone.
+
+15:32 - 15:35
+Speaker 1: Every administration since, both Republican and Democrat, chose to maintain these policies.
+
+15:36 - 15:38
+Speaker 1: Short-term benefits like low prices and market stability were politically and economically attractive.
+
+15:39 - 15:44
+Speaker 1: America as a whole has lacked a coherent national strategy to support displaced workers or rebuild manufacturing for decades.
+
+15:45 - 15:46
+Speaker 1: These problems were perpetually swept under the rug.
+
+15:47 - 15:48
+Speaker 1: In that sense, the real problem wasn't Clinton's decision.
+
+15:49 - 15:51
+Speaker 1: but the management of what came after it.
+
+15:52 - 15:54
+Speaker 1: So, did Bill Clinton irreversibly change America's economic future?
+
+15:55 - 15:57
+Speaker 1: In some very clear ways, yes.
+
+15:58 - 16:00
+Speaker 1: And in other ways, not exactly.
+
+16:01 - 16:03
+Speaker 1: The politicians after Clinton have blame as well.
+
+16:04 - 16:08
+Speaker 1: But today, as trade tensions mount, this question remains critically relevant.
+
+16:09 - 16:13
+Speaker 1: It forces us to reconsider the delicate balance between global corporation and economic independence.
+
+16:14 - 16:19
+Speaker 1: The choices made today will shape whether America continues down this path of dependency or charts a new course towards a sustainable, sovereign, economic power.
+
+16:20 - 16:22
+Speaker 1: So what do you guys think?
+
+16:23 - 16:30
+Speaker 1: Now all of this isn't to say that China should have been excluded from the global economy, but seeing the problems with lax labor laws when things started getting out of hand, subsequent presidents should have done something.
+
+16:31 - 16:33
+Speaker 1: So I'll pass the question off to you.
+
+16:34 - 16:35
+Speaker 1: What do you think is the right solution?
+
+16:36 - 16:40
+Speaker 1: Have you ever been tired of biased reporting when trying to get to the bottom of a news story?
+
+16:41 - 16:42
+Speaker 1: If only there was a way to solve this problem.
+
+16:43 - 16:46
+Speaker 1: Well, today's sponsor, Ground News, is doing just that.
+
+16:47 - 16:51
+Speaker 1: Ground News is a website and app developed by a former NASA engineer. She was on a mission to give readers an easy, data-driven objective way to read the news.
+
+16:52 - 16:56
+Speaker 1: Using this story of tariffs being blocked in court as unlawful, the left tends to use language like "unconstitutional rampage" while the right's language is more resolute. Language such as "prepared".
+
+16:57 - 17:02
+Speaker 1: There's also a difference in how both sides interpret the tariffs' economic impact. The left centers on small business struggles, while the right emphasizes legal authority, ongoing policy efforts, and even discusses the potential compensation, which the left never did.
+
+17:03 - 17:11
+Speaker 1: Scrolling down, I can compare every single article on the topic with convenient tags. Tags that show me context about the source, like how factual it is and who owns it. Ground News' Blindspot feature is also great. This shows you stories that have been under-reported by one side of the political spectrum.
+
+17:12 - 17:16
+Speaker 1: For example, if you're on the left, you may have missed this story about Apple losing in German court, opening them up to tighter control by the German government.
+
+17:17 - 17:22
+Speaker 1: So, Ground News is a fantastic tool for getting international views, shifting through misinformation, and identifying bias. They provide you all the tools you need to be a critical thinker.
+
+17:23 - 17:29
+Speaker 1: Today, Ground News is offering 40% off their Vantage subscription. This comes with a feature called My News Bias, so you can even track your news viewing habits over time. To get started, go to ground.news/coldfusion.
+
+17:30 - 17:32
+Speaker 1: Anyway, that's about it from me.
+
+17:33 - 17:36
+Speaker 1: If you did like this episode, feel free to watch anything else on ColdFusion.
+
+17:37 - 17:40
+Speaker 1: There's plenty of other interesting stuff here on science, technology, and business.
+
+17:41 - 17:45
+Speaker 1: Okay, so my name is Dagogo and you've been watching ColdFusion and I'll catch you again soon for the next episode.
+
+17:46 - 17:47
+Speaker 1: Cheers guys.
+
+17:48 - 17:49
+Speaker 1: Have a good one.
+
+17:50 - 20:25
+[Outro music and credits]

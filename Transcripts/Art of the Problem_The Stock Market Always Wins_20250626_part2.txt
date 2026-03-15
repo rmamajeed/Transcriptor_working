@@ -1,0 +1,51 @@
+---
+title: Art of the Problem_The Stock Market Always Wins_20250626_part2
+audio_file: Art of the Problem_The Stock Market Always Wins_20250626_part2.mp3
+note_id: cf83a0a4-d881-440b-b6c8-8b64f5e5405d
+date_processed: '2026-02-18'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+
+Full Transcription
+
+
+
+**Speaker 1 (Warren Buffett):** [00:00:00] ...the investment industry, of Wall Street, it was not in their interest actually to have the development of an index fund—of the index fund, because it brought down fees dramatically. 
+
+**Speaker 2:** [00:00:11] And this is why Warren Buffett could make that bet against his own life's work. He understood: every time you make a trade, you have a chance of being wrong. And active investors have to keep guessing; they're like running a marathon and might fall when they're wrong. 
+
+**Speaker 3:** [00:00:26] I personally gone bankrupt, lost everything I had, and had to borrow from friends three times in the nine years that I've been in the business, where I'd go sit in the park and just sit there and just go, 'I can't believe this, you know, this—this is the end, this is the end of my life.' 
+
+**Speaker 2:** [00:00:43] The index fund never falls; it just keeps creeping forward in the race, and since fees don't slow it down, it gradually drifts towards the front of the race. And so once you invest in the index, you literally have every trader on earth working for your money, 24/7. That's why Buffett's bet continues to win. It's the most important idea in finance. 
+
+**Speaker 1 (Warren Buffett):** [00:01:06] Imagine yourself back on March 11th of 1942, that at that time you would've invested $10,000, in effect bought the S&P 500. I want you to think how much money you might have now. And now that you've got a number in your head, let's go to the next slide and we'll get the answer. You'd have $51 million, and you wouldn't have had to do anything; you wouldn't have had to understand accounting. You basically just had to make one investment decision in your life. 
+
+**Speaker 2:** [00:01:40] It turns out the secret to winning in the most sophisticated game on earth is refusing to play. 
+
+**Speaker 1 (Warren Buffett):** [00:01:45] If you followed that, of course, your—there's one problem: your—your friendly stockbroker would've starved to death. 
+
+**Speaker 2:** [00:01:53] Thank you so much for watching this video. If you would like to stay up to date on new videos and projects I have coming, please join my email list. I have something coming up I think you'll be interested in.
