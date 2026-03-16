@@ -11,6 +11,13 @@ cd "$PROJECT_DIR" || exit 1
 # Once-per-day check
 LAST_RUN_FILE="$PROJECT_DIR/.last_run"
 TODAY=$(date +%Y-%m-%d)
+CURRENT_TIME=$(date +%H%M)
+
+# Time window check (1130 to 1200)
+if [ "$CURRENT_TIME" -lt 1130 ] || [ "$CURRENT_TIME" -gt 1200 ]; then
+    echo "$(date): Outside allowed window (11:30-12:00). Skipping." >> "$LOG_FILE"
+    exit 0
+fi
 
 if [ -f "$LAST_RUN_FILE" ]; then
     LAST_RUN=$(cat "$LAST_RUN_FILE")
