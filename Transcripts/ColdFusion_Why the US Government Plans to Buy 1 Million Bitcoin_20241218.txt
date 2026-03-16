@@ -1,0 +1,352 @@
+---
+title: ColdFusion_Why the US Government Plans to Buy 1 Million Bitcoin_20241218
+audio_file: ColdFusion_Why the US Government Plans to Buy 1 Million Bitcoin_20241218.mp3
+note_id: 418d92b6-d5d7-4e5f-978f-4fbb22df28d1
+date_processed: '2026-03-16'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Unknown
+  source_concept: Complex systems
+  target_domain: Biology
+  target_concept: Ecosystems
+  insight: Both complex systems and ecosystems exhibit emergent behavior
+  explanation: Both complex systems and ecosystems are composed of many interacting
+    components, which give rise to emergent properties that cannot be predicted from
+    the properties of the individual components alone. This structural analogy can
+    be used to understand and predict the behavior of complex systems in various domains.
+  potential_applications:
+  - Predicting system behavior
+  - Understanding ecosystem resilience
+  confidence: 0.9
+  historical_example: The study of slime mold behavior has been used to understand
+    traffic patterns and optimize network design
+- connection_type: principle_application
+  source_domain: Unknown
+  source_concept: Feedback loops
+  target_domain: Engineering
+  target_concept: Control systems
+  insight: Feedback loops are used to control and regulate systems in both domains
+  explanation: Feedback loops are a fundamental principle in control systems, where
+    the output of a system is fed back into the input to regulate its behavior. This
+    principle can be applied to various domains, including complex systems, to understand
+    and design control mechanisms.
+  potential_applications:
+  - Designing control systems
+  - Understanding system stability
+  confidence: 0.8
+  historical_example: The development of the thermostat, which uses a feedback loop
+    to regulate temperature
+- connection_type: metaphor
+  source_domain: Unknown
+  source_concept: Network structure
+  target_domain: Social sciences
+  target_concept: Social networks
+  insight: Network structure can be used to understand social relationships and information
+    flow
+  explanation: The metaphor of network structure can be applied to social sciences
+    to understand how individuals and groups are connected and how information flows
+    through these connections. This can help us understand social phenomena, such
+    as the spread of information and influence.
+  potential_applications:
+  - Understanding social influence
+  - Predicting information diffusion
+  confidence: 0.7
+  historical_example: The study of social networks has been used to understand the
+    spread of diseases and information
+- connection_type: historical_precedent
+  source_domain: Unknown
+  source_concept: Complexity and uncertainty
+  target_domain: Economics
+  target_concept: Jevons Paradox
+  insight: The relationship between complexity and uncertainty can be understood through
+    the lens of Jevons Paradox
+  explanation: Jevons Paradox, which states that increased efficiency in the use of
+    a resource can lead to increased consumption, can be seen as a manifestation of
+    the complex relationship between complexity and uncertainty. This historical precedent
+    can help us understand how complex systems behave in the face of uncertainty.
+  potential_applications:
+  - Understanding the relationship between complexity and uncertainty
+  - Predicting system behavior under uncertainty
+  confidence: 0.8
+  historical_example: The development of more efficient coal-fired engines led to
+    increased coal consumption in the 19th century
+bridge_concepts:
+- concept: Emergence
+  appears_in_domains:
+  - Complex systems
+  - Biology
+  - Social sciences
+  role: Describes the phenomenon of complex systems exhibiting properties that cannot
+    be predicted from their individual components
+  examples:
+  - Flocking behavior in birds
+  - Traffic patterns in cities
+  - The emergence of social norms
+- concept: Feedback loops
+  appears_in_domains:
+  - Control systems
+  - Complex systems
+  - Biology
+  role: Describes the mechanism by which systems regulate and control their behavior
+  examples:
+  - Thermostats
+  - Population growth models
+  - Gene regulatory networks
+mental_models:
+- name: Systems thinking
+  description: A mental model that involves understanding complex systems as a whole,
+    rather than focusing on individual components
+  applied_to:
+  - Understanding complex systems
+  - Designing control systems
+  transferable_to:
+  - Biology
+  - Social sciences
+  - Engineering
+- name: First principles
+  description: A mental model that involves breaking down complex systems into their
+    fundamental components and understanding the relationships between them
+  applied_to:
+  - Understanding complex systems
+  - Designing new systems
+  transferable_to:
+  - Physics
+  - Biology
+  - Engineering
+analogies_used:
+- source_domain: Biology
+  source_concept: Ecosystems
+  target_domain: Unknown
+  target_concept: Complex systems
+  mapping:
+    Species: Components
+    Ecosystem: System
+  pedagogical_value: Helps to understand the concept of emergence and the importance
+    of considering the system as a whole
+- source_domain: Engineering
+  source_concept: Control systems
+  target_domain: Unknown
+  target_concept: Feedback loops
+  mapping:
+    Sensor: Input
+    Actuator: Output
+  pedagogical_value: Helps to understand the concept of feedback loops and their role
+    in regulating system behavior
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+
+Full Transcription
+
+
+
+---
+
+00:00 - 00:10 **Donald Trump:** This afternoon I'm laying out my plan to ensure that the United States will be the crypto capital of the planet and the Bitcoin superpower of the world.
+
+00:10 - 00:16 **Speaker 1:** Since his electoral victory, Trump's transition team has tapped people championed by the crypto industry to lead various agencies. 
+
+00:16 - 00:27 **Speaker 2:** This video is brought to you by Aura. The United States of America is planning to buy 1 million Bitcoin. That's around 5% of the total remaining Bitcoin supply. 
+
+00:27 - 00:41 **Speaker 2:** This idea comes in the form of a new bill called the Bitcoin Act of 2024. A lot of people out there are wondering, "Is this really a good idea?" And hang on, how did America even get to this point?
+
+00:41 - 00:49 **Speaker 2:** This all seems a bit out of nowhere, doesn't it? A question that people want to ask is why? Why do this? 
+
+00:49 - 00:54 **Speaker 2:** Will America become the leader in digital finance or are we witnessing peak stupid? 
+
+00:54 - 01:00 **Speaker 2:** In this episode, we'll answer those questions and we'll see what's in the Bitcoin bill.
+
+01:00 - 01:03 **Speaker 2:** You're watching ColdFusion TV.
+
+01:03 - 01:18 **Speaker 2:** Firstly, it might surprise a lot of you to find out that the US government already owns roughly 207,000 Bitcoin. With a price of $100,000 US dollars per coin, 207,000 coins is a mammoth amount of locked up value. 
+
+01:18 - 01:29 **Speaker 2:** The Bitcoin Act, which is actually an acronym for this, mandates that all Bitcoin held by any federal agency must be transferred to the Treasury to be held in a strategic Bitcoin reserve. 
+
+01:29 - 01:40 **Speaker 2:** But there is a question here though: how on earth does the US government already have so much Bitcoin? Well, it's simple. Bitcoin seizures due to criminal activity. 
+
+01:40 - 01:52 **Speaker 2:** Interestingly, around 144,000 of the seized Bitcoin were from one guy: Ross Ulbricht, aka Dread Pirate Roberts. He was the founder of Silk Road, a dark web website that sold narcotics for Bitcoin.
+
+01:52 - 02:09 **Speaker 3:** A US man was able to hide behind a false identity, operating a sophisticated illegal drug website. The site operated much like eBay; it allowed users to buy and sell illegal drugs, guns, and even hire hitmen. The FBI spent two years trying to find the man behind the site.
+
+02:09 - 02:22 **Speaker 2:** In 2013, Ulbricht was ambushed in a library while he was working on his laptop. Unfortunately for him, he didn't get a chance to turn off the laptop before being arrested, so the FBI had unencrypted access to all of his coins. 
+
+02:22 - 02:37 **Speaker 4:** You wanted to get that computer while it was open and running as quickly as possible. Uh, I think he initially thought he was being robbed of the computer, uh, but then once identifications came out, he was—he understood what was happening. 
+
+02:37 - 02:51 **Speaker 2:** If you remember my Silk Road episode from a few years back, you know the story. But back to the Bitcoin Act. This Bitcoin bill isn't just about relocating seized Bitcoins. It's a lot more than that. 
+
+02:51 - 03:07 **Speaker 2:** Here's what the Bitcoin Act is at a glance. It mandates that the Secretary of Treasury purchase, quote, "not more than 200,000 Bitcoins per year" over a five-year period for a total acquisition of 1 million Bitcoins. 
+
+03:07 - 03:19 **Speaker 2:** The 1 million Bitcoins is then to be held by the Treasury for at least 20 years before any selling can take place. There's also other restrictions on sales. 
+
+03:19 - 03:30 **Speaker 2:** The bill also mandates that the first $6 billion of earnings of the Federal Reserve Banks each year has to be used to purchase Bitcoin for the strategic reserve. 
+
+03:30 - 03:40 **Speaker 2:** And next is the most significant part of the bill: exchanging gold reserves for Bitcoin. Well, kind of. In the media, there's a lot of talk about the US government selling off its gold to buy Bitcoin—an absolute hair-brained idea. 
+
+03:40 - 03:47 **Speaker 2:** But as far as I can tell, this isn't technically true. The government will be selling gold certificates to buy the Bitcoin. 
+
+03:47 - 04:00 **Speaker 2:** So how does that work? Currently, the US government supposedly has a stockpile of about 8,133 metric tons of gold in Fort Knox and other vaults. 
+
+04:00 - 04:12 **Speaker 2:** The thing is, the gold held by the US government is valued at $42.22 per ounce, or about $11 billion in total. It's been stuck at that value since February 12th, 1973. 
+
+04:12 - 04:22 **Speaker 2:** But today, the market price of gold is around $2,700 per ounce. That's over 70 times higher, for a total of approximately $775 billion. 
+
+04:22 - 04:36 **Speaker 2:** So, the Treasury will issue new gold certificates, or claims of gold, based on the current market price. They'll exchange those certificates for dollars and use the resulting cash—about $775 billion—to buy up the Bitcoins. 
+
+04:36 - 04:56 **Speaker 2:** So no physical gold is actually being sold, just the gold certificates. The United States stopped publicly issuing gold certificates officially back in 1934, so reviving the concept is certainly interesting. 
+
+04:56 - 05:10 **Speaker 2:** Senator Cynthia Lummis, who introduced the bill, tells Bloomberg, quote, "We already have financial assets in the form of gold certificates to convert to Bitcoin, so the effect on the US balance sheet is pretty neutral," end quote. In other words, this is supposedly at no expense to US taxpayers. 
+
+05:10 - 05:18 **Speaker 2:** Okay, so that's the bill. But what's the point of doing all of this? 
+
+05:18 - 05:32 **Speaker 2:** Up next in this episode, we'll see why America is doing this, how the nation got to this point, also explore if this is a good idea, and we'll see what happens next. 
+
+05:32 - 05:40 **Speaker 2:** But before we continue, let's hear a quick word from today's sponsor, Aura. Do you know that there's a high chance of finding your social security number online? 
+
+05:40 - 05:51 **Speaker 2:** The social security number of pretty much every American was leaked online this year. And that was thanks to 2.9 billion records being compromised in the hack of National Public Data. 
+
+05:51 - 06:06 **Speaker 2:** The hackers who stole this data released it all for free. Now, if I was a hacker, not only could I find this information, but I could also look you up on a data broker site. I'd have access to countless amounts of your personal information—information that you don't want shared. 
+
+06:06 - 06:21 **Speaker 2:** Just imagine what could be done with your home address, phone number, email address, and your social security number. I'd never do such a thing, but a scammer would. And this is how they get into your bank account, take out lines of credit in your name, etc. 
+
+06:21 - 06:36 **Speaker 2:** Who's going to protect you? Not the government, because data brokers are 100% legal in the United States. Not National Public Data, because they just filed for bankruptcy. 
+
+06:36 - 06:48 **Speaker 2:** But today's sponsor, Aura, can. Aura monitors your personal data, including your social security number, across billions of data points like the dark web and public court records to alert you about potential identity theft. 
+
+06:48 - 06:58 **Speaker 2:** They also provide up to $5 million in identity theft insurance, just in case the worst happens. Plus, Aura offers a variety of other features to keep you safe online. 
+
+06:58 - 07:12 **Speaker 2:** This includes real-time alerts for data breaches, a VPN for secure browsing, a data broker opt-out feature to stop companies from selling your personal information, a password manager to help you create and store strong passwords, and more. 
+
+07:12 - 07:23 **Speaker 2:** You don't have to be left vulnerable to data breaches. To get started with Aura, visit aura.com/coldfusion to try two weeks free. That will be enough to find out if any of your personal data is exposed. 
+
+07:23 - 07:26 **Speaker 2:** Thank you. Now back to the episode.
+
+07:26 - 07:46 **Speaker 2:** The way the US government is thinking about this is as follows: Bitcoin's value may be volatile over the short term, but over the long term, its price has always moved in the same direction: up. There's only a limited supply of Bitcoin out there, and eventually they'll all be mined. 
+
+07:46 - 08:00 **Speaker 2:** If America holds onto an appreciating asset on its balance sheet, the presumed appreciation in value would help reduce the national debt. After all, the government can't print more Bitcoin. 
+
+08:00 - 08:14 **Speaker 2:** The aim of the bill is to reduce the federal debt by 50% within two decades by using Bitcoin. There's also a geopolitical component. It's a reaction to the BRICS nations trying to get away from the US dollar. 
+
+08:14 - 08:29 **Speaker 2:** Right now, they're dumping US Treasuries for physical gold. According to Fortune, America could use Bitcoin as an economic leverage over China and Russia. 
+
+08:29 - 08:35 **Donald Trump:** And we don't want China or anybody else—it's not just China, but others are embracing it, and we want to be the head. 
+
+08:35 - 08:39 **Speaker 1:** Because Bitcoin is potentially a strategic reserve asset for the US government. 
+
+08:39 - 08:44 **Speaker 5:** Crypto reserve, but then last week we heard Vladimir Putin talking about it. 
+
+08:44 - 08:52 **Speaker 1:** Want to ensure that the US remains the world's global reserve currency. And if Bitcoin can be an adjacency to that and help support that proposition, then, you know, I think there's a logic to that. 
+
+08:52 - 09:04 **Speaker 2:** Michael Novogratz, head of the crypto investment firm Galaxy Digital, told Bloomberg that if the US does create such a stockpile, the price could rise to half a million dollars per token. 
+
+09:04 - 09:16 **Speaker 2:** His reasoning is that other nations will feel the need to create their own stockpiles. Fortune Magazine writes, quote, "The game theory dynamics of nation-state adoption would spark a digital gold rush, slowing and even possibly reversing the flight to physical gold. 
+
+09:16 - 09:29 **Speaker 2:** US policymakers could thereby use Bitcoin as a tool of economic statecraft, counterbalancing China and Russia's attempts to move away from the dollar towards precious metals. 
+
+09:29 - 09:40 **Speaker 2:** And which country's balance sheet would benefit the most in this scenario? The United States," end quote. But in all of this, you can see the conflict of interest here. 
+
+09:40 - 09:49 **Speaker 2:** If someone holds a lot of Bitcoin, they'd want this to go through so the price can shoot up and they can cash out. But regardless, things seem to be moving ahead. 
+
+09:49 - 09:59 **Speaker 2:** Just as I was writing this, Texas also announced a bill to use Bitcoin as a strategic reserve. The US isn't the first to seriously look into Bitcoin as a national financial asset. 
+
+09:59 - 10:11 **Speaker 2:** Back in June of 2021, under President Nayib Bukele, El Salvador approved a law to make Bitcoin legal tender along with the US dollar. 
+
+10:11 - 10:25 **Speaker 2:** To promote Bitcoin adoption amongst the masses, citizens who downloaded the Chivo wallet received $30 worth of Bitcoin. By February 2022, a study from Yale reported that 68% of households were aware of the Chivo wallet, and 78% of those had downloaded it. 
+
+10:25 - 10:39 **Speaker 2:** The country now holds over 6,000 Bitcoins in its reserves. That's around 1.6% of the nation's $36 billion GDP. 
+
+10:39 - 10:52 **Speaker 2:** With El Salvador, Russia, and now the US either talking about or integrating Bitcoin into their financial systems, are we seeing the start of something? Or is this all just hype, seeing that the Bitcoin price is bullish right now? 
+
+10:52 - 11:03 **Speaker 2:** It's going to be interesting to see how this plays out. So how did the United States get to this point in the first place? 
+
+11:03 - 11:15 **Speaker 2:** Well, the Bitcoin bill was introduced by Senator Cynthia Lummis on July 31st, 2024, and since then it's gathered steam. Cynthia purchased her first Bitcoin in 2013 after her son-in-law advised her to do so. 
+
+11:15 - 11:29 **Speaker 2:** She became the first US senator to own cryptocurrency. Her enthusiasm for the technology led her to be known as Congress's, quote, "crypto queen." But the rabbit hole goes a bit deeper. 
+
+11:29 - 11:42 **Speaker 2:** You see, during the 2024 election, the crypto industry was the biggest spender of any sector. The industry donated a total of $200 million to both candidates. 
+
+11:42 - 11:52 **Speaker 2:** So it's not a stretch to say that their influence must have had a part to play in the positive reception of Bitcoin politically. But as for the public, things are a bit different. 
+
+11:52 - 12:05 **Speaker 2:** Platforms such as pump.fun, which is a crypto website where anyone can make their own coin in seconds, has seen viral scams like a little kid rug-pulling $50,000, or the infamous "hawk tuah" coin. 
+
+12:05 - 12:15 **Speaker 2:** I don't have to tell you that the crypto industry doesn't have the best reputation right now, as people often conflate crypto scams and rug-pulls with Bitcoin itself. 
+
+12:15 - 12:25 **Speaker 2:** So we do have to ask ourselves an important question at this point: what is the function of Bitcoin? Is it a medium of exchange or a store of value? 
+
+12:25 - 12:41 **Speaker 2:** It seems like in the past decade or so, the consensus has settled on it being a store of value. Compared to other forms of crypto out there, the transactions are slow, and compared to regular bank transactions, Bitcoin is expensive. 
+
+12:41 - 12:52 **Speaker 2:** So it's not a very good medium of exchange. But it has acted as a store of value over the long term. In fact, around 70% of Bitcoins have not moved in the last year. 
+
+12:52 - 13:02 **Speaker 2:** So most people are using them as a kind of savings. And to top it off, in early December, Federal Reserve Chair Jay Powell noted that Bitcoin is not a competitor to the dollar; it's a competitor for gold. 
+
+13:02 - 13:16 **Jay Powell:** People use Bitcoin as a speculative asset, right? It's—it's like gold. It's just like gold only it's virtual, it's digital. People are not using it as a form of payment or as a store of value. It's highly volatile. It's—it's not a competitor for the dollar; it's really a competitor for gold. 
+
+13:16 - 13:29 **Speaker 2:** Now of course gold has industry applications and others even outside of that, but I guess just in the strict financial sense, you can see where he's coming from, as Bitcoin was originally designed to mirror gold. 
+
+13:29 - 13:40 **Speaker 2:** But there's a major glaring issue here: Bitcoin is still a risk asset. The price could go to zero; anything is possible. So, is this a good idea? 
+
+13:40 - 13:54 **Speaker 2:** For Bitcoin to be a financial reserve asset for the largest economy on Earth, it has to stand the test of time. Is 16 years really enough? 
+
+13:54 - 14:14 **Speaker 2:** Jennifer J. Schulp, director of financial regulation studies at Cato Institute's research for monetary and financial alternatives, tells Bloomberg, quote, "It's still putting government money on the line, and Bitcoin has not shown itself to be a particularly stable asset. 
+
+14:14 - 14:28 **Speaker 2:** The bill asks senators and members of Congress who may not understand crypto that well to make a much bigger leap of faith in terms of long-term viability," end quote. 
+
+14:28 - 14:38 **Speaker 2:** But let's take a step back. A lot of you who have been following Bitcoin from the beginning may have some alarm bells going off. Doesn't all of this go against the original tenets of Bitcoin? 
+
+14:38 - 14:52 **Speaker 2:** Bitcoin was a response to the banking system screw-ups and government bailouts of 2008. It was an alternative system to get away from the traditional banking system. 
+
+14:52 - 15:01 **Speaker 2:** But now the government is using it as an asset. Doesn't this open the door to corruption in the future? They could easily amend the Bitcoin bill and print dollars to buy as much Bitcoin as they need. 
+
+15:01 - 15:13 **Speaker 2:** Could Bitcoin be captured? We don't know, but as for now, it seems like the US government might be piggybacking off a novel financial asset that's already in use instead of building their own. 
+
+15:13 - 15:33 **Speaker 2:** Now, there are some out there that say that this is the precursor to the CBDC, or central bank digital currency—something that the Federal Reserve has been working on for a while. But that's all a story for another day. 
+
+15:33 - 15:53 **Speaker 2:** Now this next statement is just my personal view. As someone who's made their first deep-dive video into Bitcoin back in 2013, I think the intrinsic value of Bitcoin is virtually zero. It is just a risk asset as it stands. 
+
+15:53 - 16:11 **Speaker 2:** But that being said, I think the real value of Bitcoin is the network. That's the blockchain and its cryptographic distributed nature. It's proved itself unhackable and a totally trustless system. 
+
+16:11 - 16:30 **Speaker 2:** I'm not talking about scammers using Bitcoin to commit fraud, because scammers also use dollars to commit fraud. I'm talking about the actual value of the underlying technology and the network effect, of course. 
+
+16:30 - 16:47 **Speaker 2:** Because sure, there's far better crypto tokens out there. But does the average Joe know their name? No, but everyone knows Bitcoin. 
+
+16:47 - 16:53 **Speaker 2:** So what's next? 
+
+16:53 - 17:01 **Speaker 2:** Once the bill passes the Senate, it's going to need support from the House of Representatives. You could imagine how more lobbying from the crypto industry could help here. 
+
+17:01 - 17:09 **Speaker 2:** But interestingly, there has been some bipartisan support. For example, Democrat Ro Khanna has supported this bill in the past. 
+
+17:09 - 17:23 **Speaker 2:** So is the Bitcoin Act of 2024 likely to fully pass? Well, that's a question for the future, but the betting odds on PolyMarket give it a 30% chance. 
+
+17:23 - 17:40 **Speaker 2:** And that's the crux. There's a lot of hurdles with lawmakers, regulations, public distrust, and opposition to jump over before this is a reality. But with the right amount of lobbying from the crypto industry, it very well could. 
+
+17:40 - 17:53 **Speaker 2:** We'll have to wait and see for both efforts on this—both on the federal level and what's happening in Texas. 
+
+17:53 - 18:13 **Speaker 2:** So in conclusion, is this innovation or is this a sign of desperation for America? Instead of rebuilding manufacturing or making the economy more productive, is America taking the easy way out and manufacturing paper wealth creation through financial engineering? 
+
+18:13 - 18:28 **Speaker 2:** Or is this innovation? Are digital currencies the future and America is just being smart by realizing its utility? From where we stand in time today, we can't truly answer that. 
+
+18:28 - 18:49 **Speaker 2:** But one thing is for sure: this is all very fascinating. Risky, but fascinating. And that's where we are with the Bitcoin Act of 2024 and America pledging to buy 1 million Bitcoins. 
+
+18:49 - 19:02 **Speaker 2:** So what do you guys think? Do you think that this is a good idea or not? I'll be interested to hear your thoughts in the comment section below. 
+
+19:02 - 19:15 **Speaker 2:** So thanks for watching. I hope you learned a thing or two or enjoyed that. And if you're new to ColdFusion, feel free to subscribe. There's plenty of interesting stuff on here on science, technology, and business. 
+
+19:15 - 19:24 **Speaker 2:** So my name is Dagogo, and I'll catch you again soon for the next episode. Cheers guys. Have a good one.

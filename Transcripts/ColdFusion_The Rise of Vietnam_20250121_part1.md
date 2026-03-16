@@ -1,0 +1,148 @@
+---
+title: ColdFusion_The Rise of Vietnam_20250121_part1
+audio_file: ColdFusion_The Rise of Vietnam_20250121_part1.mp3
+note_id: 6c807b2e-6771-4260-b6c4-f6c090a65ffe
+date_processed: '2026-03-16'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+## Full Transcription
+
+
+
+00:00 - 00:02 Speaker 1: This episode is brought to you by Ground News. 
+
+00:02 - 00:30 Speaker 1: Hi, welcome to another episode of Cold Fusion. As reported by CNBC, out of all the countries on Earth, Vietnam will see the sharpest increase in wealth over the next decade. Why? Well, it's because in the background, they've been positioning themselves to become the new global manufacturing hub after China. Many companies are ramping up manufacturing efforts in Vietnam, including Apple, Samsung, and Intel.
+
+00:30 - 01:00 Speaker 1: So what, you might be thinking? Having the projected fastest growth in the next decade might be a nice achievement, but what's the big deal? Well, what makes this success story so incredible is that just in a single generation, Vietnam went from one of the poorest nations in the world to a middle-income economy. To really understand how radical Vietnam's rise is, you must comprehend its history, the perpetual struggle of war, and how it all turned around for them. In this episode, we explore the emerging dark horse on the economic global stage, Vietnam.
+
+01:00 - 01:18 Speaker 1: We'll see their struggles and how this massive transformation took place, and we'll also see the challenges that it yet has to overcome. 
+
+01:18 - 01:41 Speaker 1: So what comes to mind when you think of Vietnam? For many younger people, it might be a budget-friendly Southeast Asian gateway with stunning landscapes. But for those a bit older, it might evoke images of a poor country with dense jungles, soldiers trudging through thick foliage, ravaged villages, and scenes of fleeing refugees. This imagery was largely influenced by mainstream Western media. It was all over the news.
+
+01:41 - 02:02 Speaker 1: But also, films like Platoon and Full Metal Jacket portrayed the brutality of the Vietnam War. But now, in the mid-2020s, this is simply a distant memory. Today, the lively streets of Ho Chi Minh City, Vietnam's largest metropolis, are filled with the buzz of motorbikes, an aroma of street food, and an energy of a nation on the rise.
+
+02:02 - 02:22 Speaker 1: In the country's capital, Hanoi, skyscrapers stand tall, high-tech industrial parks buzz with activity, and luxury brands line the streets. The city's lively atmosphere can be felt. There's young professionals everywhere, and they're leading the charge, creating everything from startups to sustainable agriculture. The boost in economic development has contributed to a significant rise in living standards.
+
+02:22 - 02:41 Speaker 1: But in Vietnam, there's a saying: "Gai qua lo gai quan", which in English loosely translates to: "In hardship, wisdom emerges". And this couldn't be more fitting for the story we're about to tell.
+
+02:41 - 03:00 Speaker 1: Vietnam was under French colonial rule for nearly a century. Starting in the mid-19th century, Vietnam became part of French Indochina, a federation of French colonial territories in Southeast Asia, including Laos and Cambodia. Under French rule, the country's resources were exploited for the benefit of the colonial power. Vietnamese people faced harsh treatment, forced labor, and heavy taxation.
+
+03:00 - 03:19 Speaker 1: After nearly a century of oppression, resentment was quietly growing. There was a strong desire for independence among the Vietnamese people. This desire had given rise to revolutionary movement, and it was led by Ho Chi Minh.
+
+03:19 - 03:39 Speaker 1: He spent years abroad, studying and rallying international support for Vietnam's cause. He was an interesting character. Standing at 5 foot 5, he wasn't physically intimidating, and strangely, he actually respected the democratic values of France. But he thought that the French practicing colonialism was hypocritical. Although Ho Chi Minh stated that he didn't like violence, if anyone got in his way, he would crush them.
+
+03:39 - 04:00 Speaker 1: Later, revered as the founding father of modern Vietnam, Ho Chi Minh became the leader of the Viet Minh, a communist-led resistance group dedicated to ending colonial rule. The Vietnamese were finally going to fight back. There was an attempt for a peaceful resolution with the French, but after peace talks broke down, the struggle for independence culminated in war in 1946.
+
+04:00 - 04:29 Speaker 1: It was a war between Ho Chi Minh's resistance army and French forces. The brutal conflict dragged on for nearly a decade. France's control over Vietnam was heavily weakened after the Second World War. In 1954, the French were finally forced to negotiate. The agreement was to split Vietnam in half: the North and the South. And this division would set the stage for the country's next chapter in history.
+
+04:29 - 04:54 Speaker 1: So now Vietnam was no longer under French rule, but the road to reunification was far from smooth. The peace was fragile, and tensions between the communist North, led by Ho Chi Minh, and the anti-communist South quickly escalated. The United States, fearing a spread of communism in Southeast Asia, began to support the South Vietnamese government. But the USA's full involvement only made matters worse.
+
+04:54 - 05:15 Speaker 2: These are US soldiers fighting on Vietnam's front lines. They are giving their lives. They are not just giving their advice. To a degree never foreseen by Kennedy, we hold the destiny of Vietnam in our hands, and it holds ours.
+
+05:15 - 05:37 Speaker 1: In essence, the war was as much a battle of ideologies as it was a struggle for control. From 1955 to 1975, Vietnam was engulfed in a brutal war that brought unimaginable suffering and destruction. The American intervention, marked by extensive bombing campaigns, ground operations, and millions of soldiers in total, made headlines around the world. The youth of America protested against the war, causing a social divide locally between generations.
+
+05:37 - 05:51 Speaker 3: The war in Vietnam is no longer simply their war to win or lose. It's ours as well, and it has become the most divisive in a hundred years of American history. Do the results match the effort?
+
+05:51 - 06:11 Speaker 1: Student protests in 1970 at Kent State University saw a brutal crackdown from the US National Guard, resulting in the deaths of four students. The event shocked the world, and this incident culturally later became known as the official end of the peace era of 1960s America.
+
+06:11 - 06:33 Speaker 1: The war finally ended in 1975 with the fall of Saigon, the capital of South Vietnam. After the fall, Saigon was renamed Ho Chi Minh City in honor of the North Vietnamese leader. Finally, the country was reunified under a socialist Republic. However, the newly formed Vietnam faced severe hardship. The economy was in ruins.
+
+06:33 - 07:01 Speaker 1: Infrastructure was destroyed, and agriculture crippled. More than anything, the war left an irreparable scar on the Vietnamese people. Millions died, villages were burned to the ground, and families were torn apart. The land was scarred by chemical defoliants, the effects of which are still felt today. The devastation of this war is well documented, but I just want to give you an estimate on the level of destruction.
+
+07:01 - 07:29 Speaker 1: About 1 to 3 million Vietnamese soldiers and civilians, 300,000 Cambodians, 20,000 to 60,000 Laotians, and 58,000 US servicemen died in the conflict. Around 4.6 million tons of bombs were dropped on Vietnam. It caused extensive damage to the countryside and infrastructure. Over the span of two decades, a total of 3 million people from Laos, Cambodia, and Vietnam fled their countries. According to the UNHCR, 800,000 of these refugees were Vietnamese who escaped by boat, later to become known as the boat people of Vietnam.
+
+07:29 - 08:04 Speaker 1: So to recap, Vietnam endured nearly a century under French colonial rule, facing harsh treatment and exploitation. Ho Chi Minh led the revolutionary movement for Vietnamese independence, culminating in the first Indochina war, a war with his resistance army against the French. In 1954, Vietnam achieved independence from French colonial rule. The Vietnam War, spanning from 1955 to 1975, involved a significant US participation. The conflict ended with the reunification of the country under a socialist regime.
+
+08:04 - 08:33 Speaker 1: So after decades of fighting and destruction, Vietnam was left in ruins. It was one of the poorest nations of the world. The GDP per capita was hovering between $150 and $300 in the late 1980s to 1995. To give you an idea, today in GDP per capita terms, that would make it the second poorest country on Earth.
+
+08:33 - 08:58 Speaker 1: Ahead of Burundi and just below Afghanistan. Back then in Vietnam, the struggle to rebuild was immense. The path to recovery seemed daunting under a strict socialist system. Many refugees did return to their country, and the streets of Hanoi and Ho Chi Minh City started to bustle with activity again. Yet, the air was thick with the weight of economic despair. The people in power knew that something needed to be done.
+
+08:58 - 09:19 Speaker 1: In December of 1986, the government introduced a policy called Doi Moi. The Doi Moi reforms, meaning renovation or innovation, were born out of necessity and a desire for renewal. The initiative led by Prime Minister Nguyen Xuan Phuc aimed to transition Vietnam from a command economy to a socialist-oriented market economy.
+
+09:19 - 10:09 Speaker 1: The initial steps were cautious but significant. Everything was state controlled, so in that context, here are some key points and milestones this reform achieved over time. In the North, leaders of agriculture cooperatives who were responsible for managing collective farming efforts were now allowed to rent out land to individual farmers. This marked a shift away from strict government control. Farmers gained more control over their plots, allowing them to manage their own production and keep any surplus beyond their quota. This change revitalized agricultural output and boosted the rural economy. Provincial governments were given the freedom to create their own trading companies, breaking the state's tight grip on foreign trade. Private markets for agricultural products emerged, and price controls over consumer goods were lifted. This allowed trade to flourish at market driven prices.
+
+10:09 - 10:48 Speaker 1: The reforms extend far beyond agriculture. The 1987 Foreign Investment Law took manufacturing facilities out of the hands of the state and allowed foreign investors to establish businesses, own property, and make a profit. At the same time, domestic private enterprises were encouraged to be established. This led to a surge in domestic companies. However, the full potential of these reforms was initially hampered by a US trade embargo, which had been in place since 1975, seemingly a remnant from the Vietnam War. But when the United States finally lifted the embargo in 1994, the landscape of Vietnam's economy began to change dramatically.
+
+10:48 - 11:10 Speaker 1: Among the first to recognize Vietnam's potential were global giants Nike and Adidas. Nike set up a factory in Vietnam just one year after the embargo lifted. Adidas was soon to follow. These companies saw an opportunity: Vietnam had a favorable investment climate and a cheap labor force, something which isn't always good, and we'll get to that in a sec.
+
+11:10 - 11:30 Speaker 1: But right now, Nike works with over 100 suppliers in Vietnam. Starting in the early 2000s, Adidas began establishing multiple factories across Vietnam. By 2021, Vietnam had become the company's largest sourcing country, contributing to roughly 40% of its total footwear production. In 2021, Vietnam exported footwear to over 100 countries, with production climbing to around 17.8 billion US dollars.
+
+11:30 - 11:59 Speaker 1: Today, many brands such as Zara and H&M have factories in Vietnam, and there's 455 billion US dollars of total registered capital in the form of direct foreign investments into Vietnam. There's almost 40,000 of these foreign investment companies, and within those companies, over 1,300 of them are fashion brands. When factories open, new jobs are created for the local Vietnamese people.
+
+11:59 - 12:20 Speaker 1: In 2011, 21% of employees were working in the industry and manufacturing sector. Today, this is over 33%. There's also opportunities for high-skilled jobs, such as managerial positions. Though of course, it's not all sunshine and rainbows though. Sadly, there are companies that use exploitative practices and diminish the rights of the workers.
+
+12:20 - 12:48 Speaker 1: But despite that, in aggregate, there has been upward mobility for those in Vietnam. Between 1993 and 2014, Vietnam raised around 40 million people out of poverty. During this period, the poverty rate plummeted from nearly 60% to 14%, but there's still much more to be done, and we'll touch on that later.
+
+12:48 - 13:16 Speaker 1: Today Vietnam's economy is growing at 5.8%, while the global average is 2.9%. So what's going on here? Well, in Vietnam, it's a mix of smart trade policies, savvy domestic reforms, and hefty investments in infrastructure and human capital. Analysts from the World Bank and Brookings Institute suggest that there are three key factors driving Vietnam's continued economic growth. Let's take a closer look at these points.
+
+13:16 - 13:58 Speaker 1: Number one: Trade agreements and liberalization. Vietnam has strategically opened its market through key trade agreements. Joining the ASEAN Free Trade Area in 1995, a deal with the US in 2000, and joining the WTO in 2007, are notable examples. Since then, Vietnam has secured trade agreements with China, India, Japan, and Korea. A 2018 trade deal with other countries like Australia, New Zealand, Malaysia, Singapore, Canada, and Mexico, and another trade deal with the EU in 2020 now join the list. These deals poise Vietnam to be a future export powerhouse.
+
+13:58 - 14:43 Speaker 1: Number two: Domestic reforms. Vietnam has complemented its external openness with some crucial domestic reforms. These include deregulation and an effort to reduce the cost of doing business. Red tape and hassle are being minimized. As a result, in 2023 alone, Vietnam attracted nearly 36.6 billion dollars in foreign direct investment. Okay, so what does that mean? Well, it's extremely significant because that's a 32.1% increase from just the previous year. It's an absolute rocket ship. But in saying that, there's also the point of appearing tough on corruption. It's a point which we talked about with the case of Trương Mỹ Lan. After bribing everyone and stealing 3% of the nation's GDP, she was sentenced to death. It's a signal that Vietnam is getting serious, even if it is just on the surface.
+
+14:43 - 15:02 Speaker 1: Okay, number three: Investing in capital. With a population of 35 million, half of whom are under 35, Vietnam has prioritized public funding for primary education and infrastructure. It seems like they know the value of an educated and young workforce.
+
+15:02 - 15:30 Speaker 1: Vietnam has always been an export-heavy country. Its economy was once rooted in agriculture. They had exports like wet rice, coffee, and black pepper. But from 2008 to 2018, agriculture's contribution to GDP has declined as the industrial sector took off. Today, it might surprise a lot of people, but Vietnam stands out as a major player in the technology hardware space.
+
+15:30 - 15:54 Speaker 1: In 2023, they exported 57.3 billion dollars worth of electronic devices, computers, and parts. Globally, the country now ranks seventh in electronics exports. This highlights a rapid change. There's a growing presence of global tech companies such as Samsung, Apple, Intel, and Foxconn in Vietnam. In fact, such companies are flocking to the country, eager to invest in and capitalize on its booming market. Let's take a look at a few examples.
+
+15:54 - 16:29 Speaker 1: Samsung: The company produces about half of its smartphones in Vietnam. They're planning to boost investment from 18 billion to 20 billion in the near future. Since 2019, Apple's total investments have exceeded 16 billion, creating over 200,000 jobs in Vietnam, and Tim Cook is investing heavily in Vietnam. Analysts forecast that by 2025, Vietnam is going to be producing 20% of all iPads and Apple Watches, 5% of MacBooks, and 65% of AirPods. Apple's supplier, Foxconn, also committed half a billion to new projects.
+
+16:29 - 17:13 Speaker 1: In 2021, Intel invested 1.5 billion in a new campus near Ho Chi Minh City. It's literally going to be Intel's largest assembly and test facility globally. So why is all this happening? Well, the surge in investment isn't just by chance. One big reason is the ongoing US-China trade tensions. A lot of companies don't want to deal with that, they just want stability and predictability. So a lot of them are looking beyond China to meet their manufacturing needs. Also, as China's living standards improve, labor costs become prohibitive. Couple this with Vietnam's strategic location, a business-friendly environment, tax incentives, and having a lot of trade agreements, easy to see why Vietnam has become a top destination for major international companies.
+
+17:13 - 17:25 Speaker 1: So lining themselves up to be the world's next manufacturing hub is impressive, but what about innovation? Well, Vietnam's not really there yet, but they're trying. The story of VinFast is one that I love.
+
+17:25 - 17:51 Speaker 1: So who is VinFast? It's basically Vietnam's first major car manufacturer. They're quickly gaining international attention with their electric vehicles. So how are their cars? Well, let's just say they're not that good. Their first US-bound product, the VF8 electric SUV, received some harsh reviews. A popular car review channel, Donut Media, did not hold back their criticism. They called it the worst reviewed car in America.
+
+17:51 - 18:20 Speaker 4: Does this car actually deserve the scathing reviews? Absolutely. The reality is they released this car way too early. Most cars take many years and hundreds of millions of dollars to develop. VinFast rushed this to the finish line. $50,000 gets you a lot of different cars, and that's where this car fails. It doesn't live up to any expectation. No. Nothing works. Nothing.
+
+18:20 - 18:36 Speaker 1: But this is where things get interesting. After the video, VinFast themselves took notice of it. And it wasn't to make excuses, but actually to take action. They retooled their factory, put their heads down, and tried to fix all of the issues. They then contacted Donut Media to review the car again.
+
+18:36 - 18:46 Speaker 4: This is the worst reviewed car in America. It's called the VinFast VF8. A few months ago, we drove it and did not like it.
+
+18:46 - 19:19 Speaker 4: I still feel like this car came out way too soon. This is like the car we should have driven back then. I can't shake the feeling that it's still only like 85% or 90% there. This thing used to be the worst car we've ever driven. It made us angry. Months later, they've done a lot of software changes, a lot of hardware changes, they have improved it. Mm-hmm. Did they fix the worst reviewed car in America? I mean, yeah. Yeah, I think that they did fix it. Yeah, but unfortunately, it's still not very good.
+
+19:19 - 19:47 Speaker 1: I find this great because it's so rare to see companies rapidly proactive and open to criticism. I don't recall any other car manufacturer doing such a thing. Unfortunately for VinFast, the latest set of reviews still aren't glowing, but the fact that they admitted their flaws and took action truly is something different. Either they do care about their customers, or it was a great PR stunt. Either way, I was entertained by the debacle.
+
+19:47 - 20:15 Speaker 1: The overall impact of Vietnam's economic rise is clear. Since the early 2000s, the country's GDP has been soaring, averaging almost 7% annual growth. By 2023, Vietnam's GDP surpassed 400 billion. This type of economic growth means that more people are well off, resulting in a larger middle class and greater purchasing power. By 2013, 13 million people or 13% of the population were middle class, a figure that's set to double by 2026.
+
+20:15 - 20:49 Speaker 1: A lot of people do compare Vietnam to the Philippines. The Philippines has better topline numbers, but Vietnam has a higher GDP per capita, lower unemployment, and less public and private debt than the Philippines. Basically, the average person in Vietnam is better off, even if the country's GDP is slightly lower. So these numbers seem promising for Vietnam, but there's still plenty of ongoing social disparity. For one, about 20% of the Vietnamese population lives below $5.50 per day.
+
+20:49 - 21:13 Speaker 1: Plus, around 10% are at risk of falling back into poverty due to economic shocks or other adversities. This means that, despite impressive economic strides, a substantial portion of the population is still struggling. Areas that are rural are particularly affected.
+
+21:13 - 21:44 Speaker 1: A large number of people in these regions are still living in poverty. Nearly 61% of Vietnam's population resides in rural regions, where access to resources and opportunities is limited. And as touched on earlier, corruption remains a pressing issue. The Trương Mỹ Lan fraud case is all you need to know. If you haven't seen my episode on that, it'll be linked in the description for you to take a look at. It's a detailed look at how this scandal impacted Vietnam's economy and the fight against corruption.
+
+21:44 - 22:12 Speaker 1: So in total, while Vietnam is undeniably making strides and moving in the right direction, there's still a lot of work to be done. They collectively need to address the challenges and ensure that the benefits of economic growth are shared more equally across the country. In conclusion, over the past few decades, Vietnam has undergone, frankly, an incredible transformation. After emerging from the shadows of oppression and a brutal war, the country is now full of vitality and hope.
+
+22:12 - 22:33 Speaker 1: Their journey reflects both resilience and remarkable progress, as well as a need to face the ongoing challenges. So what are your thoughts on Vietnam, its remarkable progress, and the challenges it still faces? If there's anyone from Vietnam, I'd love to hear what you think about this. Feel free to share your views in the comment section below. And also just another quick note. A few episodes ago, I did a video on how dumbphones are helping resolve poverty.
+
+22:33 - 22:51 Speaker 1: You guys should all give yourselves a pat on the back because from that episode, we raised over 25,000 dollars for a village in Kenya. So that was an absolutely awesome way to round out last year, and it'll be on to bigger and better things this year. These days everyone is talking about fake news. Getting informed is more complicated than ever before. But who's going to do something about it? Well, today's sponsor Ground News is doing just that.
+
+22:51 - 23:22 Speaker 1: Ground News is a website and app developed by a former NASA engineer. She was on a mission to give readers an easy, data-driven objective way to read the news. Using this story of Vietnam greenlighting a 67 billion dollar high-speed rail project as an example, their bias distribution chart shows me the political leanings of the outlets who cover the story, and I can even get a summary of how the issue is being framed. The left is very positive, calling it an ambitious railway line, and there seems to be a positive tone towards Vietnam's growth.
+
+23:22 - 23:51 Speaker 1: The center, on the other hand, mainly just talks about the facts and is more reserved in their optimism. But the right seems to take this story in a more holistic approach. They talk more about politics and the international implications. Scrolling down, I can compare every single article on the topic with convenient tags, tags that show me context about the source, like how factual it is and who owns it. Ground News' blind spot feed is also great. This shows you stories that have been underreported by one side of the political spectrum.
+
+23:51 - 24:18 Speaker 1: For example, if you're on the left, you may have missed the story about how a lot of small businesses in America are more optimistic after the election. So, Ground News is a fantastic tool for getting international views, shifting through misinformation, and identifying bias. They provide you all the tools you need to be a critical thinker. Today, Ground News is offering 40% off their vantage subscription. This comes with a feature called My News Bias, so you can even track your news viewing habits over time. To get started, go to ground.news/coldfusion. Anyways, that's about it from me. Thanks for watching, and I'll see you again soon for the next episode. Cheers, guys. Have a good one. Cold Fusion. It's new thinking.

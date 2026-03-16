@@ -1,0 +1,372 @@
+---
+title: Design Theory_The Deadliest Design Mistakes in History_20260228_part1
+audio_file: Design Theory_The Deadliest Design Mistakes in History_20260228_part1.mp3
+note_id: 521d4c8b-afc4-424e-9b68-7968a50a1f71
+date_processed: '2026-03-16'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+## Full Transcription
+
+
+
+
+
+00:00 - 00:15
+Speaker 1: We expect danger in a nuclear reactor or a rocket ship. We don't expect it in a powerpoint slide or a purple drink. And yet, these things can be lethal. A single design choice is often the only thing standing between life and a national tragedy.
+
+00:15 - 00:28
+Speaker 1: How did these failures keep slipping past well-trained designers and engineers? Let's see how good intentions and seemingly small design choices can add up to catastrophe. These are designs so bad they actually killed people.
+
+00:28 - 00:44
+Speaker 1: This is a lawn dart. And this is its inspiration: the plumbata war dart, a weapon designed by the Romans to throw at enemy soldiers. Some entrepreneurial Americans decided an ancient Roman weapon would be a fun backyard game for kids.
+
+00:44 - 00:59
+Speaker 1: In the 1950s, this all made sense on paper. Kids like darts, kids like to throw things, and we had a country full of wide-open lawns and millions of bored children with zero parental supervision. But how did we overlook the fact that kids would eventually get bored of easy targets like these and instead move to more dynamic targets?
+
+00:59 - 01:15
+Speaker 1: To understand that, we need to understand the people designing these things. During World War II, infantrymen spent their off time in pubs playing games like darts to blow off steam and have fun. After the war, many of these soldiers went on to advertising, marking the Mad Men era.
+
+01:15 - 01:31
+Speaker 1: They built the American consumer economy, and that same mentality of boozing, womanizing, and playing with weapons is the cultural backdrop that led to lawn darts. If you look at it that way, a game this dangerous almost feels inevitable. Safety just wasn't a concern.
+
+01:31 - 01:47
+Speaker 1: Lawn darts are satisfying. They hit the same pleasure circuit as any good tool. There's that weight, the momentum, the impact, the feedback. It's the rush of sticking a bullseye with darts or slicing a toy lightsaber through the air.
+
+01:47 - 01:56
+Speaker 1: You're basically feeding the caveman part of your brain that loves smashing things with tools. I mean, sure, we were basically handing javelins to children, but who cares? It's fun, right? Plus, young boys have an almost supernatural ability to turn just about anything into a weapon.
+
+01:56 - 02:11
+Speaker 1: They weren't raising kids to be soft back then, after all. As they'd probably say in the 1950s, boys will be boys. You're not thinking, "If I throw this thing at Timmy, he'll die." You're thinking, "Hey Timmy, watch how far I can throw this," before nearly stabbing him by accident.
+
+02:11 - 02:19
+Speaker 1: After about 6,000 hospital visits and a handful of deaths, lawn darts were banned. But you can still order vintage ones on eBay, but you probably shouldn't.
+
+02:19 - 02:35
+Speaker 1: Even today, we defend very obviously dangerous toys. We call it play, but all you're really thinking about is getting that dopamine rush. This level of design negligence isn't limited to the past either. It's still happening today, and it's not even uncommon.
+
+02:35 - 02:49
+Speaker 1: Imagine this: you're four years old, it's a blistering hot day, you've been playing outside in the sun and pop inside for a quick drink. You can't read yet, but you know a picture of an orange usually means orange juice. So you grab the first fruity bottle you see in the pantry.
+
+02:49 - 03:00
+Speaker 1: It smells good and you take a big gulp, but suddenly your throat is burning. Some designs lead to mistaken identity. This is Fabuloso floor cleaner, designed so poorly people actually drank it.
+
+03:00 - 03:14
+Speaker 1: The packaging was the problem. Bottles looked just like fruit juice in both shape and color. Just look at these hand grips; they're very similar to the ones you see on sports drinks. The company also used bright, fruit-forward images that look just like juice labels.
+
+03:14 - 03:25
+Speaker 1: Even the cap looks more like a soda cap than a chemical cleaner. Overall, the packaging hints at food, not something that burns skin and poisons your body. And apparently, it smells really nice.
+
+03:25 - 03:41
+Speaker 1: Most cleaners like Lysol come with a heavy chemical smell. But Fabuloso smells like a fruity drink. According to an actual doctor, it doesn't taste terrible either. Watermelon, peach, and pineapple are all scents you'd associate with drinks or at the very least creams or soaps, not a toxic detergent meant for a dirty mop bucket.
+
+03:41 - 03:55
+Speaker 1: In grocery stores, cleaners have their own aisle. But at home, they might go in a pantry or a kitchen next to actual food. When you're at home after a long workday, your brain just sees purple, clear bottle, fruit graphic. It takes a mental shortcut and completes a pattern.
+
+03:55 - 03:57
+Speaker 2: I want that purple stuff.
+
+03:57 - 04:12
+Speaker 1: It took more than 100 poison control calls before Fabuloso decided to change something. So you're thinking, "Oh, they must have done the obvious, right? Just change the packaging to look more like floor cleaner." Nope.
+
+04:12 - 04:26
+Speaker 1: They added this tiny little mop bucket to the background of the labels. Surely a thirsty and discerning four-year-old will stop and appreciate the label art before taking a swig. And remember these? Most people over the age of 10 probably wouldn't consider this a candy.
+
+04:26 - 04:41
+Speaker 1: But when the internet caught wind of this, things got stupid. It's easy to look back and shake our heads at dumb teens, but it's already happening again. There's a trend of pranking family members into thinking you're drinking Fabuloso floor cleaner.
+
+04:41 - 04:54
+Speaker 1: And a company in Mexico is even making novelty drinks that look like the cleaner. Memes aside, if you design a poison to look like food, a few people will eventually eat it, especially when you have millions of people using that product.
+
+04:54 - 05:07
+Speaker 1: When you put a tiny little "do not drink" warning on something that looks like a drink, don't act surprised when somebody accidentally ignores that label and eats it anyway. And don't act surprised if you can't find this channel again in the future, so hit the subscribe button to get reminded when I post my next video.
+
+05:07 - 05:21
+Speaker 1: That was a nice transition. Come on, admit it. Subscribe. Or don't, I don't really care. Anyway, understanding the human behaviors and mental shortcuts we take is a theme that carries over into the next bad design. In the mid-80s, Volkswagen had a PR nightmare.
+
+05:21 - 05:32
+Speaker 1: Their Audi 5000 model was acting really strange. The cars were accelerating rapidly and launching themselves through garages and storefronts completely unprompted. It was something straight out of a Stephen King novel.
+
+05:32 - 05:46
+Speaker 1: Audi investigated, the NHTSA investigated. They left no stone unturned, even tirelessly studying the floor mats as the potential culprit. But they couldn't figure out what was causing these cars to rapidly accelerate as if they were possessed.
+
+05:46 - 06:00
+Speaker 1: Things got really weird and confusing when the brakes in the Audi 5000s worked just fine on crash sites. So what happened? Americans happened. The official report found American drivers were pressing the gas pedal instead of the brake pedal, sometimes with deadly consequences.
+
+06:00 - 06:14
+Speaker 1: European drivers actually preferred pedals arranged like this. They were used to heel-to-toe driving, a racing technique where the brake and the gas are close enough to hit both with one foot. They also liked pedals tuned for speed, ones that could fly with the slightest touch.
+
+06:14 - 06:26
+Speaker 1: For this to work, pedals had to be small, close together, and almost at the same height. In the Audi 5000, both pedals felt identical. There was no tactile difference telling your foot which one was the brake and which one was the gas.
+
+06:26 - 06:40
+Speaker 1: You'd just hover over a pedal and think, "Yeah, that's probably it." Too bad not every Audi owner was a racing expert in narrow-fit driving boots. Some were distracted, loafer-wearing dads trying to keep toddlers from throwing juice boxes while merging onto the freeway.
+
+06:40 - 06:51
+Speaker 1: Audi ended up recalling the cars and changing car design forever. If you think about the car you drive today, there's space between the gas and the brake. They made the brake pedal larger and offset so it's easier to reach, even for shorter drivers.
+
+06:51 - 07:05
+Speaker 1: The pedals feel different when you place your foot on them, and they feel different when you press down on them. This is all very intentional. They also introduced shift lock to automatic cars. To shift into drive, you have to press on the brake first.
+
+07:05 - 07:18
+Speaker 1: That's standard in all cars today, but it wasn't always like that. This is a clever little design trick. If you want to hit the gas, you have to prove you know where the brake is first by pressing down on it.
+
+07:18 - 07:32
+Speaker 1: Now I don't know about you, but I'm not even old enough to remember cars that didn't require braking to shift into drive. Audi basically designed something that took the guesswork out of things. They primed your brake to say, "Yes, I'm in the right state of mind to maneuver this two-ton metal box and I've demonstrated I know how to stop."
+
+07:32 - 07:44
+Speaker 1: We learned a lot from Audi and have gone much further with pedal technology. New cars have smart pedals that give feedback to your decisions while driving. Say you're startled and accidentally press the gas while facing a wall.
+
+07:44 - 07:56
+Speaker 1: You couldn't easily drive through it. Sensors know a wall is in front of you and apply the brake. Or say you're tailgating on the highway; the gas becomes stiff and gives you a second to think, "Hey, maybe back off a little bit so you don't get yourself killed."
+
+07:56 - 08:11
+Speaker 1: Audi taught us how important it is to account for human error, right down to understanding how cultural differences or driving styles can cause accidents. In their book User Friendly, Cliff Kuang and Robert Fabricant point out: "If human error is to blame, it is hard to imagine any human not making these errors. Humans might fail, but they're not wrong."
+
+08:11 - 08:26
+Speaker 1: Humans will slip. The goal is designing systems that don't punish them when that happens. And that's exactly what I want for my workflow tools too, because editing across devices should be forgiving and simple. I've been using AnyDesk, and that's why they're sponsoring today's video.
+
+08:26 - 08:41
+Speaker 1: If you're a designer, creative, or editor working across multiple devices, AnyDesk might be the best tool you're not using yet. I've been integrating it into my workflow and it's kind of a game-changer. With AnyDesk, I can remotely access my editing rig from my laptop.
+
+08:41 - 08:52
+Speaker 1: The connection is so fast and responsive, it feels like I'm right there in my office. And it works on Windows, macOS, and all these other platforms. And because AnyDesk uses a proprietary codec, the image quality stays sharp even in remote areas or on spotty Wi-Fi.
+
+08:52 - 09:05
+Speaker 1: Audio pass-through means I can scrub and edit YouTube videos remotely. And thanks to 99.98% uptime, I know I can rely on it. The direct file transfers are also really useful. No more cloud uploading, no more waiting to sync.
+
+09:05 - 09:18
+Speaker 1: I can move raw footage, project files, whatever I need straight from device to device, instantly and securely. If your workflow lives across many devices or locations, AnyDesk brings it all together seamlessly.
+
+09:18 - 09:32
+Speaker 1: It's free for personal use, and if you've got a team, they offer tailored business plans. Thanks to AnyDesk for sponsoring this video. Download AnyDesk for free today using my link in the description. Back to the video.
+
+09:32 - 09:41
+Speaker 1: No design should require 100% accuracy 100% of the time. Audi helped make the world safer. This next bad design did the opposite. This is the Volkswagen Beetle, one of the most iconic symbols of the hippie era.
+
+09:41 - 09:55
+Speaker 1: It was cheap, small, and honest—the people's car. And as the oil crisis caused gas prices to skyrocket, it was quickly becoming the most purchased car in the United States. The president of Ford, Lee Iacocca, took note of Volkswagen's success.
+
+09:55 - 10:10
+Speaker 1: He was the mastermind behind the Ford Mustang, one of the most beloved and best-selling cars in American history. The Mustang was also a people's car of sorts, or at least the Americanized version of one.
+
+10:10 - 10:24
+Speaker 1: It was also a small car that was relatively affordable and it was appealing to everyone. It came in powder blue for women or had racing stripes for men. They sold a million Ford Mustangs within just a couple of years of its launch, which was unheard of at the time.
+
+10:24 - 10:39
+Speaker 1: Iacocca hoped to capture that same lightning in a bottle with his next car that would compete with the Volkswagen Beetle. But he had to act fast because Mustang sales had slowed and Ford was in trouble. So he made an ambitious plan.
+
+10:39 - 10:53
+Speaker 1: His next car would not cost a penny over $2,000 and not weigh an ounce over 2,000 pounds. They called it the Ford Pinto. It was Ford's answer to cheap imports. Iacocca promised that the car would be produced in 25 months.
+
+10:53 - 11:06
+Speaker 1: Now, to be clear, it wasn't uncommon for a normal car to take 43 months to produce. Under that extreme pressure, Ford made a compromise that ended up being fatal. The gas tank was placed at the very back, just inches behind a flimsy rear bumper.
+
+11:06 - 11:17
+Speaker 1: Mother Jones broke the Pinto scandal to the world. According to the article "Pinto Madness," if you were rear-ended at just 30 miles an hour, the cheap bumper folded like an accordion. The filler tube would rip away and the gas tank would smash up against its insides.
+
+11:17 - 11:31
+Speaker 1: Where four sharp, protruding bolts would gash holes in that gas tank. Gas would slash out all over the car and road. One spark from scraping metal or a cigarette butt and you're in a furnace. At 40 miles an hour, the impact jammed the door shut and you'd be trapped inside of a blazing inferno.
+
+11:31 - 11:47
+Speaker 1: Car safety expert Byron Block reflected on Ford's choices: "It's a catastrophic blunder. Ford made an extremely irresponsible decision. It's almost designed to blow up. Premeditated." So why sell a car that was essentially a death trap?
+
+11:47 - 12:02
+Speaker 1: At the time, Ford was run by a salesman. Aesthetics and features were king. Putting the gas tank over the axle where it was safe would have eaten into the trunk space. And at Ford, fitting two sets of golf clubs was apparently more important than surviving a crash.
+
+12:02 - 12:15
+Speaker 1: The engineers knew this was a problem. Lou Tubben, one of those engineers, tried to warn upper management. He even got permission to present a safer design to the company. He told everyone he could about the presentation, but when the meeting time came, only two people showed up: Lou and his boss.
+
+12:15 - 12:30
+Speaker 1: Lee Iacocca would infamously say, "Safety doesn't sell." Clearly, safety wasn't a popular topic at Ford, and with Lee, it was taboo. If you brought up a solution that might slow production, he'd probably chomp on his cigar and growl, "Read the product objectives, get back to work."
+
+12:30 - 12:43
+Speaker 1: Let's look at those objectives. Subcompact, check. Low cost, check. Aesthetically pleasing, check. Safety was sorely missing. Denny Gioia worked in the recall office. One day he was expecting broken parts when he saw a burned-out Pinto.
+
+12:43 - 12:59
+Speaker 1: He said, "I don't know if you've ever seen a burned-out car, but it's just repulsive. All the plastic is melted, the paint is burned off, and it begins to rust in very short order. I was told that this was a death vehicle, that people had died in this and the car had come back."
+
+12:59 - 13:14
+Speaker 1: The head of Ford's safety program later testified as the star whistleblower. He'd been fired over conflicts with management around safety. He testified Ford knew about the danger of the car's gas tank and they delayed or ignored fixes in favor of cost savings—$20.9 million in savings, to be exact.
+
+13:14 - 13:29
+Speaker 1: Basically, Ford decided to ignore the safety concerns because they calculated that it would be cheaper to pay for the wrongful death lawsuits instead of fixing the gas tank. The Ford execs were okay with letting people die trapped inside of a blazing inferno because it was more profitable.
+
+13:29 - 13:44
+Speaker 1: Humanity always has wanted to move forward quickly. We value success through dominance rather than reflection. The Ford Pinto is a cautionary tale of what happens if we move too fast. Iacocca learned the hard way that safety absolutely does sell in the wake of a catastrophe driven by greed.
+
+13:44 - 14:02
+Speaker 1: Many car brands use their safety testing data as a selling point today, not to mention hundreds of heavily enforced safety standards. Now cars actually have airbags, windshields that web when smashed so they don't create large knife-like shards, backup cameras, and a whole library of innovations that have made driving safer.
+
+14:02 - 14:14
+Speaker 1: But that doesn't mean our cars are always better than their older counterparts. Sure, cars probably don't explode as often, but some bad designs are more innocuous while being just as dangerous. Every automaker on the planet knows putting an iPad in front of your face while driving is a bad idea.
+
+14:14 - 14:26
+Speaker 1: But if you crash while swiping through menus for your defrost, you're the one at fault. Classic corporate gaslighting at its finest. Touchscreens are a little bit like handing you a bottle of wine and a corkscrew for the morning commute.
+
+14:26 - 14:39
+Speaker 1: I'm obviously not condoning drinking and driving, but browsing through submenus on a touchscreen while doing 70 is not much better. Everyone hates touchscreens in cars, but there's a reason why they're so common in new models. Just like with a new Pinto, there's money involved.
+
+14:39 - 14:51
+Speaker 1: A simple sheet of glass, electronics, and a single plastic enclosure saves automakers money on every car made. Individual buttons need components, plastic molds, and different materials. Each individual button or dial needs its own wiring, inventory, and durability tests.
+
+14:51 - 15:05
+Speaker 1: They need real humans to assemble them, too. These humans want salaries, lunch breaks, and dental insurance. A simple touchscreen is a far less complicated thing to manufacture, and the software can regularly be updated if you screw something up.
+
+15:05 - 15:15
+Speaker 1: You can't do that with physical buttons or dials unless you issue a recall, which is extremely expensive for car companies. I've worked as an industrial designer for 15 years now. I have no doubt the moment UX designers saw these design proposals they said, "This touchscreen will kill people."
+
+15:15 - 15:28
+Speaker 1: But certain death is an easy sell when the C-suite is more excited about that weather widget you just came up with. You can even add Netflix. Apparently turning on windshield wipers is less important than catching up on your favorite TV series.
+
+15:28 - 15:39
+Speaker 1: And surely it's not like those screens ever lag or freeze or crash while you need them, right? Say you're on a windy mountain road, it's whiteout conditions. The roads are sheer ice and the wind's trying to blow you off a cliff. Your windshield starts to fog up. You need to act before it frosts over.
+
+15:39 - 15:52
+Speaker 1: Luckily, you have a passenger today. You start barking orders at them, guiding them through three levels of submenus. But you can't remember if defrost was under climate, vehicle, or quick settings.
+
+15:52 - 16:05
+Speaker 1: Even if you know exactly what icon you're looking for, it's hard to mentally recount all the menus and controls when you can't peel your eyes off the road. Luckily, they find the little fan icon, they tap it, but there's another problem. All these other controls need to get turned off first.
+
+16:05 - 16:19
+Speaker 1: Max defrost doesn't work in eco mode, so you have to turn that off too. And whoops, their finger slipped; that turned off the seat heaters. You might as well just do it yourself. You reach over, half-distracted, and your screen freezes.
+
+16:19 - 16:33
+Speaker 1: God damn it. Before touchscreens, that was a five-second task. In that time, you traveled a few hundred meters. If you do that same task on a touchscreen, you might as well be watching TikTok videos while driving. By the time you look back at the road, you've gone almost a full mile without looking up.
+
+16:33 - 16:48
+Speaker 1: It's crazy to think that 90% of us don't even want touchscreens in our car, yet very few automakers plan on bringing back real buttons. Most companies already know how much they can save by eliminating buttons. That's why we keep seeing narratives like touchscreens are the jewel of any interior.
+
+16:48 - 17:01
+Speaker 1: How many more collisions do we need before we admit we're just doing the Pinto thing on a much larger scale? This is the control room at Three Mile Island. It's a nuclear power plant in Pennsylvania. It's 1979, so everything's analog. Thousands of switches, dials, and gauges blink back at you in silence.
+
+17:01 - 17:16
+Speaker 1: Normally, it's a calm place, the kind of place your shift just glides by. Only today is different. The room's in panic. You're in a room where 2,000 warning lights and knobs flash and scream at once. Over 100 alarms sound at the same time.
+
+17:16 - 17:29
+Speaker 1: And the 40-foot panel in front of you is lit up like a Christmas tree. When everything says mission critical, nothing is. How do you prioritize this chaos? You're standing in front of a billion-dollar machine and can only think, "Where do I even start?"
+
+17:29 - 17:42
+Speaker 1: This panel helped cause the worst nuclear crisis in United States history. Look at all these identical knobs and dials. Even trained professionals can't really tell which is which. You'd think that these labels would help.
+
+17:42 - 17:54
+Speaker 1: Except many of these buttons have three separate labels sometimes. So then maybe you look at the lights. You have red, yellow, green lights. You don't remember what each color means, so you check the manual. It turns out red lights mean 14 different things depending on the context.
+
+17:54 - 18:05
+Speaker 1: So that's not helpful. Okay, what about the green lights? Those mean 11 different things. So you go across the room and you see completely different buttons. And this one has old tags hanging on it, so you're not even sure what it means.
+
+18:05 - 18:21
+Speaker 1: This is America's worst design failure, a total mess in visual hierarchy. In Western design, we expect the most important thing to be the biggest or the most prominent. But engineers—the people who make the things we use every day—don't always think like the rest of us.
+
+18:21 - 18:37
+Speaker 1: They think in terms of optimization. How can I make this cheaper, more efficient, or more streamlined to produce? This isn't necessarily bad; it's just their job. Take this cheap microwave, for example. To you, "start" is the most important button. It should be big and prominent.
+
+18:37 - 18:52
+Speaker 1: But it's indiscernible here; it just looks like all the other buttons. It's a grid of identical squares. But the engineer's thinking, "Okay, perfect, we can use the exact same button size and shape and that'll save us five cents per unit."
+
+18:52 - 19:07
+Speaker 1: The engineer sees a single membrane keypad as a perfectly logical decision that saves money. But the end user just sees it as confusing because it's hard to understand which button to press at a quick glance. When you're dealing with popcorn, it's not such a big deal.
+
+19:07 - 19:16
+Speaker 1: Except at Three Mile Island, if you screw up the button layout on the nuclear reactor, you wipe out half of Pennsylvania. For their book User Friendly, the authors spent two years studying the design of this control room.
+
+19:16 - 19:29
+Speaker 1: They found that nothing really made sense. It's almost like someone put the controls in a hat and pulled them out one by one before placing them randomly. Valve controls were next to elevator levers; there was just no logic to it.
+
+19:29 - 19:42
+Speaker 1: So back to our emergency at hand. All these sirens and lights are going off like a Christmas yard display. How do you find the one thing wrong when the machine is telling you there are thousands? The operators needed to keep an eye on the core temperature.
+
+19:42 - 19:51
+Speaker 1: But this is the 70s. There aren't any high-def screens showing the temperature, and you can't just check it on an app. Instead, you need to print out temperature readings on a good old paper printer.
+
+19:51 - 20:01
+Speaker 1: Except the computer didn't understand temperatures as high as these, so all it does is print out a bunch of question marks. So why were these smart and ostensibly well-trained men so confused? What happened was a valve got left open during cleaning.
+
+20:01 - 20:12
+Speaker 1: Maybe you've walked out of your kitchen without shutting your fridge and it starts to beep. It was kind of like that. The system was trying to let the operators know that the valve was left open. Except that beep was wired by an engineer who didn't account for common human error.
+
+20:12 - 20:23
+Speaker 1: While this is happening, the fuel rods were slowly turning into radioactive hot lava. This is the light for the PORV, the Pilot Operated Relief Valve. When things get too hot, a valve opens to let out steam.
+
+20:23 - 20:36
+Speaker 1: When things cool down, it shuts. Pretty simple. Except the light didn't tell you whether the valve was open or closed; it only said the system had sent the command to open or close the valve. And in this case, the valve was manually stuck open.
+
+20:36 - 20:47
+Speaker 1: Engineers expect parts to fail, but no one thought of that happening. The only way to know if the valve was open or closed was to physically check and risk turning into a radioactive human glow stick. The final report was published months after the disaster.
+
+20:47 - 21:01
+Speaker 1: They found thousands of factors compounded into what was called an inevitable catastrophe. A bad interface was just the tip of the iceberg. These operators were veterans, the best of the best from the nuclear sub program. They were trained for this disaster.
+
+21:01 - 21:13
+Speaker 1: But they were also products of the Pinto era. Training was basically, "Hello, welcome to your first day. Here's your machine. This is how it should look. Let's hope it stays this way. Have a great 40-year career." To put that into perspective, I was an ocean lifeguard for a few years.
+
+21:13 - 21:29
+Speaker 1: Rescues really only happened every week or two, and they'd usually be over in 10 minutes. But we'd spend hours drilling emergencies and training. In the nuclear industry, you only needed to spend 6% of training in a simulator. Think about that: 6%.
+
+21:29 - 21:43
+Speaker 1: And it was mostly for demonstrations, and it was done in something that didn't even look exactly like the control panel they were working with. After this training, you could forget everything you learned. Then there's the control room layout. Apparently, the control rooms were built last, as a complete afterthought.
+
+21:43 - 21:57
+Speaker 1: To save money, the company just duplicated the rooms for Reactor 1 and Reactor 2. They were mirror images of each other. So what happens when you look in a mirror? Everything is flipped. So say you learn the ropes in Control Room 1. Your next shift is in Control Room 2, where everything is backwards.
+
+21:57 - 22:12
+Speaker 1: This makes sense from an engineer's cost savings perspective, but it's an absolute disaster waiting to happen. It's like driving a car with the gas and brake pedal swapped. The second your mind wanders, you're pressing down on the wrong pedal at a red light.
+
+22:12 - 22:25
+Speaker 1: Three Mile Island was a catastrophe, but it forced us to start asking: what does the human need to understand in this scenario, rather than how do we mold humans to this machine? We learned a lot from it. First is training. Operators don't just finish training now; they go back into simulators every six weeks for their entire careers.
+
+22:25 - 22:38
+Speaker 1: It helps the unthinkable become routine. Then there are errors. The industry as a whole killed the Christmas tree effect on lights and alarms. Alarms are not irrelevant announcements anymore. Before, alarms would sound just to announce a pump was on.
+
+22:38 - 22:50
+Speaker 1: Now they're strictly used as commands, telling the operators they must act. Red lights used to have 14 different meanings; now they only mean one thing: danger. Labels used to show irrelevant information like part numbers; now they're strictly labeling a specific control.
+
+22:50 - 23:05
+Speaker 1: And now there are more logical flows. Say you have to put on a backup pump. Before, you had to cross the room for Step 1, then walk to a different spot for Step 2, then go to another panel to do Step 3. Today, it's all within arm's reach and exactly how you'd expect to follow directions: left to right, top to bottom.
+
+23:05 - 23:20
+Speaker 1: Just like how people read in Western countries. There's also a lot more collaboration. In nuclear power plants, a single person can't make decisions alone. Just like a pilot and a co-pilot, operators work together. Cliff Kuang observed this at Three Mile Island in 2016.
+
+23:20 - 23:36
+Speaker 1: When workers would go to confirm a crucial reading, they went in pairs. One would do an action, the next one would confirm the action. The first one would confirm the action had been done right, and then the second one would as well. And the last thing is feedback.
+
+23:36 - 23:55
+Speaker 1: When you press a button, you expect there to be some kind of response. This is so fundamental to the human experience. When you swing an axe at a piece of wood, the immediate feedback is that it cuts the wood. If you eat a big meal, the feedback is that you feel full.
+
+23:55 - 24:16
+Speaker 1: So when you push a button in a nuclear power plant, the button should give you feedback by telling you what just happened. Feedback is foundational to good design. We're all prone to the same mental shortcuts, and the final catastrophe was compounded by all the factors that led to it.
+
+24:16 - 24:30
+Speaker 1: But that's on earth. How do you train for a disaster when you're 250 miles above the planet and you're cut off from mission control? The year was 2003. As Space Shuttle Columbia re-entered Earth's orbit, it exploded.
+
+24:30 - 24:43
+Speaker 1: People were quick to find someone or something to blame. One Yale professor said a poorly designed PowerPoint slide caused it. Edward Tufte was one of hundreds of experts who analyzed over 5,000 factors that contributed to the disaster.
+
+24:43 - 24:57
+Speaker 1: Let's play a game. Read this slide and tell me what you see. You probably read the headline, not exactly sure what it meant, and sort of skimmed the rest. And if you're bored reading this, imagine the presentation.
+
+24:57 - 25:07
+Speaker 1: It's being read by a bunch of awkward rocket scientists about a piece of foam.

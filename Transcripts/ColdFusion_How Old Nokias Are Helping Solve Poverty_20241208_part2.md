@@ -1,0 +1,43 @@
+---
+title: ColdFusion_How Old Nokias Are Helping Solve Poverty_20241208_part2
+audio_file: ColdFusion_How Old Nokias Are Helping Solve Poverty_20241208_part2.mp3
+note_id: a49c335d-777b-4c86-a078-81965892dd48
+date_processed: '2026-03-16'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: The speaker, Dagogo, discusses how basic phones are being used to help people
+  in need escape poverty, specifically in a village in central Kenya. A group of educational
+  creators are raising funds to distribute $850 to each of 164 families via mobile
+  money, with donations being accepted at give.directly.org/coldfusion. This initiative
+  aims to make a positive impact on the lives of those in need, and viewers are encouraged
+  to donate and share their thoughts on the project.
+key_ideas: []
+---
+## Full Transcription
+
+
+
+Speaker 1: [00:00:00] Basic phone and some well-designed financial targeting. This way of living could be a thing of the past for so many. To wrap things up, a group of educational creators and I are getting together to raise some funds. If you want to donate to a village in need and ensure your money goes to them in the best and most efficient way possible, you can visit the URL give directly dot org slash cold fusion. Your donations will be distributed via mobile money in a village in central Kenya. Each family will receive 850 dollars. It's an opportunity to change the lives of 164 families. So I hope you enjoyed that look at a very unconventional but effective way that dumb phones are helping those in need escape poverty. Let me know your thoughts in the comment section below. And that's about it from me. My name is Dagogo and you've been watching Cold Fusion and I'll catch you again soon for the next episode. Cheers guys. Have a good one. 
+
+Speaker 2: [00:01:03] Cold Fusion. It's new thinking.

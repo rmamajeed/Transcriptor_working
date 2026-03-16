@@ -1,0 +1,56 @@
+---
+title: Design Theory_The Deadliest Design Mistakes in History_20260228_part2
+audio_file: Design Theory_The Deadliest Design Mistakes in History_20260228_part2.mp3
+note_id: 6fcc37a7-b029-4f2e-b7fc-6dc5d4f3abcb
+date_processed: '2026-03-16'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: ''
+key_ideas: []
+---
+
+Full Transcription
+
+ 
+
+### Speaker Identification
+- **Speaker 1**: The narrator (likely the video creator).
+- **Speaker 2**: A voice dramatizing/quoting the rocket scientist's presentation.
+
+---
+
+[00:00 - 00:02] **Speaker 1:** Reading this, imagine the presentation. It’s being read by a bunch of awkward rocket scientists about a piece of foam hitting the wing.
+[00:02 - 00:18] **Speaker 2:** Review of test data indicates conservatism for tile penetration can cause significant damage. Minor variations in tonal energy above penetration level can cause significant damage. Significant is significantly outside of test data.
+[00:18 - 00:24] **Speaker 1:** What they really need to be saying is, “Dude, some foam hit the wing, and we think it might cause the space shuttle to crash.”
+[00:24 - 00:52] **Speaker 1:** We’ll never know how this slide was presented, but I do agree with a lot of what Tufte says. This is a very poorly designed slide, and PowerPoint can be a terrible medium for communicating information. The headline says nothing of importance. The presentation text is peppered with jargon and slang like SOFI, which means foam, by the way. The word ‘significant’ gets repeated to the point that it means nothing anymore. If everything is significant, then nothing is. But the most damaging line is buried at the very bottom in tiny text—this. 
+[00:53 - 01:05] **Speaker 1:** It should say, “The impact of the foam hitting the wing was 600 times larger than anything we’ve ever tested for. We don’t know if we can land this thing.” Except it doesn’t say that at all. It would have been better to just have a slide that said, “Wing was hit. We don’t know if the shuttle can land safely.” 
+[01:06 - 01:26] **Speaker 1:** What we say is important, but so is how we say it. The engineers didn’t have pictures to show the actual wing damage, so instead, they probably played to what they knew: numbers. Too bad they put the math at the bottom and assumed everyone would calculate it. It’s a textbook case of bad communication skills in the form of confusing graphic design and unclear writing, and maybe really bad presentation skills. Plus, do you really want to be the guy to deliver that bad news? 
+[01:27 - 02:00] **Speaker 1:** Now, would a better PowerPoint have saved the seven lives on that space shuttle? Maybe. At the very least, the slide didn’t help the situation very much at all. But I think it’s overly simplistic to believe that one slide caused the disaster. A non-profit that helps engineers communicate better tried to redesign the slide, and here’s what they came up with: it points out the danger earlier, it has more context, and it explains things without any abbreviations, and it even has a conclusion. It’s still not great, but it’s a lot better. 
+[02:01 - 02:53] **Speaker 1:** The point is, communicating rocket science isn’t easy, whether it’s in a slide deck or a one-on-one with your manager. Think about the last time you had to give bad news to your boss at work. They’re distracted, you’ve got to get to the point fast, your boss has maybe five minutes to tell their director, and then that director has 30 seconds to tell the CEO. Hopefully, they don’t butcher the message and get the point across properly. By the time it gets to the CEO, the message that “the wing is melting” becomes “the paint looks great.” Nobody wants to be the one who drops the bad news. Plus, you’re usually talking to someone with completely different priorities and skill sets. If I’m talking to a designer, I use a very different vocabulary than when I talk to a business owner or an engineer. 
+[02:54 - 03:36] **Speaker 1:** Less than an hour after the tragedy of the Columbia space shuttle, we were already asking, “What caused this?” We want immediate, simple answers. But when it comes to a disaster as complex as this, there’s no way we can pin it down to a single PowerPoint slide or a single person. We like to do that because then you can just sue that person. But Don Norman, one of the great design thinkers of our time, argues that our brains are evolutionary-wired to think like this. It’s called ‘linear causality.’ He says we crave simple A-to-B stories. It’s very human to try and find a single cause. You eat a weird fruit, you get sick, and you avoid that fruit forever. It’s a great survival heuristic for avoiding poisoned berries. 
+[03:37 - 04:12] **Speaker 1:** With Fabuloso, we want to blame the bottle designers; with the Pinto, corporate greed; and with the Audi 5000, the stupid American drivers. But those who actually have to dig through the wreckage don’t usually find a single cause. They find a system. The reality is that cause and effect is not a line; it’s really more of a web. No single person can be the cause, but we’re all victims of the final catastrophe. My friend Raffi calls it “the inescapable momentum of the masses.” It’s the same way the medical world fought against the idea of washing hands. 
+[04:13 - 04:54] **Speaker 1:** Doctors didn’t wash their hands before cutting you open until about 200 years ago. They would spend their mornings elbow-deep in dead bodies, then walk upstairs and deliver babies without ever washing their hands. Infant deaths were three times lower in the midwife clinics of the time because they didn’t handle corpses right before sticking a finger into a newborn’s mouth. When Dr. Ignaz Semmelweis suggested washing bits of dead bodies off your hands before delivering babies, he was mocked. The momentum of “let’s just keep doing what we’ve always done” is a very common human impulse. 
+[04:55 - 05:22] **Speaker 1:** Many disasters are just the result of that momentum. Once an idea picks up enough speed—whether it’s “washing hands is for losers” or “touchscreens are okay to have in cars”—logic tends to fly out the window. At our jobs, managers and executives impose arbitrary goals on us like 25 months to develop a new car. We all just want to believe that someone else has it handled. We all just want to believe what’s convenient for us so we can go home to our families at 5:00. 
+[05:23 - 05:50] **Speaker 1:** That’s why these disasters will never stop happening. We could make this same video again in ten years with entirely new case studies. We design things for an ideal world, not the one we truly live in. When we’re burnt out, up against deadlines, and prone to taking shortcuts, we’re all just building towards the next crash. 
+[05:51 - 06:11] **Speaker 1:** These videos take hundreds of hours to make. I read thousands of pages of research and reflect on my 15 years of design experience. They’re a real labor of love; I really, really care about them. If you want these videos to continue to exist, consider supporting me on Patreon. For a few bucks a month, you get early access to videos and extra commentary. I really appreciate my current Patreon supporters; I couldn't have done it without you. I hope you learned something and have a great day.

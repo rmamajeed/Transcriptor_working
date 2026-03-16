@@ -1,0 +1,61 @@
+---
+title: Veritasium_This Paradox Splits Smart People 50⧸50_20260309_part2
+audio_file: Veritasium_This Paradox Splits Smart People 50⧸50_20260309_part2.mp3
+note_id: 8c05619b-d49b-4d03-80cc-85c585cd221d
+date_processed: '2026-03-16'
+classification:
+  primary_domain: Unknown
+  sub_domains: []
+  difficulty_level: Intermediate
+  content_type: Unknown
+entities:
+  people: []
+  works_cited: []
+  concepts_mentioned: []
+  laws_theories_cited: []
+concepts: []
+relationships: []
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical: []
+  topical: []
+  methodological: []
+  people: []
+  concepts: []
+  temporal: []
+summary: Derek Muller discusses the benefits of using Brilliant to build problem-solving
+  skills and intuition. Viewers can access Brilliant for free for 30 days by scanning
+  a QR code or visiting brilliant.org/veritasium. Additionally, viewers of the channel
+  can receive 20% off an annual premium subscription, which offers unlimited daily
+  access to the site's content.
+key_ideas:
+- idea: Here are 3-5 key ideas or concepts discussed in the transcription text
+  description: ''
+- idea: Building intuition**
+  description: This concept refers to the process of developing one's problem-solving
+    skills and instincts through practice and training.
+- idea: Problem-solving skills**
+  description: This idea involves developing the ability to reason through complex
+    situations and apply learned knowledge to new problems.
+- idea: Learning on Brilliant**
+  description: This concept refers to the online learning platform Brilliant, which
+    offers a range of educational resources and tools to help users develop their
+    problem-solving skills and intuition.
+- idea: Sponsored learning opportunity**
+  description: This idea involves a promotional offer from Brilliant, providing free
+    access for 30 days or a discount on an annual premium subscription for viewers
+    of the channel.
+- idea: Promoting critical thinking**
+  description: This concept involves the overall goal of the video and the learning
+    platform, which is to encourage critical thinking and problem-solving skills in
+    learners.
+---
+
+Full Transcription
+
+ 
+
+[00:00:00] **Derek Muller**: ...is you build up your intuition while you figure out the answer. By training your problem-solving muscles, you can take what you learn on Brilliant and reason through lots of other situations. So to learn on Brilliant for free for a full 30 days, scan this QR code or go to brilliant.org/veritasium. I will put that link down in the description. For viewers of this channel, Brilliant offers 20% off an annual premium subscription. That gives you unlimited daily access to everything on the site. So I want to thank Brilliant for sponsoring this video, and I want to thank you for watching.

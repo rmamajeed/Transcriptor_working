@@ -1,0 +1,319 @@
+---
+title: ColdFusion_We Can’t Afford Groceries, Yet Billionare Wealth is Exploding_20250415_part1
+audio_file: ColdFusion_We Can’t Afford Groceries, Yet Billionare Wealth is Exploding_20250415_part1.mp3
+note_id: 4421f5af-0629-4a36-a86a-958b434fd0c9
+date_processed: '2026-03-16'
+classification:
+  primary_domain: Economics
+  sub_domains:
+  - Wealth Inequality
+  - Economic History
+  - Taxation
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: Dagogo Altraide
+    role: Host
+    contribution: Explaining wealth inequality
+  - name: Mark Zuckerberg
+    role: CEO of Meta
+    contribution: Mentioned as one of the wealthiest individuals
+  - name: Jeff Bezos
+    role: CEO of Amazon
+    contribution: Mentioned as one of the wealthiest individuals
+  - name: Elon Musk
+    role: CEO of Tesla
+    contribution: Mentioned as one of the wealthiest individuals
+  - name: Bernie Sanders
+    role: Politician
+    contribution: Commenting on wealth inequality
+  - name: Ray Dalio
+    role: Billionaire Investor
+    contribution: Commenting on economic history and wealth inequality
+  works_cited: []
+  concepts_mentioned:
+  - Wealth Inequality
+  - Taxation
+  - Monopolies
+  - Inheritance
+  - Corruption
+  laws_theories_cited: []
+concepts:
+- name: Wealth Inequality
+  definition: The unequal distribution of wealth among individuals or groups
+  parent_concepts:
+  - Economics
+  related_concepts:
+  - Poverty
+  - Income Inequality
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Taxation
+  definition: The system of levying taxes on individuals or organizations
+  parent_concepts:
+  - Economics
+  related_concepts:
+  - Fiscal Policy
+  - Public Finance
+  abstraction_level: Applied
+  confidence: 0.9
+- name: Monopolies
+  definition: A market structure in which a single company dominates the industry
+  parent_concepts:
+  - Economics
+  related_concepts:
+  - Competition
+  - Antitrust Law
+  abstraction_level: Theoretical
+  confidence: 0.9
+- name: Inheritance
+  definition: The transfer of wealth or property from one generation to the next
+  parent_concepts:
+  - Economics
+  related_concepts:
+  - Wealth Inequality
+  - Taxation
+  abstraction_level: Applied
+  confidence: 0.9
+- name: Corruption
+  definition: The abuse of power or position for personal gain
+  parent_concepts:
+  - Economics
+  - Politics
+  related_concepts:
+  - Institutional Failure
+  - Regulatory Capture
+  abstraction_level: Theoretical
+  confidence: 0.9
+relationships:
+- source_concept: Wealth Inequality
+  target_concept: Taxation
+  relationship_type: supports
+  strength: 0.8
+  evidence: The wealthy often use tax avoidance strategies to maintain their wealth
+  reasoning: The relationship between wealth inequality and taxation is complex, with
+    taxation potentially exacerbating or mitigating wealth inequality
+- source_concept: Monopolies
+  target_concept: Wealth Inequality
+  relationship_type: causes
+  strength: 0.9
+  evidence: Monopolies can lead to wealth concentration and reduced competition
+  reasoning: The dominance of a single company in an industry can lead to increased
+    wealth for the company's owners and reduced economic opportunities for others
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Economics
+  source_concept: Wealth Inequality
+  target_domain: Biology
+  target_concept: Species Distribution and Ecosystem Health
+  insight: Concentration of wealth mirrors the concentration of species in ecosystems,
+    where a few dominant species can outcompete others for resources, leading to decreased
+    biodiversity and ecosystem resilience.
+  explanation: Both wealth inequality and species distribution show patterns where
+    a small proportion of the population holds a large proportion of the resources,
+    leading to instability and decreased overall health of the system. This analogy
+    highlights the importance of diversity and distribution in both economic and ecological
+    systems.
+  potential_applications:
+  - Policy making for more equitable resource distribution
+  - Understanding the impact of economic policies on environmental health
+  confidence: 0.8
+  historical_example: The concept of carrying capacity in ecology parallels the idea
+    of economic saturation, where beyond a certain point, additional wealth does not
+    lead to proportional increases in well-being or system stability.
+- connection_type: principle_application
+  source_domain: Economics
+  source_concept: Monopolies
+  target_domain: Computer Science
+  target_concept: Monopoly in Network Protocols
+  insight: The principles behind the formation and effects of economic monopolies
+    can inform the understanding of monopoly phenomena in network protocols, where
+    a single protocol dominates, potentially stifling innovation and efficiency.
+  explanation: Both economic and network monopolies can arise from similar factors
+    such as network effects, where the value of a service increases with the number
+    of users, leading to a self-reinforcing cycle that consolidates power or market
+    share. Understanding how monopolies form and their impacts in one domain can provide
+    insights into mitigating their negative effects in another.
+  potential_applications:
+  - Designing more competitive network protocols
+  - Regulating monopolistic tendencies in digital markets
+  confidence: 0.9
+  historical_example: The breakup of the Bell System in the United States in the 1980s,
+    which was a monopoly in telecommunications, has parallels with the need to regulate
+    or break up digital monopolies today to promote innovation and consumer choice.
+- connection_type: metaphor
+  source_domain: Economics
+  source_concept: Taxation
+  target_domain: Environmental Science
+  target_concept: Carbon Pricing
+  insight: Taxation principles can be metaphorically applied to environmental science
+    through the concept of carbon pricing, where emitting CO2 is 'taxed' to reflect
+    its true environmental cost, thereby incentivizing reduction.
+  explanation: Just as taxation in economics is used to redistribute wealth and fund
+    public goods, carbon pricing 'taxes' polluters to reflect the environmental cost
+    of their activities, aiming to reduce emissions and fund environmental protection.
+    This metaphor highlights the economic tools available for environmental policy.
+  potential_applications:
+  - Implementing effective carbon pricing mechanisms globally
+  - Using economic instruments for conservation efforts
+  confidence: 0.85
+  historical_example: The sulfur dioxide cap-and-trade program in the United States,
+    which successfully reduced SO2 emissions, serves as a historical precedent for
+    the application of economic principles to environmental challenges.
+bridge_concepts:
+- concept: Network Effects
+  appears_in_domains:
+  - Economics
+  - Computer Science
+  - Sociology
+  role: Network effects describe how the value of a product or service increases with
+    the number of users, leading to potential monopolies or the dominance of a few
+    large players in various fields.
+  examples:
+  - Social media platforms
+  - Operating systems
+  - Credit card networks
+- concept: Systems Thinking
+  appears_in_domains:
+  - Economics
+  - Environmental Science
+  - Engineering
+  role: Systems thinking involves analyzing complex systems as a whole, considering
+    the interactions and interdependencies among components, to understand how they
+    produce their behaviors and patterns.
+  examples:
+  - Ecosystems
+  - Economic systems
+  - Mechanical systems
+mental_models:
+- name: Systems Thinking
+  description: A holistic approach to understanding complex systems, recognizing the
+    interconnectedness of components and how they contribute to the system's behavior.
+  applied_to:
+  - Analyzing the impact of wealth inequality on economic stability
+  - Understanding the effects of monopolies in digital markets
+  transferable_to:
+  - Environmental conservation efforts
+  - Public health policy making
+- name: First Principles
+  description: A method of critical thinking that involves breaking down complex problems
+    into their fundamental parts to understand the underlying principles and rebuild
+    knowledge from the ground up.
+  applied_to:
+  - Evaluating the efficiency of taxation systems
+  - Assessing the effectiveness of anti-corruption policies
+  transferable_to:
+  - Designing more efficient network protocols
+  - Developing new materials in engineering
+analogies_used:
+- source_domain: Biology
+  source_concept: Ecosystem Health
+  target_domain: Economics
+  target_concept: Economic Stability
+  mapping:
+    Diversity in species: Diversity in industries
+    Resource distribution: Wealth distribution
+  pedagogical_value: This analogy helps in understanding the importance of diversity
+    and equitable distribution in maintaining the health and stability of both ecosystems
+    and economies.
+tags:
+  hierarchical:
+  - '#Economics → #WealthInequality → #Taxation'
+  topical:
+  - '#WealthInequality'
+  - '#Taxation'
+  - '#Monopolies'
+  methodological:
+  - '#Explainer'
+  - '#EconomicAnalysis'
+  people:
+  - '#DagogoAltraide'
+  - '#MarkZuckerberg'
+  - '#JeffBezos'
+  concepts:
+  - '#WealthInequality'
+  - '#Taxation'
+  - '#Monopolies'
+  temporal:
+  - '#2024'
+  - '#2023'
+summary: 'Here is a 2-3 sentence summary of the main points:
+
+
+  The world''s richest individuals, including billionaires like Mark Zuckerberg, Jeff
+  Bezos, Elon Musk, and others, have seen their combined net worth surge to over $700
+  billion, with some even reaching centibillionaire status. This extreme wealth inequality
+  is attributed to various factors, including monopolies, inheritance, corruption,
+  and tax loopholes that allow the ultra-rich to accumulate wealth at an unprecedented
+  rate, while the middle class struggles to make ends meet. To address this issue,
+  potential solutions include progressively taxing the ultra-rich, closing tax loopholes,
+  and implementing policies that promote economic equality and opportunity for all,
+  rather than just the privileged few.'
+key_ideas:
+- idea: Here are 3-5 key ideas or concepts discussed in the transcription text
+  description: ''
+- idea: The wealth gap between the rich and the poor is increasing at an unprecedented
+    rate, with the richest individuals in the world accumulating more wealth than
+    ever before, while the majority of people struggle to make ends meet.
+  description: No description provided by model.
+- idea: The concentration of wealth among the ultra-rich is not just a result of hard
+    work and innovation, but also due to monopolies, inheritance, corruption, and
+    tax loopholes that allow them to accumulate and maintain their wealth without
+    contributing their fair share to society.
+  description: No description provided by model.
+- idea: The influx of new money into an economy, such as through government stimulus
+    programs, tends to benefit the wealthy and large corporations first, who use it
+    to buy assets and drive up prices, while ordinary people see their buying power
+    shrink due to inflation, exacerbating the wealth gap.
+  description: No description provided by model.
+- idea: The current economic system is rigged against the average person, with the
+    wealthy using techniques such as the "buy, borrow, die" method to avoid paying
+    taxes, and governments failing to address the issue due to the influence of money
+    in politics, making it difficult to implement policies that could help reduce
+    inequality.
+  description: No description provided by model.
+- idea: Potential solutions to address the wealth gap include progressively taxing
+    the ultra-rich, closing tax loopholes, raising the minimum wage, and implementing
+    policies that promote greater economic equality, but these solutions are complex
+    and will require careful consideration and public support to be effective.
+  description: No description provided by model.
+---
+
+Full Transcription
+
+
+
+00:00 - 01:58 | **Dagogo Altraide**: Hi. Welcome to another episode of ColdFusion. Take a look at this picture. It features prominent tech individuals like Meta's Mark Zuckerberg, Amazon's Jeff Bezos, Google's CEO Sundar Pichai, and Tesla's Elon Musk. As of recording this video, the combined net worth of these four people is over $700 billion. In fact, Mark, Jeff, and Elon are centibillionaires. Of course, the recent stock market dip may have wiped off some of their wealth, but these billionaires can still sleep easy enough at night. People with dozen-digit fortunes didn't exist eight years ago, but now, according to the Forbes 2024 billionaire list, a record 15 people are on that list, and that's up from just six in 2023. When Forbes first made this list in 1987, they had to scrape to find individuals worth more than 28 billion, adjusted for inflation, and all they could find were just two Japanese tycoons. And now today, that 28 billion amount isn't even enough to land you in the top 50 of that list. The trend is as clear as day. There's no stopping these billionaires. In 2024 alone, billionaire wealth surged by $2 trillion. That's at a rate three times faster than the entire global economy. And for the first time in history, the richest Americans now pay less tax than the working class. Something is clearly wrong. But what? It's not a question of why there's such inequality, but more a question of how this is all happening. Why are families struggling to buy cartons of eggs while billionaires seem to keep adding to their wealth with absolute ease? What happens to the world economy if this trend keeps on going? Does the middle class cease to exist? And what can we do to fix all of this and not repeat the same mistakes? Let's take a look.
+
+01:59 - 02:22 | **News Reporter**: The world's richest people are just getting richer, and even faster than expected. Oxfam's annual inequality report says five people are now on track to reach trillionaire status within the next decade. Elon Musk is first in line, followed by Amazon's Jeff Bezos, Oracle's Larry Ellison, Meta's Mark Zuckerberg, and LVMH's Bernard Arnault.
+
+02:23 - 04:06 | **Dagogo Altraide**: Whenever numbers like millions, billions, and trillions are discussed, it's often difficult to put the vast difference between them into context. So let's start there. If you, yes you watching, made $1 every second, you'd be a millionaire in 12 days. That's under two weeks. But how long would it take to reach a billion dollars? Six months? A year? Well, at a rate of $1 per second, every day, non-stop, you'd need over 31 years. And that's just for one billion. As we know, the world's richest have not just one billion, but tens, even hundreds of billions, and their wealth just keeps growing. For example, in 2024, their combined wealth skyrocketed from 13 trillion to 15 trillion in just 12 months. And the richest 10 men saw their fortunes grow by an average of 100 million per day. That's more than what entire villages or towns in some parts of the world will earn in a lifetime every single day. And these guys, the billionaires, have been absolute vacuum cleaners of wealth over the past few decades. The top 1% alone has captured 38% of all new wealth created since 1995. And this is at the same time where the poorest half of the world's population, which is around 3.8 billion people, owns just 2% of global wealth. Think about that for a second. No matter how you look at it, these stats are staggering. The ultra-rich are clearly pulling further ahead, while half the world is effectively locked out of wealth. And it goes further. It's not just numbers on paper. This kind of money can warp economies, influence politics, and shape the world in ways that we can barely comprehend.
+
+04:07 - 04:33 | **Bernie Sanders**: You don't see it much on TV. You don't hear it talked about here at all. But the American people do not believe that it is appropriate that three people, one, two, three, Mr. Musk, Mr. Bezos, and Mr. Zuckerberg, three Americans own more wealth than the bottom half of American society, 170 million people.
+
+04:34 - 05:20 | **Dagogo Altraide**: And that's not a useless fact, either. Massive wealth inequality usually comes before internal conflict, or more accurately, it's a symptom of a deeper problem. When the government has problems funding itself, when there are bad economic conditions and living standards for most people are declining, and there are large wealth values and political gaps, internal conflict between the rich and the poor, as well as different ethnic, religious, and racial groups, greatly increases. This leads to political extremism that shows up as populism of the left or the right. Those of the left seek to redistribute the wealth, while those of the right seek to maintain the wealth in the hands of the rich.
+
+05:21 - 07:53 | **Dagogo Altraide**: Ray Dalio, a billionaire investor and economic historian, puts it this way: "I've studied the last 500 years of history and cycles, and these things repeat over and over again. Large wealth gaps with large value gaps at the same time as there's a lot of debt and there's an economic downturn produces conflict and vulnerability." One of the biggest impacts the rising wealth gap has had is the shrinking middle class. The middle class is one of the hallmarks of a healthy economy, so when they shrink and start to falter, it's a symptom of a wider problem. It's been a slow process, but we all know deep down that something is going wrong. If you think back to the TV shows of the 80s and the 90s, it wasn't uncommon to find characters that lived comfortably on just a single wage. Life was portrayed as financially easy, and that's because relatively, it really was. But then things started to go wrong. When you really think about how the economy has been since I left high school in the late 2000s, the middle class just couldn't catch a break. In 2008, there was the housing crisis, which turned into an international global financial crisis. Europe got a second wind of that disaster around 2011. In most of the Western world, the average Joe was hit by an economic bomb. Small businesses closed, jobs were lost, and households were struggling. Over the next decade, growth was permanently slower than before because the real economy had died, and I've covered that in detail in a previous video. But other than that, people were still getting by. But then came COVID. The government response shuttered entire economies, leaving everyday people straining themselves just to get by. And there's a famous saying: Question: What words do you never want to hear? Answer: I'm from the government, and I'm here to help.
+
+07:54 - 09:13 | **Dagogo Altraide**: And this joke played out in real-time when governments turned on the money printers to counteract their shutdown policies. They thought they were helping, but the result was yet another disaster. Now, today, we're left with rising inflation, stagnant wages, and soaring living costs. And the pressure is only getting worse. The middle 40% of the global population owns just 22% of global wealth. But at the top end of town, it's exactly the opposite. Making money seems easier than ever before. As it turns out, all that government printing helped the stock market, which helped the billionaires. But we'll get to that in a bit. As the saying goes, wealth begets more wealth. So this acceleration will continue. But before we get into the weeds, we need to back up a little bit. How are these guys getting so rich? How does one even become a billionaire?
+
+09:14 - 14:06 | **Dagogo Altraide**: Is it ethical to be a billionaire? Well, that depends on your political leanings. But some individuals do indeed have a rag-to-riches story, but the pleasantries start and end there. A growing number of billionaires tend to come through one of three routes: monopolies, inheritance, and corruption. According to Forbes, the most common way to become a billionaire is through finance. In fact, nearly one in six billionaires, or just over 15%, made their money in finance and investments. The second most common way is technology at 12%, and the third manufacturing, also at 12%. But it's not just by hard work and innovation. Billionaires don't play by the same rules as the rest of us. And in this section, we'll cover the three ways that this is the case. Number one, inheritance. In 2023, more new billionaires inherited their wealth than built it. Every single billionaire under 30 was born rich. The problem is, in a lot of cases, depending on where you are, there's no tax on this kind of wealth transfer. While the average person works decades to build financial security, billionaire families pass down fortunes tax-free, and they keep their wealth locked up in an exclusive family club. Number two, corruption and loopholes. Many argue that the financial system is designed to protect the wealthy. Just look at the 2008 financial crisis. Banks made reckless bets, crashed the economy, and then got bailed out with billions in taxpayer dollars. It's capitalized the profits and socialized the losses. Meanwhile, millions of people lost their homes, jobs, and savings. And it's not just banks. The very top percent of earners avoid taxes like a plague. They stash money in offshore accounts or borrow against their assets instead of selling them. And this means that they don't have taxable income. If I told you that in the US, for example, the richest 25 people in the country paid an effective tax rate of 3.4%, you'd cry foul. Why should the average person be taxed at six times more when they earn a tiny, infinitesimal fraction of what the billionaires earn? Well, although unfair, it's perfectly legal, and it's a bit of a rabbit hole. But hear me out. This is called the buy, borrow, die technique. Edward McCaffery, the scholar who coined the term buy, borrow, die, says that this technique is being abused so much that it, quote, "has basically killed the entire concept of an income tax for the wealthiest individuals." end quote. But he goes on to add that it's, quote, "the most important tax avoidance strategy today." end quote. So here's how it goes. Instead of working a 9 to 5 wage and then getting taxed like a pleb, the best way to earn wealth is through accumulating appreciating paper assets like stocks. The wealth isn't taxed until these stocks are sold. Yes, a tariff surprise or another stock market shock may make the wealthy sweat a little bit, but overall, in the big picture, over the past few decades, you'd be doing well. And the next step, borrow. Since there are no taxes for loans, the genius part of this is that the wealthy simply just borrow against their existing assets to buy more things. Take Larry Ellison of Oracle, for example. He built a $270 million yacht, an $80 million mansion, and even bought an island worth 30 million, all from borrowing against 30 billion of Oracle's stock as collateral. But I know what you think. You can't just keep doing this. These loans have to be paid off at some point. And when they do, these guys are going to have to sell their assets. Well, that's not exactly true. And this is the third part: die. All these guys have to do is just pay off the interest on the loans until they die. If you're dead, you can't be taxed now, can you? Furthermore, when an individual dies, the value that their assets gained during their lifetime is exempt from tax. Their children can then use these gains to pay off the loans. Technically, there's supposed to be a tax on inheritance, but that's no issue for top tax agents. Trust accounts and other arrangements essentially eliminate any tax that has to be paid. This technique is cunning, smart, and hidden away from the average person. And number three, monopoly power. Monopolies account for nearly 18% of billionaire wealth. When a single company dominates an industry, it crushes competition, sets prices, and dictates wages. Back in the original Gilded Age of the late 1800s, industrial giants controlled steel, oil, and banking. Today, tech giants control global commerce, information, and infrastructure. Amazon controls over 80% of online purchases in major European markets. Google owns 90% of the search engine market. Meta, formerly Facebook, owns four of the top five most used social media platforms. It's present in other industries too. In Nigeria, Aliko Dangote has a near monopoly on cement. This gives him massive economic and political power across Africa. Gautam Adani's conglomerate, the Adani Group, has faced accusations of crony capitalism and monopolistic behavior, particularly in sectors like ports and energy. But monopolies aren't just about wealth. They're about control. They can even influence government policies.
+
+14:07 - 16:35 | **Dagogo Altraide**: Even though the United States has checks and balances in place to avoid these exact scenarios, it seems like the loopholes are just as accessible. With all of these factors combined, we're looking at billionaire wealth increasing at an unprecedented rate. It's actually not just increasing, it's accelerating. Last year, Oxfam predicted that we'll see the world's first trillionaire within a decade. Now we're on track to have that in five years or sooner. But some people, believe it or not, think that this is actually a good thing. They believe that if there's more billionaires, that means that economies are indeed doing well. And it means that there are opportunities to make massive money. And while it's true that wealthier economies tend to create super-rich individuals, if you look at the GDP per capita and compare it to the number of billionaires, there's no real correlation. For example, India, Mexico, and Brazil have far more billionaires than Sweden or Switzerland, despite the fact that these two European countries have a higher GDP per capita. So what does that mean? It means that in most countries, a handful of ultra-rich individuals control a massive share of the nation's wealth, while the majority of people struggle to get by. Now we have to talk about the financial situations that have allowed billionaires to grow so rapidly very recently. Pumping more money into an economy doesn't automatically create more wealth for the broader society. Leaving aside the inflation risk, there's something else at play: the Cantillon effect. The term comes from Richard Cantillon, an 18th-century economist. He noticed that when new money enters an economy, it doesn't spread out evenly through society. Instead, it benefits those who get access to the money first. The wealthy and big corporations have first access to new money. They get it through government contracts, central bank policies, and financial institutions. They then use it to buy stocks, real estate, and businesses before inflation kicks in. But for regular people who get their money later, they see higher prices before their wages or savings have a chance to catch up. Think of it like pouring water from a glass onto the top of a very large sponge. The water soaks the top first, but by the time it reaches the bottom, it's soaked through and there's only just a few drops left. And of course, this leads us back to what we talked about earlier. When governments pumped millions upon millions of dollars through the economy through the mechanism of stimulus checks, unemployment benefits, and business relief programs, it put cash into people's pockets, which at first seemed great. But then what happened next? Prices skyrocketed, especially once again the prices of assets.
+
+16:36 - 17:15 | **Dagogo Altraide**: Housing and stocks went on an absolute tear. And guess who's most likely to own these assets? The wealthy. They already had their real estate and their stocks, so they were happy to see the value soar. Meanwhile, everyday people saw their buying power shrink due to inflation. Once the stimulus money ran out, people were back to where they started, except now everything was more expensive. And this is why the rich get richer during times of economic expansion. And it's the same reason why the working class struggles to keep up with rising costs. So it really is more money, more problems. And there's some other side effects when new money enters into an economy. Whenever a country's government pumps in more money, it supercharges the stock market. Well, this is not universal, but it's mostly true in the context of modern capitalist economies. And the claim is backed up by this chart, which is adapted from the financial analyst Lyn Alden's research in her book, Broken Money. It shows the super-tight correlation between the S&P 500 and government liquidity injections. In simple words, this chart demonstrates that the more money that the Fed and the US Treasury pump into an economy, the higher the stock prices soar.
+
+17:16 - 18:08 | **Gary Stevenson**: These are all publicly traded stocks, so it must be good for all investors at least. But the problem lies elsewhere. In 2022, the wealthiest 10% possessed, get this, 93% of all stock market equity. That means that when the government floods the economy with money, it primarily benefits those who already have their wealth invested in assets like stocks. For the ultra-rich, it's all their Christmases at once. Meanwhile, for everyone else, enjoy higher rent and struggling to buy eggs. If you think that sounds unfair, you're not alone. Gary Stevenson, a former financial trader, economist, and YouTuber, who graduated from the London School of Economics, explains perfectly. Money is not food. Money is not energy. Money is not housing. Money is not healthcare, okay? If we give everybody money, we have not increased the amount of actual resources and assets we have in our society, okay? You don't make society rich by giving people money. You make society rich by creating and having more resources and assets. So if I give everybody more money, all that happens is the prices go up. But if I give you a bit of money and him a lot of money, then he gets richer and you get poorer because you have a bit more money, but the prices have gone up relative to both of your increases in money. So I think this is the thing I want... and the reason I'm hammering this down is because they did that in COVID and they got away with it. And to be honest, the conservative government lucked out with the Ukraine war because that took the entire blame for the inflation, which in my opinion was caused by their massive increase in inequality.
+
+18:09 - 19:13 | **Dagogo Altraide**: Stevenson's words drive home a truth. Simply handing out money isn't going to bridge the wealth gap. It's a much deeper structural problem. And as time progresses, people are becoming more and more frustrated about it. People are pushing back. Their bitterness is spilling over online and in the streets. All of this isn't just noise. People are actually demanding real change. My husband's making the most money he's ever made, and this is the broke-st we've ever been. Make it make sense. We try to live within our means. We truly do. It's like no matter how much you don't go out to eat, no matter how much you don't spend money, you're still going to be broke. Why? Because that is the world that we live in. That you know she is now working three jobs just to survive. I had another gentleman who had mentioned that he's now living paycheck to paycheck at a job that he's been at for 30 years and he's a single father and he's never felt the pinch like he's doing now. They are now using their credit cards just to pay some of their bills to survive.
+
+19:14 - 20:00 | **Dagogo Altraide**: So what can be done? Now, in theory, a wealthier society should mean better lives for everyone. Better schools, better healthcare, and better infrastructure. But if we do compare today with any time in history up until parts of the 20th century, life is indeed still better. Children don't die of curable illnesses. Most of us have a smartphone, electricity, and clean water. But the time we're in now feels especially painful because living standards are moving backwards, and now it's at an accelerated rate. Governments can start with progressively taxing the ultra-rich. The idea is that a chunk of their income can go into funding things like schools and healthcare. A problem with taxing the rich, though, is that they could just leave the country if the laws become too strict, so it is still a balance.
+
+20:01 - 20:41 | **Milton Friedman**: Speaking of having a balance, here's Milton Friedman on why a 100% inheritance tax is a bad idea, for example. In given that the kind of people who become successful capitalists do not become that way by giving away their wealth voluntarily, isn't it necessary to forcibly redistribute wealth before you can begin to operate under a capitalist system? No, it is not. What is the effect of 100% inheritance tax? The percent of 100% inheritance tax is to encourage people to dissipate their wealth in high living. What's the harm in that? The harm in that is that where do you get the factories? Where do you get the machines? Where do you get the capital investment? Where do you get the incentive to improve technology?
+
+20:42 - 22:57 | **Dagogo Altraide**: We do forget that the rich, definitely not all of them, but at least some of them invest in companies. And this does help the economy. I guess the difference between now and when this was filmed is that companies today tend to be focused more on extracting money at all costs, more often than not, rather than creating better products for the consumers. But that's a story for another day. And then there's the financial sector, which is where I think most of the work can be done. Authorities should look at tightening loopholes. Allowing companies to buy back their own stock was an absolute disaster, both for the quality of our companies and for wealth inequality. Companies being able to buy their own stock and push up the price sounds like fraud, but it's legal. Economist Lenore Palladino puts it this way: Stock buyback programs are, quote, "one of the drivers of our imbalanced economy, in which corporate profits and shareholder payments continue to grow, while wages for typical workers stay flat." And then, of course, we have offshore tax havens, creative accounting practices, or questionable capital gains exemptions. Closing these loopholes could help the wealthiest contribute their fair share, at least more than 3.4% in tax. Of course, there's the argument that it's their hard-earned money. Why should they give it back? But this isn't about punishing success. It's about making sure the system doesn't keep reinforcing advantages for those already at the top. Closing tax loopholes shouldn't be that controversial. And yes, governments do squander tax revenues like a fat kid in a candy store, but at least there's a potential for a fairer tax system to help those who need it most without inflation. These solutions would be about building a society where success doesn't come at the expense of everyone else. It's about creating opportunities for everyone, not just protecting the privileges of a few. There's also proposals of raising the minimum wage. If multiple countries in the West do have a working poor class, that is, they have full-time jobs but still live in their cars, something is clearly wrong. But then again, on the flip side, many argue that raising the minimum wage could lead to job losses or increased costs for small businesses and ultimately even end up being inflationary. These solutions are hard, they're nuanced, and they'll take time, competent leadership, and a lot of thought to get right. But there's no getting around it. If we want to avoid mass riots and social disruption in 10 years, ultimately, something has to be done if we're to lessen the gap.
+
+22:58 - 23:35 | **Gary Stevenson**: Here's Gary again. There'd be very, very little I could do. Honestly, honestly, because if I come out and try and tax the richest, I will get attacked by all of the richest and most powerful people in this country, in the world, would attack me. Then the newspapers will attack me, everyone will attack me, and it would become extremely difficult. And unless the general public, your average British man or woman on the street understands we need to deal with inequality to protect our living standards, to protect our homes, to protect our children, it will be impossible. So the demand needs to be bottom-up. Listen, this is not achievable without the support of the public. This is not achievable without the support of the public, without the broad support of the public.
+
+23:36 - 25:01 | **Dagogo Altraide**: These are not one-size-fits-all solutions. The economic situation and overall state of your country can be extremely different depending on where you are. Not every place has the same problem. What works in the US might flop in India, or vice versa. The fact of the matter is, billionaire wealth buys political influences to tip the scales in their favor, and it's an uphill battle. But we have to start somewhere. And even if we are just discussing solutions in broader strokes, it's a start. So what do you guys think about all of this? It is a strange time to live in, but I'd like to hear what some of your solutions could be. Maybe we can get a conversation going in the comment section below. To kick off the discussion, over on the ColdFusion Instagram, there was a post in reference to this video. Under it, there were some interesting comments in response. One user expresses a common viewpoint: If a billionaire creates jobs for countless people, then what's wrong with that? The main problem is hoarding wealth and not really contributing to society. I guess that ties into what we've learned from this episode. A lot of the ultra-wealthy don't make most of their money from industry, but investments, especially the stock market, and taking out loans against those investments as collateral. But do you agree with that? Billionaires are fine as long as they create jobs and contribute to society. Feel free to discuss. The Trump tariffs gave the world whiplash. Stock markets plunged, vaulted higher, and then plunged again. But in the chaos, some people made money. Joshua, it's not just the company. It's actually an individual person.

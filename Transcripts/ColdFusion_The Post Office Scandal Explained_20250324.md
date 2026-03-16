@@ -1,0 +1,503 @@
+---
+title: ColdFusion_The Post Office Scandal Explained_20250324
+audio_file: ColdFusion_The Post Office Scandal Explained_20250324.mp3
+note_id: e07fe56d-4079-4afe-9295-f48c2be9b4f4
+date_processed: '2026-03-16'
+classification:
+  primary_domain: Law
+  sub_domains:
+  - Criminal Law
+  - IT Law
+  - Government Accountability
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: Dagogo Altraide
+    role: Host
+    contribution: Explaining the Post Office scandal
+  - name: Rishi Sunak
+    role: UK Government Official
+    contribution: Announcing new legislation to address the scandal
+  - name: Wendy Buffrey
+    role: Subpostmaster
+    contribution: Sharing her experience of being wrongly accused
+  - name: David McDonnell
+    role: Former Deputy Development Manager at Fujitsu
+    contribution: Exposing Horizon's flaws
+  works_cited: []
+  concepts_mentioned:
+  - Post Office Horizon scandal
+  - Wrongful conviction
+  - IT system failure
+  - Government accountability
+  - Justice system
+  laws_theories_cited: []
+concepts:
+- name: Post Office Horizon scandal
+  definition: A widespread miscarriage of justice in the UK caused by a faulty IT
+    system
+  parent_concepts:
+  - Justice system
+  related_concepts:
+  - Wrongful conviction
+  - IT system failure
+  abstraction_level: Applied
+  confidence: 1.0
+- name: Wrongful conviction
+  definition: The act of convicting an innocent person of a crime
+  parent_concepts:
+  - Justice system
+  related_concepts:
+  - Post Office Horizon scandal
+  abstraction_level: Fundamental
+  confidence: 1.0
+- name: IT system failure
+  definition: The malfunction or failure of an IT system
+  parent_concepts:
+  - Technology
+  related_concepts:
+  - Post Office Horizon scandal
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: Government accountability
+  definition: The responsibility of the government to account for its actions
+  parent_concepts:
+  - Politics
+  related_concepts:
+  - Post Office Horizon scandal
+  abstraction_level: Applied
+  confidence: 1.0
+- name: Justice system
+  definition: The system of laws and institutions that aim to uphold justice
+  parent_concepts: []
+  related_concepts:
+  - Post Office Horizon scandal
+  - Wrongful conviction
+  abstraction_level: Fundamental
+  confidence: 1.0
+relationships:
+- source_concept: Post Office Horizon scandal
+  target_concept: Wrongful conviction
+  relationship_type: causes
+  strength: 1.0
+  evidence: The scandal led to the wrongful conviction of hundreds of subpostmasters
+  reasoning: The faulty IT system led to false accusations and convictions
+- source_concept: IT system failure
+  target_concept: Post Office Horizon scandal
+  relationship_type: causes
+  strength: 1.0
+  evidence: The failure of the Horizon IT system led to the scandal
+  reasoning: The system's flaws and bugs caused the discrepancies and false accusations
+- source_concept: Government accountability
+  target_concept: Post Office Horizon scandal
+  relationship_type: applies_to
+  strength: 1.0
+  evidence: The government's response to the scandal is a test of its accountability
+  reasoning: The government's actions and decisions in response to the scandal demonstrate
+    its accountability
+cross_domain_insights: []
+bridge_concepts: []
+mental_models: []
+analogies_used: []
+tags:
+  hierarchical:
+  - '#Law → #Criminal Law → #Post Office Horizon scandal'
+  topical:
+  - '#JusticeSystem'
+  - '#ITSystemFailure'
+  - '#GovernmentAccountability'
+  methodological: []
+  people:
+  - '#DagogoAltraide'
+  - '#RishiSunak'
+  - '#WendyBuffrey'
+  - '#DavidMcDonnell'
+  concepts:
+  - '#PostOfficeHorizonScandal'
+  - '#WrongfulConviction'
+  - '#ITSystemFailure'
+  - '#GovernmentAccountability'
+  temporal:
+  - '#1990s'
+  - '#2000s'
+  - '#2020s'
+summary: ''
+key_ideas: []
+---
+## Key Concepts
+
+**Post Office Horizon scandal**  
+A widespread miscarriage of justice in the UK caused by a faulty IT system
+
+**Wrongful conviction**  
+The act of convicting an innocent person of a crime
+
+**IT system failure**  
+The malfunction or failure of an IT system
+
+**Government accountability**  
+The responsibility of the government to account for its actions
+
+**Justice system**  
+The system of laws and institutions that aim to uphold justice
+
+## Full Transcription
+
+
+
+<br>
+
+00:00 - 00:02 **Dagogo Altraide**: Hi. Welcome to another episode of ColdFusion.
+
+00:03 - 00:05 **Dagogo Altraide**: Imagine being falsely accused of a crime you didn't commit.
+
+00:06 - 00:11 **Dagogo Altraide**: Your friends and family don't believe you because the government themselves said that you stole money.
+
+00:12 - 00:13 **Dagogo Altraide**: Think about it. How would you feel?
+
+00:14 - 00:16 **Dagogo Altraide**: What would you do?
+
+00:17 - 00:21 **Dagogo Altraide**: This didn't happen to just one person, but thousands of people in the UK.
+
+00:22 - 00:30 **Dagogo Altraide**: In the UK, many local Post Office branches aren't run directly by the Post Office, but by independent operators known as subpostmasters.
+
+00:31 - 00:46 **Dagogo Altraide**: They're self-employed individuals who manage and finance their branches under contract, but they run their own businesses, serving the community and ensuring that every transaction, every bill payment, parcel shipment, and balance check is accounted for.
+
+00:47 - 00:54 **Dagogo Altraide**: So let's say that you're one of these subpostmasters working in your small-town Post Office. You're handling letters, parcels, and payments.
+
+00:55 - 01:00 **Dagogo Altraide**: And at the end of each day, you reconcile the accounts, making sure that the digital records actually match the cash in your till.
+
+01:01 - 01:05 **Dagogo Altraide**: But then one day, you notice something. The numbers just don't add up.
+
+01:06 - 01:09 **Dagogo Altraide**: Your system says that there's a shortfall, but you know for a fact that nothing is missing.
+
+01:10 - 01:16 **Dagogo Altraide**: And yet, according to the Post Office and the government, the accounting system is perfect, which means that there's only one other explanation: you're to blame.
+
+01:17 - 01:21 **Dagogo Altraide**: A routine audit turns into accusations of theft. Fraud, they call it.
+
+01:22 - 01:28 **Dagogo Altraide**: Suddenly, you're no longer a trusted figure in your community. The Post Office, once your partner, becomes your prosecutor.
+
+01:29 - 01:32 **Dagogo Altraide**: Courtrooms replace counters and prison walls loom.
+
+01:33 - 01:36 **Dagogo Altraide**: Your reputation, finances, and entire life crumble in an instant.
+
+01:37 - 01:41 **Dagogo Altraide**: Between 1995 and 2015, these subpostmasters were wrongly accused, prosecuted, and in many cases, imprisoned.
+
+01:42 - 01:46 **Dagogo Altraide**: At the heart of it all was a faulty accounting software called Horizon.
+
+01:47 - 01:54 **Dagogo Altraide**: But what's worse is that the Post Office, the UK government, and those in positions of authority were well aware of the software problem.
+
+01:55 - 02:00 **Dagogo Altraide**: But they doubled down, silenced whistleblowers, ignored and tampered with evidence, and in order to protect their own reputation, they waged ruthless legal battles.
+
+02:01 - 02:08 **Dagogo Altraide**: The scandal resurfaced recently with Mr. Bates vs the Post Office, a gripping drama aired by ITV, one of the UK's major television networks.
+
+02:09 - 02:16 **Dagogo Altraide**: The series reignited public outrage, forcing the government to introduce new legislation to overturn the wrongful convictions and speed up compensation for victims, many of whom are still waiting.
+
+02:17 - 02:26 **Rishi Sunak**: Today, I can announce that we will introduce new primary legislation to make sure that those convicted as a result of the Horizon scandal are swiftly exonerated and compensated.
+
+02:27 - 02:33 **Wendy Buffrey**: Every year, the government spouts, "We will get them paid by the end of the year." Last year, the minister said, "We will get them paid by December this year." Well, it hasn't happened.
+
+02:34 - 02:37 **Dagogo Altraide**: But we've got to take a step back. How on earth did all of this happen in the first place?
+
+02:38 - 02:40 **Dagogo Altraide**: Today, we're taking a deep dive into the Post Office Horizon scandal.
+
+02:41 - 02:46 **Dagogo Altraide**: It's an unbelievable saga that has been called the UK's largest miscarriage of justice in its history.
+
+02:47 - 02:50 **Dagogo Altraide**: It's also the story of the resilience of those who fought hard for the truth.
+
+02:51 - 02:52 **Dagogo Altraide**: So let's get started.
+
+02:53 - 02:56 **Announcer**: You are watching ColdFusion TV.
+
+02:57 - 03:04 **Dagogo Altraide**: But before we get started, just some quick housekeeping. ColdFusion episodes are now available on Spotify, so you can watch them there if you prefer.
+
+03:05 - 03:13 **Dagogo Altraide**: It was the most widespread miscarriage of justice in UK history. Seven hundred hardworking postmasters and postmistresses prosecuted for theft, fraud, and false accounting from the late 90s to 2015.
+
+03:14 - 03:17 **Dagogo Altraide**: But the problem was not the workers. It was dodgy accounting software.
+
+03:18 - 03:22 **Dagogo Altraide**: The story begins in the late 1990s, a time when the UK Post Office sought to modernize its operations.
+
+03:23 - 03:29 **Dagogo Altraide**: Determined to step into the digital age, it introduced the Horizon IT system. It was a new digital accounting and transaction management software meant to streamline financial records across thousands of Post Office branches in the UK.
+
+03:30 - 03:37 **Dagogo Altraide**: Developed in the late 90s by ICL, a British company later acquired by Fujitsu, Horizon was designed for one purpose only: to replace the traditional paper-based bookkeeping system.
+
+03:38 - 03:41 **Dagogo Altraide**: Now, all payments, transactions, and financial information would be digital.
+
+03:42 - 03:46 **Dagogo Altraide**: And on paper, that sounded great, but in reality, it was a disaster waiting to happen.
+
+03:47 - 03:50 **Dagogo Altraide**: From the very beginning, things went very wrong.
+
+03:51 - 03:55 **Dagogo Altraide**: When Horizon was first deployed in 1999, cracks in the system started appearing almost immediately.
+
+03:56 - 03:59 **Dagogo Altraide**: Subpostmasters across the country began noticing discrepancies in their accounts.
+
+04:00 - 04:04 **Dagogo Altraide**: Some figures just didn't add up. Sometimes it was small amounts, like a hundred pounds or so.
+
+04:05 - 04:08 **Dagogo Altraide**: Other times, it was catastrophic: tens of thousands of pounds seemingly vanishing into thin air.
+
+04:09 - 04:13 **Dagogo Altraide**: The Post Office response was chillingly consistent: "The system is perfect," they insisted. "It must be human error."
+
+04:14 - 04:17 **Dagogo Altraide**: The truth, however, was far more troubling.
+
+04:18 - 04:22 **Dagogo Altraide**: Horizon was riddled with bugs and glitches. Coding errors or crashes could create phantom shortfalls.
+
+04:23 - 04:27 **Dagogo Altraide**: These invisible faults within the software itself would show that money was missing when, in fact, nothing was wrong.
+
+04:28 - 04:33 **Dagogo Altraide**: For many, this was just the beginning of their ordeal. Later, they would be accused of theft, fraud, and false accounting.
+
+04:34 - 04:38 **Dagogo Altraide**: And the subpostmasters were now forced to repay the so-called missing amounts.
+
+04:39 - 04:43 **Dagogo Altraide**: For some, this meant remortgaging their homes or even draining their life savings.
+
+04:44 - 04:48 **Dagogo Altraide**: For others, it was even worse. If they couldn't pay, the Post Office took them to court.
+
+04:49 - 04:54 **Dagogo Altraide**: During the whole ordeal, over 700 postmasters were taken to the court.
+
+04:55 - 05:01 **Wendy Buffrey**: For us, that we had to sell our wedding rings and everything because it got so bad at one point. And to lose that was... that was just heartbreaking. It's just not right.
+
+05:02 - 05:07 **Dagogo Altraide**: And the UK government's Crown Prosecution Service filed another 283 cases.
+
+05:08 - 05:15 **Dagogo Altraide**: Over 200 were jailed, while countless others lost their businesses, homes, and reputations.
+
+05:16 - 05:18 **Dagogo Altraide**: And very sadly, at least four took their own lives.
+
+05:19 - 05:21 **Dagogo Altraide**: They were overwhelmed by the shame of wrongful accusations.
+
+05:22 - 05:26 **Dagogo Altraide**: As you can see, this wasn't merely just a legal issue or a problem with some code. It was a real, genuine human tragedy.
+
+05:27 - 05:32 **Dagogo Altraide**: So we have to ask, what secrets were hidden away by the UK government and Post Office to protect their reputation? Let's explore.
+
+05:33 - 05:38 **Dagogo Altraide**: Enter David McDonnell, a former Deputy Development Manager at Fujitsu.
+
+05:39 - 05:41 **Dagogo Altraide**: He saw the chaos unfold firsthand.
+
+05:42 - 05:46 **Dagogo Altraide**: In 1998, before the system was released, he co-wrote a report exposing Horizon's flaws.
+
+05:47 - 05:51 **Dagogo Altraide**: The report bluntly stated, quote, "Whoever wrote this code clearly has no understanding of elementary mathematics or the most basic rules of programming," end quote.
+
+05:52 - 05:58 **Dagogo Altraide**: McDonnell later testified in 2022, describing the development team behind the Horizon software as a complete disaster.
+
+05:59 - 06:05 **Dagogo Altraide**: Quote, "It was like the Wild West: no standards, no design documents, there was no structure, no discipline. It was crazy," end quote.
+
+06:06 - 06:09 **Dagogo Altraide**: And the code itself? It was worse.
+
+06:10 - 06:15 **Dagogo Altraide**: Quote, "It was so bad, it was beyond anything I've ever seen. Even in the 25 to 30 years since that project, I've never seen anything like that before. Some of the stuff we found buried in the code was unbelievable. There was unreachable code. It was a mess," end quote.
+
+06:16 - 06:19 **Dagogo Altraide**: Even the test team thought the coding quality was laughable.
+
+06:20 - 06:23 **Dagogo Altraide**: Quote, "They told me outright that testing was a waste of time."
+
+06:24 - 06:26 **Dagogo Altraide**: David McDonnell wasn't there just to criticize, though. He did propose a fix.
+
+06:27 - 06:33 **Dagogo Altraide**: Basically, step by step, take out the faulty code and replace them with new modules alongside the old ones and then check if it all works.
+
+06:34 - 06:36 **Dagogo Altraide**: It sounds reasonable, right?
+
+06:37 - 06:39 **Dagogo Altraide**: But Terry Austin, the Horizon Program Manager, didn't think so.
+
+06:40 - 06:44 **Dagogo Altraide**: David McDonnell's practical suggestion was dismissed, leaving him baffled.
+
+06:45 - 06:51 **Dagogo Altraide**: McDonnell said it could have been one of two things: either a basic misunderstanding or an effort to sweep the problems under the rug.
+
+06:52 - 06:54 **Dagogo Altraide**: But the incompetence continued.
+
+06:55 - 07:01 **Dagogo Altraide**: Instead of fixing the root problems, Fujitsu introduced CSR Plus. Basically, it was a monitoring tool that flagged the problems but didn't solve them.
+
+07:02 - 07:06 **Dagogo Altraide**: McDonnell likened it to patching a sinking ship.
+
+07:07 - 07:12 **Dagogo Altraide**: Quote, "Imagine the engineers telling the captain that there's a hole in the boat, and instead of fixing it, they paint a line outside to see how fast it's sinking. That was what CSR Plus was," end quote.
+
+07:13 - 07:16 **Dagogo Altraide**: By late 1999, McDonnell had been reassigned and the same errors and bugs persisted.
+
+07:17 - 07:18 **Dagogo Altraide**: They didn't listen to him.
+
+07:19 - 07:22 **Dagogo Altraide**: There were, in fact, so many bugs that they later filled a 119-page appendix in court documents.
+
+07:23 - 07:28 **Dagogo Altraide**: And this brings us to the heart of the issue: a systemic culture of denial and deflection.
+
+07:29 - 07:33 **Dagogo Altraide**: The technical failures of the Horizon system were bad enough, but they were made far worse by a culture of denial at the very top.
+
+07:34 - 07:41 **Dagogo Altraide**: As time went on, instead of addressing the growing pile of discrepancies, Post Office executives clung to the illusion of Horizon's reliability.
+
+07:42 - 07:44 **Dagogo Altraide**: This wasn't ignorance. It was deliberate.
+
+07:45 - 07:51 **Dagogo Altraide**: Many internal warnings of Horizon's flaws were ignored, and evidence revealed that some officials misled both the courts and Parliament to protect their system's reputation.
+
+07:52 - 07:58 **Dagogo Altraide**: Documents brought to light during the inquiry showed that the Post Office executives knew about Horizon's reliability issues, but chose to suppress the truth.
+
+07:59 - 08:03 **Dagogo Altraide**: Fujitsu, the system's developer, was no innocent bystander either.
+
+08:04 - 08:08 **Dagogo Altraide**: The company pressured the UK government to push the project forward, despite glaring flaws.
+
+08:09 - 08:14 **Dagogo Altraide**: To understand just how deep the failures ran, the inquiry had to go back to the system's origins in 1996.
+
+08:15 - 08:17 **Dagogo Altraide**: Even back then, alarm bells were ringing.
+
+08:18 - 08:24 **Dagogo Altraide**: The British Embassy in Tokyo stepped in, warning the UK government that scrapping the deal with Fujitsu/ICL could lead to job losses and harm trade relations.
+
+08:25 - 08:33 **Dagogo Altraide**: Instead of halting the troubled project, the government and the Post Office doubled down, playing hardball to ensure Horizon's rollout, even though it was clear that the system wasn't ready.
+
+08:34 - 08:41 **Dagogo Altraide**: The truth may have stayed buried if not for a few brave whistleblowers who risked their careers to expose it.
+
+08:42 - 08:47 **Dagogo Altraide**: For example, Richard Roll, an IT specialist, worked for Fujitsu in the early 2000s.
+
+08:48 - 08:52 **Dagogo Altraide**: He discovered that Fujitsu engineers had backdoor access to Horizon's systems and they could remotely alter financial records.
+
+08:53 - 08:57 **Dagogo Altraide**: The Post Office denied this claim in court for years.
+
+08:58 - 09:01 **Dagogo Altraide**: And when Richard tried to reveal the truth, he was threatened and silenced.
+
+09:02 - 09:05 **Dagogo Altraide**: Beyond targeting individuals, the Post Office and Fujitsu worked to suppress evidence.
+
+09:06 - 09:09 **Dagogo Altraide**: They buried reports and lobbied to delay investigations.
+
+09:10 - 09:16 **Dagogo Altraide**: Even the National Federation of SubPostmasters, the NFSP, which was supposed to protect subpostmasters, betrayed them.
+
+09:17 - 09:23 **Dagogo Altraide**: Instead of advocating for victims, they covered up complaints and pressured subpostmasters to cover the fictitious missing money, ultimately sweeping millions of disputed funds under the rug.
+
+09:24 - 09:27 **Dagogo Altraide**: The culture of denial wasn't just negligence. It was stubbornness on steroids.
+
+09:28 - 09:33 **Dagogo Altraide**: The Post Office clung to their story like their reputation depended on it, because, well, it did.
+
+09:34 - 09:40 **Dagogo Altraide**: Their largest claim was that Horizon was reliable. With nearly 12,000 branches using it, they claimed that only a few hundred had issues, so it must be fraud or human error.
+
+09:41 - 09:43 **Dagogo Altraide**: This, of course, fell apart in court.
+
+09:44 - 09:50 **Dagogo Altraide**: Their second line of reasoning for being so stubborn was that the contracts between Fujitsu and the UK government were worth multiple millions of pounds.
+
+09:51 - 09:56 **Dagogo Altraide**: And this meant that if Fujitsu admitted the faults, it could cost them millions and damage UK-Japan trade relations.
+
+09:57 - 09:59 **Dagogo Altraide**: The Post Office was now tied to Fujitsu.
+
+10:00 - 10:04 **Dagogo Altraide**: The organization found themselves unable to easily switch to another supplier, leaving them trapped in a failing system.
+
+10:05 - 10:09 **Dagogo Altraide**: And most consequential of all, their reputation was on the line and they had to protect it.
+
+10:10 - 10:14 **Dagogo Altraide**: Acknowledging the flaws in the software would have led to lawsuits and public humiliation.
+
+10:15 - 10:17 **Dagogo Altraide**: But all of these justifications fell apart under scrutiny.
+
+10:18 - 10:23 **Dagogo Altraide**: Instead of fixing Horizon, the Post Office actually used faulty data to prosecute innocent people, literally ruining their lives.
+
+10:24 - 10:26 **Dagogo Altraide**: But some people wouldn't take this lying down.
+
+10:27 - 10:28 **Dagogo Altraide**: Enter Alan Bates.
+
+10:29 - 10:33 **Dagogo Altraide**: One of the first people to challenge the Post Office narrative was Alan Bates, a former subpostmaster from North Wales.
+
+10:34 - 10:38 **Dagogo Altraide**: He was the main character portrayed in ITV's Mr. Bates vs the Post Office drama.
+
+10:39 - 10:41 **Dagogo Altraide**: And here's a brief timeline of his story.
+
+10:42 - 10:46 **Dagogo Altraide**: In 1998, he invested his life savings into a Post Office counter.
+
+10:47 - 10:51 **Dagogo Altraide**: By 2000, the faulty Horizon software said that there was a £6,000 shortfall.
+
+10:52 - 10:53 **Dagogo Altraide**: His protests were ignored.
+
+10:54 - 10:59 **Dagogo Altraide**: Then, in 2003, the Post Office terminated his contract, leaving him £60,000 in debt.
+
+11:00 - 11:02 **Dagogo Altraide**: But instead of giving up, Mr. Bates fought back.
+
+11:03 - 11:08 **Dagogo Altraide**: In 2009, he took his story to Computer Weekly, and this was the very first major media coverage of the Horizon scandal.
+
+11:09 - 11:15 **Dagogo Altraide**: And in the same year, in 2009, he founded the Justice for Subpostmasters Alliance, a movement that would eventually go on to expose the biggest miscarriage of justice in UK history.
+
+11:16 - 11:22 **Dagogo Altraide**: And finally, in 2019, after years of legal battles, the High Court ruled Horizon as unreliable.
+
+11:23 - 11:24 **Dagogo Altraide**: Mr. Bates was vindicated.
+
+11:25 - 11:28 **Dagogo Altraide**: The court case confirmed that hundreds of subpostmasters were wrongfully prosecuted.
+
+11:29 - 11:42 **Alan Bates**: Because of what was going... I felt they were going to make a lesson of my case because a number of other people knew what was going on at that time. And I think it was something the Post Office liked to try and give lessons of how they were in charge.
+
+11:43 - 11:46 **Dagogo Altraide**: And in the scandal's wake, we can see the true human cost.
+
+11:47 - 11:51 **Dagogo Altraide**: Wendy Buffrey, a subpostmaster in Hampshire, was accused of false accounting in 2003 after unexplained shortfalls.
+
+11:52 - 11:55 **Dagogo Altraide**: Terrified of prison, she pleaded guilty, living with a criminal record for years.
+
+11:56 - 12:11 **Wendy Buffrey**: I almost feel a bit like I've got survivor's guilt because, you know, many of my colleagues that I've fought alongside in court with, they haven't been settled and I feel that I feel guilty for it. But my husband's getting older and we didn't he I didn't want him to go into his 80s still waiting for money. Um, we had a mortgage and he was working five days a week until he was 75. I had 10 cleaning jobs and there comes a point where you run out of road and and you just get exhausted, so you think, well, we've just got to sort it out.
+
+12:12 - 12:17 **Dagogo Altraide**: Seema Misra, eight weeks pregnant, was wrongfully convicted of theft in 2010 based solely on Horizon's faulty data.
+
+12:18 - 12:21 **Dagogo Altraide**: She was sent to prison and endured years of stigma and isolation.
+
+12:22 - 12:25 **Dagogo Altraide**: Her conviction was finally overturned in 2021, but the damage had already been done.
+
+12:26 - 12:44 **Seema Misra**: It was horrible being back there, seen the email before. It's just like seeing it again. It makes me more and more angry. Apologized, now for his apologies I haven't accepted it. It was it was really bad, you know, they missed so many chances to apologize before they missed that. How can they... how can I accept the apology? They need to apologize to my 10-year-old. You know, they took his mom away on his birthday. I was eight weeks pregnant. So, you know, they need to apologize to my younger son. It's terrible. I haven't accepted the apologies.
+
+12:45 - 12:51 **Dagogo Altraide**: So this whole situation was a disaster, but in all of this, there's one question: what about the Post Office executives and Fujitsu officials who let the disaster unfold? What happened to them?
+
+12:52 - 12:56 **Dagogo Altraide**: Well, unfortunately, as you could probably guess, the answer is almost nothing.
+
+12:57 - 12:59 **Dagogo Altraide**: Senior Post Office executives faced no serious criminal charges.
+
+13:00 - 13:03 **Dagogo Altraide**: Many quietly resigned, severance packages intact.
+
+13:04 - 13:08 **Dagogo Altraide**: Meanwhile, the victims were left to rebuild their lives.
+
+13:09 - 13:14 **Dagogo Altraide**: Paula Vennells, the Post Office CEO during the height of the scandal, finally admitted in 2024 that the Post Office misled the courts.
+
+13:15 - 13:17 **Dagogo Altraide**: But for many, her remorse came too late.
+
+13:18 - 13:22 **Dagogo Altraide**: Fujitsu avoided any real consequences, and this was despite their direct involvement in evidence tampering.
+
+13:23 - 13:27 **Dagogo Altraide**: A UK parliamentary report suggested that Fujitsu should be banned from all future government contracts.
+
+13:28 - 13:30 **Dagogo Altraide**: But as of early 2025, no action has been taken.
+
+13:31 - 13:37 **Dagogo Altraide**: Former Prime Minister Rishi Sunak called the Horizon scandal, quote, "One of the greatest miscarriages of justice in British history," end quote.
+
+13:38 - 13:40 **Dagogo Altraide**: Yet those responsible walked free.
+
+13:41 - 13:49 **Reporter**: What do you think it says that it's taken an ITV drama to get your government to refocus on the issue of the scandal of the Post Office? And don't you think it after all this time it would now be a good idea to just quash all the remaining convictions?
+
+13:50 - 14:00 **Rishi Sunak**: So, first thing to say is this is an absolutely appalling miscarriage of justice. I mean, the stories are appalling, people were treated absolutely appallingly, that's wrong, and we should do everything we can to make it right.
+
+14:01 - 14:04 **Dagogo Altraide**: The UK government has announced new compensation schemes.
+
+14:05 - 14:10 **Dagogo Altraide**: In total, £289 million has been paid out so far and that's to over 2,800 people, but it's by no means done.
+
+14:11 - 14:15 **Dagogo Altraide**: Unfortunately and sadly, thousands of victims are still waiting for justice.
+
+14:16 - 14:20 **Dagogo Altraide**: So there you have it, the story of the UK's biggest miscarriage of justice.
+
+14:21 - 14:25 **Dagogo Altraide**: The UK government and Fujitsu tried to hide their catastrophic mistakes even though it was clear that they were in the wrong.
+
+14:26 - 14:28 **Dagogo Altraide**: The truth, however, couldn't stay buried forever.
+
+14:29 - 14:35 **Dagogo Altraide**: From developers and executives to government officials and industry representatives, this case laid bare the culture of denial and the failures at every level.
+
+14:36 - 14:41 **Dagogo Altraide**: These days everyone is talking about fake news. Getting informed is more complicated than ever before, but who's going to do something about it?
+
+14:42 - 14:44 **Dagogo Altraide**: Well, today's sponsor Ground News is doing just that.
+
+14:45 - 14:49 **Dagogo Altraide**: Ground News is a website and app developed by a former NASA engineer. She was on a mission to give readers an easy, data-driven objective way to read the news.
+
+14:50 - 14:55 **Dagogo Altraide**: Using this story of a slowing global economic outlook as an example, news sources on the left emphasize that this is a consequence of Trump's trade war and they also highlight the economic damage it will do.
+
+14:56 - 15:00 **Dagogo Altraide**: While the right tends to see tariffs as leverage or a bargaining chip to fix trade imbalances.
+
+15:01 - 15:07 **Dagogo Altraide**: Scrolling down, I can compare every single article on the topic with convenient tags. Tags that show me context about the source, like how factual it is and who owns it.
+
+15:08 - 15:13 **Dagogo Altraide**: Ground News's blindspot feed is also great. This shows you stories that have been underreported by one side of the political spectrum.
+
+15:14 - 15:21 **Dagogo Altraide**: For example, if you're on the left, you may have missed this story about Apple losing in German court opening them up to tighter control by the German government.
+
+15:22 - 15:25 **Dagogo Altraide**: So Ground News is a fantastic tool for getting international views, sifting through misinformation, and identifying bias.
+
+15:26 - 15:28 **Dagogo Altraide**: They provide you all the tools you need to be a critical thinker.
+
+15:29 - 15:33 **Dagogo Altraide**: Today, Ground News is offering 40% off their Vantage subscription.
+
+15:34 - 15:37 **Dagogo Altraide**: This comes with a feature called My News Bias, so you can even track your news viewing habits over time.
+
+15:38 - 15:42 **Dagogo Altraide**: To get started, go to ground.news/coldfusion.
+
+15:43 - 15:48 **Dagogo Altraide**: So what do you guys think about this story? What would you do if you were wrongly accused of stealing money? Let me know in the comments section below.
+
+15:49 - 15:52 **Dagogo Altraide**: So anyway, my name is Dagogo and you've been watching ColdFusion and I'll catch you again soon for the next episode.
+
+15:53 - 15:57 **Dagogo Altraide**: Cheers guys. Have a good one.

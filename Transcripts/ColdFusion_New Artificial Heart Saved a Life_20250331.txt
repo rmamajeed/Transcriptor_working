@@ -1,0 +1,319 @@
+---
+title: ColdFusion_New Artificial Heart Saved a Life_20250331
+audio_file: ColdFusion_New Artificial Heart Saved a Life_20250331.mp3
+note_id: 2e262f4c-fea3-4414-a374-ed15dc15788c
+date_processed: '2026-03-16'
+classification:
+  primary_domain: Medicine
+  sub_domains:
+  - Cardiology
+  - Artificial Organs
+  - Medical Technology
+  difficulty_level: Intermediate
+  content_type: Explainer
+entities:
+  people:
+  - name: Barney Clark
+    role: First human to receive an artificial heart
+    contribution: Received the Jarvik-7 artificial heart in 1982
+  - name: Daniel Timms
+    role: Inventor of the BiVACOR Total Artificial Heart
+    contribution: Developed the BiVACOR heart
+  - name: Paul Jansz
+    role: Heart transplant surgeon
+    contribution: Implanted the BiVACOR heart in a patient
+  - name: Chris Hayward
+    role: Cardiologist
+    contribution: Commented on the BiVACOR heart's potential
+  - name: David Kullakorn
+    role: Professor at the University of Queensland
+    contribution: Provided independent comments on the BiVACOR heart
+  works_cited: []
+  concepts_mentioned:
+  - Artificial Heart
+  - BiVACOR Total Artificial Heart
+  - Jarvik-7
+  - Heart Transplant
+  - Maglev Technology
+  laws_theories_cited: []
+concepts:
+- name: Artificial Heart
+  definition: A man-made device that replaces the human heart
+  parent_concepts:
+  - Cardiology
+  related_concepts:
+  - Heart Transplant
+  - BiVACOR Total Artificial Heart
+  abstraction_level: Applied
+  confidence: 1.0
+- name: BiVACOR Total Artificial Heart
+  definition: A portable, simple artificial heart with one moving part
+  parent_concepts:
+  - Artificial Heart
+  related_concepts:
+  - Maglev Technology
+  abstraction_level: Practical
+  confidence: 1.0
+- name: Maglev Technology
+  definition: A technology that uses magnetic levitation to reduce friction
+  parent_concepts:
+  - Physics
+  related_concepts:
+  - BiVACOR Total Artificial Heart
+  abstraction_level: Theoretical
+  confidence: 1.0
+- name: Heart Transplant
+  definition: A surgical procedure that replaces a human heart with a donor heart
+  parent_concepts:
+  - Cardiology
+  related_concepts:
+  - Artificial Heart
+  abstraction_level: Applied
+  confidence: 1.0
+- name: Jarvik-7
+  definition: The first artificial heart to be successfully implanted in a human
+  parent_concepts:
+  - Artificial Heart
+  related_concepts:
+  - Barney Clark
+  abstraction_level: Historical
+  confidence: 1.0
+relationships:
+- source_concept: Artificial Heart
+  target_concept: BiVACOR Total Artificial Heart
+  relationship_type: derives_from
+  strength: 1.0
+  evidence: The BiVACOR heart is a type of artificial heart
+  reasoning: The BiVACOR heart is a specific example of an artificial heart
+- source_concept: BiVACOR Total Artificial Heart
+  target_concept: Maglev Technology
+  relationship_type: uses
+  strength: 1.0
+  evidence: The BiVACOR heart uses Maglev technology
+  reasoning: The BiVACOR heart's design incorporates Maglev technology
+- source_concept: Artificial Heart
+  target_concept: Heart Transplant
+  relationship_type: alternative_to
+  strength: 0.9
+  evidence: Artificial hearts can be used as an alternative to heart transplants
+  reasoning: Artificial hearts can replace the need for a donor heart in some cases
+cross_domain_insights:
+- connection_type: structural_analogy
+  source_domain: Medicine
+  source_concept: Artificial Heart
+  target_domain: Aerospace Engineering
+  target_concept: Turbofan Engine
+  insight: Both utilize complex fluid dynamics and require precise control systems
+  explanation: The artificial heart, like the turbofan engine, involves the precise
+    management of fluid flow and pressure. Both systems require sophisticated control
+    mechanisms to maintain optimal performance and prevent failure. This analogy highlights
+    the potential for cross-domain collaboration in the development of control systems
+    and fluid dynamics modeling.
+  potential_applications:
+  - Improved pump design for artificial hearts
+  - Enhanced control systems for turbofan engines
+  confidence: 0.9
+  historical_example: The development of the first artificial heart, Jarvik-7, was
+    influenced by aerospace engineering principles
+- connection_type: principle_application
+  source_domain: Medicine
+  source_concept: BiVACOR Total Artificial Heart
+  target_domain: Mechanical Engineering
+  target_concept: Maglev Technology
+  insight: Both apply the principle of magnetic levitation to reduce friction and
+    increase efficiency
+  explanation: The BiVACOR Total Artificial Heart utilizes maglev technology to levitate
+    the impeller, reducing friction and improving overall efficiency. Similarly, maglev
+    trains use magnetic levitation to reduce friction and increase speed. This principle
+    can be applied to various domains where friction reduction is crucial.
+  potential_applications:
+  - Improved efficiency in mechanical systems
+  - Reduced wear and tear in moving parts
+  confidence: 0.8
+  historical_example: The first maglev train was developed in the 1960s, and since
+    then, the technology has been applied to various fields, including medicine
+- connection_type: metaphor
+  source_domain: Medicine
+  source_concept: Heart Transplant
+  target_domain: Computer Science
+  target_concept: Software Update
+  insight: Both involve replacing a critical component to restore or improve function
+  explanation: A heart transplant can be seen as a metaphor for a software update,
+    where a faulty or outdated component (the heart or software) is replaced with
+    a new one to restore or improve overall function. This metaphor highlights the
+    importance of compatibility, testing, and integration in both domains.
+  potential_applications:
+  - Improved software update mechanisms
+  - Enhanced compatibility testing for medical devices
+  confidence: 0.7
+  historical_example: The concept of software updates has its roots in the 1960s,
+    when computer systems were first developed, and has since evolved to include various
+    update mechanisms
+- connection_type: historical_precedent
+  source_domain: Medicine
+  source_concept: Jarvik-7
+  target_domain: Biomaterials Science
+  target_concept: Polymeric Materials
+  insight: The development of the Jarvik-7 artificial heart was influenced by advances
+    in biomaterials science, particularly polymeric materials
+  explanation: The Jarvik-7 artificial heart was one of the first to utilize polymeric
+    materials, which provided a biocompatible and durable solution for the device.
+    This historical precedent highlights the importance of interdisciplinary collaboration
+    between medicine and materials science.
+  potential_applications:
+  - Improved biomaterials for medical devices
+  - Enhanced biocompatibility testing
+  confidence: 0.9
+  historical_example: The development of the Jarvik-7 artificial heart in the 1980s
+    marked a significant milestone in the application of biomaterials science to medical
+    devices
+bridge_concepts:
+- concept: Maglev Technology
+  appears_in_domains:
+  - Medicine
+  - Mechanical Engineering
+  - Aerospace Engineering
+  role: Reduces friction and increases efficiency
+  examples:
+  - BiVACOR Total Artificial Heart
+  - Maglev trains
+  - Turbofan engines
+- concept: Biomaterials Science
+  appears_in_domains:
+  - Medicine
+  - Materials Science
+  - Tissue Engineering
+  role: Provides biocompatible and durable solutions for medical devices
+  examples:
+  - Polymeric materials
+  - Tissue scaffolds
+  - Implantable devices
+mental_models:
+- name: Systems Thinking
+  description: Analyzing complex systems as a whole, considering interactions and
+    interdependencies
+  applied_to:
+  - Artificial heart development
+  - Heart transplant procedures
+  transferable_to:
+  - Mechanical engineering
+  - Computer science
+  - Economics
+- name: First Principles
+  description: Breaking down complex systems to their fundamental principles and rebuilding
+    from scratch
+  applied_to:
+  - BiVACOR Total Artificial Heart design
+  - Maglev technology development
+  transferable_to:
+  - Materials science
+  - Aerospace engineering
+  - Biology
+analogies_used:
+- source_domain: Aerospace Engineering
+  source_concept: Turbofan Engine
+  target_domain: Medicine
+  target_concept: Artificial Heart
+  mapping:
+    Compressor: Pump
+    Turbine: Impeller
+  pedagogical_value: Helps to understand the complexity and precision required in
+    artificial heart design
+- source_domain: Mechanical Engineering
+  source_concept: Maglev Technology
+  target_domain: Medicine
+  target_concept: BiVACOR Total Artificial Heart
+  mapping:
+    Magnetic levitation: Friction reduction
+    Control system: Impeller control
+  pedagogical_value: Illustrates the application of maglev technology in reducing
+    friction and increasing efficiency in medical devices
+tags:
+  hierarchical:
+  - '#Medicine → #Cardiology → #ArtificialOrgans'
+  - '#Technology → #MedicalTechnology → #ArtificialHeart'
+  topical:
+  - '#ArtificialHeart'
+  - '#BiVACOR'
+  - '#HeartTransplant'
+  methodological:
+  - '#Innovation'
+  - '#MedicalBreakthrough'
+  people:
+  - '#DanielTimms'
+  - '#BarneyClark'
+  concepts:
+  - '#MaglevTechnology'
+  - '#Jarvik7'
+  temporal:
+  - '#2024'
+  - '#1982'
+summary: 'Here is a concise summary of the main points in 2-3 sentences:
+
+
+  In 2024, a patient in Australia became the first person to receive a fully artificial
+  heart, known as the BiVACOR Total Artificial Heart, which was invented by Daniel
+  Timms. This revolutionary device is small, portable, and has only one moving part,
+  making it a significant improvement over previous artificial heart technologies,
+  with the potential to be a permanent replacement for the human heart. The BiVACOR
+  heart has already shown promising results, with patients able to live with the device
+  for over 100 days and even being discharged from the hospital, offering new hope
+  for the millions of people worldwide who suffer from heart failure.'
+key_ideas:
+- idea: Here are the 3-5 key ideas discussed in the transcription text
+  description: ''
+- idea: The development of a new artificial heart called the BiVACOR Total Artificial
+    Heart, which is a significant improvement over previous artificial heart technologies,
+    offering a simpler, more portable, and more durable design that can potentially
+    replace human heart transplants.
+  description: No description provided by model.
+- idea: The story of Daniel Timms, the inventor of the BiVACOR heart, who was motivated
+    to create the device after his father suffered from heart failure, and how his
+    background in tinkering with mechanical pumps and valves helped him develop the
+    innovative technology.
+  description: No description provided by model.
+- idea: The successful implantation of the BiVACOR heart in a patient in Sydney, Australia,
+    who was able to live with the device for over 100 days before receiving a donor
+    heart, and how this breakthrough has the potential to revolutionize the treatment
+    of heart failure and save many lives.
+  description: No description provided by model.
+- idea: The technology behind the BiVACOR heart, which uses a rotary blood pump with
+    a magnetically levitated rotor, allowing for a constant flow of blood and eliminating
+    the need for valves, mechanical bearings, and other components that can wear out
+    or fail.
+  description: No description provided by model.
+- idea: The potential future of the BiVACOR heart, including its potential to become
+    a permanent replacement for human hearts, and the plans to implant the device
+    in more patients and reduce its cost to make it more widely available.
+  description: No description provided by model.
+---
+
+Full Transcription
+
+ 
+
+[00:00:00] **Speaker 1:** Hi, welcome to another episode of Cold Fusion. The person you see in this image is Barney Clark. In 1982, he became the first human ever to receive an artificial heart. It was an experimental and risky endeavor fraught with complications. He went on to live 112 days or about four months after the transplant, but he needed the best doctors of the nation, intensely close monitoring, and his heart was powered by a machine the size of a small refrigerator. Now fast forward to 2024 in Australia and a patient walks out of hospital with no human heart in their chest. 
+
+[00:00:35] **Speaker 2:** It’s a moment in medical history. A man from New South Wales becomes the first in the country to receive an artificial heart. The Australian invented device was used as a bridge to human transplant, but it has the potential to be permanent, saving many lives.
+
+[00:00:54] **Speaker 1:** It was a total artificial heart with no need for an external pump or a backpack like the one seen here. The 2024 artificial heart is a true example of the extent humans go to in the pursuit of innovation. In this episode, we'll take a look at the case, the team behind it, and finally, what it means for humans around the world in similar situations. But before we get started, just for your information, Cold Fusion episodes are now available on Spotify, so you can watch them there if you prefer. 
+
+[00:01:29] **Speaker 1:** It’s November 2024 in Sydney, Australia. Over at St Vincent Hospital, a very ill man is wheeled into the operating theatre. As his heart was failing him, the patient was extremely unwell and wasn't expected to survive long. Even though the patient was only in his 40s, he struggled to even walk to the toilet. His case was pretty dire. 25% of patients waiting for a heart transplant sadly pass away while waiting. Heart transplant surgeon Paul Jansz is assigned to the task of helping change this man's fate. What he's about to do is special. The operation lasted six hours and Dr. Paul, who usually has nerves of steel, was nervous this time. He would later state that the operation gave him goosebumps. Why? Because Dr. Paul is going to implant a new technology called the BiVACOR Total Artificial Heart. The device was switched on by its inventor, Daniel Timms, and when it began pumping blood, it was a remarkable moment. The patient recovered very well and was discharged from the hospital. Dr. Paul states that these devices technically can't fail or be rejected by the human body. As he describes it, this is the holy grail of artificial hearts. The Sydney patient lived with the artificial heart for over 100 days before finding a donor heart. Overall, the surgery has been hailed a massive success. 
+
+[00:02:49] **Speaker 1:** Our story of the new artificial heart starts with Daniel Timms. He came from Queensland, Australia. Daniel's father was a plumber, and as a child, he was used to tinkering around with mechanical pumps and valves. A skill set that would prove invaluable later in life. In Australia, we have a hardware store called Bunnings. It's similar to Lowe's in the US. And Bunnings was Daniel's second home. He would develop his inventions, traveling there with his dad every weekend. Daniel would later recount to the ABC Australia: "We had a goal between us. Can we get the largest receipt at Bunnings? We were trying to buy as much as we could to progress this thing along." Heart failure affects 26 million people worldwide annually. So when it struck Daniel's father, his life was altered forever. From this point, Daniel would dedicate his life to figuring out how to make sure that no one else would have to go through what he went through ever again. 
+
+[00:03:50] **Speaker 1:** Out of the tens of millions of people that suffer from heart failure yearly, only 6,000 will receive a donor heart. So a new technology breakthrough in this field would be massive. The first artificial heart to be successfully implanted into a human was the Jarvik-7 in 1982. It was very crass, and although the patient did live for another 112 days, he was tethered to a pump weighing 400 pounds or about 180 kilograms. But the extra life he received was sadly full of suffering. He endured more operations, seizures, internal bleeding, and extended periods of confusion. Now contrast this with the BiVACOR heart of 2024. To begin, it's much simpler than others on the market because it has only one moving part, but we'll get to this later. It's small and portable, only needing a small external controller with a rechargeable battery, and this connects to the heart via a wire in the patient's chest. In other words, the patient is finally free from big and bulky external pumps or power sources. 
+
+[00:04:49] **Daniel Timms:** It's an incredibly easy device. You just stitch those to the atria as I said and then you click literally click the pump in and then hand off this drive line and turn it on. So that's a moment where everyone holds their breath but it turns on and it works and then you slowly wean the patient off the heart-lung machine which is keeping them alive while you do the surgery and the pump takes over. 
+
+[00:05:15] **Speaker 1:** The device is so small that it can fit in the chest cavity of a 12-year-old, and it weighs only 650 grams. Doctors say that the patients can't even feel the device inside of them. The BiVACOR heart was first implanted in a patient in July of 2024. Since then, four other patients in the US have been implanted with the device, using it until they received a donor heart. But in all of these cases, the patients were never discharged with the implant, so the Sydney patient made headlines because he was the first to be released from hospital with the titanium heart. Initially developed as a stopgap for patients who are waiting for a donor heart, the long-term vision for this device is to be a permanent replacement for the human heart. 
+
+[00:05:56] **Speaker 2:** Eventually this device could replace human heart transplants altogether. Not only are there not enough donor hearts, 50% of patients will die after 10 years from rejection of that heart. 
+
+[00:06:06] **Speaker 1:** So okay, that all sounds pretty cool, but how does it work? Let's start with current artificial heart technologies. They usually use a volume displacement pump design, but instead of mimicking the complicated pumping motion of a heart, wouldn't it be simpler to just have a constant flow? Well, that's where the rotary blood pump comes into play. There's only one motor and a single, magnetically levitated rotor. This system simultaneously pumps blood to both the body and the lungs. It can deliver 12 liters per minute. That's enough blood flow for an exercising adult male. In addition, the blood flow is adaptable to the patient's activity via a smart controller. There's no valves, no flexing pumping chambers, no mechanical bearings to wear out, and it's made of titanium, meaning that it's friendly to the body and doesn't corrode. Interestingly, what sets this artificial heart apart from others is the Maglev technology, the very same technology used in high-speed trains. The rotor within the system is magnetically levitated to avoid all wear and virtually all friction. The advantage of this apart from being vastly more durable is that it uses much less power than other methods while maintaining high blood flow. 
+
+[00:07:23] **Daniel Timms:** No mechanical wear means the device won't break. That's the most important thing as you can imagine for an artificial heart and something that's plagued the industry for the last 60 years. If you just have one spinning rapidly spinning disk that's magnetically levitated there's no mechanical wear there's no opportunity for the device to fail at any particular time and so that's the big difference between this technology and others that have come before. 
+
+[00:07:49] **Speaker 1:** Now that is what I call engineering. The immediate future of this device is to be implanted in four more patients through 2025. Cardiologist Chris Hayward at St. Vincent's Hospital Sydney said that the demonstration of this artificial heart proved that the device can be an alternative for those who would otherwise die while waiting for a donor heart. He tells The Guardian: "Within the next decade, we will see the artificial heart becoming the alternative for patients who are unable to wait for a donor heart or when a donor heart simply isn't available." Dr. Timms, inventor of the device, is pretty bullish on the technology, obviously. "We just need to make more devices. That's the only limitation now. We're ramping up manufacturing so they are sitting on the shelf ready and waiting." He thinks that in a matter of three years, the artificial heart will be implanted in many more people, and again, with the eventual goal of completely replacing the human heart. Of course, it's still an early technology, so the costs are naturally going to be high. Currently, the artificial heart is selling for 200,000 Australian dollars. 
+
+[00:08:58] **Speaker 1:** So I don't need to tell you how amazing this is. A portable, simple design for a heart transplant that works so well that the patients don't even feel it within their body. While this is simply astonishing, we have to temper expectations. Professor David Kullakorn from the University of Queensland gives his independent comments to The Guardian. He called it a "great technological step forward for artificial hearts, bridging hearts before transplant," but there were words of caution. He postulates that the artificial donor heart lasts around 3,000 days or about 10 years, but 100 days for this new titanium heart is a far distance from those numbers. To lightly counter that, nobody actually knows how much longer the patient would have survived if he had to continue waiting to receive a donor heart. Who knows, it could have been another 1,000 days. But regardless, if this is where we are now, imagine how the technology would be in another 10 years. Perhaps heart failure could largely be a thing of the past, at least to begin with for those who can afford it. But with all technologies, once perfected, the task then becomes reducing the price. So that's where we are with the state of the art in heart transplant technology. Super interesting stuff, hey? If you watched this episode and you were fascinated by the science and engineering aspect of it, I have something that you'll love. Brilliant is where you learn by doing with thousands of interactive lessons in maths, science, data analytics, programming, and AI. They have courses on how technology works, and it covers anything from passwords, recommendation algorithms, to how computer memory works. Each lesson on Brilliant allows you to play with concepts, a method proven to be six times more effective than watching lecture videos. Plus, all content on Brilliant is crafted by teachers, researchers, and professionals from MIT, Caltech, Duke, Microsoft, Google, and more. Learn at your own pace to brush up on a project for work or just for your own self-development and curiosity. To try Brilliant for free, visit brilliant.org/coldfusion, scan the QR code on screen, or click the link in the description. You'll also get 20% off an annual premium subscription. If you did like this, feel free to subscribe to Cold Fusion. There's plenty of other interesting stuff on science, technology, business. Anyway, my name is Dagogo and you've been watching Cold Fusion and I'll catch you again soon for the next episode. Cheers guys, have a good one.
