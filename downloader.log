@@ -1,0 +1,1606 @@
+2026-01-02 16:38:53,993 - INFO - yt-dlp library found and imported successfully
+2026-01-02 16:39:47,852 - INFO - Starting download for: Why Do Rivers Curve?
+2026-01-02 16:39:58,448 - INFO - Successfully downloaded: Why Do Rivers Curve?
+2026-01-02 16:40:00,612 - INFO - Starting download for: Why is All Sand the Same?
+2026-01-02 16:40:07,801 - INFO - Successfully downloaded: Why is All Sand the Same?
+2026-01-02 16:40:24,485 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-02 16:40:30,237 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-02 16:40:31,299 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-02 16:40:31,545 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-02 16:40:31,545 - INFO - Retrying request to /openai/v1/chat/completions in 7.000000 seconds
+2026-01-02 16:40:39,554 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-02 16:40:45,793 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-02 16:40:45,793 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2026-01-02 16:40:53,159 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-02 16:40:53,466 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-02 16:40:53,466 - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2026-01-02 16:41:04,835 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-02 16:41:05,039 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-02 16:41:05,039 - INFO - Retrying request to /openai/v1/chat/completions in 5.000000 seconds
+2026-01-02 16:41:10,593 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-02 16:41:10,807 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-02 16:41:10,807 - INFO - Retrying request to /openai/v1/chat/completions in 5.000000 seconds
+2026-01-02 16:41:16,619 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:36:52,038 - INFO - yt-dlp library found and imported successfully
+2026-01-06 12:37:49,200 - ERROR - Playlist info extraction error: [0;31mERROR:[0m [generic] '\x1b[B\x1b[A\\' is not a valid URL
+2026-01-06 12:38:10,354 - INFO - yt-dlp library found and imported successfully
+2026-01-06 12:38:20,877 - INFO - Starting download for: The Ridiculous Engineering Of The World's Most Important Machine
+2026-01-06 12:39:57,299 - INFO - Successfully downloaded: The Ridiculous Engineering Of The World's Most Important Machine
+2026-01-06 12:39:59,398 - INFO - Starting download for: There Is Something Faster Than Light
+2026-01-06 12:41:03,886 - INFO - Successfully downloaded: There Is Something Faster Than Light
+2026-01-06 12:41:05,673 - INFO - Starting download for: The Man Who Accidentally Discovered Antimatter
+2026-01-06 12:41:54,638 - INFO - Successfully downloaded: The Man Who Accidentally Discovered Antimatter
+2026-01-06 12:45:40,522 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:45:45,617 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:45:45,787 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-06 12:45:45,943 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-06 12:46:36,718 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:46:36,974 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-06 12:46:36,979 - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2026-01-06 12:46:48,674 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:46:48,866 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-06 12:46:48,867 - INFO - Retrying request to /openai/v1/chat/completions in 36.000000 seconds
+2026-01-06 12:47:27,998 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:47:28,157 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-06 12:47:28,157 - INFO - Retrying request to /openai/v1/chat/completions in 34.000000 seconds
+2026-01-06 12:48:05,678 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:49:21,902 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:49:29,729 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:49:29,975 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-06 12:49:30,222 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-06 12:50:20,483 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:50:20,681 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-06 12:50:20,681 - INFO - Retrying request to /openai/v1/chat/completions in 4.000000 seconds
+2026-01-06 12:50:29,909 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:50:30,090 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-06 12:50:30,321 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-06 12:52:49,876 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:52:57,900 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:52:58,144 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-06 12:52:58,373 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-06 12:54:10,373 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:54:17,087 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:54:17,261 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-06 12:54:17,434 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-06 12:54:31,333 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-06 12:54:31,334 - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2026-01-06 12:54:43,018 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:54:43,215 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-06 12:54:43,216 - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2026-01-06 12:54:54,808 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:54:54,995 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-06 12:54:54,996 - INFO - Retrying request to /openai/v1/chat/completions in 17.000000 seconds
+2026-01-06 12:55:12,689 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 12:55:12,852 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-06 12:55:12,854 - INFO - Retrying request to /openai/v1/chat/completions in 17.000000 seconds
+2026-01-06 12:55:32,842 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 13:03:09,253 - INFO - yt-dlp library found and imported successfully
+2026-01-06 13:03:54,240 - INFO - Starting download for: You've (Likely) Been Playing The Game of Life Wrong
+2026-01-06 13:05:15,958 - INFO - Successfully downloaded: You've (Likely) Been Playing The Game of Life Wrong
+2026-01-06 13:05:19,804 - INFO - Starting download for: Why don't jet engines melt?
+2026-01-06 13:06:15,967 - INFO - Successfully downloaded: Why don't jet engines melt?
+2026-01-06 13:06:17,911 - INFO - Starting download for: Why People Are So Confident When They're Wrong
+2026-01-06 13:07:59,167 - INFO - Successfully downloaded: Why People Are So Confident When They're Wrong
+2026-01-06 13:12:48,372 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 13:12:52,952 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 13:12:53,164 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-06 13:12:53,352 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-06 13:14:24,591 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 13:14:31,668 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 13:14:31,817 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-06 13:14:31,994 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-06 13:15:07,981 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 13:15:08,091 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-06 13:15:08,092 - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2026-01-06 13:15:18,676 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 13:15:19,019 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-06 13:15:19,020 - INFO - Retrying request to /openai/v1/chat/completions in 41.000000 seconds
+2026-01-06 13:16:02,881 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-06 13:16:03,012 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-06 13:16:03,012 - INFO - Retrying request to /openai/v1/chat/completions in 40.000000 seconds
+2026-01-11 22:42:42,264 - INFO - yt-dlp library found and imported successfully
+2026-01-11 22:43:17,276 - INFO - Starting download for: You've (Likely) Been Playing The Game of Life Wrong
+2026-01-11 22:44:22,826 - INFO - Successfully downloaded: You've (Likely) Been Playing The Game of Life Wrong
+2026-01-11 22:44:24,789 - INFO - Starting download for: Why don't jet engines melt?
+2026-01-11 22:45:22,492 - INFO - Successfully downloaded: Why don't jet engines melt?
+2026-01-11 22:45:24,102 - INFO - Starting download for: Why People Are So Confident When They're Wrong
+2026-01-11 22:45:59,643 - INFO - Successfully downloaded: Why People Are So Confident When They're Wrong
+2026-01-11 22:46:01,399 - INFO - Starting download for: The Most Controversial Idea in Biology
+2026-01-11 22:46:45,376 - INFO - Successfully downloaded: The Most Controversial Idea in Biology
+2026-01-11 22:46:47,077 - INFO - Starting download for: Something Strange Happens When You Trace How Connected We Are
+2026-01-11 22:47:35,336 - INFO - Successfully downloaded: Something Strange Happens When You Trace How Connected We Are
+2026-01-11 22:51:56,545 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 22:52:01,805 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 22:52:01,968 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 22:52:01,968 - INFO - Retrying request to /openai/v1/chat/completions in 41.000000 seconds
+2026-01-11 22:52:43,928 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 22:52:44,197 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 22:52:44,198 - INFO - Retrying request to /openai/v1/chat/completions in 42.000000 seconds
+2026-01-11 22:59:14,121 - INFO - yt-dlp library found and imported successfully
+2026-01-11 22:59:44,805 - INFO - yt-dlp library found and imported successfully
+2026-01-11 23:00:34,813 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:00:35,418 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:00:35,566 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:00:35,566 - INFO - Retrying request to /openai/v1/chat/completions in 36.000000 seconds
+2026-01-11 23:02:37,351 - INFO - yt-dlp library found and imported successfully
+2026-01-11 23:02:57,651 - INFO - Starting download for: You've (Likely) Been Playing The Game of Life Wrong
+2026-01-11 23:04:06,416 - INFO - Successfully downloaded: You've (Likely) Been Playing The Game of Life Wrong
+2026-01-11 23:04:08,334 - INFO - Starting download for: Why don't jet engines melt?
+2026-01-11 23:05:08,678 - INFO - Successfully downloaded: Why don't jet engines melt?
+2026-01-11 23:05:10,416 - INFO - Starting download for: Why People Are So Confident When They're Wrong
+2026-01-11 23:05:47,245 - INFO - Successfully downloaded: Why People Are So Confident When They're Wrong
+2026-01-11 23:05:48,856 - INFO - Starting download for: The Most Controversial Idea in Biology
+2026-01-11 23:06:35,819 - INFO - Successfully downloaded: The Most Controversial Idea in Biology
+2026-01-11 23:06:37,447 - INFO - Starting download for: Something Strange Happens When You Trace How Connected We Are
+2026-01-11 23:07:35,626 - INFO - Successfully downloaded: Something Strange Happens When You Trace How Connected We Are
+2026-01-11 23:12:15,225 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:12:17,989 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:12:18,901 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:12:19,097 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:12:19,098 - INFO - Retrying request to /openai/v1/chat/completions in 21.000000 seconds
+2026-01-11 23:12:41,741 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:13:42,909 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:13:45,347 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:13:45,581 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:13:45,581 - INFO - Retrying request to /openai/v1/chat/completions in 22.000000 seconds
+2026-01-11 23:14:08,903 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:14:09,107 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:14:09,107 - INFO - Retrying request to /openai/v1/chat/completions in 51.000000 seconds
+2026-01-11 23:15:01,916 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:15:36,201 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:15:39,155 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:15:39,375 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:15:39,376 - INFO - Retrying request to /openai/v1/chat/completions in 16.000000 seconds
+2026-01-11 23:15:56,520 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:15:56,666 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:15:56,666 - INFO - Retrying request to /openai/v1/chat/completions in 19.000000 seconds
+2026-01-11 23:16:17,059 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:17:56,892 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:17:59,659 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:17:59,872 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:17:59,873 - INFO - Retrying request to /openai/v1/chat/completions in 14.000000 seconds
+2026-01-11 23:18:19,987 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:18:20,195 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:18:20,196 - INFO - Retrying request to /openai/v1/chat/completions in 42.000000 seconds
+2026-01-11 23:19:03,924 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:20:10,428 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:20:14,140 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:20:15,177 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:20:15,328 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:20:27,471 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:20:30,058 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-11 23:20:30,198 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:20:30,368 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:21:28,831 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:21:28,957 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:21:29,158 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:21:29,354 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:22:44,763 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:22:44,888 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:22:45,088 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:22:45,290 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:23:40,815 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:23:40,981 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:23:41,195 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-11 23:23:41,339 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-12 17:31:36,034 - INFO - yt-dlp library found and imported successfully
+2026-01-12 17:56:11,619 - INFO - yt-dlp library found and imported successfully
+2026-01-12 17:56:24,663 - INFO - Starting download for: Why don't jet engines melt?
+2026-01-12 17:57:33,194 - INFO - Successfully downloaded: Why don't jet engines melt?
+2026-01-12 17:57:35,016 - INFO - Starting download for: Something Strange Happens When You Trace How Connected We Are
+2026-01-12 17:58:33,988 - INFO - Successfully downloaded: Something Strange Happens When You Trace How Connected We Are
+2026-01-12 18:01:33,412 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 18:02:06,762 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 18:02:37,977 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 18:03:10,265 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 18:04:18,745 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 18:04:51,264 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 18:05:22,427 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 18:05:53,992 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 18:06:51,942 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 18:07:25,511 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 18:07:56,778 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 18:08:26,954 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-12 18:08:26,955 - INFO - Retrying request to /openai/v1/chat/completions in 8.000000 seconds
+2026-01-12 18:08:36,666 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 18:09:57,913 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 18:10:31,325 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-12 18:11:01,539 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-12 18:11:31,768 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-16 12:49:36,561 - INFO - yt-dlp library found and imported successfully
+2026-01-16 12:50:05,064 - INFO - Starting download for: Alfred Nobel: The Man Who Fooled The World
+2026-01-16 12:51:13,870 - INFO - Successfully downloaded: Alfred Nobel: The Man Who Fooled The World
+2026-01-16 12:51:15,754 - INFO - Starting download for: The Most Dangerous Escalator in the World
+2026-01-16 12:51:50,246 - INFO - Successfully downloaded: The Most Dangerous Escalator in the World
+2026-01-16 12:54:42,643 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-16 12:55:15,242 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-16 12:55:46,417 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-16 12:56:18,181 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-16 12:58:18,055 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-16 12:58:50,544 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-16 12:59:20,720 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-16 12:59:50,980 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-01-16 13:00:25,822 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-16 13:00:58,167 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-16 13:01:29,142 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-16 13:02:01,673 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:40:10,160 - INFO - yt-dlp library found and imported successfully
+2026-01-17 12:40:43,202 - INFO - Starting download for: 20 years of trading knowledge in 25 mins
+2026-01-17 12:41:19,765 - INFO - Successfully downloaded: 20 years of trading knowledge in 25 mins
+2026-01-17 12:41:22,975 - INFO - Starting download for: DeepSeek's GPU optimization tricks | Lex Fridman Podcast
+2026-01-17 12:42:01,018 - INFO - Successfully downloaded: DeepSeek's GPU optimization tricks | Lex Fridman Podcast
+2026-01-17 12:42:02,826 - INFO - Starting download for: Why We Unfairly Scapegoat People (Mimetic Theory Explained)
+2026-01-17 12:42:56,745 - INFO - Successfully downloaded: Why We Unfairly Scapegoat People (Mimetic Theory Explained)
+2026-01-17 12:45:56,947 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:46:31,119 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:47:03,456 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:47:34,258 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-01-17 12:47:34,259 - INFO - Retrying request to /openai/v1/chat/completions in 12.000000 seconds
+2026-01-17 12:47:49,229 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:48:03,457 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:48:37,095 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:49:08,677 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:49:40,762 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:50:15,750 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:50:49,373 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:51:21,741 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:51:54,482 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:52:38,069 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:53:11,591 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:53:43,612 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:54:16,396 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:54:26,616 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:55:00,311 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:55:31,665 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-17 12:56:03,475 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-20 10:20:30,740 - INFO - yt-dlp library found and imported successfully
+2026-01-20 10:31:37,444 - ERROR - yt-dlp not found. Please install it using: pip install yt-dlp
+2026-01-20 10:31:53,768 - INFO - yt-dlp library found and imported successfully
+2026-01-20 10:32:56,429 - INFO - yt-dlp library found and imported successfully
+2026-01-20 10:35:10,526 - INFO - yt-dlp library found and imported successfully
+2026-01-20 16:43:03,657 - INFO - yt-dlp library found and imported successfully
+2026-01-20 16:43:52,063 - INFO - yt-dlp library found and imported successfully
+2026-02-07 21:35:03,491 - INFO - yt-dlp library found and imported successfully
+2026-02-07 21:35:11,647 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-07 21:35:47,191 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-07 21:36:20,116 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-07 21:36:53,331 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-08 13:29:31,842 - INFO - yt-dlp library found and imported successfully
+2026-02-08 13:29:35,278 - INFO - Starting download for: AI Periodic Table Explained: Mapping LLMs, RAG & AI Agent Frameworks
+2026-02-08 13:29:37,029 - ERROR - Download error: ERROR: unable to download video data: HTTP Error 403: Forbidden
+2026-02-08 13:29:38,835 - INFO - Starting download for: How to Design a Warning To Last 10,000 Years
+2026-02-08 13:29:40,863 - ERROR - Download error: ERROR: unable to download video data: HTTP Error 403: Forbidden
+2026-02-08 13:29:42,695 - INFO - Starting download for: The REAL Reason Asteroids Aren't Planets
+2026-02-08 13:29:44,496 - ERROR - Download error: ERROR: unable to download video data: HTTP Error 403: Forbidden
+2026-02-08 13:29:46,304 - INFO - Starting download for: Why This Olympic Sport Bothers Physicists
+2026-02-08 13:29:48,065 - ERROR - Download error: ERROR: unable to download video data: HTTP Error 403: Forbidden
+2026-02-08 13:29:50,621 - INFO - Starting download for: The Craziest Experiment Humans Have Ever Built
+2026-02-08 13:29:52,524 - ERROR - Download error: ERROR: unable to download video data: HTTP Error 403: Forbidden
+2026-02-08 13:35:09,631 - INFO - yt-dlp library found and imported successfully
+2026-02-09 12:25:03,618 - INFO - yt-dlp library found and imported successfully
+2026-02-09 12:25:07,006 - INFO - Starting download for: AI Periodic Table Explained: Mapping LLMs, RAG & AI Agent Frameworks
+2026-02-09 12:25:08,666 - ERROR - Download error: ERROR: unable to download video data: HTTP Error 403: Forbidden
+2026-02-09 12:25:10,400 - INFO - Starting download for: How to Design a Warning To Last 10,000 Years
+2026-02-09 12:25:12,331 - ERROR - Download error: ERROR: unable to download video data: HTTP Error 403: Forbidden
+2026-02-09 12:25:13,909 - INFO - Starting download for: The REAL Reason Asteroids Aren't Planets
+2026-02-09 12:25:16,272 - ERROR - Download error: ERROR: unable to download video data: HTTP Error 403: Forbidden
+2026-02-09 12:25:17,911 - INFO - Starting download for: Why This Olympic Sport Bothers Physicists
+2026-02-09 12:25:19,771 - ERROR - Download error: ERROR: unable to download video data: HTTP Error 403: Forbidden
+2026-02-09 12:25:21,411 - INFO - Starting download for: The Craziest Experiment Humans Have Ever Built
+2026-02-09 12:25:23,167 - ERROR - Download error: ERROR: unable to download video data: HTTP Error 403: Forbidden
+2026-02-09 13:34:20,269 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-02-09 13:34:20,367 - INFO - yt-dlp library found and imported successfully
+2026-02-09 13:34:23,935 - INFO - Starting download for: AI Periodic Table Explained: Mapping LLMs, RAG & AI Agent Frameworks
+2026-02-09 13:34:25,609 - ERROR - Download error: [0;31mERROR:[0m unable to download video data: HTTP Error 403: Forbidden
+2026-02-12 15:30:43,432 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-02-12 15:30:43,626 - INFO - yt-dlp library found and imported successfully
+2026-02-12 15:30:47,896 - INFO - Starting download for: AI Periodic Table Explained: Mapping LLMs, RAG & AI Agent Frameworks
+2026-02-12 15:30:49,831 - ERROR - Download error: [0;31mERROR:[0m unable to download video data: HTTP Error 403: Forbidden
+2026-02-12 15:38:50,830 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-02-12 15:38:50,903 - INFO - yt-dlp library found and imported successfully
+2026-02-12 15:38:53,229 - INFO - Starting download for: AI Periodic Table Explained: Mapping LLMs, RAG & AI Agent Frameworks
+2026-02-12 15:39:18,503 - INFO - Successfully downloaded: AI Periodic Table Explained: Mapping LLMs, RAG & AI Agent Frameworks
+2026-02-12 15:39:47,371 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-12 15:40:22,346 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-12 15:40:53,860 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-12 15:41:25,632 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 12:25:04,197 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-02-14 12:25:04,389 - INFO - yt-dlp library found and imported successfully
+2026-02-14 12:25:06,826 - INFO - Starting download for: How to Design a Warning To Last 10,000 Years
+2026-02-14 12:25:06,827 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-14 12:25:06,827 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-14 12:25:39,634 - INFO - Successfully downloaded: How to Design a Warning To Last 10,000 Years
+2026-02-14 12:26:56,690 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 12:27:32,439 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 12:28:04,457 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 12:28:35,853 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:17:56,264 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-02-14 13:17:56,415 - INFO - yt-dlp library found and imported successfully
+2026-02-14 13:18:00,164 - INFO - Starting download for: How to Design a Warning To Last 10,000 Years
+2026-02-14 13:18:00,164 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-14 13:18:00,164 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-14 13:18:47,981 - INFO - Successfully downloaded: How to Design a Warning To Last 10,000 Years
+2026-02-14 13:18:49,312 - INFO - Starting download for: The REAL Reason Asteroids Aren't Planets
+2026-02-14 13:18:49,312 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-14 13:18:49,313 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-14 13:19:01,623 - INFO - Successfully downloaded: The REAL Reason Asteroids Aren't Planets
+2026-02-14 13:19:03,724 - INFO - Starting download for: Why This Olympic Sport Bothers Physicists
+2026-02-14 13:19:03,725 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-14 13:19:03,726 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-14 13:19:35,495 - INFO - Successfully downloaded: Why This Olympic Sport Bothers Physicists
+2026-02-14 13:19:36,941 - INFO - Starting download for: The Craziest Experiment Humans Have Ever Built
+2026-02-14 13:19:36,941 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-14 13:19:36,942 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-14 13:20:04,941 - INFO - Successfully downloaded: The Craziest Experiment Humans Have Ever Built
+2026-02-14 13:21:05,592 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:21:39,885 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:22:11,759 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:22:44,134 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:23:19,541 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:23:53,645 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:24:25,595 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:24:57,714 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:25:37,025 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:26:11,044 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:26:42,988 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:27:15,416 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:27:32,346 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:28:06,439 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:28:38,175 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-14 13:29:10,219 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:25:07,384 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-02-17 12:25:07,559 - INFO - yt-dlp library found and imported successfully
+2026-02-17 12:25:11,217 - INFO - Starting download for: How to Design a Warning To Last 10,000 Years
+2026-02-17 12:25:11,218 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-17 12:25:11,218 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-17 12:25:56,812 - INFO - Successfully downloaded: How to Design a Warning To Last 10,000 Years
+2026-02-17 12:25:58,007 - INFO - Starting download for: The REAL Reason Asteroids Aren't Planets
+2026-02-17 12:25:58,007 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-17 12:25:58,007 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-17 12:26:05,246 - INFO - Successfully downloaded: The REAL Reason Asteroids Aren't Planets
+2026-02-17 12:26:06,379 - INFO - Starting download for: Why This Olympic Sport Bothers Physicists
+2026-02-17 12:26:06,379 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-17 12:26:06,380 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-17 12:26:34,057 - INFO - Successfully downloaded: Why This Olympic Sport Bothers Physicists
+2026-02-17 12:26:35,197 - INFO - Starting download for: The Craziest Experiment Humans Have Ever Built
+2026-02-17 12:26:35,197 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-17 12:26:35,197 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-17 12:27:05,219 - INFO - Successfully downloaded: The Craziest Experiment Humans Have Ever Built
+2026-02-17 12:27:06,434 - INFO - Starting download for: This Common Substance Was Once Worth Millions
+2026-02-17 12:27:06,434 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-17 12:27:06,434 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-17 12:27:58,894 - INFO - Successfully downloaded: This Common Substance Was Once Worth Millions
+2026-02-17 12:28:00,026 - INFO - Starting download for: The System That Punishes Beautiful Design
+2026-02-17 12:28:00,026 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-17 12:28:00,027 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-17 12:28:47,845 - INFO - Successfully downloaded: The System That Punishes Beautiful Design
+2026-02-17 12:31:49,692 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:32:26,464 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:33:00,855 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:33:35,236 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:34:14,522 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:34:50,191 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:35:23,988 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:35:58,458 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:36:12,028 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:36:47,616 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:37:20,957 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:37:54,774 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:38:36,199 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:39:15,482 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:39:46,477 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:40:20,013 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:40:28,210 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:41:03,837 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:41:36,883 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:42:10,096 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:42:43,021 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:43:21,088 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:43:54,409 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:44:28,041 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:45:09,325 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:45:46,189 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:46:19,580 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:46:52,231 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-17 12:47:05,668 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:47:40,416 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-17 12:48:13,431 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-17 12:48:46,404 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 12:25:02,726 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-02-18 12:25:02,872 - INFO - yt-dlp library found and imported successfully
+2026-02-18 12:25:05,497 - INFO - Starting download for: How to Design a Warning To Last 10,000 Years
+2026-02-18 12:25:05,498 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:25:05,498 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:25:37,931 - INFO - Successfully downloaded: How to Design a Warning To Last 10,000 Years
+2026-02-18 12:25:39,210 - INFO - Starting download for: The REAL Reason Asteroids Aren't Planets
+2026-02-18 12:25:39,210 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:25:39,210 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:25:45,736 - INFO - Successfully downloaded: The REAL Reason Asteroids Aren't Planets
+2026-02-18 12:25:46,921 - INFO - Starting download for: Why This Olympic Sport Bothers Physicists
+2026-02-18 12:25:46,921 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:25:46,921 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:26:10,517 - INFO - Successfully downloaded: Why This Olympic Sport Bothers Physicists
+2026-02-18 12:26:11,787 - INFO - Starting download for: The Craziest Experiment Humans Have Ever Built
+2026-02-18 12:26:11,787 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:26:11,788 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:26:41,549 - INFO - Successfully downloaded: The Craziest Experiment Humans Have Ever Built
+2026-02-18 12:26:43,227 - INFO - Starting download for: This Common Substance Was Once Worth Millions
+2026-02-18 12:26:43,229 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:26:43,229 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:27:27,921 - INFO - Successfully downloaded: This Common Substance Was Once Worth Millions
+2026-02-18 12:27:28,842 - INFO - Starting download for: The System That Punishes Beautiful Design
+2026-02-18 12:27:28,842 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:27:28,842 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:28:04,805 - INFO - Successfully downloaded: The System That Punishes Beautiful Design
+2026-02-18 12:28:06,152 - INFO - Starting download for: Yuval Noah Harari: Stories, Power & Why Truth Doesn't Matter | Nikhil Kamath | People by WTF
+2026-02-18 12:28:06,153 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:28:06,153 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:29:41,167 - INFO - Successfully downloaded: Yuval Noah Harari: Stories, Power & Why Truth Doesn't Matter | Nikhil Kamath | People by WTF
+2026-02-18 12:29:42,134 - INFO - Starting download for: How To Manage Your Time Like a CEO
+2026-02-18 12:29:42,134 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:29:42,134 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:30:01,760 - INFO - Successfully downloaded: How To Manage Your Time Like a CEO
+2026-02-18 12:30:02,902 - INFO - Starting download for: The Stock Market Always Wins
+2026-02-18 12:30:02,903 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:30:02,903 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:30:40,173 - INFO - Successfully downloaded: The Stock Market Always Wins
+2026-02-18 12:30:41,462 - INFO - Starting download for: The AI Paradox
+2026-02-18 12:30:41,462 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:30:41,462 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:31:05,706 - INFO - Successfully downloaded: The AI Paradox
+2026-02-18 12:31:06,951 - INFO - Starting download for: AI Is Eating Everything - Truth Exposed
+2026-02-18 12:31:06,951 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:31:06,951 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:31:57,542 - INFO - Successfully downloaded: AI Is Eating Everything - Truth Exposed
+2026-02-18 12:31:58,973 - INFO - Starting download for: how to actually become a polymath.
+2026-02-18 12:31:58,973 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:31:58,973 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:32:12,283 - INFO - Successfully downloaded: how to actually become a polymath.
+2026-02-18 12:32:13,573 - INFO - Starting download for: What is the Doorman Fallacy?
+2026-02-18 12:32:13,573 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:32:13,573 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:32:17,832 - INFO - Successfully downloaded: What is the Doorman Fallacy?
+2026-02-18 12:32:19,357 - INFO - Starting download for: Why Costco Went All in on Kirkland — and How It Paid Off | WSJ Case Study
+2026-02-18 12:32:19,358 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:32:19,358 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:32:33,874 - INFO - Successfully downloaded: Why Costco Went All in on Kirkland — and How It Paid Off | WSJ Case Study
+2026-02-18 12:32:35,094 - INFO - Starting download for: Terence Tao continuing history’s cleverest cosmological measurements
+2026-02-18 12:32:35,095 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:32:35,095 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:33:12,015 - INFO - Successfully downloaded: Terence Tao continuing history’s cleverest cosmological measurements
+2026-02-18 12:33:13,169 - INFO - Starting download for: How transformers work | Lex Fridman Podcast
+2026-02-18 12:33:13,169 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:33:13,170 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:33:46,387 - INFO - Successfully downloaded: How transformers work | Lex Fridman Podcast
+2026-02-18 12:33:47,450 - INFO - Starting download for: You Hide It, We See It - Google’s $5B Incognito Scandal
+2026-02-18 12:33:47,450 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:33:47,451 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:34:12,187 - INFO - Successfully downloaded: You Hide It, We See It - Google’s $5B Incognito Scandal
+2026-02-18 12:34:13,273 - INFO - Starting download for: The 6 Disciplines of Strategic Thinking | Michael Watkins
+2026-02-18 12:34:13,273 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:34:13,273 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:34:24,688 - INFO - Successfully downloaded: The 6 Disciplines of Strategic Thinking | Michael Watkins
+2026-02-18 12:34:25,733 - INFO - Starting download for: Zero Knowledge Proofs
+2026-02-18 12:34:25,733 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:34:25,733 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:34:50,174 - INFO - Successfully downloaded: Zero Knowledge Proofs
+2026-02-18 12:34:51,308 - INFO - Starting download for: OpenClaw Creator: Why 80% Of Apps Will Disappear
+2026-02-18 12:34:51,308 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:34:51,308 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:35:17,641 - INFO - Successfully downloaded: OpenClaw Creator: Why 80% Of Apps Will Disappear
+2026-02-18 12:35:18,843 - INFO - Starting download for: Are Magnets The Most Familiar Mystery On Earth?
+2026-02-18 12:35:18,843 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-18 12:35:18,843 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-18 12:36:11,253 - INFO - Successfully downloaded: Are Magnets The Most Familiar Mystery On Earth?
+2026-02-18 12:43:21,720 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:43:55,450 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:44:26,589 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:44:58,076 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:45:21,183 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:45:54,458 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:46:24,942 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:46:55,832 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:47:37,027 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:48:10,134 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:48:41,217 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:49:13,087 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:49:53,780 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:50:28,085 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:50:59,089 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:51:30,672 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:52:17,687 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:52:52,207 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:53:23,182 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:53:55,153 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:54:15,656 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:54:50,208 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:55:21,212 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:55:52,476 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:56:40,370 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:57:14,454 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:57:45,195 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:58:16,446 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:58:54,228 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 12:59:28,274 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 12:59:58,458 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:00:28,638 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:01:55,753 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:02:30,202 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 13:03:00,340 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:03:30,520 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:04:12,702 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:04:42,822 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:05:13,004 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:05:43,195 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:06:50,280 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:07:20,434 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:07:50,659 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:08:20,844 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:09:11,868 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:09:42,099 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:10:12,284 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:10:42,475 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:11:17,972 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:11:48,110 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:11:48,116 - INFO - Retrying request to /openai/v1/chat/completions in 32.000000 seconds
+2026-02-18 13:12:23,297 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 13:12:53,476 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:13:23,649 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:14:15,156 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:14:45,379 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:15:15,549 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:15:45,734 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:17:23,990 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:17:54,122 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:18:24,271 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:18:54,439 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:19:47,020 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:20:17,172 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:20:47,336 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:21:17,493 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:22:24,442 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:22:57,364 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 13:23:27,541 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:23:57,717 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:24:20,258 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:24:50,451 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:25:20,601 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:25:50,760 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:26:33,652 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:27:03,760 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:27:33,942 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:28:04,099 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:28:09,743 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:28:39,906 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:29:10,066 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:29:10,067 - INFO - Retrying request to /openai/v1/chat/completions in 56.000000 seconds
+2026-02-18 13:30:06,757 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 13:30:36,897 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:31:23,168 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:31:53,317 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:32:23,466 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:32:53,643 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:33:50,064 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:34:20,228 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:34:50,375 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:35:20,560 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:36:04,550 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:36:34,683 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:37:04,836 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:37:34,994 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:38:01,221 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:38:31,358 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:39:01,524 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:39:31,651 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:40:13,874 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:40:47,737 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 13:41:17,895 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:41:48,053 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:41:53,904 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:42:24,052 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:42:54,210 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:43:24,361 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:44:36,773 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:45:06,940 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:45:37,134 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:46:07,379 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:46:34,706 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:47:04,877 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:47:35,040 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:48:05,189 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:48:53,507 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:49:23,653 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:49:53,820 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:50:23,980 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:50:50,085 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:51:24,466 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-18 13:51:54,612 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-18 13:52:24,775 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 12:28:03,541 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-02-20 12:28:03,887 - INFO - yt-dlp library found and imported successfully
+2026-02-20 12:28:07,740 - INFO - Starting download for: How to Design a Warning To Last 10,000 Years
+2026-02-20 12:28:07,740 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-20 12:28:07,740 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-20 12:28:42,533 - INFO - Successfully downloaded: How to Design a Warning To Last 10,000 Years
+2026-02-20 12:31:06,953 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-02-20 12:31:07,006 - INFO - yt-dlp library found and imported successfully
+2026-02-20 12:31:09,257 - INFO - Starting download for: How to Design a Warning To Last 10,000 Years
+2026-02-20 12:31:09,257 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-20 12:31:09,258 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-20 12:31:42,606 - INFO - Successfully downloaded: How to Design a Warning To Last 10,000 Years
+2026-02-20 12:33:05,908 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:33:40,312 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:34:12,313 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:34:44,886 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:34:46,305 - INFO - Starting download for: The REAL Reason Asteroids Aren't Planets
+2026-02-20 12:34:46,305 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-20 12:34:46,305 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-20 12:34:52,894 - INFO - Successfully downloaded: The REAL Reason Asteroids Aren't Planets
+2026-02-20 12:35:36,496 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:36:10,797 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:36:42,467 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:37:14,396 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:37:15,664 - INFO - Starting download for: Why This Olympic Sport Bothers Physicists
+2026-02-20 12:37:15,665 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-20 12:37:15,665 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-20 12:37:40,053 - INFO - Successfully downloaded: Why This Olympic Sport Bothers Physicists
+2026-02-20 12:41:18,400 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-02-20 12:41:18,690 - INFO - yt-dlp library found and imported successfully
+2026-02-20 12:41:19,981 - INFO - Starting download for: Me at the zoo
+2026-02-20 12:41:19,981 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-20 12:41:19,981 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-20 12:41:21,557 - INFO - Successfully downloaded: Me at the zoo
+2026-02-20 12:43:27,673 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-02-20 12:43:27,722 - INFO - yt-dlp library found and imported successfully
+2026-02-20 12:43:32,790 - INFO - Starting download for: How to Design a Warning To Last 10,000 Years
+2026-02-20 12:43:32,790 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-20 12:43:32,790 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-20 12:44:06,612 - INFO - Successfully downloaded: How to Design a Warning To Last 10,000 Years
+2026-02-20 12:45:46,942 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:46:22,217 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:46:54,502 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:47:27,649 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:47:29,316 - INFO - Starting download for: The REAL Reason Asteroids Aren't Planets
+2026-02-20 12:47:29,316 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-20 12:47:29,316 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-20 12:47:35,857 - INFO - Successfully downloaded: The REAL Reason Asteroids Aren't Planets
+2026-02-20 12:48:02,812 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:48:36,684 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:49:08,465 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:49:40,706 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:49:42,400 - INFO - Starting download for: Why This Olympic Sport Bothers Physicists
+2026-02-20 12:49:42,400 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-20 12:49:42,400 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-20 12:50:05,142 - INFO - Successfully downloaded: Why This Olympic Sport Bothers Physicists
+2026-02-20 12:51:06,923 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:51:40,871 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:52:13,002 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:52:45,576 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:52:46,981 - INFO - Starting download for: The Craziest Experiment Humans Have Ever Built
+2026-02-20 12:52:46,981 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-20 12:52:46,981 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-20 12:53:26,600 - INFO - Successfully downloaded: The Craziest Experiment Humans Have Ever Built
+2026-02-20 12:54:12,294 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:54:46,411 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:55:18,346 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:55:50,450 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:55:51,796 - INFO - Starting download for: This Common Substance Was Once Worth Millions
+2026-02-20 12:55:51,797 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-20 12:55:51,797 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-20 12:56:56,039 - INFO - Successfully downloaded: This Common Substance Was Once Worth Millions
+2026-02-20 12:59:06,205 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 12:59:40,981 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 13:00:13,039 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 13:00:44,222 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:01:21,059 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:01:56,060 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 13:02:27,208 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:02:58,364 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:02:59,630 - INFO - Starting download for: The System That Punishes Beautiful Design
+2026-02-20 13:02:59,631 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-20 13:02:59,631 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-20 13:04:07,957 - INFO - Successfully downloaded: The System That Punishes Beautiful Design
+2026-02-20 13:06:02,127 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:06:33,248 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:07:04,451 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:07:35,623 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:08:10,466 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:08:41,752 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:09:13,466 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 13:09:44,715 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:09:46,702 - INFO - Starting download for: Yuval Noah Harari: Stories, Power & Why Truth Doesn't Matter | Nikhil Kamath | People by WTF
+2026-02-20 13:09:46,702 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-20 13:09:46,703 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-20 13:12:05,786 - INFO - Successfully downloaded: Yuval Noah Harari: Stories, Power & Why Truth Doesn't Matter | Nikhil Kamath | People by WTF
+2026-02-20 13:14:48,213 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:15:19,536 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:15:50,951 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:16:22,281 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:17:39,790 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:18:11,074 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:18:11,075 - INFO - Retrying request to /openai/v1/chat/completions in 51.000000 seconds
+2026-02-20 13:19:07,506 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-20 13:19:38,744 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:20:09,989 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:21:01,085 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:21:32,142 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:22:03,205 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:22:34,172 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:22:54,325 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:23:24,645 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:23:55,613 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:24:27,293 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:24:28,486 - INFO - Starting download for: How To Manage Your Time Like a CEO
+2026-02-20 13:24:28,486 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-20 13:24:28,486 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-20 13:24:48,552 - INFO - Successfully downloaded: How To Manage Your Time Like a CEO
+2026-02-20 13:25:36,356 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:26:07,582 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-20 13:26:38,800 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:28:29,790 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-02-21 12:28:30,022 - INFO - yt-dlp library found and imported successfully
+2026-02-21 12:28:35,054 - INFO - Starting download for: How To Manage Your Time Like a CEO
+2026-02-21 12:28:35,055 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:28:35,055 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:28:57,782 - INFO - Successfully downloaded: How To Manage Your Time Like a CEO
+2026-02-21 12:29:47,834 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:29:51,881 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-02-21 12:29:51,932 - INFO - yt-dlp library found and imported successfully
+2026-02-21 12:29:54,170 - INFO - Starting download for: How To Manage Your Time Like a CEO
+2026-02-21 12:29:54,170 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:29:54,170 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:30:16,531 - INFO - Successfully downloaded: How To Manage Your Time Like a CEO
+2026-02-21 12:30:21,220 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:30:49,782 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:30:52,658 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:31:23,737 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:31:23,843 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:31:25,902 - INFO - Starting download for: The Stock Market Always Wins
+2026-02-21 12:31:25,902 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:31:25,903 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:31:55,402 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:32:08,776 - INFO - Successfully downloaded: The Stock Market Always Wins
+2026-02-21 12:32:27,205 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:32:28,604 - INFO - Starting download for: The Stock Market Always Wins
+2026-02-21 12:32:28,604 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:32:28,604 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:33:15,670 - INFO - Successfully downloaded: The Stock Market Always Wins
+2026-02-21 12:33:17,030 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:33:47,418 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:33:51,358 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:34:23,124 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:34:26,940 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:34:55,437 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:34:56,815 - INFO - Starting download for: The AI Paradox
+2026-02-21 12:34:56,816 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:34:56,816 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:34:58,391 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:35:21,209 - INFO - Successfully downloaded: The AI Paradox
+2026-02-21 12:35:30,339 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:35:31,569 - INFO - Starting download for: The AI Paradox
+2026-02-21 12:35:31,569 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:35:31,569 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:35:58,829 - INFO - Successfully downloaded: The AI Paradox
+2026-02-21 12:36:14,204 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:36:28,251 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:36:47,882 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:37:01,758 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:37:19,597 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:37:33,150 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:37:51,697 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:37:53,364 - INFO - Starting download for: AI Is Eating Everything - Truth Exposed
+2026-02-21 12:37:53,364 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:37:53,364 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:38:05,009 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:38:06,260 - INFO - Starting download for: AI Is Eating Everything - Truth Exposed
+2026-02-21 12:38:06,261 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:38:06,261 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:39:11,849 - INFO - Successfully downloaded: AI Is Eating Everything - Truth Exposed
+2026-02-21 12:39:24,522 - INFO - Successfully downloaded: AI Is Eating Everything - Truth Exposed
+2026-02-21 12:39:53,604 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:40:27,430 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:40:58,803 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:41:30,555 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:41:31,699 - INFO - Starting download for: how to actually become a polymath.
+2026-02-21 12:41:31,700 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:41:31,701 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:41:31,777 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:41:49,951 - INFO - Successfully downloaded: how to actually become a polymath.
+2026-02-21 12:42:05,708 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:42:09,626 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:42:36,849 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:42:40,733 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:43:07,631 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:43:11,502 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:43:42,252 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:43:43,726 - INFO - Starting download for: What is the Doorman Fallacy?
+2026-02-21 12:43:43,726 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:43:43,727 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:43:47,470 - INFO - Successfully downloaded: What is the Doorman Fallacy?
+2026-02-21 12:43:53,485 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:43:54,640 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:44:24,264 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:44:25,412 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:44:55,314 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:44:56,341 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:45:26,266 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:45:27,609 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:45:30,402 - INFO - Starting download for: Why Costco Went All in on Kirkland — and How It Paid Off | WSJ Case Study
+2026-02-21 12:45:30,408 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:45:30,409 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:45:31,321 - INFO - Starting download for: how to actually become a polymath.
+2026-02-21 12:45:31,322 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:45:31,323 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:46:03,794 - INFO - Successfully downloaded: how to actually become a polymath.
+2026-02-21 12:46:05,339 - INFO - Successfully downloaded: Why Costco Went All in on Kirkland — and How It Paid Off | WSJ Case Study
+2026-02-21 12:46:23,312 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:46:27,157 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:46:54,161 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:46:58,017 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:47:25,034 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:47:28,914 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:47:55,921 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:47:57,357 - INFO - Starting download for: Terence Tao continuing history’s cleverest cosmological measurements
+2026-02-21 12:47:57,357 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:47:57,357 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:47:59,829 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:48:01,694 - INFO - Starting download for: What is the Doorman Fallacy?
+2026-02-21 12:48:01,694 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:48:01,694 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:48:06,380 - INFO - Successfully downloaded: What is the Doorman Fallacy?
+2026-02-21 12:48:27,284 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:48:42,117 - INFO - Successfully downloaded: Terence Tao continuing history’s cleverest cosmological measurements
+2026-02-21 12:48:58,138 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:48:58,719 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:49:28,313 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:49:28,900 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:49:59,362 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:50:00,372 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-21 12:50:00,690 - INFO - Starting download for: How transformers work | Lex Fridman Podcast
+2026-02-21 12:50:00,692 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:50:00,693 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:50:31,492 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:50:33,739 - INFO - Starting download for: How transformers work | Lex Fridman Podcast
+2026-02-21 12:50:33,740 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:50:33,741 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:50:44,723 - INFO - Successfully downloaded: How transformers work | Lex Fridman Podcast
+2026-02-21 12:50:54,519 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:51:19,697 - INFO - Successfully downloaded: How transformers work | Lex Fridman Podcast
+2026-02-21 12:51:25,549 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:51:56,608 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:52:08,474 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:52:27,576 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:52:28,711 - INFO - Starting download for: You Hide It, We See It - Google’s $5B Incognito Scandal
+2026-02-21 12:52:28,711 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:52:28,712 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:52:39,567 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:53:04,938 - INFO - Successfully downloaded: You Hide It, We See It - Google’s $5B Incognito Scandal
+2026-02-21 12:53:10,592 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:53:41,668 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:53:43,784 - INFO - Starting download for: You Hide It, We See It - Google’s $5B Incognito Scandal
+2026-02-21 12:53:43,785 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:53:43,786 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:53:46,881 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:54:14,699 - INFO - Successfully downloaded: You Hide It, We See It - Google’s $5B Incognito Scandal
+2026-02-21 12:54:17,868 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:54:48,880 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:54:52,283 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:55:19,895 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:55:21,457 - INFO - Starting download for: The 6 Disciplines of Strategic Thinking | Michael Watkins
+2026-02-21 12:55:21,458 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:55:21,458 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:55:23,306 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:55:37,293 - INFO - Successfully downloaded: The 6 Disciplines of Strategic Thinking | Michael Watkins
+2026-02-21 12:55:54,406 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:55:55,430 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:56:25,470 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:56:26,512 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:56:26,796 - INFO - Starting download for: The 6 Disciplines of Strategic Thinking | Michael Watkins
+2026-02-21 12:56:26,799 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:56:26,799 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:56:43,213 - INFO - Successfully downloaded: The 6 Disciplines of Strategic Thinking | Michael Watkins
+2026-02-21 12:56:54,514 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:56:57,556 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:57:25,571 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:57:28,621 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:57:30,289 - INFO - Starting download for: Zero Knowledge Proofs
+2026-02-21 12:57:30,290 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:57:30,290 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:57:56,606 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:58:01,495 - INFO - Successfully downloaded: Zero Knowledge Proofs
+2026-02-21 12:58:27,595 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-21 12:58:30,830 - INFO - Starting download for: Zero Knowledge Proofs
+2026-02-21 12:58:30,830 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-21 12:58:30,830 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-21 12:59:02,231 - INFO - Successfully downloaded: Zero Knowledge Proofs
+2026-02-23 12:00:02,898 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-02-23 12:00:03,051 - INFO - yt-dlp library found and imported successfully
+2026-02-23 12:00:06,162 - INFO - Starting download for: how to actually become a polymath.
+2026-02-23 12:00:06,162 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-23 12:00:06,163 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-23 12:00:21,785 - INFO - Successfully downloaded: how to actually become a polymath.
+2026-02-23 12:00:50,309 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:01:24,068 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:01:54,750 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:02:25,863 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:02:27,132 - INFO - Starting download for: What is the Doorman Fallacy?
+2026-02-23 12:02:27,132 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-23 12:02:27,132 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-23 12:02:32,420 - INFO - Successfully downloaded: What is the Doorman Fallacy?
+2026-02-23 12:02:42,036 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:03:14,588 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:03:45,273 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:04:16,440 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:04:17,368 - INFO - Starting download for: Zero Knowledge Proofs
+2026-02-23 12:04:17,369 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-23 12:04:17,369 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-23 12:04:46,773 - INFO - Successfully downloaded: Zero Knowledge Proofs
+2026-02-23 12:05:20,867 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:05:55,402 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:06:26,375 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:06:57,779 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:06:58,839 - INFO - Starting download for: OpenClaw Creator: Why 80% Of Apps Will Disappear
+2026-02-23 12:06:58,839 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-23 12:06:58,839 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-23 12:07:34,896 - INFO - Successfully downloaded: OpenClaw Creator: Why 80% Of Apps Will Disappear
+2026-02-23 12:09:52,472 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:10:26,117 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:10:56,374 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-02-23 12:11:26,550 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2026-02-23 12:11:27,667 - INFO - Starting download for: Are Magnets The Most Familiar Mystery On Earth?
+2026-02-23 12:11:27,668 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-23 12:11:27,668 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-23 12:12:19,967 - INFO - Successfully downloaded: Are Magnets The Most Familiar Mystery On Earth?
+2026-02-23 12:13:49,356 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:14:23,038 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:14:54,108 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:15:25,913 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:18:51,455 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:19:25,374 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:19:56,226 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:20:27,859 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:20:32,822 - INFO - Starting download for: It's (Finally) Bursting...
+2026-02-23 12:20:32,822 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-23 12:20:32,823 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-23 12:21:09,578 - INFO - Successfully downloaded: It's (Finally) Bursting...
+2026-02-23 12:21:40,777 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:22:13,292 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:22:44,348 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:23:15,663 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:23:17,000 - INFO - Starting download for: AI Fails at 96% of Jobs (New Study)
+2026-02-23 12:23:17,000 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-23 12:23:17,000 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-23 12:23:37,938 - INFO - Successfully downloaded: AI Fails at 96% of Jobs (New Study)
+2026-02-23 12:24:17,677 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:24:51,229 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:25:22,167 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:25:53,950 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:25:55,350 - INFO - Starting download for: How 40-Ton Spinning Wheels Are Saving the Power Grid
+2026-02-23 12:25:55,351 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-23 12:25:55,351 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-23 12:26:32,289 - INFO - Successfully downloaded: How 40-Ton Spinning Wheels Are Saving the Power Grid
+2026-02-23 12:27:02,411 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:27:36,574 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:28:06,739 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:28:36,902 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:28:38,319 - INFO - Starting download for: Asbestos is a bigger problem than we thought
+2026-02-23 12:28:38,319 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-23 12:28:38,320 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-23 12:29:56,819 - INFO - Successfully downloaded: Asbestos is a bigger problem than we thought
+2026-02-23 12:32:02,627 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:32:32,852 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:33:02,992 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:33:33,179 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:34:32,523 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:35:02,696 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:35:32,835 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:36:03,042 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:36:13,177 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:36:43,337 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:36:43,337 - INFO - Retrying request to /openai/v1/chat/completions in 43.000000 seconds
+2026-02-23 12:37:30,076 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:38:00,222 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:38:30,365 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:38:31,704 - INFO - Starting download for: Is Quantum Mechanics Stopping Aliens From Contacting Us?
+2026-02-23 12:38:31,704 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-23 12:38:31,704 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-23 12:38:39,829 - INFO - Successfully downloaded: Is Quantum Mechanics Stopping Aliens From Contacting Us?
+2026-02-23 12:38:53,228 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:39:23,371 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:39:53,555 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:40:23,709 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:40:24,918 - INFO - Starting download for: We still don't understand magnetism
+2026-02-23 12:40:24,918 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-23 12:40:24,918 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-23 12:41:16,791 - INFO - Successfully downloaded: We still don't understand magnetism
+2026-02-23 12:42:54,715 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:43:24,884 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:43:55,066 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:44:25,220 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:45:02,210 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:45:32,358 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:46:02,596 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:46:32,779 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:46:33,981 - INFO - Starting download for: The Machine That Made China Rich
+2026-02-23 12:46:33,981 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-02-23 12:46:33,981 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-02-23 12:46:48,804 - INFO - Successfully downloaded: The Machine That Made China Rich
+2026-02-23 12:47:07,000 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:47:40,079 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-23 12:48:10,305 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-23 12:48:40,472 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-01 12:00:02,735 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-03-01 12:00:02,895 - INFO - yt-dlp library found and imported successfully
+2026-03-01 12:00:05,657 - INFO - Starting download for: OpenAI is Suddenly in Trouble
+2026-03-01 12:00:05,658 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-01 12:00:05,658 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-01 12:00:37,884 - INFO - Successfully downloaded: OpenAI is Suddenly in Trouble
+2026-03-01 12:01:53,995 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:02:27,540 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:02:58,611 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:03:30,286 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:03:31,744 - INFO - Starting download for: The AI Tsunami is Here & Society Isn't Ready | Dario Amodei x Nikhil Kamath | People by WTF
+2026-03-01 12:03:31,745 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-01 12:03:31,745 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-01 12:04:50,785 - INFO - Successfully downloaded: The AI Tsunami is Here & Society Isn't Ready | Dario Amodei x Nikhil Kamath | People by WTF
+2026-03-01 12:06:46,529 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:07:19,802 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:07:51,119 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:08:22,802 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:09:10,150 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:09:43,159 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:10:14,340 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:10:46,024 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:11:33,469 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:12:06,261 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:12:37,454 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:13:09,144 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:13:10,334 - INFO - Starting download for: The Biggest Mistake in the History of Hollywood
+2026-03-01 12:13:10,335 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-01 12:13:10,335 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-01 12:13:51,204 - INFO - Successfully downloaded: The Biggest Mistake in the History of Hollywood
+2026-03-01 12:15:21,717 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:15:55,192 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:16:26,491 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:16:58,187 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:17:21,074 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:17:54,615 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:18:25,340 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:18:56,550 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:18:57,553 - INFO - Starting download for: Zuckerberg's Secret Plan To WIN The AI Race | Meta AI Chief Reveals Future
+2026-03-01 12:18:57,554 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-01 12:18:57,554 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-01 12:19:24,802 - INFO - Successfully downloaded: Zuckerberg's Secret Plan To WIN The AI Race | Meta AI Chief Reveals Future
+2026-03-01 12:20:34,851 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:21:08,125 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-01 12:21:38,326 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-01 12:22:08,513 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-01 12:22:10,072 - INFO - Starting download for: Why 2025 was the single most pivotal year in our lifetime | Peter Leyden
+2026-03-01 12:22:10,073 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-01 12:22:10,073 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-01 12:22:36,635 - INFO - Successfully downloaded: Why 2025 was the single most pivotal year in our lifetime | Peter Leyden
+2026-03-01 12:23:15,521 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-01 12:23:45,675 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-01 12:24:16,031 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-01 12:24:46,267 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-01 12:24:47,597 - INFO - Starting download for: Did Google Just Win??
+2026-03-01 12:24:47,598 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-01 12:24:47,598 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-01 12:25:06,983 - INFO - Successfully downloaded: Did Google Just Win??
+2026-03-01 12:25:42,044 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-01 12:26:12,213 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-01 12:26:42,356 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-01 12:27:12,528 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-02 12:00:04,305 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-03-02 12:00:04,430 - INFO - yt-dlp library found and imported successfully
+2026-03-02 12:00:07,498 - INFO - Starting download for: 4 Skills I’m Learning that AI Can’t Replace (backed by data)
+2026-03-02 12:00:07,499 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-02 12:00:07,499 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-02 12:00:32,913 - INFO - Successfully downloaded: 4 Skills I’m Learning that AI Can’t Replace (backed by data)
+2026-03-02 12:01:02,964 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-02 12:01:37,786 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-02 12:02:08,676 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-02 12:02:40,719 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-02 12:02:41,811 - INFO - Starting download for: New DeepSeek Research - The Future Is Here!
+2026-03-02 12:02:41,811 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-02 12:02:41,811 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-02 12:02:58,464 - INFO - Successfully downloaded: New DeepSeek Research - The Future Is Here!
+2026-03-02 12:03:35,431 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-02 12:04:10,137 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-02 12:04:41,764 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-02 12:05:13,535 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-02 12:05:14,740 - INFO - Starting download for: Sam Altman x Nikhil Kamath: How to Win When AI Changes Everything | People by WTF | Episode 13
+2026-03-02 12:05:14,741 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-02 12:05:14,741 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-02 12:06:06,961 - INFO - Successfully downloaded: Sam Altman x Nikhil Kamath: How to Win When AI Changes Everything | People by WTF | Episode 13
+2026-03-02 12:07:33,536 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-02 12:08:07,254 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-02 12:08:39,287 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-02 12:09:12,238 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-02 12:10:26,915 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-02 12:11:03,300 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-02 12:11:34,947 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-02 12:12:06,983 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:00:07,197 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-03-03 12:00:07,318 - INFO - yt-dlp library found and imported successfully
+2026-03-03 12:00:09,880 - INFO - Starting download for: The Profit Paradox
+2026-03-03 12:00:09,881 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-03 12:00:09,881 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-03 12:00:42,735 - INFO - Successfully downloaded: The Profit Paradox
+2026-03-03 12:02:01,885 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:02:37,362 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:03:10,565 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:03:44,519 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:03:45,783 - INFO - Starting download for: The Day You Stop Chasing Original Ideas, Everything Changes.
+2026-03-03 12:03:45,783 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-03 12:03:45,783 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-03 12:04:04,097 - INFO - Successfully downloaded: The Day You Stop Chasing Original Ideas, Everything Changes.
+2026-03-03 12:04:27,157 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:05:02,350 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:05:35,506 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:06:09,707 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:06:11,019 - INFO - Starting download for: How LLMs Took Over The World
+2026-03-03 12:06:11,019 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-03 12:06:11,019 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-03 12:06:52,959 - INFO - Successfully downloaded: How LLMs Took Over The World
+2026-03-03 12:08:42,506 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:09:19,779 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:09:53,179 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:10:27,550 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:10:29,029 - INFO - Starting download for: How I Use AI (1 Hour Masterclass) | Kata 3
+2026-03-03 12:10:29,029 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-03 12:10:29,029 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-03 12:11:24,393 - INFO - Successfully downloaded: How I Use AI (1 Hour Masterclass) | Kata 3
+2026-03-03 12:13:29,714 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:14:05,549 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:14:39,737 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:15:15,319 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:16:23,409 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:16:59,158 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:17:32,999 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:18:07,232 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:18:08,664 - INFO - Starting download for: How to design APIs like a senior engineer
+2026-03-03 12:18:08,665 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-03 12:18:08,665 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-03 12:18:27,357 - INFO - Successfully downloaded: How to design APIs like a senior engineer
+2026-03-03 12:18:59,264 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:19:35,455 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:20:08,977 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:20:42,640 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:20:44,181 - INFO - Starting download for: Storytelling in PowerPoint: Learn McKinsey’s 3-Step Framework
+2026-03-03 12:20:44,182 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-03 12:20:44,182 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-03 12:21:00,454 - INFO - Successfully downloaded: Storytelling in PowerPoint: Learn McKinsey’s 3-Step Framework
+2026-03-03 12:21:29,021 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:22:04,545 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:22:37,984 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:23:11,782 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:23:14,310 - INFO - Starting download for: Daily income from Tradng?
+2026-03-03 12:23:14,310 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-03 12:23:14,311 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-03 12:24:14,791 - INFO - Successfully downloaded: Daily income from Tradng?
+2026-03-03 12:25:51,522 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:26:21,655 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:26:54,455 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:27:27,265 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:28:18,136 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:28:52,882 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:29:25,902 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:29:58,904 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:30:01,259 - INFO - Starting download for: Demis Hassabis On AGI, Advice For Indian Engineers, AI In Gaming & More
+2026-03-03 12:30:01,259 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-03 12:30:01,259 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-03 12:30:51,955 - INFO - Successfully downloaded: Demis Hassabis On AGI, Advice For Indian Engineers, AI In Gaming & More
+2026-03-03 12:33:37,693 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:34:10,839 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:34:43,900 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:35:17,078 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:36:11,278 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:36:44,165 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:37:17,080 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:37:50,003 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:37:51,571 - INFO - Starting download for: Best Skill to Learn in 2026 (AI Can't Replace This)
+2026-03-03 12:37:51,571 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-03 12:37:51,571 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-03 12:38:55,856 - INFO - Successfully downloaded: Best Skill to Learn in 2026 (AI Can't Replace This)
+2026-03-03 12:40:50,438 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:41:26,860 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-03 12:41:59,774 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:42:32,928 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:43:07,681 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:43:39,896 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:44:14,160 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:44:44,291 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:44:45,411 - INFO - Starting download for: Here's How You Can Use ChatGPT To Get Smarter
+2026-03-03 12:44:45,411 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-03 12:44:45,411 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-03 12:45:06,185 - INFO - Successfully downloaded: Here's How You Can Use ChatGPT To Get Smarter
+2026-03-03 12:45:34,930 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:46:07,848 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:46:40,711 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:47:13,598 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-03 12:47:14,572 - INFO - Starting download for: Why Indians Don't Attempt (And Stay Average Forever) | KATA 4
+2026-03-03 12:47:14,572 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-03 12:47:14,572 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-07 12:00:04,034 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-03-07 12:00:04,185 - INFO - yt-dlp library found and imported successfully
+2026-03-07 12:00:07,878 - INFO - Starting download for: Why Indians Don't Attempt (And Stay Average Forever) | KATA 4
+2026-03-07 12:00:07,880 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-07 12:00:07,880 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-07 12:01:21,805 - INFO - Successfully downloaded: Why Indians Don't Attempt (And Stay Average Forever) | KATA 4
+2026-03-07 12:03:38,187 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:04:11,333 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:04:43,827 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:05:14,036 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:05:14,037 - INFO - Retrying request to /openai/v1/chat/completions in 22.000000 seconds
+2026-03-07 12:05:38,789 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:06:29,091 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:07:03,384 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:07:34,926 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:08:07,360 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:08:19,936 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:08:53,823 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:09:25,158 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:09:56,822 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:09:58,000 - INFO - Starting download for: Gemini 3 Full Review & Mind-Blowing Use Cases
+2026-03-07 12:09:58,001 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-07 12:09:58,001 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-07 12:10:43,219 - INFO - Successfully downloaded: Gemini 3 Full Review & Mind-Blowing Use Cases
+2026-03-07 12:12:13,620 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:12:48,020 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:13:19,776 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:13:52,118 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:14:31,786 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:15:05,283 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:15:36,668 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:16:08,474 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:16:09,928 - INFO - Starting download for: Why 90% of Companies Break After 50 People | Kata 2
+2026-03-07 12:16:09,928 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-07 12:16:09,928 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-07 12:17:39,662 - INFO - Successfully downloaded: Why 90% of Companies Break After 50 People | Kata 2
+2026-03-07 12:19:47,460 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:20:21,908 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:20:52,646 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:21:23,389 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:22:18,381 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:22:49,535 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:23:20,462 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:23:51,220 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:24:32,515 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:25:03,373 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:25:34,106 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:26:04,912 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:26:06,416 - INFO - Starting download for: Give Me 18 Minutes and I’ll Make you Dangerously Smart (with AI)
+2026-03-07 12:26:06,417 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-07 12:26:06,417 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-07 12:26:36,415 - INFO - Successfully downloaded: Give Me 18 Minutes and I’ll Make you Dangerously Smart (with AI)
+2026-03-07 12:27:15,849 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:27:46,595 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:28:17,338 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:28:48,101 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:28:49,356 - INFO - Starting download for: It's Happening - China Launches World's First Supercritical CO2 Turbine
+2026-03-07 12:28:49,356 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-07 12:28:49,356 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-07 12:29:12,977 - INFO - Successfully downloaded: It's Happening - China Launches World's First Supercritical CO2 Turbine
+2026-03-07 12:29:45,485 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:30:16,286 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:30:47,069 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:31:17,792 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:31:19,106 - INFO - Starting download for: The RAM Crisis Keeps Getting Worse
+2026-03-07 12:31:19,106 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-07 12:31:19,106 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-07 12:31:50,966 - INFO - Successfully downloaded: The RAM Crisis Keeps Getting Worse
+2026-03-07 12:32:27,772 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:33:01,368 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-07 12:33:32,227 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-07 12:34:03,107 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:00:03,433 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-03-08 12:00:03,548 - INFO - yt-dlp library found and imported successfully
+2026-03-08 12:00:07,347 - INFO - Starting download for: The Internet Was Weeks Away From Disaster and No One Knew
+2026-03-08 12:00:07,347 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:00:07,347 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:01:23,802 - INFO - Successfully downloaded: The Internet Was Weeks Away From Disaster and No One Knew
+2026-03-08 12:03:44,097 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:04:17,623 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:04:49,875 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:05:21,054 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:05:21,054 - INFO - Retrying request to /openai/v1/chat/completions in 4.000000 seconds
+2026-03-08 12:05:26,646 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:06:16,799 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:06:50,613 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:07:22,802 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:07:55,551 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:08:03,259 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:08:37,705 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:09:09,466 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:09:41,568 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:09:42,733 - INFO - Starting download for: How the 2008 Financial Crisis Still Affects You
+2026-03-08 12:09:42,733 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:09:42,733 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:10:40,092 - INFO - Successfully downloaded: How the 2008 Financial Crisis Still Affects You
+2026-03-08 12:12:38,838 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:13:13,821 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:13:46,300 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:14:17,586 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:14:17,587 - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2026-03-08 12:14:25,191 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:14:50,969 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:15:25,515 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:15:57,463 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:16:29,617 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:16:30,911 - INFO - Starting download for: Subscriptions Are Getting Out of Control
+2026-03-08 12:16:30,911 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:16:30,911 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:17:04,379 - INFO - Successfully downloaded: Subscriptions Are Getting Out of Control
+2026-03-08 12:18:12,139 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:18:46,404 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:19:17,760 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:19:49,064 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:19:50,090 - INFO - Starting download for: Motorola - The Greatest Comeback of All Time
+2026-03-08 12:19:50,091 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:19:50,091 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:20:17,352 - INFO - Successfully downloaded: Motorola - The Greatest Comeback of All Time
+2026-03-08 12:20:49,193 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:21:22,734 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:21:54,034 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:22:25,343 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:22:26,637 - INFO - Starting download for: Porsche Profits Fall 99% as CEO in Crisis Mode
+2026-03-08 12:22:26,637 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:22:26,637 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:22:49,434 - INFO - Successfully downloaded: Porsche Profits Fall 99% as CEO in Crisis Mode
+2026-03-08 12:23:14,998 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:23:46,271 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:24:17,590 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:24:48,989 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:24:50,107 - INFO - Starting download for: The Netflix Situations Keeps Getting Messier
+2026-03-08 12:24:50,107 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:24:50,107 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:25:14,566 - INFO - Successfully downloaded: The Netflix Situations Keeps Getting Messier
+2026-03-08 12:25:42,403 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:26:12,529 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:26:43,840 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:27:15,178 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:27:16,248 - INFO - Starting download for: How Scamming Consumers Became Normalised
+2026-03-08 12:27:16,249 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:27:16,249 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:27:44,601 - INFO - Successfully downloaded: How Scamming Consumers Became Normalised
+2026-03-08 12:28:23,197 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:28:54,504 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:29:25,837 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:29:57,166 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:29:58,483 - INFO - Starting download for: Australia’s Monopoly Is Hidden in Plain Sight
+2026-03-08 12:29:58,484 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:29:58,484 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:30:32,034 - INFO - Successfully downloaded: Australia’s Monopoly Is Hidden in Plain Sight
+2026-03-08 12:31:40,011 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:32:15,647 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:32:46,961 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:33:18,242 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:33:19,463 - INFO - Starting download for: Are We Really Ready for AI Coding?
+2026-03-08 12:33:19,463 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:33:19,464 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:33:52,217 - INFO - Successfully downloaded: Are We Really Ready for AI Coding?
+2026-03-08 12:34:56,058 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:35:27,361 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:35:58,683 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:36:29,972 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:36:31,255 - INFO - Starting download for: Forget AI, The Robots Are Coming!
+2026-03-08 12:36:31,256 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:36:31,256 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:37:06,950 - INFO - Successfully downloaded: Forget AI, The Robots Are Coming!
+2026-03-08 12:38:27,811 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:38:59,133 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:39:30,506 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:40:01,913 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:40:04,613 - INFO - Starting download for: The Crisis in Young Men is Being Ignored
+2026-03-08 12:40:04,614 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:40:04,614 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:40:40,170 - INFO - Successfully downloaded: The Crisis in Young Men is Being Ignored
+2026-03-08 12:41:58,914 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:42:32,883 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:43:03,028 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:43:33,837 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:43:36,761 - INFO - Starting download for: How China Won the Thorium Nuclear Energy Race
+2026-03-08 12:43:36,762 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:43:36,762 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:44:12,467 - INFO - Successfully downloaded: How China Won the Thorium Nuclear Energy Race
+2026-03-08 12:45:22,175 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:45:52,970 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:46:23,758 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:46:54,653 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:46:56,014 - INFO - Starting download for: How BP's Negligence Kills
+2026-03-08 12:46:56,014 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:46:56,014 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:47:27,414 - INFO - Successfully downloaded: How BP's Negligence Kills
+2026-03-08 12:47:58,659 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:48:29,628 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:49:00,455 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:49:31,390 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:49:36,224 - INFO - Starting download for: The Race to Control Our Brains is Heating Up
+2026-03-08 12:49:36,225 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:49:36,225 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:50:10,665 - INFO - Successfully downloaded: The Race to Control Our Brains is Heating Up
+2026-03-08 12:51:22,027 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:51:52,931 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:51:52,931 - INFO - Retrying request to /openai/v1/chat/completions in 29.000000 seconds
+2026-03-08 12:52:25,815 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:52:57,095 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:53:28,099 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:53:29,503 - INFO - Starting download for: The Moment America Changed Forever
+2026-03-08 12:53:29,503 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:53:29,503 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:53:59,636 - INFO - Successfully downloaded: The Moment America Changed Forever
+2026-03-08 12:54:46,122 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:55:17,267 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:55:48,486 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:56:19,671 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:56:21,013 - INFO - Starting download for: Why Europe Failed to Dominate Tech
+2026-03-08 12:56:21,013 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:56:21,013 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:56:54,629 - INFO - Successfully downloaded: Why Europe Failed to Dominate Tech
+2026-03-08 12:57:02,739 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:57:33,947 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:58:05,691 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-08 12:58:36,890 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-08 12:58:38,372 - INFO - Starting download for: Is AI Making Us Dumber?
+2026-03-08 12:58:38,372 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-08 12:58:38,372 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-08 12:59:16,941 - INFO - Successfully downloaded: Is AI Making Us Dumber?
+2026-03-15 13:28:40,929 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-03-15 13:28:41,068 - INFO - yt-dlp library found and imported successfully
+2026-03-16 10:41:08,948 - INFO - 🍪 Found cookie file: youtube_cookies.txt
+2026-03-16 10:41:09,135 - INFO - yt-dlp library found and imported successfully
+2026-03-16 10:41:15,062 - INFO - Starting download for: Is AI Making Us Dumber?
+2026-03-16 10:41:15,064 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 10:41:15,064 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 10:41:59,734 - INFO - Successfully downloaded: Is AI Making Us Dumber?
+2026-03-16 10:43:21,817 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:43:56,205 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:44:27,989 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:44:59,986 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:45:04,649 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:45:39,209 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:46:10,157 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:46:41,501 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:46:42,638 - INFO - Starting download for: We Can’t Afford Groceries, Yet Billionare Wealth is Exploding
+2026-03-16 10:46:42,639 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 10:46:42,639 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 10:47:24,847 - INFO - Successfully downloaded: We Can’t Afford Groceries, Yet Billionare Wealth is Exploding
+2026-03-16 10:48:43,057 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:49:17,623 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:49:49,227 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:50:21,316 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:50:29,139 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:51:02,887 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:51:34,406 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:52:05,968 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:52:07,143 - INFO - Starting download for: New Artificial Heart Saved a Life
+2026-03-16 10:52:07,143 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 10:52:07,144 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 10:52:25,773 - INFO - Successfully downloaded: New Artificial Heart Saved a Life
+2026-03-16 10:52:47,521 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:53:21,538 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:53:53,091 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:54:25,074 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:54:26,028 - INFO - Starting download for: Why Your Boss Sucks at Their Job
+2026-03-16 10:54:26,028 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 10:54:26,029 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 10:54:47,620 - INFO - Successfully downloaded: Why Your Boss Sucks at Their Job
+2026-03-16 10:55:13,416 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:55:48,759 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:56:20,470 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:56:52,293 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:56:53,486 - INFO - Starting download for: How A Chinese Villager Shook Silicon Valley [DeepSeek Founder]
+2026-03-16 10:56:53,486 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 10:56:53,486 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 10:57:17,128 - INFO - Successfully downloaded: How A Chinese Villager Shook Silicon Valley [DeepSeek Founder]
+2026-03-16 10:57:42,581 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:58:16,996 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:58:48,508 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:59:20,824 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 10:59:22,633 - INFO - Starting download for: Why Boats and Planes Are Also Going Electric
+2026-03-16 10:59:22,633 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 10:59:22,634 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 10:59:42,733 - INFO - Successfully downloaded: Why Boats and Planes Are Also Going Electric
+2026-03-16 11:00:05,733 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 11:00:38,888 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 11:01:10,486 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 11:01:42,246 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 11:01:43,536 - INFO - Starting download for: The Post Office Scandal Explained
+2026-03-16 11:01:43,536 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 11:01:43,536 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 11:02:15,035 - INFO - Successfully downloaded: The Post Office Scandal Explained
+2026-03-16 11:03:03,354 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 11:03:34,250 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:04:05,134 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:04:36,106 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:04:38,068 - INFO - Starting download for: China’s DeepSeek - A Balanced Overview
+2026-03-16 11:04:38,068 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 11:04:38,068 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 11:05:06,805 - INFO - Successfully downloaded: China’s DeepSeek - A Balanced Overview
+2026-03-16 11:05:36,438 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:06:07,346 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:06:38,236 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:07:09,102 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:07:10,499 - INFO - Starting download for: The Rise of Vietnam
+2026-03-16 11:07:10,499 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 11:07:10,499 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 11:07:47,846 - INFO - Successfully downloaded: The Rise of Vietnam
+2026-03-16 11:08:59,673 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:09:30,588 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:10:01,590 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:10:32,533 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:10:33,613 - INFO - Starting download for: Why the US Government Plans to Buy 1 Million Bitcoin
+2026-03-16 11:10:33,614 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 11:10:33,614 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 11:11:00,509 - INFO - Successfully downloaded: Why the US Government Plans to Buy 1 Million Bitcoin
+2026-03-16 11:11:35,272 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:12:06,276 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:12:06,276 - INFO - Retrying request to /openai/v1/chat/completions in 47.000000 seconds
+2026-03-16 11:12:57,209 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 11:13:28,178 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:13:59,197 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:14:00,382 - INFO - Starting download for: How Old Nokias Are Helping Solve Poverty
+2026-03-16 11:14:00,382 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 11:14:00,382 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 11:14:40,505 - INFO - Successfully downloaded: How Old Nokias Are Helping Solve Poverty
+2026-03-16 11:15:54,792 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:16:25,778 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:16:56,866 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:17:27,891 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:17:31,566 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:18:02,695 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:18:34,180 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 11:19:05,239 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:19:06,615 - INFO - Starting download for: Australia's Insane Social Media Ban
+2026-03-16 11:19:06,616 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 11:19:06,616 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 11:19:29,089 - INFO - Successfully downloaded: Australia's Insane Social Media Ban
+2026-03-16 11:19:55,737 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:20:26,784 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:20:57,837 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:21:28,898 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:21:30,110 - INFO - Starting download for: This Paradox Splits Smart People 50/50
+2026-03-16 11:21:30,111 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 11:21:30,111 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 11:22:07,607 - INFO - Successfully downloaded: This Paradox Splits Smart People 50/50
+2026-03-16 11:24:59,291 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:25:30,297 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:26:01,359 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:26:32,256 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:26:35,384 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:27:06,170 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:27:37,249 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 11:28:08,894 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 11:28:10,294 - INFO - Starting download for: The Deadliest Design Mistakes in History
+2026-03-16 11:28:10,294 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 11:28:10,294 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 11:28:52,206 - INFO - Successfully downloaded: The Deadliest Design Mistakes in History
+2026-03-16 11:31:37,938 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:32:08,745 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:32:39,503 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:33:10,325 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:33:23,036 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:33:53,158 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:34:23,995 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:34:54,833 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:34:55,967 - INFO - Starting download for: Project Hail Mary | The Real Science With Cleo Abram
+2026-03-16 11:34:55,967 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 11:34:55,967 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 11:35:00,750 - INFO - Successfully downloaded: Project Hail Mary | The Real Science With Cleo Abram
+2026-03-16 11:35:06,555 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:35:37,435 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:36:08,247 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:36:38,449 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:36:40,481 - INFO - Starting download for: CEOs Are Regretting Everything...
+2026-03-16 11:36:40,482 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 11:36:40,482 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 11:37:03,865 - INFO - Successfully downloaded: CEOs Are Regretting Everything...
+2026-03-16 11:37:28,018 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:38:02,817 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-16 11:38:33,696 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:39:04,573 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-03-16 11:39:05,749 - INFO - Starting download for: Inside Amazon's $890 Billion Returns Mafia
+2026-03-16 11:39:05,749 - INFO - 🍪 using cookie file: youtube_cookies.txt
+2026-03-16 11:39:05,749 - INFO - 📄 Cookie file header: # Netscape HTTP Cookie File
+2026-03-16 11:39:40,452 - INFO - Successfully downloaded: Inside Amazon's $890 Billion Returns Mafia

@@ -17,7 +17,6 @@ ENV/
 
 # Temporary files
 downloads/
-*.log
 *.backup
 *.tmp
 
@@ -37,11 +36,9 @@ downloads/*.jpg
 # Keep the folders but ignore contents
 downloads/*
 !downloads/.gitkeep
-youtube_cookies.txt
 *.info.json
 uploads/
 *.mp4
 *.mp3
 *.wav
 *.m4a
-*.log
