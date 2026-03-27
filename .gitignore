@@ -16,7 +16,6 @@ ENV/
 *~
 
 # Temporary files
-downloads/
 *.backup
 *.tmp
 
@@ -33,8 +32,6 @@ downloads/*.webp
 downloads/*.jpg
 
 # Keep the folders but ignore contents
-# Keep the folders but ignore contents
-downloads/*
 !downloads/.gitkeep
 *.info.json
 uploads/
@@ -42,3 +39,4 @@ uploads/
 *.mp3
 *.wav
 *.m4a
+*.webm
